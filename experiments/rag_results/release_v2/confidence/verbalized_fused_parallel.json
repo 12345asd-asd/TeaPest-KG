@@ -1,0 +1,792 @@
+[
+  {
+    "qa_id": "L-AC-01",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "L-AC-02",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "L-AC-03",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "L-AC-04",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "L-AC-05",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "L-AC-06",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "L-AC-07",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "L-AC-08",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "L-AC-09",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "L-AC-10",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "L-AC-11",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "L-AC-12",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "L-AC-13",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "L-AC-14",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "L-AC-15",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "L-AC-16",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "L-AC-17",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "L-AC-18",
+    "verbalized": 0.3,
+    "verbalized_raw": "30"
+  },
+  {
+    "qa_id": "L-AC-19",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "L-AC-20",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "L-AC-21",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "L-AC-22",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "L-AC-23",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "L-AC-24",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "L-AC-25",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "L-AC-26",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "L-AC-27",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "L-AC-28",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "L-SY-01",
+    "verbalized": 0.7,
+    "verbalized_raw": "70"
+  },
+  {
+    "qa_id": "L-SY-02",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "L-SY-03",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "L-SY-04",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "L-SY-05",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "L-SY-06",
+    "verbalized": 0.7,
+    "verbalized_raw": "70"
+  },
+  {
+    "qa_id": "L-SY-07",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "L-SY-08",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "L-SY-09",
+    "verbalized": 0.7,
+    "verbalized_raw": "70"
+  },
+  {
+    "qa_id": "L-SY-10",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "L-SY-11",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "L-SY-12",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "L-SY-13",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "L-SY-14",
+    "verbalized": 0.7,
+    "verbalized_raw": "70"
+  },
+  {
+    "qa_id": "L-SY-15",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "L-SY-16",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "L-SY-17",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "L-SY-18",
+    "verbalized": 0.7,
+    "verbalized_raw": "70"
+  },
+  {
+    "qa_id": "L-SY-19",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "L-SY-20",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "L-SY-21",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "L-SY-22",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "L-SY-23",
+    "verbalized": 0.7,
+    "verbalized_raw": "70"
+  },
+  {
+    "qa_id": "L-SY-24",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "L-SY-25",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "L-SY-26",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "L-SY-27",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "L-SY-28",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "L-CT-生-01",
+    "verbalized": 0.7,
+    "verbalized_raw": "70"
+  },
+  {
+    "qa_id": "L-CT-生-02",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "L-CT-生-03",
+    "verbalized": 0.7,
+    "verbalized_raw": "70"
+  },
+  {
+    "qa_id": "L-CT-生-04",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "L-CT-化-01",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "L-CT-化-02",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "L-CT-化-03",
+    "verbalized": 0.3,
+    "verbalized_raw": "30"
+  },
+  {
+    "qa_id": "L-CT-化-04",
+    "verbalized": 0.7,
+    "verbalized_raw": "70"
+  },
+  {
+    "qa_id": "L-CT-农-01",
+    "verbalized": 0.3,
+    "verbalized_raw": "30"
+  },
+  {
+    "qa_id": "L-CT-农-02",
+    "verbalized": 0.3,
+    "verbalized_raw": "30"
+  },
+  {
+    "qa_id": "L-CT-农-03",
+    "verbalized": 0.7,
+    "verbalized_raw": "70"
+  },
+  {
+    "qa_id": "L-CT-物-01",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "L-CT-物-02",
+    "verbalized": 0.7,
+    "verbalized_raw": "70"
+  },
+  {
+    "qa_id": "L-CT-物-03",
+    "verbalized": 0.7,
+    "verbalized_raw": "70"
+  },
+  {
+    "qa_id": "D-ID-01",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "D-ID-02",
+    "verbalized": 0.7,
+    "verbalized_raw": "70"
+  },
+  {
+    "qa_id": "D-ID-03",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "D-ID-04",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "D-ID-05",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "D-ID-06",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "D-ID-07",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "D-ID-08",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "D-ID-09",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "D-ID-10",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "D-ID-11",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "D-ID-12",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "D-ID-13",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "D-ID-14",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "D-ID-15",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "D-ID-16",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "D-ID-17",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "D-ID-18",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "D-ID-19",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "D-ID-20",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "D-ID-21",
+    "verbalized": 0.3,
+    "verbalized_raw": "30"
+  },
+  {
+    "qa_id": "D-ID-22",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "D-ID-23",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "D-ID-24",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "D-ID-25",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "D-ID-26",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "D-ID-27",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "D-ID-28",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "QA0186",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "QA0187",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "QA0188",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "QA0189",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "QA0190",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "QA0191",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "QA0192",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "QA0193",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "QA0194",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "QA0195",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "QA0196",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "QA0197",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "QA0198",
+    "verbalized": 0.3,
+    "verbalized_raw": "30"
+  },
+  {
+    "qa_id": "QA0199",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "D-CT-01",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "D-CT-02",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "D-CT-03",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "D-CT-04",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "D-CT-05",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "D-CT-06",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "D-DF-01",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "D-DF-02",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "X-PST-01",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "X-PST-02",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "X-PST-03",
+    "verbalized": 0.3,
+    "verbalized_raw": "30"
+  },
+  {
+    "qa_id": "X-PST-04",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "X-PST-05",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "X-PST-06",
+    "verbalized": 0.0,
+    "verbalized_raw": "0"
+  },
+  {
+    "qa_id": "X-PST-07",
+    "verbalized": 0.3,
+    "verbalized_raw": "30"
+  },
+  {
+    "qa_id": "X-PST-08",
+    "verbalized": 0.3,
+    "verbalized_raw": "30"
+  },
+  {
+    "qa_id": "X-PST-09",
+    "verbalized": 0.3,
+    "verbalized_raw": "30"
+  },
+  {
+    "qa_id": "X-PST-10",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "X-PST-11",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "X-PST-12",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "X-PST-13",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "X-PST-14",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "X-PST-15",
+    "verbalized": 0.3,
+    "verbalized_raw": "30"
+  },
+  {
+    "qa_id": "X-PST-16",
+    "verbalized": 0.7,
+    "verbalized_raw": "70"
+  },
+  {
+    "qa_id": "X-DOM-01",
+    "verbalized": 0.0,
+    "verbalized_raw": "0"
+  },
+  {
+    "qa_id": "X-DOM-02",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "X-DOM-03",
+    "verbalized": 0.3,
+    "verbalized_raw": "30"
+  },
+  {
+    "qa_id": "X-DOM-04",
+    "verbalized": 0.0,
+    "verbalized_raw": "0"
+  },
+  {
+    "qa_id": "X-DOM-05",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "X-DOM-06",
+    "verbalized": 0.7,
+    "verbalized_raw": "70"
+  },
+  {
+    "qa_id": "X-DOM-07",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "X-CON-01",
+    "verbalized": 0.7,
+    "verbalized_raw": "70"
+  },
+  {
+    "qa_id": "X-CON-02",
+    "verbalized": 0.3,
+    "verbalized_raw": "30"
+  },
+  {
+    "qa_id": "X-CON-03",
+    "verbalized": 0.3,
+    "verbalized_raw": "30"
+  },
+  {
+    "qa_id": "X-CON-04",
+    "verbalized": 0.3,
+    "verbalized_raw": "30"
+  },
+  {
+    "qa_id": "X-CON-05",
+    "verbalized": 0.2,
+    "verbalized_raw": "20"
+  },
+  {
+    "qa_id": "X-CON-06",
+    "verbalized": 0.0,
+    "verbalized_raw": "0"
+  },
+  {
+    "qa_id": "X-CON-07",
+    "verbalized": 0.3,
+    "verbalized_raw": "30"
+  },
+  {
+    "qa_id": "D-DF-03",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "D-DF-04",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "D-DF-05",
+    "verbalized": 0.3,
+    "verbalized_raw": "30"
+  },
+  {
+    "qa_id": "D-DF-06",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "D-DF-07",
+    "verbalized": 0.7,
+    "verbalized_raw": "70"
+  },
+  {
+    "qa_id": "D-DF-08",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "D-DF-09",
+    "verbalized": 0.85,
+    "verbalized_raw": "85"
+  },
+  {
+    "qa_id": "D-DF-10",
+    "verbalized": 0.7,
+    "verbalized_raw": "70"
+  }
+]

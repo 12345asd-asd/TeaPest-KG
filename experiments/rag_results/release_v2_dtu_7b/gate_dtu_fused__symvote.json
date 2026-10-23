@@ -1,0 +1,120 @@
+{
+  "D-ID-06": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 9,
+    "n_pruned": 0,
+    "link_rule": "symptom_vote",
+    "family_cue": null,
+    "profile_pest": "茶刺蛾",
+    "gate_ms": 0.899,
+    "slots": [
+      "表现症状"
+    ],
+    "ask_numeric": []
+  },
+  "QA0189": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 12,
+    "n_pruned": 0,
+    "link_rule": "symptom_vote",
+    "family_cue": null,
+    "profile_pest": "茶煤烟病",
+    "gate_ms": 0.321,
+    "slots": [
+      "表现症状",
+      "生物防治",
+      "化学防治",
+      "物理防治",
+      "农业防治"
+    ],
+    "ask_numeric": []
+  },
+  "D-CT-01": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 21,
+    "n_pruned": 0,
+    "link_rule": "symptom_vote",
+    "family_cue": null,
+    "profile_pest": "茶毛虫",
+    "gate_ms": 0.32,
+    "slots": [
+      "表现症状",
+      "生物防治",
+      "化学防治",
+      "物理防治",
+      "农业防治"
+    ],
+    "ask_numeric": []
+  },
+  "D-DF-05": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 15,
+    "n_pruned": 0,
+    "link_rule": "symptom_vote",
+    "family_cue": null,
+    "profile_pest": "茶尺蠖",
+    "gate_ms": 0.305,
+    "slots": [
+      "表现症状"
+    ],
+    "ask_numeric": []
+  },
+  "X-PST-06": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 17,
+    "n_pruned": 0,
+    "link_rule": "symptom_vote",
+    "family_cue": null,
+    "profile_pest": "茶树介壳虫",
+    "gate_ms": 0.31,
+    "slots": [],
+    "ask_numeric": []
+  },
+  "X-PST-09": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 15,
+    "n_pruned": 0,
+    "link_rule": "symptom_vote",
+    "family_cue": null,
+    "profile_pest": "茶尺蠖",
+    "gate_ms": 0.33,
+    "slots": [
+      "表现症状"
+    ],
+    "ask_numeric": []
+  },
+  "X-PST-11": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 15,
+    "n_pruned": 0,
+    "link_rule": "symptom_vote",
+    "family_cue": null,
+    "profile_pest": "茶尺蠖",
+    "gate_ms": 0.3,
+    "slots": [
+      "表现症状"
+    ],
+    "ask_numeric": []
+  },
+  "X-PST-16": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 21,
+    "n_pruned": 0,
+    "link_rule": "symptom_vote",
+    "family_cue": null,
+    "profile_pest": "茶毛虫",
+    "gate_ms": 0.3,
+    "slots": [
+      "表现症状"
+    ],
+    "ask_numeric": []
+  }
+}

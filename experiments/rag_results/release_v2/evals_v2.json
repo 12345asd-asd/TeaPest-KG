@@ -1,0 +1,1090 @@
+{
+  "summary": {
+    "zeroshot": {
+      "all_answer": {
+        "n": 128,
+        "hit": 0.4297,
+        "recall": 0.1397,
+        "precision": 0.1514,
+        "f1": 0.1256,
+        "recall_micro": 0.1312,
+        "precision_micro": 0.1906,
+        "abstain_rate": 0.1328
+      },
+      "lookup": {
+        "n": 70,
+        "hit": 0.3857,
+        "recall": 0.0816,
+        "precision": 0.1133,
+        "f1": 0.0888,
+        "recall_micro": 0.1138,
+        "precision_micro": 0.1646,
+        "abstain_rate": 0.0143
+      },
+      "diagnosis": {
+        "n": 58,
+        "hit": 0.4828,
+        "recall": 0.2098,
+        "precision": 0.1974,
+        "f1": 0.1701,
+        "recall_micro": 0.1565,
+        "precision_micro": 0.229,
+        "abstain_rate": 0.2759
+      },
+      "diagnosis_acc": 0.2356,
+      "control_recall": 0.1233,
+      "by_type_symptom_identify": {
+        "n": 28,
+        "hit": 0.2143,
+        "recall": 0.2143,
+        "precision": 0.0905,
+        "f1": 0.1179,
+        "recall_micro": 0.2143,
+        "precision_micro": 0.1053,
+        "abstain_rate": 0.2857
+      },
+      "by_type_open_diagnosis": {
+        "n": 20,
+        "hit": 0.75,
+        "recall": 0.1252,
+        "precision": 0.2901,
+        "f1": 0.1632,
+        "recall_micro": 0.1318,
+        "precision_micro": 0.272,
+        "abstain_rate": 0.25
+      },
+      "by_type_open_diagnosis_diagAcc": 0.2,
+      "by_type_open_diagnosis_ctrlRec": 0.1233,
+      "by_type_differential": {
+        "n": 10,
+        "hit": 0.7,
+        "recall": 0.3667,
+        "precision": 0.3117,
+        "f1": 0.3302,
+        "recall_micro": 0.3333,
+        "precision_micro": 0.2812,
+        "abstain_rate": 0.3
+      },
+      "diff_easy": {
+        "n": 70,
+        "hit": 0.3857,
+        "recall": 0.0816,
+        "precision": 0.1133,
+        "f1": 0.0888,
+        "recall_micro": 0.1138,
+        "precision_micro": 0.1646,
+        "abstain_rate": 0.0143
+      },
+      "diff_medium": {
+        "n": 28,
+        "hit": 0.2143,
+        "recall": 0.2143,
+        "precision": 0.0905,
+        "f1": 0.1179,
+        "recall_micro": 0.2143,
+        "precision_micro": 0.1053,
+        "abstain_rate": 0.2857
+      },
+      "diff_hard": {
+        "n": 30,
+        "hit": 0.7333,
+        "recall": 0.2057,
+        "precision": 0.2973,
+        "f1": 0.2189,
+        "recall_micro": 0.1509,
+        "precision_micro": 0.2739,
+        "abstain_rate": 0.2667
+      },
+      "ood": {
+        "n": 30,
+        "abstain_rate": 0.2667,
+        "false_assert_rate": 0.7333,
+        "ood_unknown_pest": 0.312,
+        "ood_crossdomain": 0.286,
+        "ood_contradictory": 0.143
+      }
+    },
+    "fewshot": {
+      "all_answer": {
+        "n": 128,
+        "hit": 0.4375,
+        "recall": 0.1516,
+        "precision": 0.129,
+        "f1": 0.1125,
+        "recall_micro": 0.1494,
+        "precision_micro": 0.1392,
+        "abstain_rate": 0.0156
+      },
+      "lookup": {
+        "n": 70,
+        "hit": 0.3714,
+        "recall": 0.0902,
+        "precision": 0.1197,
+        "f1": 0.0992,
+        "recall_micro": 0.1291,
+        "precision_micro": 0.1411,
+        "abstain_rate": 0.0143
+      },
+      "diagnosis": {
+        "n": 58,
+        "hit": 0.5172,
+        "recall": 0.2256,
+        "precision": 0.1401,
+        "f1": 0.1285,
+        "recall_micro": 0.1789,
+        "precision_micro": 0.1373,
+        "abstain_rate": 0.0172
+      },
+      "diagnosis_acc": 0.2902,
+      "control_recall": 0.1522,
+      "by_type_symptom_identify": {
+        "n": 28,
+        "hit": 0.2143,
+        "recall": 0.2143,
+        "precision": 0.0312,
+        "f1": 0.0543,
+        "recall_micro": 0.2143,
+        "precision_micro": 0.0326,
+        "abstain_rate": 0.0357
+      },
+      "by_type_open_diagnosis": {
+        "n": 20,
+        "hit": 0.8,
+        "recall": 0.1625,
+        "precision": 0.2989,
+        "f1": 0.2052,
+        "recall_micro": 0.1589,
+        "precision_micro": 0.2847,
+        "abstain_rate": 0.0
+      },
+      "by_type_open_diagnosis_diagAcc": 0.35,
+      "by_type_open_diagnosis_ctrlRec": 0.1522,
+      "by_type_differential": {
+        "n": 10,
+        "hit": 0.8,
+        "recall": 0.3833,
+        "precision": 0.1274,
+        "f1": 0.1828,
+        "recall_micro": 0.3333,
+        "precision_micro": 0.1125,
+        "abstain_rate": 0.0
+      },
+      "diff_easy": {
+        "n": 70,
+        "hit": 0.3714,
+        "recall": 0.0902,
+        "precision": 0.1197,
+        "f1": 0.0992,
+        "recall_micro": 0.1291,
+        "precision_micro": 0.1411,
+        "abstain_rate": 0.0143
+      },
+      "diff_medium": {
+        "n": 28,
+        "hit": 0.2143,
+        "recall": 0.2143,
+        "precision": 0.0312,
+        "f1": 0.0543,
+        "recall_micro": 0.2143,
+        "precision_micro": 0.0326,
+        "abstain_rate": 0.0357
+      },
+      "diff_hard": {
+        "n": 30,
+        "hit": 0.8,
+        "recall": 0.2361,
+        "precision": 0.2417,
+        "f1": 0.1977,
+        "recall_micro": 0.1754,
+        "precision_micro": 0.2232,
+        "abstain_rate": 0.0
+      },
+      "ood": {
+        "n": 30,
+        "abstain_rate": 0.1667,
+        "false_assert_rate": 0.8333,
+        "ood_unknown_pest": 0.062,
+        "ood_crossdomain": 0.143,
+        "ood_contradictory": 0.429
+      }
+    },
+    "linear_bm25": {
+      "all_answer": {
+        "n": 128,
+        "hit": 0.9453,
+        "recall": 0.6361,
+        "precision": 0.4681,
+        "f1": 0.4523,
+        "recall_micro": 0.4247,
+        "precision_micro": 0.4619,
+        "abstain_rate": 0.0391
+      },
+      "lookup": {
+        "n": 70,
+        "hit": 0.9143,
+        "recall": 0.6068,
+        "precision": 0.6114,
+        "f1": 0.5679,
+        "recall_micro": 0.5142,
+        "precision_micro": 0.6564,
+        "abstain_rate": 0.0143
+      },
+      "diagnosis": {
+        "n": 58,
+        "hit": 0.9828,
+        "recall": 0.6716,
+        "precision": 0.2952,
+        "f1": 0.3127,
+        "recall_micro": 0.2939,
+        "precision_micro": 0.2629,
+        "abstain_rate": 0.069
+      },
+      "diagnosis_acc": 0.9425,
+      "control_recall": 0.0944,
+      "by_type_symptom_identify": {
+        "n": 28,
+        "hit": 1.0,
+        "recall": 1.0,
+        "precision": 0.2105,
+        "f1": 0.3382,
+        "recall_micro": 1.0,
+        "precision_micro": 0.1818,
+        "abstain_rate": 0.0357
+      },
+      "by_type_open_diagnosis": {
+        "n": 20,
+        "hit": 0.95,
+        "recall": 0.1644,
+        "precision": 0.4017,
+        "f1": 0.2249,
+        "recall_micro": 0.1705,
+        "precision_micro": 0.3826,
+        "abstain_rate": 0.1
+      },
+      "by_type_open_diagnosis_diagAcc": 0.95,
+      "by_type_open_diagnosis_ctrlRec": 0.0944,
+      "by_type_differential": {
+        "n": 10,
+        "hit": 1.0,
+        "recall": 0.7667,
+        "precision": 0.3194,
+        "f1": 0.417,
+        "recall_micro": 0.7407,
+        "precision_micro": 0.2469,
+        "abstain_rate": 0.1
+      },
+      "diff_easy": {
+        "n": 70,
+        "hit": 0.9143,
+        "recall": 0.6068,
+        "precision": 0.6114,
+        "f1": 0.5679,
+        "recall_micro": 0.5142,
+        "precision_micro": 0.6564,
+        "abstain_rate": 0.0143
+      },
+      "diff_medium": {
+        "n": 28,
+        "hit": 1.0,
+        "recall": 1.0,
+        "precision": 0.2105,
+        "f1": 0.3382,
+        "recall_micro": 1.0,
+        "precision_micro": 0.1818,
+        "abstain_rate": 0.0357
+      },
+      "diff_hard": {
+        "n": 30,
+        "hit": 0.9667,
+        "recall": 0.3651,
+        "precision": 0.3742,
+        "f1": 0.2889,
+        "recall_micro": 0.2246,
+        "precision_micro": 0.3265,
+        "abstain_rate": 0.1
+      },
+      "ood": {
+        "n": 30,
+        "abstain_rate": 0.3,
+        "false_assert_rate": 0.7,
+        "ood_unknown_pest": 0.312,
+        "ood_crossdomain": 0.286,
+        "ood_contradictory": 0.286
+      }
+    },
+    "graphrag": {
+      "all_answer": {
+        "n": 128,
+        "hit": 0.9297,
+        "recall": 0.837,
+        "precision": 0.4281,
+        "f1": 0.4924,
+        "recall_micro": 0.8831,
+        "precision_micro": 0.3861,
+        "abstain_rate": 0.0
+      },
+      "lookup": {
+        "n": 70,
+        "hit": 0.8857,
+        "recall": 0.7696,
+        "precision": 0.5174,
+        "f1": 0.5876,
+        "recall_micro": 0.8775,
+        "precision_micro": 0.4914,
+        "abstain_rate": 0.0
+      },
+      "diagnosis": {
+        "n": 58,
+        "hit": 0.9828,
+        "recall": 0.9184,
+        "precision": 0.3203,
+        "f1": 0.3774,
+        "recall_micro": 0.8914,
+        "precision_micro": 0.2952,
+        "abstain_rate": 0.0
+      },
+      "diagnosis_acc": 0.9224,
+      "control_recall": 0.8866,
+      "by_type_symptom_identify": {
+        "n": 28,
+        "hit": 1.0,
+        "recall": 1.0,
+        "precision": 0.0757,
+        "f1": 0.14,
+        "recall_micro": 1.0,
+        "precision_micro": 0.0702,
+        "abstain_rate": 0.0
+      },
+      "by_type_open_diagnosis": {
+        "n": 20,
+        "hit": 0.95,
+        "recall": 0.8883,
+        "precision": 0.7847,
+        "f1": 0.8302,
+        "recall_micro": 0.8992,
+        "precision_micro": 0.7891,
+        "abstain_rate": 0.0
+      },
+      "by_type_open_diagnosis_diagAcc": 0.9,
+      "by_type_open_diagnosis_ctrlRec": 0.8866,
+      "by_type_differential": {
+        "n": 10,
+        "hit": 1.0,
+        "recall": 0.75,
+        "precision": 0.0761,
+        "f1": 0.137,
+        "recall_micro": 0.7037,
+        "precision_micro": 0.0754,
+        "abstain_rate": 0.0
+      },
+      "diff_easy": {
+        "n": 70,
+        "hit": 0.8857,
+        "recall": 0.7696,
+        "precision": 0.5174,
+        "f1": 0.5876,
+        "recall_micro": 0.8775,
+        "precision_micro": 0.4914,
+        "abstain_rate": 0.0
+      },
+      "diff_medium": {
+        "n": 28,
+        "hit": 1.0,
+        "recall": 1.0,
+        "precision": 0.0757,
+        "f1": 0.14,
+        "recall_micro": 1.0,
+        "precision_micro": 0.0702,
+        "abstain_rate": 0.0
+      },
+      "diff_hard": {
+        "n": 30,
+        "hit": 0.9667,
+        "recall": 0.8422,
+        "precision": 0.5485,
+        "f1": 0.5991,
+        "recall_micro": 0.8807,
+        "precision_micro": 0.4597,
+        "abstain_rate": 0.0
+      },
+      "ood": {
+        "n": 30,
+        "abstain_rate": 0.2333,
+        "false_assert_rate": 0.7667,
+        "ood_unknown_pest": 0.062,
+        "ood_crossdomain": 0.286,
+        "ood_contradictory": 0.571
+      }
+    },
+    "kgrag1hop": {
+      "all_answer": {
+        "n": 128,
+        "hit": 0.9453,
+        "recall": 0.8054,
+        "precision": 0.5282,
+        "f1": 0.5835,
+        "recall_micro": 0.7026,
+        "precision_micro": 0.5554,
+        "abstain_rate": 0.0
+      },
+      "lookup": {
+        "n": 70,
+        "hit": 1.0,
+        "recall": 0.9929,
+        "precision": 0.7836,
+        "f1": 0.8716,
+        "recall_micro": 0.9912,
+        "precision_micro": 0.8236,
+        "abstain_rate": 0.0
+      },
+      "diagnosis": {
+        "n": 58,
+        "hit": 0.8793,
+        "recall": 0.5791,
+        "precision": 0.2199,
+        "f1": 0.2358,
+        "recall_micro": 0.2812,
+        "precision_micro": 0.2075,
+        "abstain_rate": 0.0
+      },
+      "diagnosis_acc": 0.7859,
+      "control_recall": 0.1488,
+      "by_type_symptom_identify": {
+        "n": 28,
+        "hit": 0.9286,
+        "recall": 0.9286,
+        "precision": 0.1307,
+        "f1": 0.2273,
+        "recall_micro": 0.9286,
+        "precision_micro": 0.1232,
+        "abstain_rate": 0.0
+      },
+      "by_type_open_diagnosis": {
+        "n": 20,
+        "hit": 0.85,
+        "recall": 0.2003,
+        "precision": 0.37,
+        "f1": 0.2542,
+        "recall_micro": 0.2054,
+        "precision_micro": 0.3681,
+        "abstain_rate": 0.0
+      },
+      "by_type_open_diagnosis_diagAcc": 0.8,
+      "by_type_open_diagnosis_ctrlRec": 0.1488,
+      "by_type_differential": {
+        "n": 10,
+        "hit": 0.8,
+        "recall": 0.3583,
+        "precision": 0.1694,
+        "f1": 0.2232,
+        "recall_micro": 0.3333,
+        "precision_micro": 0.1304,
+        "abstain_rate": 0.0
+      },
+      "diff_easy": {
+        "n": 70,
+        "hit": 1.0,
+        "recall": 0.9929,
+        "precision": 0.7836,
+        "f1": 0.8716,
+        "recall_micro": 0.9912,
+        "precision_micro": 0.8236,
+        "abstain_rate": 0.0
+      },
+      "diff_medium": {
+        "n": 28,
+        "hit": 0.9286,
+        "recall": 0.9286,
+        "precision": 0.1307,
+        "f1": 0.2273,
+        "recall_micro": 0.9286,
+        "precision_micro": 0.1232,
+        "abstain_rate": 0.0
+      },
+      "diff_hard": {
+        "n": 30,
+        "hit": 0.8333,
+        "recall": 0.253,
+        "precision": 0.3032,
+        "f1": 0.2438,
+        "recall_micro": 0.2175,
+        "precision_micro": 0.2911,
+        "abstain_rate": 0.0
+      },
+      "ood": {
+        "n": 30,
+        "abstain_rate": 0.1333,
+        "false_assert_rate": 0.8667,
+        "ood_unknown_pest": 0.0,
+        "ood_crossdomain": 0.286,
+        "ood_contradictory": 0.286
+      }
+    },
+    "kgrag2hop": {
+      "all_answer": {
+        "n": 128,
+        "hit": 0.9375,
+        "recall": 0.7941,
+        "precision": 0.4531,
+        "f1": 0.5232,
+        "recall_micro": 0.6948,
+        "precision_micro": 0.4632,
+        "abstain_rate": 0.0
+      },
+      "lookup": {
+        "n": 70,
+        "hit": 1.0,
+        "recall": 0.9937,
+        "precision": 0.68,
+        "f1": 0.7917,
+        "recall_micro": 0.9934,
+        "precision_micro": 0.6756,
+        "abstain_rate": 0.0
+      },
+      "diagnosis": {
+        "n": 58,
+        "hit": 0.8621,
+        "recall": 0.5531,
+        "precision": 0.1792,
+        "f1": 0.1991,
+        "recall_micro": 0.2588,
+        "precision_micro": 0.1677,
+        "abstain_rate": 0.0
+      },
+      "diagnosis_acc": 0.7687,
+      "control_recall": 0.1211,
+      "by_type_symptom_identify": {
+        "n": 28,
+        "hit": 0.8929,
+        "recall": 0.8929,
+        "precision": 0.1073,
+        "f1": 0.1903,
+        "recall_micro": 0.8929,
+        "precision_micro": 0.1016,
+        "abstain_rate": 0.0
+      },
+      "by_type_open_diagnosis": {
+        "n": 20,
+        "hit": 0.85,
+        "recall": 0.1749,
+        "precision": 0.2985,
+        "f1": 0.2136,
+        "recall_micro": 0.1822,
+        "precision_micro": 0.2956,
+        "abstain_rate": 0.0
+      },
+      "by_type_open_diagnosis_diagAcc": 0.8,
+      "by_type_open_diagnosis_ctrlRec": 0.1211,
+      "by_type_differential": {
+        "n": 10,
+        "hit": 0.8,
+        "recall": 0.3583,
+        "precision": 0.1418,
+        "f1": 0.1949,
+        "recall_micro": 0.3333,
+        "precision_micro": 0.1154,
+        "abstain_rate": 0.0
+      },
+      "diff_easy": {
+        "n": 70,
+        "hit": 1.0,
+        "recall": 0.9937,
+        "precision": 0.68,
+        "f1": 0.7917,
+        "recall_micro": 0.9934,
+        "precision_micro": 0.6756,
+        "abstain_rate": 0.0
+      },
+      "diff_medium": {
+        "n": 28,
+        "hit": 0.8929,
+        "recall": 0.8929,
+        "precision": 0.1073,
+        "f1": 0.1903,
+        "recall_micro": 0.8929,
+        "precision_micro": 0.1016,
+        "abstain_rate": 0.0
+      },
+      "diff_hard": {
+        "n": 30,
+        "hit": 0.8333,
+        "recall": 0.236,
+        "precision": 0.2463,
+        "f1": 0.2073,
+        "recall_micro": 0.1965,
+        "precision_micro": 0.2363,
+        "abstain_rate": 0.0
+      },
+      "ood": {
+        "n": 30,
+        "abstain_rate": 0.0667,
+        "false_assert_rate": 0.9333,
+        "ood_unknown_pest": 0.0,
+        "ood_crossdomain": 0.286,
+        "ood_contradictory": 0.0
+      }
+    },
+    "kg_only": {
+      "all_answer": {
+        "n": 128,
+        "hit": 0.8906,
+        "recall": 0.7635,
+        "precision": 0.3615,
+        "f1": 0.4291,
+        "recall_micro": 0.6506,
+        "precision_micro": 0.4093,
+        "abstain_rate": 0.0
+      },
+      "lookup": {
+        "n": 70,
+        "hit": 1.0,
+        "recall": 1.0,
+        "precision": 0.4131,
+        "f1": 0.5408,
+        "recall_micro": 1.0,
+        "precision_micro": 0.4177,
+        "abstain_rate": 0.0
+      },
+      "diagnosis": {
+        "n": 58,
+        "hit": 0.7586,
+        "recall": 0.4782,
+        "precision": 0.2991,
+        "f1": 0.2944,
+        "recall_micro": 0.1406,
+        "precision_micro": 0.3385,
+        "abstain_rate": 0.0
+      },
+      "diagnosis_acc": 0.6997,
+      "control_recall": 0.0,
+      "by_type_symptom_identify": {
+        "n": 28,
+        "hit": 0.8929,
+        "recall": 0.8929,
+        "precision": 0.3327,
+        "f1": 0.475,
+        "recall_micro": 0.8929,
+        "precision_micro": 0.3333,
+        "abstain_rate": 0.0
+      },
+      "by_type_open_diagnosis": {
+        "n": 20,
+        "hit": 0.7,
+        "recall": 0.0575,
+        "precision": 0.2767,
+        "f1": 0.0921,
+        "recall_micro": 0.0543,
+        "precision_micro": 0.3111,
+        "abstain_rate": 0.0
+      },
+      "by_type_open_diagnosis_diagAcc": 0.7,
+      "by_type_open_diagnosis_ctrlRec": 0.0,
+      "by_type_differential": {
+        "n": 10,
+        "hit": 0.5,
+        "recall": 0.1583,
+        "precision": 0.25,
+        "f1": 0.1933,
+        "recall_micro": 0.1852,
+        "precision_micro": 0.5,
+        "abstain_rate": 0.0
+      },
+      "diff_easy": {
+        "n": 70,
+        "hit": 1.0,
+        "recall": 1.0,
+        "precision": 0.4131,
+        "f1": 0.5408,
+        "recall_micro": 1.0,
+        "precision_micro": 0.4177,
+        "abstain_rate": 0.0
+      },
+      "diff_medium": {
+        "n": 28,
+        "hit": 0.8929,
+        "recall": 0.8929,
+        "precision": 0.3327,
+        "f1": 0.475,
+        "recall_micro": 0.8929,
+        "precision_micro": 0.3333,
+        "abstain_rate": 0.0
+      },
+      "diff_hard": {
+        "n": 30,
+        "hit": 0.6333,
+        "recall": 0.0911,
+        "precision": 0.2678,
+        "f1": 0.1258,
+        "recall_micro": 0.0667,
+        "precision_micro": 0.3455,
+        "abstain_rate": 0.0
+      },
+      "ood": {
+        "n": 30,
+        "abstain_rate": 0.0,
+        "false_assert_rate": 1.0,
+        "ood_unknown_pest": 0.0,
+        "ood_crossdomain": 0.0,
+        "ood_contradictory": 0.0
+      }
+    },
+    "fused_parallel": {
+      "all_answer": {
+        "n": 128,
+        "hit": 0.9609,
+        "recall": 0.8754,
+        "precision": 0.543,
+        "f1": 0.6054,
+        "recall_micro": 0.9091,
+        "precision_micro": 0.5247,
+        "abstain_rate": 0.25
+      },
+      "lookup": {
+        "n": 70,
+        "hit": 0.9571,
+        "recall": 0.8871,
+        "precision": 0.7021,
+        "f1": 0.7777,
+        "recall_micro": 0.9453,
+        "precision_micro": 0.7606,
+        "abstain_rate": 0.1
+      },
+      "diagnosis": {
+        "n": 58,
+        "hit": 0.9655,
+        "recall": 0.8614,
+        "precision": 0.3509,
+        "f1": 0.3975,
+        "recall_micro": 0.8562,
+        "precision_micro": 0.3499,
+        "abstain_rate": 0.431
+      },
+      "diagnosis_acc": 0.8807,
+      "control_recall": 0.8901,
+      "by_type_symptom_identify": {
+        "n": 28,
+        "hit": 1.0,
+        "recall": 1.0,
+        "precision": 0.0828,
+        "f1": 0.152,
+        "recall_micro": 1.0,
+        "precision_micro": 0.0771,
+        "abstain_rate": 0.4286
+      },
+      "by_type_open_diagnosis": {
+        "n": 20,
+        "hit": 0.95,
+        "recall": 0.8939,
+        "precision": 0.8635,
+        "f1": 0.8765,
+        "recall_micro": 0.8876,
+        "precision_micro": 0.8876,
+        "abstain_rate": 0.45
+      },
+      "by_type_open_diagnosis_diagAcc": 0.95,
+      "by_type_open_diagnosis_ctrlRec": 0.8901,
+      "by_type_differential": {
+        "n": 10,
+        "hit": 0.9,
+        "recall": 0.4083,
+        "precision": 0.0761,
+        "f1": 0.1271,
+        "recall_micro": 0.4074,
+        "precision_micro": 0.0759,
+        "abstain_rate": 0.4
+      },
+      "diff_easy": {
+        "n": 70,
+        "hit": 0.9571,
+        "recall": 0.8871,
+        "precision": 0.7021,
+        "f1": 0.7777,
+        "recall_micro": 0.9453,
+        "precision_micro": 0.7606,
+        "abstain_rate": 0.1
+      },
+      "diff_medium": {
+        "n": 28,
+        "hit": 1.0,
+        "recall": 1.0,
+        "precision": 0.0828,
+        "f1": 0.152,
+        "recall_micro": 1.0,
+        "precision_micro": 0.0771,
+        "abstain_rate": 0.4286
+      },
+      "diff_hard": {
+        "n": 30,
+        "hit": 0.9333,
+        "recall": 0.732,
+        "precision": 0.601,
+        "f1": 0.6267,
+        "recall_micro": 0.8421,
+        "precision_micro": 0.5955,
+        "abstain_rate": 0.4333
+      },
+      "ood": {
+        "n": 30,
+        "abstain_rate": 0.4667,
+        "false_assert_rate": 0.5333,
+        "ood_unknown_pest": 0.5,
+        "ood_crossdomain": 0.571,
+        "ood_contradictory": 0.286
+      }
+    },
+    "gated_router": {
+      "all_answer": {
+        "n": 128,
+        "hit": 0.8438,
+        "recall": 0.7515,
+        "precision": 0.402,
+        "f1": 0.4605,
+        "recall_micro": 0.8065,
+        "precision_micro": 0.4056,
+        "abstain_rate": 0.0938
+      },
+      "lookup": {
+        "n": 70,
+        "hit": 0.8857,
+        "recall": 0.7696,
+        "precision": 0.5174,
+        "f1": 0.5876,
+        "recall_micro": 0.8775,
+        "precision_micro": 0.4914,
+        "abstain_rate": 0.0
+      },
+      "diagnosis": {
+        "n": 58,
+        "hit": 0.7931,
+        "recall": 0.7298,
+        "precision": 0.2627,
+        "f1": 0.3071,
+        "recall_micro": 0.7029,
+        "precision_micro": 0.3077,
+        "abstain_rate": 0.2069
+      },
+      "diagnosis_acc": 0.7328,
+      "control_recall": 0.74,
+      "by_type_symptom_identify": {
+        "n": 28,
+        "hit": 0.8929,
+        "recall": 0.8929,
+        "precision": 0.0653,
+        "f1": 0.1211,
+        "recall_micro": 0.8929,
+        "precision_micro": 0.0685,
+        "abstain_rate": 0.1071
+      },
+      "by_type_open_diagnosis": {
+        "n": 20,
+        "hit": 0.8,
+        "recall": 0.7415,
+        "precision": 0.654,
+        "f1": 0.6922,
+        "recall_micro": 0.7248,
+        "precision_micro": 0.8202,
+        "abstain_rate": 0.2
+      },
+      "by_type_open_diagnosis_diagAcc": 0.75,
+      "by_type_open_diagnosis_ctrlRec": 0.74,
+      "by_type_differential": {
+        "n": 10,
+        "hit": 0.5,
+        "recall": 0.25,
+        "precision": 0.0329,
+        "f1": 0.0577,
+        "recall_micro": 0.2963,
+        "precision_micro": 0.0656,
+        "abstain_rate": 0.5
+      },
+      "diff_easy": {
+        "n": 70,
+        "hit": 0.8857,
+        "recall": 0.7696,
+        "precision": 0.5174,
+        "f1": 0.5876,
+        "recall_micro": 0.8775,
+        "precision_micro": 0.4914,
+        "abstain_rate": 0.0
+      },
+      "diff_medium": {
+        "n": 28,
+        "hit": 0.8929,
+        "recall": 0.8929,
+        "precision": 0.0653,
+        "f1": 0.1211,
+        "recall_micro": 0.8929,
+        "precision_micro": 0.0685,
+        "abstain_rate": 0.1071
+      },
+      "diff_hard": {
+        "n": 30,
+        "hit": 0.7,
+        "recall": 0.5776,
+        "precision": 0.447,
+        "f1": 0.4807,
+        "recall_micro": 0.6842,
+        "precision_micro": 0.5571,
+        "abstain_rate": 0.3
+      },
+      "ood": {
+        "n": 30,
+        "abstain_rate": 1.0,
+        "false_assert_rate": 0.0,
+        "ood_unknown_pest": 1.0,
+        "ood_crossdomain": 1.0,
+        "ood_contradictory": 1.0
+      }
+    },
+    "__gate_confusion__": {
+      "ans_answer": 116,
+      "ans_abstain": 12,
+      "ood_answer": 0,
+      "ood_abstain": 30
+    },
+    "__gate_opened_answer_acc__": {
+      "n": 116,
+      "hit": 0.931,
+      "recall": 0.8293,
+      "precision": 0.4436,
+      "f1": 0.5081,
+      "recall_micro": 0.8859,
+      "precision_micro": 0.4056,
+      "abstain_rate": 0.0
+    }
+  },
+  "bootstrap": {
+    "graphrag_vs_zeroshot_recall": {
+      "mean_a": 0.1397,
+      "mean_b": 0.837,
+      "diff": 0.6973,
+      "p_value": 0.5135,
+      "ci_95": [
+        0.634,
+        0.7585
+      ],
+      "cohens_d": 2.5217
+    },
+    "graphrag_vs_zeroshot_hit": {
+      "mean_a": 0.4297,
+      "mean_b": 0.9297,
+      "diff": 0.5,
+      "p_value": 0.5391,
+      "ci_95": [
+        0.4062,
+        0.5938
+      ],
+      "cohens_d": 1.2642
+    },
+    "graphrag_vs_fewshot_recall": {
+      "mean_a": 0.1516,
+      "mean_b": 0.837,
+      "diff": 0.6854,
+      "p_value": 0.5168,
+      "ci_95": [
+        0.6232,
+        0.7455
+      ],
+      "cohens_d": 2.4611
+    },
+    "graphrag_vs_fewshot_hit": {
+      "mean_a": 0.4375,
+      "mean_b": 0.9297,
+      "diff": 0.4922,
+      "p_value": 0.5357,
+      "ci_95": [
+        0.4062,
+        0.5781
+      ],
+      "cohens_d": 1.2423
+    },
+    "graphrag_vs_linear_bm25_recall": {
+      "mean_a": 0.6361,
+      "mean_b": 0.837,
+      "diff": 0.2009,
+      "p_value": 0.5047,
+      "ci_95": [
+        0.1324,
+        0.2701
+      ],
+      "cohens_d": 0.6088
+    },
+    "graphrag_vs_linear_bm25_hit": {
+      "mean_a": 0.9453,
+      "mean_b": 0.9297,
+      "diff": -0.0156,
+      "p_value": 0.6722,
+      "ci_95": [
+        -0.0625,
+        0.0234
+      ],
+      "cohens_d": -0.0643
+    },
+    "graphrag_vs_kgrag1hop_recall": {
+      "mean_a": 0.8054,
+      "mean_b": 0.837,
+      "diff": 0.0316,
+      "p_value": 0.5513,
+      "ci_95": [
+        -0.0475,
+        0.1099
+      ],
+      "cohens_d": 0.0975
+    },
+    "graphrag_vs_kgrag1hop_hit": {
+      "mean_a": 0.9453,
+      "mean_b": 0.9297,
+      "diff": -0.0156,
+      "p_value": 0.7205,
+      "ci_95": [
+        -0.0703,
+        0.0391
+      ],
+      "cohens_d": -0.0643
+    },
+    "graphrag_vs_kgrag2hop_recall": {
+      "mean_a": 0.7941,
+      "mean_b": 0.837,
+      "diff": 0.0429,
+      "p_value": 0.5127,
+      "ci_95": [
+        -0.0384,
+        0.1243
+      ],
+      "cohens_d": 0.1295
+    },
+    "graphrag_vs_kgrag2hop_hit": {
+      "mean_a": 0.9375,
+      "mean_b": 0.9297,
+      "diff": -0.0078,
+      "p_value": 0.9021,
+      "ci_95": [
+        -0.0703,
+        0.0547
+      ],
+      "cohens_d": -0.0313
+    },
+    "graphrag_vs_fused_parallel_recall": {
+      "mean_a": 0.8754,
+      "mean_b": 0.837,
+      "diff": -0.0384,
+      "p_value": 0.4997,
+      "ci_95": [
+        -0.0847,
+        0.0075
+      ],
+      "cohens_d": -0.1351
+    },
+    "graphrag_vs_fused_parallel_hit": {
+      "mean_a": 0.9609,
+      "mean_b": 0.9297,
+      "diff": -0.0312,
+      "p_value": 0.5713,
+      "ci_95": [
+        -0.0703,
+        0.0
+      ],
+      "cohens_d": -0.1372
+    }
+  }
+}

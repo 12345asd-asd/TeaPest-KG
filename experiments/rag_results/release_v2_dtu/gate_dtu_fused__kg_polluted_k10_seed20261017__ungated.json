@@ -1,0 +1,1341 @@
+{
+  "L-AC-01": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 16,
+    "n_pruned": 0,
+    "link_rule": "pest",
+    "family_cue": null,
+    "profile_pest": "卵形短须螨",
+    "gate_ms": 1.091,
+    "slots": [
+      "生物防治",
+      "化学防治",
+      "物理防治",
+      "农业防治"
+    ],
+    "ask_numeric": []
+  },
+  "L-AC-03": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 11,
+    "n_pruned": 0,
+    "link_rule": "pest",
+    "family_cue": null,
+    "profile_pest": "茶丽纹象甲",
+    "gate_ms": 0.337,
+    "slots": [
+      "生物防治",
+      "化学防治",
+      "物理防治",
+      "农业防治"
+    ],
+    "ask_numeric": []
+  },
+  "L-AC-04": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 19,
+    "n_pruned": 0,
+    "link_rule": "pest",
+    "family_cue": null,
+    "profile_pest": "茶二叉蚜",
+    "gate_ms": 0.351,
+    "slots": [
+      "生物防治",
+      "化学防治",
+      "物理防治",
+      "农业防治"
+    ],
+    "ask_numeric": []
+  },
+  "L-AC-05": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 18,
+    "n_pruned": 0,
+    "link_rule": "pest",
+    "family_cue": null,
+    "profile_pest": "茶云纹叶枯病",
+    "gate_ms": 0.314,
+    "slots": [
+      "生物防治",
+      "化学防治",
+      "物理防治",
+      "农业防治"
+    ],
+    "ask_numeric": []
+  },
+  "L-AC-09": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 24,
+    "n_pruned": 0,
+    "link_rule": "pest",
+    "family_cue": null,
+    "profile_pest": "茶小绿叶蝉",
+    "gate_ms": 0.312,
+    "slots": [
+      "生物防治",
+      "化学防治",
+      "物理防治",
+      "农业防治"
+    ],
+    "ask_numeric": []
+  },
+  "L-AC-10": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 19,
+    "n_pruned": 0,
+    "link_rule": "pest",
+    "family_cue": null,
+    "profile_pest": "茶尺蠖",
+    "gate_ms": 0.316,
+    "slots": [
+      "生物防治",
+      "化学防治",
+      "物理防治",
+      "农业防治"
+    ],
+    "ask_numeric": []
+  },
+  "L-AC-11": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 21,
+    "n_pruned": 0,
+    "link_rule": "pest",
+    "family_cue": null,
+    "profile_pest": "茶树介壳虫",
+    "gate_ms": 0.307,
+    "slots": [
+      "生物防治",
+      "化学防治",
+      "物理防治",
+      "农业防治"
+    ],
+    "ask_numeric": []
+  },
+  "L-AC-12": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 16,
+    "n_pruned": 0,
+    "link_rule": "pest",
+    "family_cue": null,
+    "profile_pest": "茶根结线虫",
+    "gate_ms": 0.321,
+    "slots": [
+      "生物防治",
+      "化学防治",
+      "物理防治",
+      "农业防治"
+    ],
+    "ask_numeric": []
+  },
+  "L-AC-13": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 23,
+    "n_pruned": 0,
+    "link_rule": "pest",
+    "family_cue": null,
+    "profile_pest": "茶橙瘿螨",
+    "gate_ms": 0.366,
+    "slots": [
+      "生物防治",
+      "化学防治",
+      "物理防治",
+      "农业防治"
+    ],
+    "ask_numeric": []
+  },
+  "L-AC-14": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 23,
+    "n_pruned": 0,
+    "link_rule": "pest",
+    "family_cue": null,
+    "profile_pest": "茶毛虫",
+    "gate_ms": 0.312,
+    "slots": [
+      "生物防治",
+      "化学防治",
+      "物理防治",
+      "农业防治"
+    ],
+    "ask_numeric": []
+  },
+  "L-AC-15": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 16,
+    "n_pruned": 0,
+    "link_rule": "pest",
+    "family_cue": null,
+    "profile_pest": "茶炭疽病",
+    "gate_ms": 0.303,
+    "slots": [
+      "生物防治",
+      "化学防治",
+      "物理防治",
+      "农业防治"
+    ],
+    "ask_numeric": []
+  },
+  "L-AC-16": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 14,
+    "n_pruned": 0,
+    "link_rule": "pest",
+    "family_cue": null,
+    "profile_pest": "茶煤烟病",
+    "gate_ms": 0.324,
+    "slots": [
+      "生物防治",
+      "化学防治",
+      "物理防治",
+      "农业防治"
+    ],
+    "ask_numeric": []
+  },
+  "L-AC-18": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 14,
+    "n_pruned": 0,
+    "link_rule": "pest",
+    "family_cue": null,
+    "profile_pest": "茶膏药病",
+    "gate_ms": 0.306,
+    "slots": [
+      "生物防治",
+      "化学防治",
+      "物理防治",
+      "农业防治"
+    ],
+    "ask_numeric": []
+  },
+  "L-AC-21": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 13,
+    "n_pruned": 0,
+    "link_rule": "pest",
+    "family_cue": null,
+    "profile_pest": "茶藻斑病",
+    "gate_ms": 0.364,
+    "slots": [
+      "生物防治",
+      "化学防治",
+      "物理防治",
+      "农业防治"
+    ],
+    "ask_numeric": []
+  },
+  "L-AC-22": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 17,
+    "n_pruned": 0,
+    "link_rule": "pest",
+    "family_cue": null,
+    "profile_pest": "茶角胸叶甲",
+    "gate_ms": 0.305,
+    "slots": [
+      "生物防治",
+      "化学防治",
+      "物理防治",
+      "农业防治"
+    ],
+    "ask_numeric": []
+  },
+  "L-AC-23": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 12,
+    "n_pruned": 0,
+    "link_rule": "pest",
+    "family_cue": null,
+    "profile_pest": "茶赤叶斑病",
+    "gate_ms": 0.305,
+    "slots": [
+      "生物防治",
+      "化学防治",
+      "物理防治",
+      "农业防治"
+    ],
+    "ask_numeric": []
+  },
+  "L-AC-25": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 17,
+    "n_pruned": 0,
+    "link_rule": "pest",
+    "family_cue": null,
+    "profile_pest": "茶轮斑病",
+    "gate_ms": 0.356,
+    "slots": [
+      "生物防治",
+      "化学防治",
+      "物理防治",
+      "农业防治"
+    ],
+    "ask_numeric": []
+  },
+  "L-SY-01": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 16,
+    "n_pruned": 0,
+    "link_rule": "pest",
+    "family_cue": null,
+    "profile_pest": "卵形短须螨",
+    "gate_ms": 0.35,
+    "slots": [
+      "表现症状"
+    ],
+    "ask_numeric": []
+  },
+  "L-SY-03": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 11,
+    "n_pruned": 0,
+    "link_rule": "pest",
+    "family_cue": null,
+    "profile_pest": "茶丽纹象甲",
+    "gate_ms": 0.311,
+    "slots": [
+      "表现症状"
+    ],
+    "ask_numeric": []
+  },
+  "L-SY-04": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 19,
+    "n_pruned": 0,
+    "link_rule": "pest",
+    "family_cue": null,
+    "profile_pest": "茶二叉蚜",
+    "gate_ms": 0.38,
+    "slots": [
+      "表现症状"
+    ],
+    "ask_numeric": []
+  },
+  "L-SY-05": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 18,
+    "n_pruned": 0,
+    "link_rule": "pest",
+    "family_cue": null,
+    "profile_pest": "茶云纹叶枯病",
+    "gate_ms": 0.313,
+    "slots": [
+      "表现症状"
+    ],
+    "ask_numeric": []
+  },
+  "L-SY-06": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 13,
+    "n_pruned": 0,
+    "link_rule": "pest",
+    "family_cue": null,
+    "profile_pest": "茶刺蛾",
+    "gate_ms": 0.317,
+    "slots": [
+      "表现症状"
+    ],
+    "ask_numeric": []
+  },
+  "L-SY-09": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 24,
+    "n_pruned": 0,
+    "link_rule": "pest",
+    "family_cue": null,
+    "profile_pest": "茶小绿叶蝉",
+    "gate_ms": 0.308,
+    "slots": [
+      "表现症状"
+    ],
+    "ask_numeric": []
+  },
+  "L-SY-10": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 19,
+    "n_pruned": 0,
+    "link_rule": "pest",
+    "family_cue": null,
+    "profile_pest": "茶尺蠖",
+    "gate_ms": 0.316,
+    "slots": [
+      "表现症状"
+    ],
+    "ask_numeric": []
+  },
+  "L-SY-11": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 21,
+    "n_pruned": 0,
+    "link_rule": "pest",
+    "family_cue": null,
+    "profile_pest": "茶树介壳虫",
+    "gate_ms": 0.312,
+    "slots": [
+      "表现症状"
+    ],
+    "ask_numeric": []
+  },
+  "L-SY-12": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 16,
+    "n_pruned": 0,
+    "link_rule": "pest",
+    "family_cue": null,
+    "profile_pest": "茶根结线虫",
+    "gate_ms": 0.308,
+    "slots": [
+      "表现症状"
+    ],
+    "ask_numeric": []
+  },
+  "L-SY-13": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 23,
+    "n_pruned": 0,
+    "link_rule": "pest",
+    "family_cue": null,
+    "profile_pest": "茶橙瘿螨",
+    "gate_ms": 0.302,
+    "slots": [
+      "表现症状"
+    ],
+    "ask_numeric": []
+  },
+  "L-SY-14": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 23,
+    "n_pruned": 0,
+    "link_rule": "pest",
+    "family_cue": null,
+    "profile_pest": "茶毛虫",
+    "gate_ms": 0.466,
+    "slots": [
+      "表现症状"
+    ],
+    "ask_numeric": []
+  },
+  "L-SY-15": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 16,
+    "n_pruned": 0,
+    "link_rule": "pest",
+    "family_cue": null,
+    "profile_pest": "茶炭疽病",
+    "gate_ms": 0.299,
+    "slots": [
+      "表现症状"
+    ],
+    "ask_numeric": []
+  },
+  "L-SY-16": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 35,
+    "n_pruned": 0,
+    "link_rule": "pest",
+    "family_cue": null,
+    "profile_pest": "茶树介壳虫",
+    "gate_ms": 0.305,
+    "slots": [
+      "表现症状"
+    ],
+    "ask_numeric": []
+  },
+  "L-SY-18": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 14,
+    "n_pruned": 0,
+    "link_rule": "pest",
+    "family_cue": null,
+    "profile_pest": "茶膏药病",
+    "gate_ms": 0.314,
+    "slots": [
+      "表现症状"
+    ],
+    "ask_numeric": []
+  },
+  "L-SY-21": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 13,
+    "n_pruned": 0,
+    "link_rule": "pest",
+    "family_cue": null,
+    "profile_pest": "茶藻斑病",
+    "gate_ms": 0.315,
+    "slots": [
+      "表现症状"
+    ],
+    "ask_numeric": []
+  },
+  "L-SY-22": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 17,
+    "n_pruned": 0,
+    "link_rule": "pest",
+    "family_cue": null,
+    "profile_pest": "茶角胸叶甲",
+    "gate_ms": 0.318,
+    "slots": [
+      "表现症状"
+    ],
+    "ask_numeric": []
+  },
+  "L-SY-23": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 12,
+    "n_pruned": 0,
+    "link_rule": "pest",
+    "family_cue": null,
+    "profile_pest": "茶赤叶斑病",
+    "gate_ms": 0.298,
+    "slots": [
+      "表现症状"
+    ],
+    "ask_numeric": []
+  },
+  "L-SY-24": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 19,
+    "n_pruned": 0,
+    "link_rule": "pest",
+    "family_cue": null,
+    "profile_pest": "茶跗线螨",
+    "gate_ms": 0.3,
+    "slots": [
+      "表现症状"
+    ],
+    "ask_numeric": []
+  },
+  "L-SY-25": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 17,
+    "n_pruned": 0,
+    "link_rule": "pest",
+    "family_cue": null,
+    "profile_pest": "茶轮斑病",
+    "gate_ms": 0.299,
+    "slots": [
+      "表现症状"
+    ],
+    "ask_numeric": []
+  },
+  "L-SY-26": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 13,
+    "n_pruned": 0,
+    "link_rule": "pest",
+    "family_cue": null,
+    "profile_pest": "茶饼病",
+    "gate_ms": 0.308,
+    "slots": [
+      "表现症状"
+    ],
+    "ask_numeric": []
+  },
+  "L-CT-生-01": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 16,
+    "n_pruned": 0,
+    "link_rule": "pest",
+    "family_cue": null,
+    "profile_pest": "卵形短须螨",
+    "gate_ms": 0.301,
+    "slots": [
+      "生物防治"
+    ],
+    "ask_numeric": []
+  },
+  "L-CT-生-03": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 11,
+    "n_pruned": 0,
+    "link_rule": "pest",
+    "family_cue": null,
+    "profile_pest": "茶丽纹象甲",
+    "gate_ms": 0.33,
+    "slots": [
+      "生物防治"
+    ],
+    "ask_numeric": []
+  },
+  "L-CT-生-04": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 19,
+    "n_pruned": 0,
+    "link_rule": "pest",
+    "family_cue": null,
+    "profile_pest": "茶二叉蚜",
+    "gate_ms": 0.321,
+    "slots": [
+      "生物防治"
+    ],
+    "ask_numeric": []
+  },
+  "L-CT-化-01": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 16,
+    "n_pruned": 0,
+    "link_rule": "pest",
+    "family_cue": null,
+    "profile_pest": "卵形短须螨",
+    "gate_ms": 0.314,
+    "slots": [
+      "化学防治"
+    ],
+    "ask_numeric": []
+  },
+  "L-CT-化-03": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 11,
+    "n_pruned": 0,
+    "link_rule": "pest",
+    "family_cue": null,
+    "profile_pest": "茶丽纹象甲",
+    "gate_ms": 0.351,
+    "slots": [
+      "化学防治"
+    ],
+    "ask_numeric": []
+  },
+  "L-CT-化-04": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 19,
+    "n_pruned": 0,
+    "link_rule": "pest",
+    "family_cue": null,
+    "profile_pest": "茶二叉蚜",
+    "gate_ms": 0.306,
+    "slots": [
+      "化学防治"
+    ],
+    "ask_numeric": []
+  },
+  "L-CT-农-01": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 16,
+    "n_pruned": 0,
+    "link_rule": "pest",
+    "family_cue": null,
+    "profile_pest": "卵形短须螨",
+    "gate_ms": 0.317,
+    "slots": [
+      "农业防治"
+    ],
+    "ask_numeric": []
+  },
+  "L-CT-农-03": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 11,
+    "n_pruned": 0,
+    "link_rule": "pest",
+    "family_cue": null,
+    "profile_pest": "茶丽纹象甲",
+    "gate_ms": 0.303,
+    "slots": [
+      "农业防治"
+    ],
+    "ask_numeric": []
+  },
+  "L-CT-物-01": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 11,
+    "n_pruned": 0,
+    "link_rule": "pest",
+    "family_cue": null,
+    "profile_pest": "茶丽纹象甲",
+    "gate_ms": 0.311,
+    "slots": [
+      "物理防治"
+    ],
+    "ask_numeric": []
+  },
+  "L-CT-物-02": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 19,
+    "n_pruned": 0,
+    "link_rule": "pest",
+    "family_cue": null,
+    "profile_pest": "茶二叉蚜",
+    "gate_ms": 0.356,
+    "slots": [
+      "物理防治"
+    ],
+    "ask_numeric": []
+  },
+  "L-CT-物-03": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 13,
+    "n_pruned": 0,
+    "link_rule": "pest",
+    "family_cue": null,
+    "profile_pest": "茶刺蛾",
+    "gate_ms": 0.298,
+    "slots": [
+      "物理防治"
+    ],
+    "ask_numeric": []
+  },
+  "D-ID-01": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 94,
+    "n_pruned": 0,
+    "link_rule": "pest+family",
+    "family_cue": "螨",
+    "profile_pest": "卵形短须螨",
+    "gate_ms": 0.328,
+    "slots": [
+      "表现症状"
+    ],
+    "ask_numeric": []
+  },
+  "D-ID-02": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 94,
+    "n_pruned": 0,
+    "link_rule": "pest+family",
+    "family_cue": "螨",
+    "profile_pest": "咖啡小爪螨",
+    "gate_ms": 0.331,
+    "slots": [
+      "表现症状"
+    ],
+    "ask_numeric": []
+  },
+  "D-ID-03": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 11,
+    "n_pruned": 0,
+    "link_rule": "phrase",
+    "family_cue": null,
+    "profile_pest": "茶丽纹象甲",
+    "gate_ms": 0.315,
+    "slots": [
+      "表现症状"
+    ],
+    "ask_numeric": []
+  },
+  "D-ID-04": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 19,
+    "n_pruned": 0,
+    "link_rule": "phrase",
+    "family_cue": null,
+    "profile_pest": "茶二叉蚜",
+    "gate_ms": 0.313,
+    "slots": [
+      "表现症状"
+    ],
+    "ask_numeric": []
+  },
+  "D-ID-05": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 18,
+    "n_pruned": 0,
+    "link_rule": "phrase",
+    "family_cue": null,
+    "profile_pest": "茶云纹叶枯病",
+    "gate_ms": 0.324,
+    "slots": [
+      "表现症状"
+    ],
+    "ask_numeric": []
+  },
+  "D-ID-07": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 94,
+    "n_pruned": 0,
+    "link_rule": "pest+family",
+    "family_cue": "螨",
+    "profile_pest": "茶叶丽瘿螨",
+    "gate_ms": 0.315,
+    "slots": [
+      "表现症状"
+    ],
+    "ask_numeric": []
+  },
+  "D-ID-09": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 24,
+    "n_pruned": 0,
+    "link_rule": "phrase",
+    "family_cue": null,
+    "profile_pest": "茶小绿叶蝉",
+    "gate_ms": 0.303,
+    "slots": [
+      "表现症状"
+    ],
+    "ask_numeric": []
+  },
+  "D-ID-10": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 19,
+    "n_pruned": 0,
+    "link_rule": "phrase",
+    "family_cue": null,
+    "profile_pest": "茶尺蠖",
+    "gate_ms": 0.296,
+    "slots": [
+      "表现症状"
+    ],
+    "ask_numeric": []
+  },
+  "D-ID-11": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 21,
+    "n_pruned": 0,
+    "link_rule": "phrase",
+    "family_cue": null,
+    "profile_pest": "茶树介壳虫",
+    "gate_ms": 0.318,
+    "slots": [
+      "表现症状"
+    ],
+    "ask_numeric": []
+  },
+  "D-ID-12": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 16,
+    "n_pruned": 0,
+    "link_rule": "phrase",
+    "family_cue": null,
+    "profile_pest": "茶根结线虫",
+    "gate_ms": 0.302,
+    "slots": [
+      "表现症状"
+    ],
+    "ask_numeric": []
+  },
+  "D-ID-13": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 94,
+    "n_pruned": 0,
+    "link_rule": "pest+family",
+    "family_cue": "螨",
+    "profile_pest": "茶橙瘿螨",
+    "gate_ms": 0.311,
+    "slots": [
+      "表现症状"
+    ],
+    "ask_numeric": []
+  },
+  "D-ID-14": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 24,
+    "n_pruned": 0,
+    "link_rule": "phrase",
+    "family_cue": null,
+    "profile_pest": "茶毛虫",
+    "gate_ms": 0.318,
+    "slots": [
+      "表现症状"
+    ],
+    "ask_numeric": []
+  },
+  "D-ID-15": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 17,
+    "n_pruned": 0,
+    "link_rule": "phrase",
+    "family_cue": null,
+    "profile_pest": "茶炭疽病",
+    "gate_ms": 0.303,
+    "slots": [
+      "表现症状"
+    ],
+    "ask_numeric": []
+  },
+  "D-ID-16": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 14,
+    "n_pruned": 0,
+    "link_rule": "phrase",
+    "family_cue": null,
+    "profile_pest": "茶煤烟病",
+    "gate_ms": 0.301,
+    "slots": [
+      "表现症状"
+    ],
+    "ask_numeric": []
+  },
+  "D-ID-18": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 14,
+    "n_pruned": 0,
+    "link_rule": "phrase",
+    "family_cue": null,
+    "profile_pest": "茶膏药病",
+    "gate_ms": 0.306,
+    "slots": [
+      "表现症状"
+    ],
+    "ask_numeric": []
+  },
+  "D-ID-21": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 14,
+    "n_pruned": 0,
+    "link_rule": "phrase",
+    "family_cue": null,
+    "profile_pest": "茶藻斑病",
+    "gate_ms": 0.304,
+    "slots": [
+      "表现症状"
+    ],
+    "ask_numeric": []
+  },
+  "D-ID-22": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 17,
+    "n_pruned": 0,
+    "link_rule": "phrase",
+    "family_cue": null,
+    "profile_pest": "茶角胸叶甲",
+    "gate_ms": 0.332,
+    "slots": [
+      "表现症状"
+    ],
+    "ask_numeric": []
+  },
+  "D-ID-23": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 12,
+    "n_pruned": 0,
+    "link_rule": "phrase",
+    "family_cue": null,
+    "profile_pest": "茶赤叶斑病",
+    "gate_ms": 0.308,
+    "slots": [
+      "表现症状"
+    ],
+    "ask_numeric": []
+  },
+  "D-ID-24": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 94,
+    "n_pruned": 0,
+    "link_rule": "pest+family",
+    "family_cue": "螨",
+    "profile_pest": "茶跗线螨",
+    "gate_ms": 0.311,
+    "slots": [
+      "表现症状"
+    ],
+    "ask_numeric": []
+  },
+  "D-ID-25": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 17,
+    "n_pruned": 0,
+    "link_rule": "phrase",
+    "family_cue": null,
+    "profile_pest": "茶轮斑病",
+    "gate_ms": 0.307,
+    "slots": [
+      "表现症状"
+    ],
+    "ask_numeric": []
+  },
+  "D-ID-26": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 13,
+    "n_pruned": 0,
+    "link_rule": "phrase",
+    "family_cue": null,
+    "profile_pest": "茶饼病",
+    "gate_ms": 0.304,
+    "slots": [
+      "表现症状"
+    ],
+    "ask_numeric": []
+  },
+  "QA0186": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 17,
+    "n_pruned": 0,
+    "link_rule": "phrase",
+    "family_cue": null,
+    "profile_pest": "茶炭疽病",
+    "gate_ms": 0.305,
+    "slots": [
+      "表现症状",
+      "生物防治",
+      "化学防治",
+      "物理防治",
+      "农业防治"
+    ],
+    "ask_numeric": []
+  },
+  "QA0187": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 19,
+    "n_pruned": 0,
+    "link_rule": "phrase",
+    "family_cue": null,
+    "profile_pest": "茶尺蠖",
+    "gate_ms": 0.31,
+    "slots": [
+      "表现症状",
+      "生物防治",
+      "化学防治",
+      "物理防治",
+      "农业防治"
+    ],
+    "ask_numeric": []
+  },
+  "QA0188": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 20,
+    "n_pruned": 0,
+    "link_rule": "phrase",
+    "family_cue": null,
+    "profile_pest": "茶二叉蚜",
+    "gate_ms": 0.343,
+    "slots": [
+      "表现症状",
+      "生物防治",
+      "化学防治",
+      "物理防治",
+      "农业防治"
+    ],
+    "ask_numeric": []
+  },
+  "QA0190": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 16,
+    "n_pruned": 0,
+    "link_rule": "phrase",
+    "family_cue": null,
+    "profile_pest": "茶根结线虫",
+    "gate_ms": 0.308,
+    "slots": [
+      "表现症状",
+      "生物防治",
+      "化学防治",
+      "物理防治",
+      "农业防治"
+    ],
+    "ask_numeric": []
+  },
+  "QA0191": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 94,
+    "n_pruned": 0,
+    "link_rule": "pest+family",
+    "family_cue": "螨",
+    "profile_pest": "茶橙瘿螨",
+    "gate_ms": 0.341,
+    "slots": [
+      "表现症状",
+      "生物防治",
+      "化学防治",
+      "物理防治",
+      "农业防治"
+    ],
+    "ask_numeric": []
+  },
+  "QA0195": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 17,
+    "n_pruned": 0,
+    "link_rule": "phrase",
+    "family_cue": null,
+    "profile_pest": "茶轮斑病",
+    "gate_ms": 0.307,
+    "slots": [
+      "表现症状",
+      "生物防治",
+      "化学防治",
+      "物理防治",
+      "农业防治"
+    ],
+    "ask_numeric": []
+  },
+  "QA0196": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 18,
+    "n_pruned": 0,
+    "link_rule": "phrase",
+    "family_cue": null,
+    "profile_pest": "茶云纹叶枯病",
+    "gate_ms": 0.316,
+    "slots": [
+      "表现症状",
+      "生物防治",
+      "化学防治",
+      "物理防治",
+      "农业防治"
+    ],
+    "ask_numeric": []
+  },
+  "QA0197": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 14,
+    "n_pruned": 0,
+    "link_rule": "phrase",
+    "family_cue": null,
+    "profile_pest": "茶藻斑病",
+    "gate_ms": 0.314,
+    "slots": [
+      "表现症状",
+      "生物防治",
+      "化学防治",
+      "物理防治",
+      "农业防治"
+    ],
+    "ask_numeric": []
+  },
+  "QA0198": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 14,
+    "n_pruned": 0,
+    "link_rule": "phrase",
+    "family_cue": null,
+    "profile_pest": "茶膏药病",
+    "gate_ms": 0.357,
+    "slots": [
+      "表现症状",
+      "生物防治",
+      "化学防治",
+      "物理防治",
+      "农业防治"
+    ],
+    "ask_numeric": []
+  },
+  "QA0199": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 12,
+    "n_pruned": 0,
+    "link_rule": "phrase",
+    "family_cue": null,
+    "profile_pest": "茶赤叶斑病",
+    "gate_ms": 0.305,
+    "slots": [
+      "表现症状",
+      "生物防治",
+      "化学防治",
+      "物理防治",
+      "农业防治"
+    ],
+    "ask_numeric": []
+  },
+  "D-CT-02": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 22,
+    "n_pruned": 0,
+    "link_rule": "phrase",
+    "family_cue": null,
+    "profile_pest": "茶树介壳虫",
+    "gate_ms": 0.339,
+    "slots": [
+      "表现症状",
+      "生物防治",
+      "化学防治",
+      "物理防治",
+      "农业防治"
+    ],
+    "ask_numeric": []
+  },
+  "D-CT-03": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 94,
+    "n_pruned": 0,
+    "link_rule": "pest+family",
+    "family_cue": "螨",
+    "profile_pest": "咖啡小爪螨",
+    "gate_ms": 0.341,
+    "slots": [
+      "表现症状",
+      "生物防治",
+      "化学防治",
+      "物理防治",
+      "农业防治"
+    ],
+    "ask_numeric": []
+  },
+  "D-CT-04": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 94,
+    "n_pruned": 0,
+    "link_rule": "pest+family",
+    "family_cue": "螨",
+    "profile_pest": "茶叶丽瘿螨",
+    "gate_ms": 0.351,
+    "slots": [
+      "表现症状",
+      "生物防治",
+      "化学防治",
+      "物理防治",
+      "农业防治"
+    ],
+    "ask_numeric": []
+  },
+  "D-CT-05": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 95,
+    "n_pruned": 0,
+    "link_rule": "pest+family",
+    "family_cue": "螨",
+    "profile_pest": "茶跗线螨",
+    "gate_ms": 0.341,
+    "slots": [
+      "表现症状",
+      "生物防治",
+      "化学防治",
+      "物理防治",
+      "农业防治"
+    ],
+    "ask_numeric": []
+  },
+  "D-DF-03": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 20,
+    "n_pruned": 0,
+    "link_rule": "phrase",
+    "family_cue": null,
+    "profile_pest": "茶二叉蚜",
+    "gate_ms": 0.309,
+    "slots": [
+      "表现症状"
+    ],
+    "ask_numeric": []
+  },
+  "D-DF-04": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 94,
+    "n_pruned": 0,
+    "link_rule": "pest+family",
+    "family_cue": "螨",
+    "profile_pest": "咖啡小爪螨",
+    "gate_ms": 0.312,
+    "slots": [
+      "表现症状"
+    ],
+    "ask_numeric": []
+  },
+  "D-DF-06": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 14,
+    "n_pruned": 0,
+    "link_rule": "phrase",
+    "family_cue": null,
+    "profile_pest": "茶煤烟病",
+    "gate_ms": 0.311,
+    "slots": [
+      "表现症状"
+    ],
+    "ask_numeric": []
+  },
+  "D-DF-07": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 22,
+    "n_pruned": 0,
+    "link_rule": "phrase",
+    "family_cue": null,
+    "profile_pest": "茶树介壳虫",
+    "gate_ms": 0.301,
+    "slots": [
+      "表现症状"
+    ],
+    "ask_numeric": []
+  },
+  "D-DF-08": {
+    "decision": "answer",
+    "reasons": [],
+    "n_kept": 19,
+    "n_pruned": 0,
+    "link_rule": "phrase",
+    "family_cue": null,
+    "profile_pest": "茶云纹叶枯病",
+    "gate_ms": 0.376,
+    "slots": [
+      "表现症状"
+    ],
+    "ask_numeric": []
+  }
+}

@@ -1,0 +1,1424 @@
+[
+  {
+    "qa_id": "L-AC-01",
+    "stratum": "lookup",
+    "type": "pest_all_controls",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.9,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-AC-02",
+    "stratum": "lookup",
+    "type": "pest_all_controls",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.9,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-AC-03",
+    "stratum": "lookup",
+    "type": "pest_all_controls",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 1.0,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-AC-04",
+    "stratum": "lookup",
+    "type": "pest_all_controls",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 1.0,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-AC-05",
+    "stratum": "lookup",
+    "type": "pest_all_controls",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.9,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-AC-06",
+    "stratum": "lookup",
+    "type": "pest_all_controls",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.9,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-AC-07",
+    "stratum": "lookup",
+    "type": "pest_all_controls",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.9,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-AC-08",
+    "stratum": "lookup",
+    "type": "pest_all_controls",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.9,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-AC-09",
+    "stratum": "lookup",
+    "type": "pest_all_controls",
+    "correct": 1,
+    "verbalized": 0.95,
+    "structural": 1.0,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-AC-10",
+    "stratum": "lookup",
+    "type": "pest_all_controls",
+    "correct": 1,
+    "verbalized": 0.95,
+    "structural": 1.0,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-AC-11",
+    "stratum": "lookup",
+    "type": "pest_all_controls",
+    "correct": 1,
+    "verbalized": 0.95,
+    "structural": 1.0,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-AC-12",
+    "stratum": "lookup",
+    "type": "pest_all_controls",
+    "correct": 1,
+    "verbalized": 0.95,
+    "structural": 1.0,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-AC-13",
+    "stratum": "lookup",
+    "type": "pest_all_controls",
+    "correct": 1,
+    "verbalized": 0.95,
+    "structural": 1.0,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-AC-14",
+    "stratum": "lookup",
+    "type": "pest_all_controls",
+    "correct": 1,
+    "verbalized": 0.95,
+    "structural": 1.0,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-AC-15",
+    "stratum": "lookup",
+    "type": "pest_all_controls",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.9,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-AC-16",
+    "stratum": "lookup",
+    "type": "pest_all_controls",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 1.0,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-AC-17",
+    "stratum": "lookup",
+    "type": "pest_all_controls",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.9,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-AC-18",
+    "stratum": "lookup",
+    "type": "pest_all_controls",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 1.0,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-AC-19",
+    "stratum": "lookup",
+    "type": "pest_all_controls",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.8,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-AC-20",
+    "stratum": "lookup",
+    "type": "pest_all_controls",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.9,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-AC-21",
+    "stratum": "lookup",
+    "type": "pest_all_controls",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.9,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-AC-22",
+    "stratum": "lookup",
+    "type": "pest_all_controls",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 1.0,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-AC-23",
+    "stratum": "lookup",
+    "type": "pest_all_controls",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.8,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-AC-24",
+    "stratum": "lookup",
+    "type": "pest_all_controls",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.9,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-AC-25",
+    "stratum": "lookup",
+    "type": "pest_all_controls",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.9,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-AC-26",
+    "stratum": "lookup",
+    "type": "pest_all_controls",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.9,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-AC-27",
+    "stratum": "lookup",
+    "type": "pest_all_controls",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 1.0,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-AC-28",
+    "stratum": "lookup",
+    "type": "pest_all_controls",
+    "correct": 1,
+    "verbalized": 0.95,
+    "structural": 1.0,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-SY-01",
+    "stratum": "lookup",
+    "type": "pest_symptoms",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.9,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-SY-02",
+    "stratum": "lookup",
+    "type": "pest_symptoms",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.9,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-SY-03",
+    "stratum": "lookup",
+    "type": "pest_symptoms",
+    "correct": 0,
+    "verbalized": 0.85,
+    "structural": 1.0,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-SY-04",
+    "stratum": "lookup",
+    "type": "pest_symptoms",
+    "correct": 1,
+    "verbalized": 0.95,
+    "structural": 1.0,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-SY-05",
+    "stratum": "lookup",
+    "type": "pest_symptoms",
+    "correct": 1,
+    "verbalized": 0.95,
+    "structural": 0.9,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-SY-06",
+    "stratum": "lookup",
+    "type": "pest_symptoms",
+    "correct": 1,
+    "verbalized": 0.95,
+    "structural": 0.9,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-SY-07",
+    "stratum": "lookup",
+    "type": "pest_symptoms",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.9,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-SY-08",
+    "stratum": "lookup",
+    "type": "pest_symptoms",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.9,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-SY-09",
+    "stratum": "lookup",
+    "type": "pest_symptoms",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 1.0,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-SY-10",
+    "stratum": "lookup",
+    "type": "pest_symptoms",
+    "correct": 1,
+    "verbalized": 0.95,
+    "structural": 1.0,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-SY-11",
+    "stratum": "lookup",
+    "type": "pest_symptoms",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 1.0,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-SY-12",
+    "stratum": "lookup",
+    "type": "pest_symptoms",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 1.0,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-SY-13",
+    "stratum": "lookup",
+    "type": "pest_symptoms",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 1.0,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-SY-14",
+    "stratum": "lookup",
+    "type": "pest_symptoms",
+    "correct": 1,
+    "verbalized": 0.95,
+    "structural": 1.0,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-SY-15",
+    "stratum": "lookup",
+    "type": "pest_symptoms",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.9,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-SY-16",
+    "stratum": "lookup",
+    "type": "pest_symptoms",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 1.0,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-SY-17",
+    "stratum": "lookup",
+    "type": "pest_symptoms",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.9,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-SY-18",
+    "stratum": "lookup",
+    "type": "pest_symptoms",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 1.0,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-SY-19",
+    "stratum": "lookup",
+    "type": "pest_symptoms",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.8,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-SY-20",
+    "stratum": "lookup",
+    "type": "pest_symptoms",
+    "correct": 1,
+    "verbalized": 0.95,
+    "structural": 0.9,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-SY-21",
+    "stratum": "lookup",
+    "type": "pest_symptoms",
+    "correct": 0,
+    "verbalized": 0.85,
+    "structural": 0.9,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-SY-22",
+    "stratum": "lookup",
+    "type": "pest_symptoms",
+    "correct": 1,
+    "verbalized": 0.95,
+    "structural": 1.0,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-SY-23",
+    "stratum": "lookup",
+    "type": "pest_symptoms",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.8,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-SY-24",
+    "stratum": "lookup",
+    "type": "pest_symptoms",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.9,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-SY-25",
+    "stratum": "lookup",
+    "type": "pest_symptoms",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.9,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-SY-26",
+    "stratum": "lookup",
+    "type": "pest_symptoms",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.9,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-SY-27",
+    "stratum": "lookup",
+    "type": "pest_symptoms",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 1.0,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-SY-28",
+    "stratum": "lookup",
+    "type": "pest_symptoms",
+    "correct": 1,
+    "verbalized": 0.95,
+    "structural": 1.0,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-CT-生-01",
+    "stratum": "lookup",
+    "type": "pest_control",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.9,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-CT-生-02",
+    "stratum": "lookup",
+    "type": "pest_control",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.9,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-CT-生-03",
+    "stratum": "lookup",
+    "type": "pest_control",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 1.0,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-CT-生-04",
+    "stratum": "lookup",
+    "type": "pest_control",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 1.0,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-CT-化-01",
+    "stratum": "lookup",
+    "type": "pest_control",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.9,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-CT-化-02",
+    "stratum": "lookup",
+    "type": "pest_control",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.9,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-CT-化-03",
+    "stratum": "lookup",
+    "type": "pest_control",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 1.0,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-CT-化-04",
+    "stratum": "lookup",
+    "type": "pest_control",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 1.0,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-CT-农-01",
+    "stratum": "lookup",
+    "type": "pest_control",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.9,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-CT-农-02",
+    "stratum": "lookup",
+    "type": "pest_control",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.9,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-CT-农-03",
+    "stratum": "lookup",
+    "type": "pest_control",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 1.0,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-CT-物-01",
+    "stratum": "lookup",
+    "type": "pest_control",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 1.0,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-CT-物-02",
+    "stratum": "lookup",
+    "type": "pest_control",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 1.0,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "L-CT-物-03",
+    "stratum": "lookup",
+    "type": "pest_control",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.9,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "D-ID-01",
+    "stratum": "diagnosis",
+    "type": "symptom_identify",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.3,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "D-ID-02",
+    "stratum": "diagnosis",
+    "type": "symptom_identify",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.15,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "D-ID-03",
+    "stratum": "diagnosis",
+    "type": "symptom_identify",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.15,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "D-ID-04",
+    "stratum": "diagnosis",
+    "type": "symptom_identify",
+    "correct": 1,
+    "verbalized": 0.95,
+    "structural": 0.15,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "D-ID-05",
+    "stratum": "diagnosis",
+    "type": "symptom_identify",
+    "correct": 1,
+    "verbalized": 0.95,
+    "structural": 0.15,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "D-ID-06",
+    "stratum": "diagnosis",
+    "type": "symptom_identify",
+    "correct": 1,
+    "verbalized": 0.95,
+    "structural": 0.0,
+    "gate": 0.0
+  },
+  {
+    "qa_id": "D-ID-07",
+    "stratum": "diagnosis",
+    "type": "symptom_identify",
+    "correct": 1,
+    "verbalized": 0.95,
+    "structural": 0.15,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "D-ID-08",
+    "stratum": "diagnosis",
+    "type": "symptom_identify",
+    "correct": 1,
+    "verbalized": 0.95,
+    "structural": 0.0,
+    "gate": 0.0
+  },
+  {
+    "qa_id": "D-ID-09",
+    "stratum": "diagnosis",
+    "type": "symptom_identify",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.45,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "D-ID-10",
+    "stratum": "diagnosis",
+    "type": "symptom_identify",
+    "correct": 1,
+    "verbalized": 0.95,
+    "structural": 0.15,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "D-ID-11",
+    "stratum": "diagnosis",
+    "type": "symptom_identify",
+    "correct": 1,
+    "verbalized": 0.95,
+    "structural": 0.15,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "D-ID-12",
+    "stratum": "diagnosis",
+    "type": "symptom_identify",
+    "correct": 1,
+    "verbalized": 0.95,
+    "structural": 0.15,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "D-ID-13",
+    "stratum": "diagnosis",
+    "type": "symptom_identify",
+    "correct": 1,
+    "verbalized": 0.95,
+    "structural": 0.6,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "D-ID-14",
+    "stratum": "diagnosis",
+    "type": "symptom_identify",
+    "correct": 1,
+    "verbalized": 0.95,
+    "structural": 0.3,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "D-ID-15",
+    "stratum": "diagnosis",
+    "type": "symptom_identify",
+    "correct": 1,
+    "verbalized": 0.95,
+    "structural": 0.45,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "D-ID-16",
+    "stratum": "diagnosis",
+    "type": "symptom_identify",
+    "correct": 1,
+    "verbalized": 0.95,
+    "structural": 0.15,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "D-ID-17",
+    "stratum": "diagnosis",
+    "type": "symptom_identify",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.0,
+    "gate": 0.0
+  },
+  {
+    "qa_id": "D-ID-18",
+    "stratum": "diagnosis",
+    "type": "symptom_identify",
+    "correct": 1,
+    "verbalized": 0.95,
+    "structural": 0.3,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "D-ID-19",
+    "stratum": "diagnosis",
+    "type": "symptom_identify",
+    "correct": 1,
+    "verbalized": 0.95,
+    "structural": 0.3,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "D-ID-20",
+    "stratum": "diagnosis",
+    "type": "symptom_identify",
+    "correct": 1,
+    "verbalized": 0.95,
+    "structural": 0.15,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "D-ID-21",
+    "stratum": "diagnosis",
+    "type": "symptom_identify",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.3,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "D-ID-22",
+    "stratum": "diagnosis",
+    "type": "symptom_identify",
+    "correct": 1,
+    "verbalized": 0.95,
+    "structural": 0.45,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "D-ID-23",
+    "stratum": "diagnosis",
+    "type": "symptom_identify",
+    "correct": 1,
+    "verbalized": 0.95,
+    "structural": 0.3,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "D-ID-24",
+    "stratum": "diagnosis",
+    "type": "symptom_identify",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.45,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "D-ID-25",
+    "stratum": "diagnosis",
+    "type": "symptom_identify",
+    "correct": 1,
+    "verbalized": 0.95,
+    "structural": 0.45,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "D-ID-26",
+    "stratum": "diagnosis",
+    "type": "symptom_identify",
+    "correct": 1,
+    "verbalized": 0.95,
+    "structural": 0.15,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "D-ID-27",
+    "stratum": "diagnosis",
+    "type": "symptom_identify",
+    "correct": 1,
+    "verbalized": 0.95,
+    "structural": 0.15,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "D-ID-28",
+    "stratum": "diagnosis",
+    "type": "symptom_identify",
+    "correct": 1,
+    "verbalized": 0.95,
+    "structural": 0.3,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "QA0186",
+    "stratum": "diagnosis",
+    "type": "open_diagnosis",
+    "correct": 1,
+    "verbalized": 0.95,
+    "structural": 0.45,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "QA0187",
+    "stratum": "diagnosis",
+    "type": "open_diagnosis",
+    "correct": 1,
+    "verbalized": 0.95,
+    "structural": 0.15,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "QA0188",
+    "stratum": "diagnosis",
+    "type": "open_diagnosis",
+    "correct": 0,
+    "verbalized": 0.85,
+    "structural": 0.15,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "QA0189",
+    "stratum": "diagnosis",
+    "type": "open_diagnosis",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.0,
+    "gate": 0.0
+  },
+  {
+    "qa_id": "QA0190",
+    "stratum": "diagnosis",
+    "type": "open_diagnosis",
+    "correct": 1,
+    "verbalized": 0.95,
+    "structural": 0.15,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "QA0191",
+    "stratum": "diagnosis",
+    "type": "open_diagnosis",
+    "correct": 1,
+    "verbalized": 0.95,
+    "structural": 0.0,
+    "gate": 0.0
+  },
+  {
+    "qa_id": "QA0192",
+    "stratum": "diagnosis",
+    "type": "open_diagnosis",
+    "correct": 1,
+    "verbalized": 0.95,
+    "structural": 0.15,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "QA0193",
+    "stratum": "diagnosis",
+    "type": "open_diagnosis",
+    "correct": 0,
+    "verbalized": 0.85,
+    "structural": 0.0,
+    "gate": 0.0
+  },
+  {
+    "qa_id": "QA0194",
+    "stratum": "diagnosis",
+    "type": "open_diagnosis",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.3,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "QA0195",
+    "stratum": "diagnosis",
+    "type": "open_diagnosis",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.3,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "QA0196",
+    "stratum": "diagnosis",
+    "type": "open_diagnosis",
+    "correct": 1,
+    "verbalized": 0.95,
+    "structural": 0.15,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "QA0197",
+    "stratum": "diagnosis",
+    "type": "open_diagnosis",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.15,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "QA0198",
+    "stratum": "diagnosis",
+    "type": "open_diagnosis",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.15,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "QA0199",
+    "stratum": "diagnosis",
+    "type": "open_diagnosis",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.3,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "D-CT-01",
+    "stratum": "diagnosis",
+    "type": "open_diagnosis",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.0,
+    "gate": 0.0
+  },
+  {
+    "qa_id": "D-CT-02",
+    "stratum": "diagnosis",
+    "type": "open_diagnosis",
+    "correct": 1,
+    "verbalized": 0.95,
+    "structural": 0.15,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "D-CT-03",
+    "stratum": "diagnosis",
+    "type": "open_diagnosis",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.15,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "D-CT-04",
+    "stratum": "diagnosis",
+    "type": "open_diagnosis",
+    "correct": 1,
+    "verbalized": 0.95,
+    "structural": 0.3,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "D-CT-05",
+    "stratum": "diagnosis",
+    "type": "open_diagnosis",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.6,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "D-CT-06",
+    "stratum": "diagnosis",
+    "type": "open_diagnosis",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.15,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "D-DF-01",
+    "stratum": "diagnosis",
+    "type": "differential",
+    "correct": 0,
+    "verbalized": 0.95,
+    "structural": 0.0,
+    "gate": 0.0
+  },
+  {
+    "qa_id": "D-DF-02",
+    "stratum": "diagnosis",
+    "type": "differential",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.0,
+    "gate": 0.0
+  },
+  {
+    "qa_id": "D-DF-03",
+    "stratum": "diagnosis",
+    "type": "differential",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.15,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "D-DF-04",
+    "stratum": "diagnosis",
+    "type": "differential",
+    "correct": 0,
+    "verbalized": 0.85,
+    "structural": 0.15,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "D-DF-05",
+    "stratum": "diagnosis",
+    "type": "differential",
+    "correct": 1,
+    "verbalized": 0.95,
+    "structural": 0.0,
+    "gate": 0.0
+  },
+  {
+    "qa_id": "D-DF-06",
+    "stratum": "diagnosis",
+    "type": "differential",
+    "correct": 0,
+    "verbalized": 0.95,
+    "structural": 0.15,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "D-DF-07",
+    "stratum": "diagnosis",
+    "type": "differential",
+    "correct": 0,
+    "verbalized": 0.85,
+    "structural": 0.15,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "D-DF-08",
+    "stratum": "diagnosis",
+    "type": "differential",
+    "correct": 1,
+    "verbalized": 0.95,
+    "structural": 0.15,
+    "gate": 1.0
+  },
+  {
+    "qa_id": "D-DF-09",
+    "stratum": "diagnosis",
+    "type": "differential",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.0,
+    "gate": 0.0
+  },
+  {
+    "qa_id": "D-DF-10",
+    "stratum": "diagnosis",
+    "type": "differential",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.0,
+    "gate": 0.0
+  },
+  {
+    "qa_id": "X-PST-01",
+    "stratum": "ood",
+    "type": "ood_unknown_pest",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.0,
+    "gate": 0.0
+  },
+  {
+    "qa_id": "X-PST-02",
+    "stratum": "ood",
+    "type": "ood_unknown_pest",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.0,
+    "gate": 0.0
+  },
+  {
+    "qa_id": "X-PST-03",
+    "stratum": "ood",
+    "type": "ood_unknown_pest",
+    "correct": 0,
+    "verbalized": 0.95,
+    "structural": 0.0,
+    "gate": 0.0
+  },
+  {
+    "qa_id": "X-PST-04",
+    "stratum": "ood",
+    "type": "ood_unknown_pest",
+    "correct": 0,
+    "verbalized": 0.95,
+    "structural": 0.0,
+    "gate": 0.0
+  },
+  {
+    "qa_id": "X-PST-05",
+    "stratum": "ood",
+    "type": "ood_unknown_pest",
+    "correct": 0,
+    "verbalized": 0.95,
+    "structural": 0.0,
+    "gate": 0.0
+  },
+  {
+    "qa_id": "X-PST-06",
+    "stratum": "ood",
+    "type": "ood_unknown_pest",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.0,
+    "gate": 0.0
+  },
+  {
+    "qa_id": "X-PST-07",
+    "stratum": "ood",
+    "type": "ood_unknown_pest",
+    "correct": 0,
+    "verbalized": 0.95,
+    "structural": 0.0,
+    "gate": 0.0
+  },
+  {
+    "qa_id": "X-PST-08",
+    "stratum": "ood",
+    "type": "ood_unknown_pest",
+    "correct": 0,
+    "verbalized": 0.95,
+    "structural": 0.0,
+    "gate": 0.0
+  },
+  {
+    "qa_id": "X-PST-09",
+    "stratum": "ood",
+    "type": "ood_unknown_pest",
+    "correct": 0,
+    "verbalized": 0.95,
+    "structural": 0.0,
+    "gate": 0.0
+  },
+  {
+    "qa_id": "X-PST-10",
+    "stratum": "ood",
+    "type": "ood_unknown_pest",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.0,
+    "gate": 0.0
+  },
+  {
+    "qa_id": "X-PST-11",
+    "stratum": "ood",
+    "type": "ood_unknown_pest",
+    "correct": 0,
+    "verbalized": 1.0,
+    "structural": 0.0,
+    "gate": 0.0
+  },
+  {
+    "qa_id": "X-PST-12",
+    "stratum": "ood",
+    "type": "ood_unknown_pest",
+    "correct": 0,
+    "verbalized": 1.0,
+    "structural": 0.0,
+    "gate": 0.0
+  },
+  {
+    "qa_id": "X-PST-13",
+    "stratum": "ood",
+    "type": "ood_unknown_pest",
+    "correct": 0,
+    "verbalized": 0.85,
+    "structural": 0.0,
+    "gate": 0.0
+  },
+  {
+    "qa_id": "X-PST-14",
+    "stratum": "ood",
+    "type": "ood_unknown_pest",
+    "correct": 0,
+    "verbalized": 0.95,
+    "structural": 0.0,
+    "gate": 0.0
+  },
+  {
+    "qa_id": "X-PST-15",
+    "stratum": "ood",
+    "type": "ood_unknown_pest",
+    "correct": 0,
+    "verbalized": 0.95,
+    "structural": 0.0,
+    "gate": 0.0
+  },
+  {
+    "qa_id": "X-PST-16",
+    "stratum": "ood",
+    "type": "ood_unknown_pest",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.0,
+    "gate": 0.0
+  },
+  {
+    "qa_id": "X-DOM-01",
+    "stratum": "ood",
+    "type": "ood_crossdomain",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.0,
+    "gate": 0.0
+  },
+  {
+    "qa_id": "X-DOM-02",
+    "stratum": "ood",
+    "type": "ood_crossdomain",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.0,
+    "gate": 0.0
+  },
+  {
+    "qa_id": "X-DOM-03",
+    "stratum": "ood",
+    "type": "ood_crossdomain",
+    "correct": 0,
+    "verbalized": 0.85,
+    "structural": 0.0,
+    "gate": 0.0
+  },
+  {
+    "qa_id": "X-DOM-04",
+    "stratum": "ood",
+    "type": "ood_crossdomain",
+    "correct": 1,
+    "verbalized": 0.0,
+    "structural": 0.0,
+    "gate": 0.0
+  },
+  {
+    "qa_id": "X-DOM-05",
+    "stratum": "ood",
+    "type": "ood_crossdomain",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.0,
+    "gate": 0.0
+  },
+  {
+    "qa_id": "X-DOM-06",
+    "stratum": "ood",
+    "type": "ood_crossdomain",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.0,
+    "gate": 0.0
+  },
+  {
+    "qa_id": "X-DOM-07",
+    "stratum": "ood",
+    "type": "ood_crossdomain",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.0,
+    "gate": 0.0
+  },
+  {
+    "qa_id": "X-CON-01",
+    "stratum": "ood",
+    "type": "ood_contradictory",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.0,
+    "gate": 0.0
+  },
+  {
+    "qa_id": "X-CON-02",
+    "stratum": "ood",
+    "type": "ood_contradictory",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.0,
+    "gate": 0.0
+  },
+  {
+    "qa_id": "X-CON-03",
+    "stratum": "ood",
+    "type": "ood_contradictory",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.0,
+    "gate": 0.0
+  },
+  {
+    "qa_id": "X-CON-04",
+    "stratum": "ood",
+    "type": "ood_contradictory",
+    "correct": 1,
+    "verbalized": 0.8,
+    "structural": 0.0,
+    "gate": 0.0
+  },
+  {
+    "qa_id": "X-CON-05",
+    "stratum": "ood",
+    "type": "ood_contradictory",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.0,
+    "gate": 0.0
+  },
+  {
+    "qa_id": "X-CON-06",
+    "stratum": "ood",
+    "type": "ood_contradictory",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.0,
+    "gate": 0.0
+  },
+  {
+    "qa_id": "X-CON-07",
+    "stratum": "ood",
+    "type": "ood_contradictory",
+    "correct": 1,
+    "verbalized": 0.85,
+    "structural": 0.0,
+    "gate": 0.0
+  }
+]

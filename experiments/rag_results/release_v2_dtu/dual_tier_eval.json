@@ -1,0 +1,166 @@
+{
+  "qwen2.5-14b": {
+    "fused": {
+      "hit": 0.9609,
+      "recall": 0.8754,
+      "ood_regex_leak": 16
+    },
+    "strict": {
+      "hit": 0.9062,
+      "recall": 0.8409,
+      "precision": 0.5235,
+      "f1": 0.5854,
+      "diagnosis_acc": 0.7974,
+      "control_recall": 0.8105,
+      "ood_regex_leak": 0,
+      "ood_semantic_leak": 0,
+      "recall_vs_fused": {
+        "mean_diff": -0.0345,
+        "ci95": [
+          -0.0688,
+          -0.0052
+        ],
+        "noninferior_-3pp": false
+      },
+      "hit_vs_fused": {
+        "mean_diff": -0.0547,
+        "ci95": [
+          -0.0938,
+          -0.0156
+        ],
+        "noninferior_-3pp": false
+      }
+    },
+    "advisory": {
+      "hit": 0.9297,
+      "recall": 0.8639,
+      "precision": 0.5403,
+      "f1": 0.6028,
+      "diagnosis_acc": 0.8491,
+      "control_recall": 0.9077,
+      "ood_regex_leak": 4,
+      "ood_semantic_leak": 2,
+      "ood_semantic_reject": 2,
+      "wrong_commit_ids": [
+        "X-PST-09",
+        "X-PST-11"
+      ],
+      "recall_vs_fused": {
+        "mean_diff": -0.0115,
+        "ci95": [
+          -0.0309,
+          0.0061
+        ],
+        "noninferior_-3pp": false
+      },
+      "hit_vs_fused": {
+        "mean_diff": -0.0312,
+        "ci95": [
+          -0.0625,
+          -0.0078
+        ],
+        "noninferior_-3pp": false
+      },
+      "audit": {
+        "X-PST-06": [
+          "semantic_reject",
+          "自述'并不是介壳虫症状…无法判断'，未荐药"
+        ],
+        "X-PST-09": [
+          "wrong_commit",
+          "错误确诊茶尺蠖并给出全套防治"
+        ],
+        "X-PST-11": [
+          "wrong_commit",
+          "错误确诊茶尺蠖并给出全套防治"
+        ],
+        "X-PST-16": [
+          "semantic_reject",
+          "自述'并不是茶毛虫…防治措施不适用'，未荐药"
+        ]
+      }
+    }
+  },
+  "qwen2.5-7b": {
+    "fused": {
+      "hit": 0.9766,
+      "recall": 0.8977,
+      "ood_regex_leak": 12
+    },
+    "strict": {
+      "hit": 0.9297,
+      "recall": 0.8802,
+      "precision": 0.5318,
+      "f1": 0.6062,
+      "diagnosis_acc": 0.7917,
+      "control_recall": 0.7888,
+      "ood_regex_leak": 0,
+      "ood_semantic_leak": 0,
+      "recall_vs_fused": {
+        "mean_diff": -0.0175,
+        "ci95": [
+          -0.0567,
+          0.0188
+        ],
+        "noninferior_-3pp": false
+      },
+      "hit_vs_fused": {
+        "mean_diff": -0.0469,
+        "ci95": [
+          -0.1016,
+          0.0
+        ],
+        "noninferior_-3pp": false
+      }
+    },
+    "advisory": {
+      "hit": 0.9531,
+      "recall": 0.9036,
+      "precision": 0.5486,
+      "f1": 0.6238,
+      "diagnosis_acc": 0.8434,
+      "control_recall": 0.8888,
+      "ood_regex_leak": 2,
+      "ood_semantic_leak": 2,
+      "ood_semantic_reject": 2,
+      "wrong_commit_ids": [
+        "X-PST-11",
+        "X-PST-16"
+      ],
+      "recall_vs_fused": {
+        "mean_diff": 0.0059,
+        "ci95": [
+          -0.0207,
+          0.0339
+        ],
+        "noninferior_-3pp": true
+      },
+      "hit_vs_fused": {
+        "mean_diff": -0.0234,
+        "ci95": [
+          -0.0625,
+          0.0156
+        ],
+        "noninferior_-3pp": false
+      },
+      "audit": {
+        "X-PST-06": [
+          "semantic_reject",
+          "自述'并不符合介壳虫表现症状'"
+        ],
+        "X-PST-09": [
+          "semantic_reject",
+          "自述'并不符合茶尺蠖特征…根据现有…'"
+        ],
+        "X-PST-11": [
+          "wrong_commit",
+          "错误确诊茶尺蠖并列防治措施"
+        ],
+        "X-PST-16": [
+          "wrong_commit",
+          "称与茶毛虫相符（错误诊断，含混淆表述）"
+        ]
+      }
+    }
+  }
+}

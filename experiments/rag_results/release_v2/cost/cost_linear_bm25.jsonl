@@ -1,0 +1,12 @@
+{"model": "qwen2.5-14b-custom", "tag": "", "ts": 1792207977.5, "prompt_chars": 165, "prompt_tokens": 145, "gen_tokens": 70, "total_s": 2.263, "prompt_eval_s": 0.161, "gen_s": 2.068}
+{"model": "qwen2.5-14b-custom", "tag": "", "ts": 1792207979.4, "prompt_chars": 161, "prompt_tokens": 144, "gen_tokens": 60, "total_s": 1.913, "prompt_eval_s": 0.126, "gen_s": 1.774}
+{"model": "qwen2.5-14b-custom", "tag": "", "ts": 1792207981.5, "prompt_chars": 169, "prompt_tokens": 148, "gen_tokens": 63, "total_s": 1.997, "prompt_eval_s": 0.122, "gen_s": 1.864}
+{"model": "qwen2.5-14b-custom", "tag": "", "ts": 1792207987.5, "prompt_chars": 169, "prompt_tokens": 151, "gen_tokens": 192, "total_s": 5.994, "prompt_eval_s": 0.123, "gen_s": 5.852}
+{"model": "qwen2.5-14b-custom", "tag": "", "ts": 1792207989.7, "prompt_chars": 172, "prompt_tokens": 146, "gen_tokens": 71, "total_s": 2.212, "prompt_eval_s": 0.121, "gen_s": 2.067}
+{"model": "qwen2.5-14b-custom", "tag": "", "ts": 1792207991.1, "prompt_chars": 158, "prompt_tokens": 143, "gen_tokens": 41, "total_s": 1.349, "prompt_eval_s": 0.12, "gen_s": 1.209}
+{"model": "qwen2.5-14b-custom", "tag": "", "ts": 1792207999.7, "prompt_chars": 199, "prompt_tokens": 170, "gen_tokens": 280, "total_s": 8.575, "prompt_eval_s": 0.161, "gen_s": 8.397}
+{"model": "qwen2.5-14b-custom", "tag": "", "ts": 1792208004.2, "prompt_chars": 184, "prompt_tokens": 169, "gen_tokens": 143, "total_s": 4.457, "prompt_eval_s": 0.161, "gen_s": 4.268}
+{"model": "qwen2.5-14b-custom", "tag": "", "ts": 1792208011.1, "prompt_chars": 178, "prompt_tokens": 160, "gen_tokens": 225, "total_s": 6.91, "prompt_eval_s": 0.124, "gen_s": 6.763}
+{"model": "qwen2.5-14b-custom", "tag": "", "ts": 1792208018.8, "prompt_chars": 207, "prompt_tokens": 172, "gen_tokens": 250, "total_s": 7.69, "prompt_eval_s": 0.166, "gen_s": 7.498}
+{"model": "qwen2.5-14b-custom", "tag": "", "ts": 1792208030.5, "prompt_chars": 185, "prompt_tokens": 165, "gen_tokens": 382, "total_s": 11.684, "prompt_eval_s": 0.162, "gen_s": 11.496}
+{"model": "qwen2.5-14b-custom", "tag": "", "ts": 1792208038.5, "prompt_chars": 211, "prompt_tokens": 191, "gen_tokens": 260, "total_s": 7.994, "prompt_eval_s": 0.167, "gen_s": 7.796}

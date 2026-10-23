@@ -1,0 +1,12 @@
+{"model": "qwen2.5-14b-custom", "tag": "", "ts": 1792208366.2, "prompt_chars": 15, "prompt_tokens": 461, "gen_tokens": 178, "total_s": 5.833, "prompt_eval_s": 0.438, "gen_s": 5.356}
+{"model": "qwen2.5-14b-custom", "tag": "", "ts": 1792208372.3, "prompt_chars": 14, "prompt_tokens": 438, "gen_tokens": 187, "total_s": 6.061, "prompt_eval_s": 0.406, "gen_s": 5.615}
+{"model": "qwen2.5-14b-custom", "tag": "", "ts": 1792208373.7, "prompt_chars": 18, "prompt_tokens": 465, "gen_tokens": 46, "total_s": 1.464, "prompt_eval_s": 0.048, "gen_s": 1.359}
+{"model": "qwen2.5-14b-custom", "tag": "", "ts": 1792208376.1, "prompt_chars": 16, "prompt_tokens": 579, "gen_tokens": 60, "total_s": 2.306, "prompt_eval_s": 0.499, "gen_s": 1.777}
+{"model": "qwen2.5-14b-custom", "tag": "", "ts": 1792208378.8, "prompt_chars": 17, "prompt_tokens": 487, "gen_tokens": 74, "total_s": 2.674, "prompt_eval_s": 0.416, "gen_s": 2.211}
+{"model": "qwen2.5-14b-custom", "tag": "", "ts": 1792208379.6, "prompt_chars": 16, "prompt_tokens": 325, "gen_tokens": 19, "total_s": 0.855, "prompt_eval_s": 0.276, "gen_s": 0.543}
+{"model": "qwen2.5-14b-custom", "tag": "", "ts": 1792208384.0, "prompt_chars": 43, "prompt_tokens": 281, "gen_tokens": 139, "total_s": 4.408, "prompt_eval_s": 0.228, "gen_s": 4.161}
+{"model": "qwen2.5-14b-custom", "tag": "", "ts": 1792208388.8, "prompt_chars": 36, "prompt_tokens": 277, "gen_tokens": 150, "total_s": 4.746, "prompt_eval_s": 0.226, "gen_s": 4.49}
+{"model": "qwen2.5-14b-custom", "tag": "", "ts": 1792208394.3, "prompt_chars": 33, "prompt_tokens": 296, "gen_tokens": 177, "total_s": 5.559, "prompt_eval_s": 0.229, "gen_s": 5.307}
+{"model": "qwen2.5-14b-custom", "tag": "", "ts": 1792208399.0, "prompt_chars": 51, "prompt_tokens": 278, "gen_tokens": 145, "total_s": 4.603, "prompt_eval_s": 0.227, "gen_s": 4.324}
+{"model": "qwen2.5-14b-custom", "tag": "", "ts": 1792208405.8, "prompt_chars": 41, "prompt_tokens": 318, "gen_tokens": 218, "total_s": 6.843, "prompt_eval_s": 0.273, "gen_s": 6.54}
+{"model": "qwen2.5-14b-custom", "tag": "", "ts": 1792208408.8, "prompt_chars": 46, "prompt_tokens": 242, "gen_tokens": 93, "total_s": 3.005, "prompt_eval_s": 0.186, "gen_s": 2.785}

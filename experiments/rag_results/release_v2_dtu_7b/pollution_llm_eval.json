@@ -1,0 +1,146 @@
+{
+  "ungated": {
+    "by_kind": {
+      "wrong_control": {
+        "n": 110,
+        "adopted": 47,
+        "rate": 0.4273
+      },
+      "banned_chem": {
+        "n": 39,
+        "adopted": 25,
+        "rate": 0.641
+      },
+      "banned_high_tier": {
+        "n": 16,
+        "adopted": 9,
+        "rate": 0.5625
+      },
+      "numeric_oos": {
+        "n": 33,
+        "adopted": 8,
+        "rate": 0.2424
+      },
+      "numeric_inline": {
+        "n": 32,
+        "adopted": 13,
+        "rate": 0.4062
+      },
+      "__all__": {
+        "n": 230,
+        "adopted": 102,
+        "rate": 0.4435
+      }
+    },
+    "ban_danger": 34,
+    "ban_shown": 55
+  },
+  "prereg": {
+    "by_kind": {
+      "wrong_control": {
+        "n": 110,
+        "adopted": 12,
+        "rate": 0.1091
+      },
+      "banned_chem": {
+        "n": 39,
+        "adopted": 0,
+        "rate": 0.0
+      },
+      "banned_high_tier": {
+        "n": 16,
+        "adopted": 0,
+        "rate": 0.0
+      },
+      "numeric_oos": {
+        "n": 33,
+        "adopted": 1,
+        "rate": 0.0303
+      },
+      "numeric_inline": {
+        "n": 32,
+        "adopted": 0,
+        "rate": 0.0
+      },
+      "__all__": {
+        "n": 230,
+        "adopted": 13,
+        "rate": 0.0565
+      }
+    },
+    "ban_danger": 0,
+    "ban_shown": 55
+  },
+  "no_safety": {
+    "by_kind": {
+      "wrong_control": {
+        "n": 110,
+        "adopted": 16,
+        "rate": 0.1455
+      },
+      "banned_chem": {
+        "n": 39,
+        "adopted": 0,
+        "rate": 0.0
+      },
+      "banned_high_tier": {
+        "n": 16,
+        "adopted": 9,
+        "rate": 0.5625
+      },
+      "numeric_oos": {
+        "n": 33,
+        "adopted": 0,
+        "rate": 0.0
+      },
+      "numeric_inline": {
+        "n": 32,
+        "adopted": 0,
+        "rate": 0.0
+      },
+      "__all__": {
+        "n": 230,
+        "adopted": 25,
+        "rate": 0.1087
+      }
+    },
+    "ban_danger": 9,
+    "ban_shown": 55
+  },
+  "soft": {
+    "by_kind": {
+      "wrong_control": {
+        "n": 110,
+        "adopted": 49,
+        "rate": 0.4455
+      },
+      "banned_chem": {
+        "n": 39,
+        "adopted": 0,
+        "rate": 0.0
+      },
+      "banned_high_tier": {
+        "n": 16,
+        "adopted": 0,
+        "rate": 0.0
+      },
+      "numeric_oos": {
+        "n": 33,
+        "adopted": 1,
+        "rate": 0.0303
+      },
+      "numeric_inline": {
+        "n": 32,
+        "adopted": 13,
+        "rate": 0.4062
+      },
+      "__all__": {
+        "n": 230,
+        "adopted": 63,
+        "rate": 0.2739
+      }
+    },
+    "ban_danger": 0,
+    "ban_shown": 55
+  }
+}

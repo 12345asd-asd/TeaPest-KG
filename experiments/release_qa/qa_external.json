@@ -1,0 +1,1270 @@
+[
+  {
+    "id": "E-TH-01",
+    "stratum": "external",
+    "type": "threshold",
+    "difficulty": "hard",
+    "hops": 0,
+    "question": "按绿色防控技术资料，茶小绿叶蝉达到什么虫口密度时进行化学防治（百叶若虫数）？",
+    "context_entity": "茶小绿叶蝉",
+    "answer_list": [],
+    "expected": "answer",
+    "gold_source": "GCWZ/T 4-2015 §5/附录A/B（梧州农科所2015）",
+    "gold_text": "百叶若虫量25~30头",
+    "gold_groups": [
+      [
+        "25\\s*[-~～到至–—、]\\s*30"
+      ],
+      [
+        "百叶"
+      ]
+    ],
+    "need": 2,
+    "kg_answerable": false
+  },
+  {
+    "id": "E-TH-02",
+    "stratum": "external",
+    "type": "threshold",
+    "difficulty": "hard",
+    "hops": 0,
+    "question": "资料中茶毛虫的化学防治指标是百丛卵块达到多少？",
+    "context_entity": "茶毛虫",
+    "answer_list": [],
+    "expected": "answer",
+    "gold_source": "GCWZ/T 4-2015 §5/附录A/B（梧州农科所2015）",
+    "gold_text": "百丛卵块5个以上",
+    "gold_groups": [
+      [
+        "[5５五]\\s*个?\\s*(以上)?"
+      ],
+      [
+        "百丛"
+      ]
+    ],
+    "need": 2,
+    "kg_answerable": false
+  },
+  {
+    "id": "E-TH-03",
+    "stratum": "external",
+    "type": "threshold",
+    "difficulty": "hard",
+    "hops": 0,
+    "question": "黑刺粉虱等粉虱类的化学防治指标是每叶虫口多少头（小叶种）？",
+    "context_entity": "黑刺粉虱",
+    "answer_list": [],
+    "expected": "answer",
+    "gold_source": "GCWZ/T 4-2015 §5/附录A/B（梧州农科所2015）",
+    "gold_text": "小叶种2~3头/叶（大叶种4~7头）",
+    "gold_groups": [
+      [
+        "[2２二]\\s*[-~～到至–—、]\\s*[3３三]\\s*头"
+      ],
+      [
+        "小叶种|每叶|/叶"
+      ]
+    ],
+    "need": 2,
+    "kg_answerable": false
+  },
+  {
+    "id": "E-TH-04",
+    "stratum": "external",
+    "type": "threshold",
+    "difficulty": "hard",
+    "hops": 0,
+    "question": "茶尺蠖的化学防治指标是每平方米幼虫达到多少头？",
+    "context_entity": "茶尺蠖",
+    "answer_list": [],
+    "expected": "answer",
+    "gold_source": "GCWZ/T 4-2015 §5/附录A/B（梧州农科所2015）",
+    "gold_text": "幼虫量7头/m²",
+    "gold_groups": [
+      [
+        "[7７七]\\s*头"
+      ],
+      [
+        "m\\s*[²2]|平方米|㎡|/m"
+      ]
+    ],
+    "need": 2,
+    "kg_answerable": false
+  },
+  {
+    "id": "E-TH-05",
+    "stratum": "external",
+    "type": "threshold",
+    "difficulty": "hard",
+    "hops": 0,
+    "question": "蚜虫类达到什么有蚜芽梢率时需要化学防治？",
+    "context_entity": "茶二叉蚜",
+    "answer_list": [],
+    "expected": "answer",
+    "gold_source": "GCWZ/T 4-2015 §5/附录A/B（梧州农科所2015）",
+    "gold_text": "有蚜芽梢率4%~5%",
+    "gold_groups": [
+      [
+        "[4４四]\\s*[%％]?\\s*[-~～到至–—、]\\s*[5５五]\\s*[%％]?"
+      ],
+      [
+        "芽梢"
+      ]
+    ],
+    "need": 2,
+    "kg_answerable": false
+  },
+  {
+    "id": "E-TH-06",
+    "stratum": "external",
+    "type": "threshold",
+    "difficulty": "hard",
+    "hops": 0,
+    "question": "茶饼病的化学防治指标是芽梢发病率达到多少？",
+    "context_entity": "茶饼病",
+    "answer_list": [],
+    "expected": "answer",
+    "gold_source": "GCWZ/T 4-2015 §5/附录A/B（梧州农科所2015）",
+    "gold_text": "芽梢发病率35%",
+    "gold_groups": [
+      [
+        "35\\s*[%％]"
+      ]
+    ],
+    "need": 1,
+    "kg_answerable": false
+  },
+  {
+    "id": "E-TH-07",
+    "stratum": "external",
+    "type": "threshold",
+    "difficulty": "hard",
+    "hops": 0,
+    "question": "茶橙瘿螨等螨类达到什么虫口密度时开始化学防治（每平方厘米虫数）？",
+    "context_entity": "",
+    "answer_list": [],
+    "expected": "answer",
+    "gold_source": "GCWZ/T 4-2015 §5/附录A/B（梧州农科所2015）",
+    "gold_text": "3~4头/cm²",
+    "gold_groups": [
+      [
+        "[3３三]\\s*[-~～到至–—、]\\s*[4４四]\\s*头"
+      ],
+      [
+        "cm\\s*[²2]|厘米|平方"
+      ]
+    ],
+    "need": 2,
+    "kg_answerable": false
+  },
+  {
+    "id": "E-TH-08",
+    "stratum": "external",
+    "type": "threshold",
+    "difficulty": "hard",
+    "hops": 0,
+    "question": "茶小绿叶蝉化学防治的施药适期是茶树什么生长期？",
+    "context_entity": "茶小绿叶蝉",
+    "answer_list": [],
+    "expected": "answer",
+    "gold_source": "GCWZ/T 4-2015 §5/附录A/B（梧州农科所2015）",
+    "gold_text": "1芽3~4叶期若虫孵化高峰期",
+    "gold_groups": [
+      [
+        "若虫"
+      ],
+      [
+        "孵化"
+      ],
+      [
+        "高峰|盛发"
+      ]
+    ],
+    "need": 2,
+    "kg_answerable": false
+  },
+  {
+    "id": "E-TH-09",
+    "stratum": "external",
+    "type": "threshold",
+    "difficulty": "hard",
+    "hops": 0,
+    "question": "茶毛虫化学防治应抓住幼虫哪个龄期施药？",
+    "context_entity": "茶毛虫",
+    "answer_list": [],
+    "expected": "answer",
+    "gold_source": "GCWZ/T 4-2015 §5/附录A/B（梧州农科所2015）",
+    "gold_text": "1、2龄幼虫期",
+    "gold_groups": [
+      [
+        "[1１一]\\s*[-~～到至、,，]?\\s*[2２二]\\s*龄|低龄|初孵"
+      ]
+    ],
+    "need": 1,
+    "kg_answerable": false
+  },
+  {
+    "id": "E-TH-10",
+    "stratum": "external",
+    "type": "threshold",
+    "difficulty": "hard",
+    "hops": 0,
+    "question": "粉虱类化学防治的施药适期是什么时候？",
+    "context_entity": "黑刺粉虱",
+    "answer_list": [],
+    "expected": "answer",
+    "gold_source": "GCWZ/T 4-2015 §5/附录A/B（梧州农科所2015）",
+    "gold_text": "卵孵化盛末期",
+    "gold_groups": [
+      [
+        "卵?\\s*孵化"
+      ],
+      [
+        "盛末|末期"
+      ]
+    ],
+    "need": 2,
+    "kg_answerable": false
+  },
+  {
+    "id": "E-TH-11",
+    "stratum": "external",
+    "type": "threshold",
+    "difficulty": "hard",
+    "hops": 0,
+    "question": "茶尺蠖化学防治要求在幼虫几龄前施药？",
+    "context_entity": "茶尺蠖",
+    "answer_list": [],
+    "expected": "answer",
+    "gold_source": "GCWZ/T 4-2015 §5/附录A/B（梧州农科所2015）",
+    "gold_text": "3龄前幼虫期",
+    "gold_groups": [
+      [
+        "[3３三]\\s*龄\\s*(以?前|之前)"
+      ]
+    ],
+    "need": 1,
+    "kg_answerable": false
+  },
+  {
+    "id": "E-IN-01",
+    "stratum": "external",
+    "type": "interval",
+    "difficulty": "hard",
+    "hops": 0,
+    "question": "按该资料，茶园施用吡虫啉后的安全间隔期是多少天？",
+    "context_entity": "",
+    "answer_list": [],
+    "expected": "answer",
+    "gold_source": "GCWZ/T 4-2015 §5/附录A/B（梧州农科所2015）",
+    "gold_text": "10天",
+    "gold_groups": [
+      [
+        "10\\s*天|[一]十天"
+      ]
+    ],
+    "need": 1,
+    "kg_answerable": false
+  },
+  {
+    "id": "E-IN-02",
+    "stratum": "external",
+    "type": "interval",
+    "difficulty": "hard",
+    "hops": 0,
+    "question": "按该资料，茶园施用虫螨腈后的安全间隔期是多少天？",
+    "context_entity": "",
+    "answer_list": [],
+    "expected": "answer",
+    "gold_source": "GCWZ/T 4-2015 §5/附录A/B（梧州农科所2015）",
+    "gold_text": "14天",
+    "gold_groups": [
+      [
+        "14\\s*天|十四天"
+      ]
+    ],
+    "need": 1,
+    "kg_answerable": false
+  },
+  {
+    "id": "E-IN-03",
+    "stratum": "external",
+    "type": "interval",
+    "difficulty": "hard",
+    "hops": 0,
+    "question": "按该资料，代森锌在茶园施用的安全间隔期是多少天？",
+    "context_entity": "",
+    "answer_list": [],
+    "expected": "answer",
+    "gold_source": "GCWZ/T 4-2015 §5/附录A/B（梧州农科所2015）",
+    "gold_text": "15天",
+    "gold_groups": [
+      [
+        "15\\s*天|十五天"
+      ]
+    ],
+    "need": 1,
+    "kg_answerable": false
+  },
+  {
+    "id": "E-IN-04",
+    "stratum": "external",
+    "type": "interval",
+    "difficulty": "hard",
+    "hops": 0,
+    "question": "按该资料，苯醚甲环唑在茶园的安全间隔期是多少天？",
+    "context_entity": "",
+    "answer_list": [],
+    "expected": "answer",
+    "gold_source": "GCWZ/T 4-2015 §5/附录A/B（梧州农科所2015）",
+    "gold_text": "10天",
+    "gold_groups": [
+      [
+        "10\\s*天|十天"
+      ]
+    ],
+    "need": 1,
+    "kg_answerable": false
+  },
+  {
+    "id": "E-IN-05",
+    "stratum": "external",
+    "type": "interval",
+    "difficulty": "hard",
+    "hops": 0,
+    "question": "按该资料，茚虫威在茶园的安全间隔期是多少天？",
+    "context_entity": "",
+    "answer_list": [],
+    "expected": "answer",
+    "gold_source": "GCWZ/T 4-2015 §5/附录A/B（梧州农科所2015）",
+    "gold_text": "10天",
+    "gold_groups": [
+      [
+        "10\\s*天|十天"
+      ]
+    ],
+    "need": 1,
+    "kg_answerable": false
+  },
+  {
+    "id": "E-IN-06",
+    "stratum": "external",
+    "type": "interval",
+    "difficulty": "hard",
+    "hops": 0,
+    "question": "按该资料，氯菊酯在茶园的安全间隔期是多少天？",
+    "context_entity": "",
+    "answer_list": [],
+    "expected": "answer",
+    "gold_source": "GCWZ/T 4-2015 §5/附录A/B（梧州农科所2015）",
+    "gold_text": "3天",
+    "gold_groups": [
+      [
+        "[3３三]\\s*天|三天"
+      ]
+    ],
+    "need": 1,
+    "kg_answerable": false
+  },
+  {
+    "id": "E-IN-07",
+    "stratum": "external",
+    "type": "interval",
+    "difficulty": "hard",
+    "hops": 0,
+    "question": "0.5%印楝素可溶液剂用于防治茶小绿叶蝉，安全间隔期是多少天？",
+    "context_entity": "茶小绿叶蝉",
+    "answer_list": [],
+    "expected": "answer",
+    "gold_source": "GCWZ/T 4-2015 §5/附录A/B（梧州农科所2015）",
+    "gold_text": "5天",
+    "gold_groups": [
+      [
+        "[5５五]\\s*天|五天"
+      ]
+    ],
+    "need": 1,
+    "kg_answerable": false
+  },
+  {
+    "id": "E-IN-08",
+    "stratum": "external",
+    "type": "interval",
+    "difficulty": "hard",
+    "hops": 0,
+    "question": "16000IU/mg苏云金杆菌可湿性粉剂防治茶毛虫，安全间隔期是多少天？",
+    "context_entity": "茶毛虫",
+    "answer_list": [],
+    "expected": "answer",
+    "gold_source": "GCWZ/T 4-2015 §5/附录A/B（梧州农科所2015）",
+    "gold_text": "3~5天",
+    "gold_groups": [
+      [
+        "[3３三]\\s*[-~～到至–—、]\\s*[5５五]\\s*天"
+      ]
+    ],
+    "need": 1,
+    "kg_answerable": false
+  },
+  {
+    "id": "E-ME-01",
+    "stratum": "external",
+    "type": "measure",
+    "difficulty": "medium",
+    "hops": 0,
+    "question": "资料推荐释放哪种捕食螨来防治茶黄螨和茶跗线螨？",
+    "context_entity": "茶跗线螨",
+    "answer_list": [],
+    "expected": "answer",
+    "gold_source": "GCWZ/T 4-2015 §5/附录A/B（梧州农科所2015）",
+    "gold_text": "胡瓜钝绥螨",
+    "gold_groups": [
+      [
+        "胡瓜钝绥螨"
+      ]
+    ],
+    "need": 1,
+    "kg_answerable": true
+  },
+  {
+    "id": "E-ME-02",
+    "stratum": "external",
+    "type": "measure",
+    "difficulty": "medium",
+    "hops": 0,
+    "question": "黄色粘虫板主要诱杀哪几类茶园刺吸害虫？",
+    "context_entity": "",
+    "answer_list": [],
+    "expected": "answer",
+    "gold_source": "GCWZ/T 4-2015 §5/附录A/B（梧州农科所2015）",
+    "gold_text": "蚜虫、粉虱、叶蝉",
+    "gold_groups": [
+      [
+        "蚜虫?|蚜"
+      ],
+      [
+        "粉虱"
+      ],
+      [
+        "叶蝉"
+      ]
+    ],
+    "need": 3,
+    "kg_answerable": true
+  },
+  {
+    "id": "E-ME-03",
+    "stratum": "external",
+    "type": "measure",
+    "difficulty": "medium",
+    "hops": 0,
+    "question": "资料中蓝色粘虫板主要用来诱杀哪类茶园害虫？",
+    "context_entity": "",
+    "answer_list": [],
+    "expected": "answer",
+    "gold_source": "GCWZ/T 4-2015 §5/附录A/B（梧州农科所2015）",
+    "gold_text": "蓟马",
+    "gold_groups": [
+      [
+        "蓟马"
+      ]
+    ],
+    "need": 1,
+    "kg_answerable": false
+  },
+  {
+    "id": "E-ME-04",
+    "stratum": "external",
+    "type": "measure",
+    "difficulty": "medium",
+    "hops": 0,
+    "question": "用色板诱杀时，每667m²茶园放置多少片、采用什么排布方式？",
+    "context_entity": "",
+    "answer_list": [],
+    "expected": "answer",
+    "gold_source": "GCWZ/T 4-2015 §5/附录A/B（梧州农科所2015）",
+    "gold_text": "15~20片，棋盘式分布",
+    "gold_groups": [
+      [
+        "1[5５五]\\s*[-~～到至–—、]\\s*20\\s*片"
+      ],
+      [
+        "棋盘"
+      ]
+    ],
+    "need": 2,
+    "kg_answerable": false
+  },
+  {
+    "id": "E-ME-05",
+    "stratum": "external",
+    "type": "measure",
+    "difficulty": "medium",
+    "hops": 0,
+    "question": "频振式杀虫灯的布置密度和平地灯间距大约是多少？",
+    "context_entity": "",
+    "answer_list": [],
+    "expected": "answer",
+    "gold_source": "GCWZ/T 4-2015 §5/附录A/B（梧州农科所2015）",
+    "gold_text": "每30~50亩1盏，灯距约200m",
+    "gold_groups": [
+      [
+        "30\\s*[-~～到至–—、]\\s*50\\s*亩"
+      ],
+      [
+        "200\\s*(米|m)"
+      ]
+    ],
+    "need": 2,
+    "kg_answerable": false
+  },
+  {
+    "id": "E-ME-06",
+    "stratum": "external",
+    "type": "measure",
+    "difficulty": "medium",
+    "hops": 0,
+    "question": "资料建议连片使用性信息素诱杀哪三种茶园害虫？",
+    "context_entity": "",
+    "answer_list": [],
+    "expected": "answer",
+    "gold_source": "GCWZ/T 4-2015 §5/附录A/B（梧州农科所2015）",
+    "gold_text": "茶小绿叶蝉、茶毛虫、茶毒蛾",
+    "gold_groups": [
+      [
+        "叶蝉"
+      ],
+      [
+        "茶?毛虫"
+      ],
+      [
+        "毒蛾"
+      ]
+    ],
+    "need": 3,
+    "kg_answerable": false
+  },
+  {
+    "id": "E-ME-07",
+    "stratum": "external",
+    "type": "measure",
+    "difficulty": "medium",
+    "hops": 0,
+    "question": "资料要求注意保护茶园中的哪些天敌类群（任举三类）？",
+    "context_entity": "",
+    "answer_list": [],
+    "expected": "answer",
+    "gold_source": "GCWZ/T 4-2015 §5/附录A/B（梧州农科所2015）",
+    "gold_text": "草蛉、瓢虫、蜘蛛、寄生蜂",
+    "gold_groups": [
+      [
+        "草蛉"
+      ],
+      [
+        "瓢虫"
+      ],
+      [
+        "蜘蛛"
+      ],
+      [
+        "寄生蜂"
+      ]
+    ],
+    "need": 3,
+    "kg_answerable": true
+  },
+  {
+    "id": "E-ME-08",
+    "stratum": "external",
+    "type": "measure",
+    "difficulty": "medium",
+    "hops": 0,
+    "question": "频振式杀虫灯主要诱杀哪两个目的茶园害虫？",
+    "context_entity": "",
+    "answer_list": [],
+    "expected": "answer",
+    "gold_source": "GCWZ/T 4-2015 §5/附录A/B（梧州农科所2015）",
+    "gold_text": "鳞翅目、鞘翅目",
+    "gold_groups": [
+      [
+        "鳞翅"
+      ],
+      [
+        "鞘翅"
+      ]
+    ],
+    "need": 2,
+    "kg_answerable": false
+  },
+  {
+    "id": "E-ME-09",
+    "stratum": "external",
+    "type": "measure",
+    "difficulty": "medium",
+    "hops": 0,
+    "question": "达到防治指标时，资料说应首选生物农药防治哪些茶园有害生物（任举三类）？",
+    "context_entity": "",
+    "answer_list": [],
+    "expected": "answer",
+    "gold_source": "GCWZ/T 4-2015 §5/附录A/B（梧州农科所2015）",
+    "gold_text": "茶假眼小绿叶蝉、茶毛虫、茶尺蠖、螨类",
+    "gold_groups": [
+      [
+        "叶蝉"
+      ],
+      [
+        "毛虫"
+      ],
+      [
+        "尺蠖"
+      ],
+      [
+        "螨"
+      ]
+    ],
+    "need": 3,
+    "kg_answerable": false
+  },
+  {
+    "id": "E-ME-10",
+    "stratum": "external",
+    "type": "measure",
+    "difficulty": "medium",
+    "hops": 0,
+    "question": "该资料推荐用什么生物农药防治茶饼病？",
+    "context_entity": "茶饼病",
+    "answer_list": [],
+    "expected": "answer",
+    "gold_source": "GCWZ/T 4-2015 §5/附录A/B（梧州农科所2015）",
+    "gold_text": "1.5%多抗霉素可湿性粉剂（注：TeaPest-KG 茶饼病生物防治为枯草芽孢杆菌，来源分歧）",
+    "gold_groups": [
+      [
+        "多抗霉素"
+      ]
+    ],
+    "need": 1,
+    "kg_answerable": false
+  },
+  {
+    "id": "E-ME-11",
+    "stratum": "external",
+    "type": "measure",
+    "difficulty": "medium",
+    "hops": 0,
+    "question": "性信息素诱杀的诱芯需要多长时间更换一次？",
+    "context_entity": "",
+    "answer_list": [],
+    "expected": "answer",
+    "gold_source": "GCWZ/T 4-2015 §5/附录A/B（梧州农科所2015）",
+    "gold_text": "40~60天更换一次",
+    "gold_groups": [
+      [
+        "40\\s*[-~～到至–—、]\\s*60\\s*天"
+      ]
+    ],
+    "need": 1,
+    "kg_answerable": false
+  },
+  {
+    "id": "E-CH-01",
+    "stratum": "external",
+    "type": "chemical",
+    "difficulty": "medium",
+    "hops": 0,
+    "question": "茶炭疽病发病初期，资料推荐使用哪几种杀菌剂（任举两种）？",
+    "context_entity": "茶炭疽病",
+    "answer_list": [],
+    "expected": "answer",
+    "gold_source": "GCWZ/T 4-2015 §5/附录A/B（梧州农科所2015）",
+    "gold_text": "百菌清、代森锌、苯醚甲环唑",
+    "gold_groups": [
+      [
+        "百菌清"
+      ],
+      [
+        "代森锌"
+      ],
+      [
+        "苯醚甲环唑"
+      ]
+    ],
+    "need": 2,
+    "kg_answerable": false
+  },
+  {
+    "id": "E-CH-02",
+    "stratum": "external",
+    "type": "chemical",
+    "difficulty": "medium",
+    "hops": 0,
+    "question": "茶小绿叶蝉若虫孵化高峰期可选用哪些化学药剂（任举三种）？",
+    "context_entity": "茶小绿叶蝉",
+    "answer_list": [],
+    "expected": "answer",
+    "gold_source": "GCWZ/T 4-2015 §5/附录A/B（梧州农科所2015）",
+    "gold_text": "高效氯氰菊酯、杀螟丹、联苯菊酯、吡虫啉、噻虫嗪、茚虫威、虫螨腈、氯氰菊酯、吡蚜酮",
+    "gold_groups": [
+      [
+        "高效氯氰菊酯"
+      ],
+      [
+        "杀螟丹"
+      ],
+      [
+        "联苯菊酯"
+      ],
+      [
+        "吡虫啉"
+      ],
+      [
+        "噻虫嗪"
+      ],
+      [
+        "茚虫威"
+      ],
+      [
+        "虫螨腈"
+      ],
+      [
+        "氯氰菊酯"
+      ],
+      [
+        "吡蚜酮"
+      ]
+    ],
+    "need": 3,
+    "kg_answerable": true
+  },
+  {
+    "id": "E-CH-03",
+    "stratum": "external",
+    "type": "chemical",
+    "difficulty": "medium",
+    "hops": 0,
+    "question": "茶尺蠖3龄前幼虫期推荐使用哪些药剂（任举三种）？",
+    "context_entity": "茶尺蠖",
+    "answer_list": [],
+    "expected": "answer",
+    "gold_source": "GCWZ/T 4-2015 §5/附录A/B（梧州农科所2015）",
+    "gold_text": "高效氯氰菊酯、氯氰菊酯、敌百虫、氯菊酯、联苯菊酯、除虫脲",
+    "gold_groups": [
+      [
+        "高效氯氰菊酯"
+      ],
+      [
+        "氯氰菊酯"
+      ],
+      [
+        "敌百虫"
+      ],
+      [
+        "氯菊酯"
+      ],
+      [
+        "联苯菊酯"
+      ],
+      [
+        "除虫脲"
+      ]
+    ],
+    "need": 3,
+    "kg_answerable": false
+  },
+  {
+    "id": "E-CH-04",
+    "stratum": "external",
+    "type": "chemical",
+    "difficulty": "medium",
+    "hops": 0,
+    "question": "茶毛虫1、2龄幼虫期推荐使用哪些药剂（任举两种）？",
+    "context_entity": "茶毛虫",
+    "answer_list": [],
+    "expected": "answer",
+    "gold_source": "GCWZ/T 4-2015 §5/附录A/B（梧州农科所2015）",
+    "gold_text": "联苯菊酯、氯氰菊酯、辛硫磷",
+    "gold_groups": [
+      [
+        "联苯菊酯"
+      ],
+      [
+        "氯氰菊酯"
+      ],
+      [
+        "辛硫磷"
+      ]
+    ],
+    "need": 2,
+    "kg_answerable": true
+  },
+  {
+    "id": "E-CH-05",
+    "stratum": "external",
+    "type": "chemical",
+    "difficulty": "medium",
+    "hops": 0,
+    "question": "螨类发生初期，资料推荐使用哪几种杀螨剂（任举两种）？",
+    "context_entity": "",
+    "answer_list": [],
+    "expected": "answer",
+    "gold_source": "GCWZ/T 4-2015 §5/附录A/B（梧州农科所2015）",
+    "gold_text": "石硫合剂、矿物油、哒螨灵",
+    "gold_groups": [
+      [
+        "石硫合剂"
+      ],
+      [
+        "矿物油"
+      ],
+      [
+        "哒螨灵"
+      ]
+    ],
+    "need": 2,
+    "kg_answerable": true
+  },
+  {
+    "id": "E-CH-06",
+    "stratum": "external",
+    "type": "chemical",
+    "difficulty": "medium",
+    "hops": 0,
+    "question": "粉虱类卵孵化盛末期，资料推荐使用哪种化学药剂？",
+    "context_entity": "黑刺粉虱",
+    "answer_list": [],
+    "expected": "answer",
+    "gold_source": "GCWZ/T 4-2015 §5/附录A/B（梧州农科所2015）",
+    "gold_text": "联苯菊酯",
+    "gold_groups": [
+      [
+        "联苯菊酯"
+      ]
+    ],
+    "need": 1,
+    "kg_answerable": false
+  },
+  {
+    "id": "E-CH-07",
+    "stratum": "external",
+    "type": "chemical",
+    "difficulty": "medium",
+    "hops": 0,
+    "question": "有蚜芽梢率达到防治指标时，资料推荐蚜虫使用哪种菊酯类药剂？",
+    "context_entity": "茶二叉蚜",
+    "answer_list": [],
+    "expected": "answer",
+    "gold_source": "GCWZ/T 4-2015 §5/附录A/B（梧州农科所2015）",
+    "gold_text": "氯菊酯",
+    "gold_groups": [
+      [
+        "氯菊酯"
+      ]
+    ],
+    "need": 1,
+    "kg_answerable": false
+  },
+  {
+    "id": "E-BA-01",
+    "stratum": "external",
+    "type": "ban",
+    "difficulty": "hard",
+    "hops": 0,
+    "question": "茶树害虫防治中可以使用六六六吗？",
+    "context_entity": "",
+    "answer_list": [],
+    "expected": "answer",
+    "gold_source": "GCWZ/T 4-2015 §5/附录A/B（梧州农科所2015）",
+    "gold_text": "不可以，六六六在茶园禁用名单内",
+    "gold_groups": [
+      [
+        "六六六"
+      ]
+    ],
+    "need": 1,
+    "kg_answerable": false
+  },
+  {
+    "id": "E-BA-02",
+    "stratum": "external",
+    "type": "ban",
+    "difficulty": "hard",
+    "hops": 0,
+    "question": "茶园里能不能用克百威（呋喃丹）防治害虫？",
+    "context_entity": "",
+    "answer_list": [],
+    "expected": "answer",
+    "gold_source": "GCWZ/T 4-2015 §5/附录A/B（梧州农科所2015）",
+    "gold_text": "不能，克百威茶园禁用",
+    "gold_groups": [
+      [
+        "克百威|呋喃丹"
+      ]
+    ],
+    "need": 1,
+    "kg_answerable": false
+  },
+  {
+    "id": "E-BA-03",
+    "stratum": "external",
+    "type": "ban",
+    "difficulty": "hard",
+    "hops": 0,
+    "question": "茶橙瘿螨防治中允许使用三氯杀螨醇吗？",
+    "context_entity": "茶橙瘿螨",
+    "answer_list": [],
+    "expected": "answer",
+    "gold_source": "GCWZ/T 4-2015 §5/附录A/B（梧州农科所2015）",
+    "gold_text": "不允许，三氯杀螨醇茶园禁用",
+    "gold_groups": [
+      [
+        "三氯杀螨醇"
+      ]
+    ],
+    "need": 1,
+    "kg_answerable": false
+  },
+  {
+    "id": "E-BA-04",
+    "stratum": "external",
+    "type": "ban",
+    "difficulty": "hard",
+    "hops": 0,
+    "question": "可以用氰戊菊酯（速灭杀丁）防治茶尺蠖吗？",
+    "context_entity": "茶尺蠖",
+    "answer_list": [],
+    "expected": "answer",
+    "gold_source": "GCWZ/T 4-2015 §5/附录A/B（梧州农科所2015）",
+    "gold_text": "不可以，氰戊菊酯茶园禁用",
+    "gold_groups": [
+      [
+        "氰戊菊酯|速灭杀丁"
+      ]
+    ],
+    "need": 1,
+    "kg_answerable": false
+  },
+  {
+    "id": "E-BA-05",
+    "stratum": "external",
+    "type": "ban",
+    "difficulty": "hard",
+    "hops": 0,
+    "question": "茶园蚜虫防治中可以喷施甲胺磷吗？",
+    "context_entity": "茶二叉蚜",
+    "answer_list": [],
+    "expected": "answer",
+    "gold_source": "GCWZ/T 4-2015 §5/附录A/B（梧州农科所2015）",
+    "gold_text": "不可以，甲胺磷茶园禁用",
+    "gold_groups": [
+      [
+        "甲胺磷"
+      ]
+    ],
+    "need": 1,
+    "kg_answerable": false
+  },
+  {
+    "id": "E-BA-06",
+    "stratum": "external",
+    "type": "ban",
+    "difficulty": "hard",
+    "hops": 0,
+    "question": "茶园能用涕灭威（铁灭克）颗粒剂防治害虫吗？",
+    "context_entity": "",
+    "answer_list": [],
+    "expected": "answer",
+    "gold_source": "GCWZ/T 4-2015 §5/附录A/B（梧州农科所2015）",
+    "gold_text": "不能，涕灭威茶园禁用",
+    "gold_groups": [
+      [
+        "涕灭威|铁灭克"
+      ]
+    ],
+    "need": 1,
+    "kg_answerable": false
+  },
+  {
+    "id": "E-SH-01",
+    "stratum": "external",
+    "type": "shared",
+    "difficulty": "medium",
+    "hops": 0,
+    "question": "绿色防控资料推荐用什么黄色物理装置诱杀茶小绿叶蝉？",
+    "context_entity": "茶小绿叶蝉",
+    "answer_list": [],
+    "expected": "answer",
+    "gold_source": "GCWZ/T 4-2015 §5/附录A/B（梧州农科所2015）",
+    "gold_text": "黄色粘虫板（黄板）",
+    "gold_groups": [
+      [
+        "黄(色)?(粘|诱)?虫?板|黄板"
+      ]
+    ],
+    "need": 1,
+    "kg_answerable": true
+  },
+  {
+    "id": "E-SH-02",
+    "stratum": "external",
+    "type": "shared",
+    "difficulty": "medium",
+    "hops": 0,
+    "question": "资料推荐用哪些生物农药防治茶毛虫（任举两类）？",
+    "context_entity": "茶毛虫",
+    "answer_list": [],
+    "expected": "answer",
+    "gold_source": "GCWZ/T 4-2015 §5/附录A/B（梧州农科所2015）",
+    "gold_text": "苏云金杆菌、白僵菌、苦参碱/印楝素、茶毛虫核型多角体病毒",
+    "gold_groups": [
+      [
+        "苏云金杆菌|Bt|BT"
+      ],
+      [
+        "白僵菌"
+      ],
+      [
+        "苦参碱|印楝素"
+      ],
+      [
+        "核型?多角体病毒|病毒制剂"
+      ]
+    ],
+    "need": 2,
+    "kg_answerable": true
+  },
+  {
+    "id": "E-SH-03",
+    "stratum": "external",
+    "type": "shared",
+    "difficulty": "medium",
+    "hops": 0,
+    "question": "防治茶尺蠖可使用哪些病原微生物或寄生性天敌（任举一种）？",
+    "context_entity": "茶尺蠖",
+    "answer_list": [],
+    "expected": "answer",
+    "gold_source": "GCWZ/T 4-2015 §5/附录A/B（梧州农科所2015）",
+    "gold_text": "茶尺蠖核型多角体病毒、苏云金杆菌、绒茧蜂、赤眼蜂",
+    "gold_groups": [
+      [
+        "核型?多角体病毒"
+      ],
+      [
+        "苏云金杆菌"
+      ],
+      [
+        "绒茧蜂|赤眼蜂"
+      ]
+    ],
+    "need": 1,
+    "kg_answerable": true
+  },
+  {
+    "id": "E-T2-01",
+    "stratum": "external",
+    "type": "measure",
+    "difficulty": "medium",
+    "hops": 0,
+    "question": "黄红双色诱虫板相比传统黄色诱虫板，对天敌的误杀量降低了百分之多少？",
+    "context_entity": "",
+    "answer_list": [],
+    "expected": "answer",
+    "gold_source": "NATESC2025目录·中茶所章节（pp.146-149）",
+    "gold_text": "降低35.4%",
+    "gold_groups": [
+      [
+        "35\\.4\\s*[%％]"
+      ]
+    ],
+    "need": 1,
+    "kg_answerable": false
+  },
+  {
+    "id": "E-T2-02",
+    "stratum": "external",
+    "type": "measure",
+    "difficulty": "medium",
+    "hops": 0,
+    "question": "黄红双色诱虫板每公顷悬挂多少张？板的下沿距茶蓬上方约多少厘米？",
+    "context_entity": "",
+    "answer_list": [],
+    "expected": "answer",
+    "gold_source": "NATESC2025目录·中茶所章节（pp.146-149）",
+    "gold_text": "每公顷375张，下沿在茶蓬上方20cm",
+    "gold_groups": [
+      [
+        "375\\s*张"
+      ],
+      [
+        "20\\s*(cm|厘米)"
+      ]
+    ],
+    "need": 2,
+    "kg_answerable": false
+  },
+  {
+    "id": "E-T2-03",
+    "stratum": "external",
+    "type": "measure",
+    "difficulty": "medium",
+    "hops": 0,
+    "question": "窄波LED杀虫灯在平地茶园按什么密度布置？灯管下端高出茶蓬多少？",
+    "context_entity": "",
+    "answer_list": [],
+    "expected": "answer",
+    "gold_source": "NATESC2025目录·中茶所章节（pp.146-149）",
+    "gold_text": "每1.2公顷1台，灯管下端高于茶蓬40~60cm",
+    "gold_groups": [
+      [
+        "1\\.2\\s*公顷"
+      ],
+      [
+        "40\\s*[-~～到至–—、]\\s*60\\s*(cm|厘米)"
+      ]
+    ],
+    "need": 2,
+    "kg_answerable": false
+  },
+  {
+    "id": "E-T2-04",
+    "stratum": "external",
+    "type": "measure",
+    "difficulty": "medium",
+    "hops": 0,
+    "question": "窄波LED杀虫灯相比频振式杀虫灯，天敌误杀量降低百分之多少？",
+    "context_entity": "",
+    "answer_list": [],
+    "expected": "answer",
+    "gold_source": "NATESC2025目录·中茶所章节（pp.146-149）",
+    "gold_text": "降低56.8%",
+    "gold_groups": [
+      [
+        "56\\.8\\s*[%％]"
+      ]
+    ],
+    "need": 1,
+    "kg_answerable": false
+  },
+  {
+    "id": "E-T2-05",
+    "stratum": "external",
+    "type": "threshold",
+    "difficulty": "hard",
+    "hops": 0,
+    "question": "针对灰茶尺蠖连续诱杀两代雄蛾的防效约为百分之多少？性诱杀可用于哪几种主要鳞翅目害虫（任举两种）？",
+    "context_entity": "",
+    "answer_list": [],
+    "expected": "answer",
+    "gold_source": "NATESC2025目录·中茶所章节（pp.146-149）",
+    "gold_text": "防效67.2%；灰茶尺蠖、茶尺蠖、茶毛虫、茶蚕、茶细蛾",
+    "gold_groups": [
+      [
+        "67\\.2\\s*[%％]"
+      ],
+      [
+        "灰?茶尺蠖"
+      ],
+      [
+        "茶毛虫"
+      ],
+      [
+        "茶蚕"
+      ],
+      [
+        "茶细蛾"
+      ]
+    ],
+    "need": 3,
+    "kg_answerable": false
+  },
+  {
+    "id": "E-T2-06",
+    "stratum": "external",
+    "type": "measure",
+    "difficulty": "medium",
+    "hops": 0,
+    "question": "船型性诱捕器每公顷悬挂多少个、高出茶树蓬面约多少厘米？",
+    "context_entity": "",
+    "answer_list": [],
+    "expected": "answer",
+    "gold_source": "NATESC2025目录·中茶所章节（pp.146-149）",
+    "gold_text": "每公顷30~60个，高于蓬面25cm",
+    "gold_groups": [
+      [
+        "30\\s*[-~～到至–—、]\\s*60\\s*个"
+      ],
+      [
+        "25\\s*(cm|厘米)"
+      ]
+    ],
+    "need": 2,
+    "kg_answerable": false
+  },
+  {
+    "id": "E-T2-07",
+    "stratum": "external",
+    "type": "chemical",
+    "difficulty": "medium",
+    "hops": 0,
+    "question": "茶棍蓟马聚集信息素增效剂可使虫螨腈等化学农药减施百分之多少？使天然除虫菊素等生物农药减施多少？",
+    "context_entity": "",
+    "answer_list": [],
+    "expected": "answer",
+    "gold_source": "NATESC2025目录·中茶所章节（pp.146-149）",
+    "gold_text": "化学农药减70%，生物农药减50%",
+    "gold_groups": [
+      [
+        "70\\s*[%％]"
+      ],
+      [
+        "50\\s*[%％]"
+      ]
+    ],
+    "need": 2,
+    "kg_answerable": false
+  },
+  {
+    "id": "E-T2-08",
+    "stratum": "external",
+    "type": "measure",
+    "difficulty": "medium",
+    "hops": 0,
+    "question": "秋冬季用石硫合剂封园，要求气温不低于多少度、每亩用水量多少？",
+    "context_entity": "",
+    "answer_list": [],
+    "expected": "answer",
+    "gold_source": "NATESC2025目录·中茶所章节（pp.146-149）",
+    "gold_text": "气温不低于4℃，每亩用水70~75L全园喷透",
+    "gold_groups": [
+      [
+        "[4４四]\\s*℃"
+      ],
+      [
+        "70\\s*[-~～到至–—、]\\s*75\\s*L|70\\s*[-~～到至–—、]\\s*75\\s*(升|公斤)"
+      ]
+    ],
+    "need": 2,
+    "kg_answerable": false
+  },
+  {
+    "id": "E-T2-09",
+    "stratum": "external",
+    "type": "chemical",
+    "difficulty": "medium",
+    "hops": 0,
+    "question": "2025年技术资料为什么不建议在茶园使用吡虫啉、啶虫脒、噻虫嗪等新烟碱类药剂？",
+    "context_entity": "",
+    "answer_list": [],
+    "expected": "answer",
+    "gold_source": "NATESC2025目录·中茶所章节（pp.146-149）",
+    "gold_text": "因其高水溶性，会增加饮茶者的农药摄入风险（高水溶性化学农药不建议使用）",
+    "gold_groups": [
+      [
+        "水溶"
+      ],
+      [
+        "吡虫啉|啶虫脒|噻虫嗪|呋虫胺|烯啶虫胺"
+      ]
+    ],
+    "need": 2,
+    "kg_answerable": false
+  }
+]

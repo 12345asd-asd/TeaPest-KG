@@ -1,0 +1,5215 @@
+[
+  {
+    "head": "卵形短须螨",
+    "relation": "农业防治",
+    "tail": "修剪清园",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://www.zzokq.cn/view-773.html",
+      "https://cn.agropages.com/bcc/bdetail-1071.htm",
+      "http://nyj.jingzhou.gov.cn/ywbk/zzy/202206/t20220624_742723.shtml"
+    ]
+  },
+  {
+    "head": "卵形短须螨",
+    "relation": "农业防治",
+    "tail": "台刈",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://www.zzokq.cn/view-773.html",
+      "https://cn.agropages.com/bcc/bdetail-1071.htm",
+      "http://nyj.jingzhou.gov.cn/ywbk/zzy/202206/t20220624_742723.shtml"
+    ]
+  },
+  {
+    "head": "卵形短须螨",
+    "relation": "农业防治",
+    "tail": "清除枯枝落叶",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://www.zzokq.cn/view-773.html",
+      "https://cn.agropages.com/bcc/bdetail-1071.htm",
+      "http://nyj.jingzhou.gov.cn/ywbk/zzy/202206/t20220624_742723.shtml"
+    ]
+  },
+  {
+    "head": "卵形短须螨",
+    "relation": "农业防治",
+    "tail": "防旱抗旱",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://www.zzokq.cn/view-773.html",
+      "https://cn.agropages.com/bcc/bdetail-1071.htm",
+      "http://nyj.jingzhou.gov.cn/ywbk/zzy/202206/t20220624_742723.shtml"
+    ]
+  },
+  {
+    "head": "卵形短须螨",
+    "relation": "化学防治",
+    "tail": "四螨嗪",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.zzokq.cn/view-773.html",
+      "https://cn.agropages.com/bcc/bdetail-1071.htm",
+      "http://nyj.jingzhou.gov.cn/ywbk/zzy/202206/t20220624_742723.shtml"
+    ]
+  },
+  {
+    "head": "卵形短须螨",
+    "relation": "化学防治",
+    "tail": "炔螨特",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.zzokq.cn/view-773.html",
+      "https://cn.agropages.com/bcc/bdetail-1071.htm",
+      "http://nyj.jingzhou.gov.cn/ywbk/zzy/202206/t20220624_742723.shtml"
+    ]
+  },
+  {
+    "head": "卵形短须螨",
+    "relation": "化学防治",
+    "tail": "石硫合剂",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.zzokq.cn/view-773.html",
+      "https://cn.agropages.com/bcc/bdetail-1071.htm",
+      "http://nyj.jingzhou.gov.cn/ywbk/zzy/202206/t20220624_742723.shtml"
+    ]
+  },
+  {
+    "head": "卵形短须螨",
+    "relation": "化学防治",
+    "tail": "矿物油",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.zzokq.cn/view-773.html",
+      "https://cn.agropages.com/bcc/bdetail-1071.htm",
+      "http://nyj.jingzhou.gov.cn/ywbk/zzy/202206/t20220624_742723.shtml"
+    ]
+  },
+  {
+    "head": "卵形短须螨",
+    "relation": "生物防治",
+    "tail": "捕食螨",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://www.zzokq.cn/view-773.html",
+      "https://cn.agropages.com/bcc/bdetail-1071.htm",
+      "http://nyj.jingzhou.gov.cn/ywbk/zzy/202206/t20220624_742723.shtml"
+    ]
+  },
+  {
+    "head": "卵形短须螨",
+    "relation": "生物防治",
+    "tail": "红点唇瓢虫",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://www.zzokq.cn/view-773.html",
+      "https://cn.agropages.com/bcc/bdetail-1071.htm",
+      "http://nyj.jingzhou.gov.cn/ywbk/zzy/202206/t20220624_742723.shtml"
+    ]
+  },
+  {
+    "head": "卵形短须螨",
+    "relation": "生物防治",
+    "tail": "胡瓜钝绥螨",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://www.zzokq.cn/view-773.html",
+      "https://cn.agropages.com/bcc/bdetail-1071.htm",
+      "http://nyj.jingzhou.gov.cn/ywbk/zzy/202206/t20220624_742723.shtml"
+    ]
+  },
+  {
+    "head": "卵形短须螨",
+    "relation": "表现症状",
+    "tail": "严重落叶",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://www.zzokq.cn/view-773.html",
+      "https://cn.agropages.com/bcc/bdetail-1071.htm",
+      "http://nyj.jingzhou.gov.cn/ywbk/zzy/202206/t20220624_742723.shtml"
+    ]
+  },
+  {
+    "head": "卵形短须螨",
+    "relation": "表现症状",
+    "tail": "主脉变紫褐色",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://www.zzokq.cn/view-773.html",
+      "https://cn.agropages.com/bcc/bdetail-1071.htm",
+      "http://nyj.jingzhou.gov.cn/ywbk/zzy/202206/t20220624_742723.shtml"
+    ]
+  },
+  {
+    "head": "卵形短须螨",
+    "relation": "表现症状",
+    "tail": "叶柄变黑霉烂",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://www.zzokq.cn/view-773.html",
+      "https://cn.agropages.com/bcc/bdetail-1071.htm",
+      "http://nyj.jingzhou.gov.cn/ywbk/zzy/202206/t20220624_742723.shtml"
+    ]
+  },
+  {
+    "head": "卵形短须螨",
+    "relation": "表现症状",
+    "tail": "叶背紫褐色突起斑",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://www.zzokq.cn/view-773.html",
+      "https://cn.agropages.com/bcc/bdetail-1071.htm",
+      "http://nyj.jingzhou.gov.cn/ywbk/zzy/202206/t20220624_742723.shtml"
+    ]
+  },
+  {
+    "head": "咖啡小爪螨",
+    "relation": "农业防治",
+    "tail": "及时采摘",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://www.zzokq.cn/view-772.html",
+      "https://cn.agropages.com/bcc/bdetail-1065.htm",
+      "http://nynct.gxzf.gov.cn/gxzb/jsfw_85099/zbjs_88066/t19748010.shtml"
+    ]
+  },
+  {
+    "head": "咖啡小爪螨",
+    "relation": "农业防治",
+    "tail": "干旱灌溉",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://www.zzokq.cn/view-772.html",
+      "https://cn.agropages.com/bcc/bdetail-1065.htm",
+      "http://nynct.gxzf.gov.cn/gxzb/jsfw_85099/zbjs_88066/t19748010.shtml"
+    ]
+  },
+  {
+    "head": "咖啡小爪螨",
+    "relation": "农业防治",
+    "tail": "改善通风透光",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://www.zzokq.cn/view-772.html",
+      "https://cn.agropages.com/bcc/bdetail-1065.htm",
+      "http://nynct.gxzf.gov.cn/gxzb/jsfw_85099/zbjs_88066/t19748010.shtml"
+    ]
+  },
+  {
+    "head": "咖啡小爪螨",
+    "relation": "农业防治",
+    "tail": "植物检疫",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://www.zzokq.cn/view-772.html",
+      "https://cn.agropages.com/bcc/bdetail-1065.htm",
+      "http://nynct.gxzf.gov.cn/gxzb/jsfw_85099/zbjs_88066/t19748010.shtml"
+    ]
+  },
+  {
+    "head": "咖啡小爪螨",
+    "relation": "化学防治",
+    "tail": "四螨嗪",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.zzokq.cn/view-772.html",
+      "https://cn.agropages.com/bcc/bdetail-1065.htm",
+      "http://nynct.gxzf.gov.cn/gxzb/jsfw_85099/zbjs_88066/t19748010.shtml"
+    ]
+  },
+  {
+    "head": "咖啡小爪螨",
+    "relation": "化学防治",
+    "tail": "浏阳霉素",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.zzokq.cn/view-772.html",
+      "https://cn.agropages.com/bcc/bdetail-1065.htm",
+      "http://nynct.gxzf.gov.cn/gxzb/jsfw_85099/zbjs_88066/t19748010.shtml"
+    ]
+  },
+  {
+    "head": "咖啡小爪螨",
+    "relation": "化学防治",
+    "tail": "溴螨酯",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.zzokq.cn/view-772.html",
+      "https://cn.agropages.com/bcc/bdetail-1065.htm",
+      "http://nynct.gxzf.gov.cn/gxzb/jsfw_85099/zbjs_88066/t19748010.shtml"
+    ]
+  },
+  {
+    "head": "咖啡小爪螨",
+    "relation": "化学防治",
+    "tail": "炔螨特",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.zzokq.cn/view-772.html",
+      "https://cn.agropages.com/bcc/bdetail-1065.htm",
+      "http://nynct.gxzf.gov.cn/gxzb/jsfw_85099/zbjs_88066/t19748010.shtml"
+    ]
+  },
+  {
+    "head": "咖啡小爪螨",
+    "relation": "化学防治",
+    "tail": "石硫合剂",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.zzokq.cn/view-772.html",
+      "https://cn.agropages.com/bcc/bdetail-1065.htm",
+      "http://nynct.gxzf.gov.cn/gxzb/jsfw_85099/zbjs_88066/t19748010.shtml"
+    ]
+  },
+  {
+    "head": "咖啡小爪螨",
+    "relation": "化学防治",
+    "tail": "矿物油",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.zzokq.cn/view-772.html",
+      "https://cn.agropages.com/bcc/bdetail-1065.htm",
+      "http://nynct.gxzf.gov.cn/gxzb/jsfw_85099/zbjs_88066/t19748010.shtml"
+    ]
+  },
+  {
+    "head": "咖啡小爪螨",
+    "relation": "生物防治",
+    "tail": "捕食螨",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://www.zzokq.cn/view-772.html",
+      "https://cn.agropages.com/bcc/bdetail-1065.htm",
+      "http://nynct.gxzf.gov.cn/gxzb/jsfw_85099/zbjs_88066/t19748010.shtml"
+    ]
+  },
+  {
+    "head": "咖啡小爪螨",
+    "relation": "生物防治",
+    "tail": "胡瓜钝绥螨",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://www.zzokq.cn/view-772.html",
+      "https://cn.agropages.com/bcc/bdetail-1065.htm",
+      "http://nynct.gxzf.gov.cn/gxzb/jsfw_85099/zbjs_88066/t19748010.shtml"
+    ]
+  },
+  {
+    "head": "咖啡小爪螨",
+    "relation": "生物防治",
+    "tail": "草蛉",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://www.zzokq.cn/view-772.html",
+      "https://cn.agropages.com/bcc/bdetail-1065.htm",
+      "http://nynct.gxzf.gov.cn/gxzb/jsfw_85099/zbjs_88066/t19748010.shtml"
+    ]
+  },
+  {
+    "head": "咖啡小爪螨",
+    "relation": "生物防治",
+    "tail": "食螨瓢虫",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://www.zzokq.cn/view-772.html",
+      "https://cn.agropages.com/bcc/bdetail-1065.htm",
+      "http://nynct.gxzf.gov.cn/gxzb/jsfw_85099/zbjs_88066/t19748010.shtml"
+    ]
+  },
+  {
+    "head": "咖啡小爪螨",
+    "relation": "表现症状",
+    "tail": "叶片干枯脱落",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://www.zzokq.cn/view-772.html",
+      "https://cn.agropages.com/bcc/bdetail-1065.htm",
+      "http://nynct.gxzf.gov.cn/gxzb/jsfw_85099/zbjs_88066/t19748010.shtml"
+    ]
+  },
+  {
+    "head": "咖啡小爪螨",
+    "relation": "表现症状",
+    "tail": "叶片红褐色失光泽",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://www.zzokq.cn/view-772.html",
+      "https://cn.agropages.com/bcc/bdetail-1065.htm",
+      "http://nynct.gxzf.gov.cn/gxzb/jsfw_85099/zbjs_88066/t19748010.shtml"
+    ]
+  },
+  {
+    "head": "咖啡小爪螨",
+    "relation": "表现症状",
+    "tail": "叶面刺吸结细网",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://www.zzokq.cn/view-772.html",
+      "https://cn.agropages.com/bcc/bdetail-1065.htm",
+      "http://nynct.gxzf.gov.cn/gxzb/jsfw_85099/zbjs_88066/t19748010.shtml"
+    ]
+  },
+  {
+    "head": "咖啡小爪螨",
+    "relation": "表现症状",
+    "tail": "叶面白色蜕皮尘状物",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://www.zzokq.cn/view-772.html",
+      "https://cn.agropages.com/bcc/bdetail-1065.htm",
+      "http://nynct.gxzf.gov.cn/gxzb/jsfw_85099/zbjs_88066/t19748010.shtml"
+    ]
+  },
+  {
+    "head": "茶丽纹象甲",
+    "relation": "农业防治",
+    "tail": "冬季翻耕灭幼虫",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://www.insect.org.cn/CN/Y2025/V68/I2/174"
+    ]
+  },
+  {
+    "head": "茶丽纹象甲",
+    "relation": "农业防治",
+    "tail": "随犁拾虫",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://www.insect.org.cn/CN/Y2025/V68/I2/174"
+    ]
+  },
+  {
+    "head": "茶丽纹象甲",
+    "relation": "化学防治",
+    "tail": "杀螟丹",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.insect.org.cn/CN/Y2025/V68/I2/174"
+    ]
+  },
+  {
+    "head": "茶丽纹象甲",
+    "relation": "化学防治",
+    "tail": "联苯菊酯",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.insect.org.cn/CN/Y2025/V68/I2/174"
+    ]
+  },
+  {
+    "head": "茶丽纹象甲",
+    "relation": "物理防治",
+    "tail": "振落捕杀",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-PHYSICAL",
+    "sources": [
+      "https://www.insect.org.cn/CN/Y2025/V68/I2/174"
+    ]
+  },
+  {
+    "head": "茶丽纹象甲",
+    "relation": "物理防治",
+    "tail": "杀虫灯诱杀",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-PHYSICAL",
+    "sources": [
+      "https://www.insect.org.cn/CN/Y2025/V68/I2/174"
+    ]
+  },
+  {
+    "head": "茶丽纹象甲",
+    "relation": "生物防治",
+    "tail": "白僵菌",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://www.insect.org.cn/CN/Y2025/V68/I2/174"
+    ]
+  },
+  {
+    "head": "茶丽纹象甲",
+    "relation": "表现症状",
+    "tail": "幼虫土中取食须根",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://www.insect.org.cn/CN/Y2025/V68/I2/174"
+    ]
+  },
+  {
+    "head": "茶丽纹象甲",
+    "relation": "表现症状",
+    "tail": "成虫咬食嫩叶成弧形缺刻",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://www.insect.org.cn/CN/Y2025/V68/I2/174"
+    ]
+  },
+  {
+    "head": "茶二叉蚜",
+    "relation": "农业防治",
+    "tail": "人工摘除虫梢",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/bdetail-1077.htm",
+      "http://nynct.gxzf.gov.cn/gxzb/jsfw_85099/zbjs_88066/t19748010.shtml",
+      "https://nyncj.yaan.gov.cn/xinwen/show/8b8932c00c010db49c7167b773f23d47.html"
+    ]
+  },
+  {
+    "head": "茶二叉蚜",
+    "relation": "农业防治",
+    "tail": "分批采摘",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/bdetail-1077.htm",
+      "http://nynct.gxzf.gov.cn/gxzb/jsfw_85099/zbjs_88066/t19748010.shtml",
+      "https://nyncj.yaan.gov.cn/xinwen/show/8b8932c00c010db49c7167b773f23d47.html"
+    ]
+  },
+  {
+    "head": "茶二叉蚜",
+    "relation": "农业防治",
+    "tail": "轻修剪",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/bdetail-1077.htm",
+      "http://nynct.gxzf.gov.cn/gxzb/jsfw_85099/zbjs_88066/t19748010.shtml",
+      "https://nyncj.yaan.gov.cn/xinwen/show/8b8932c00c010db49c7167b773f23d47.html"
+    ]
+  },
+  {
+    "head": "茶二叉蚜",
+    "relation": "化学防治",
+    "tail": "溴氰菊酯",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/bdetail-1077.htm",
+      "http://nynct.gxzf.gov.cn/gxzb/jsfw_85099/zbjs_88066/t19748010.shtml",
+      "https://nyncj.yaan.gov.cn/xinwen/show/8b8932c00c010db49c7167b773f23d47.html"
+    ]
+  },
+  {
+    "head": "茶二叉蚜",
+    "relation": "化学防治",
+    "tail": "阿维菌素",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/bdetail-1077.htm",
+      "http://nynct.gxzf.gov.cn/gxzb/jsfw_85099/zbjs_88066/t19748010.shtml",
+      "https://nyncj.yaan.gov.cn/xinwen/show/8b8932c00c010db49c7167b773f23d47.html"
+    ]
+  },
+  {
+    "head": "茶二叉蚜",
+    "relation": "化学防治",
+    "tail": "高效氯氰菊酯",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/bdetail-1077.htm",
+      "http://nynct.gxzf.gov.cn/gxzb/jsfw_85099/zbjs_88066/t19748010.shtml",
+      "https://nyncj.yaan.gov.cn/xinwen/show/8b8932c00c010db49c7167b773f23d47.html"
+    ]
+  },
+  {
+    "head": "茶二叉蚜",
+    "relation": "物理防治",
+    "tail": "黄板",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-PHYSICAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/bdetail-1077.htm",
+      "http://nynct.gxzf.gov.cn/gxzb/jsfw_85099/zbjs_88066/t19748010.shtml",
+      "https://nyncj.yaan.gov.cn/xinwen/show/8b8932c00c010db49c7167b773f23d47.html"
+    ]
+  },
+  {
+    "head": "茶二叉蚜",
+    "relation": "生物防治",
+    "tail": "七星瓢虫",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/bdetail-1077.htm",
+      "http://nynct.gxzf.gov.cn/gxzb/jsfw_85099/zbjs_88066/t19748010.shtml",
+      "https://nyncj.yaan.gov.cn/xinwen/show/8b8932c00c010db49c7167b773f23d47.html"
+    ]
+  },
+  {
+    "head": "茶二叉蚜",
+    "relation": "生物防治",
+    "tail": "中华草蛉",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/bdetail-1077.htm",
+      "http://nynct.gxzf.gov.cn/gxzb/jsfw_85099/zbjs_88066/t19748010.shtml",
+      "https://nyncj.yaan.gov.cn/xinwen/show/8b8932c00c010db49c7167b773f23d47.html"
+    ]
+  },
+  {
+    "head": "茶二叉蚜",
+    "relation": "生物防治",
+    "tail": "大草蛉",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/bdetail-1077.htm",
+      "http://nynct.gxzf.gov.cn/gxzb/jsfw_85099/zbjs_88066/t19748010.shtml",
+      "https://nyncj.yaan.gov.cn/xinwen/show/8b8932c00c010db49c7167b773f23d47.html"
+    ]
+  },
+  {
+    "head": "茶二叉蚜",
+    "relation": "生物防治",
+    "tail": "异色瓢虫",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/bdetail-1077.htm",
+      "http://nynct.gxzf.gov.cn/gxzb/jsfw_85099/zbjs_88066/t19748010.shtml",
+      "https://nyncj.yaan.gov.cn/xinwen/show/8b8932c00c010db49c7167b773f23d47.html"
+    ]
+  },
+  {
+    "head": "茶二叉蚜",
+    "relation": "生物防治",
+    "tail": "苦参碱",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/bdetail-1077.htm",
+      "http://nynct.gxzf.gov.cn/gxzb/jsfw_85099/zbjs_88066/t19748010.shtml",
+      "https://nyncj.yaan.gov.cn/xinwen/show/8b8932c00c010db49c7167b773f23d47.html"
+    ]
+  },
+  {
+    "head": "茶二叉蚜",
+    "relation": "生物防治",
+    "tail": "鱼藤酮",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/bdetail-1077.htm",
+      "http://nynct.gxzf.gov.cn/gxzb/jsfw_85099/zbjs_88066/t19748010.shtml",
+      "https://nyncj.yaan.gov.cn/xinwen/show/8b8932c00c010db49c7167b773f23d47.html"
+    ]
+  },
+  {
+    "head": "茶二叉蚜",
+    "relation": "生物防治",
+    "tail": "龟纹瓢虫",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/bdetail-1077.htm",
+      "http://nynct.gxzf.gov.cn/gxzb/jsfw_85099/zbjs_88066/t19748010.shtml",
+      "https://nyncj.yaan.gov.cn/xinwen/show/8b8932c00c010db49c7167b773f23d47.html"
+    ]
+  },
+  {
+    "head": "茶二叉蚜",
+    "relation": "表现症状",
+    "tail": "分泌蜜露诱发煤烟病",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://cn.agropages.com/bcc/bdetail-1077.htm",
+      "http://nynct.gxzf.gov.cn/gxzb/jsfw_85099/zbjs_88066/t19748010.shtml",
+      "https://nyncj.yaan.gov.cn/xinwen/show/8b8932c00c010db49c7167b773f23d47.html"
+    ]
+  },
+  {
+    "head": "茶二叉蚜",
+    "relation": "表现症状",
+    "tail": "叶片皱缩卷曲",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://cn.agropages.com/bcc/bdetail-1077.htm",
+      "http://nynct.gxzf.gov.cn/gxzb/jsfw_85099/zbjs_88066/t19748010.shtml",
+      "https://nyncj.yaan.gov.cn/xinwen/show/8b8932c00c010db49c7167b773f23d47.html"
+    ]
+  },
+  {
+    "head": "茶二叉蚜",
+    "relation": "表现症状",
+    "tail": "嫩叶背群集刺吸",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://cn.agropages.com/bcc/bdetail-1077.htm",
+      "http://nynct.gxzf.gov.cn/gxzb/jsfw_85099/zbjs_88066/t19748010.shtml",
+      "https://nyncj.yaan.gov.cn/xinwen/show/8b8932c00c010db49c7167b773f23d47.html"
+    ]
+  },
+  {
+    "head": "茶二叉蚜",
+    "relation": "表现症状",
+    "tail": "新梢不能抽出",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://cn.agropages.com/bcc/bdetail-1077.htm",
+      "http://nynct.gxzf.gov.cn/gxzb/jsfw_85099/zbjs_88066/t19748010.shtml",
+      "https://nyncj.yaan.gov.cn/xinwen/show/8b8932c00c010db49c7167b773f23d47.html"
+    ]
+  },
+  {
+    "head": "茶云纹叶枯病",
+    "relation": "农业防治",
+    "tail": "增施有机肥",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://www.pwsannong.com/c/2016-04-13/565093.shtml",
+      "http://www.365sn.cn/Wechat/Index/showDiseases/diseId/6129",
+      "http://nyncj.yaan.gov.cn/xinwen/show/01062d23fa7577ec109f457e6172c964.html"
+    ]
+  },
+  {
+    "head": "茶云纹叶枯病",
+    "relation": "农业防治",
+    "tail": "抗旱防冻",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://www.pwsannong.com/c/2016-04-13/565093.shtml",
+      "http://www.365sn.cn/Wechat/Index/showDiseases/diseId/6129",
+      "http://nyncj.yaan.gov.cn/xinwen/show/01062d23fa7577ec109f457e6172c964.html"
+    ]
+  },
+  {
+    "head": "茶云纹叶枯病",
+    "relation": "农业防治",
+    "tail": "深中耕",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://www.pwsannong.com/c/2016-04-13/565093.shtml",
+      "http://www.365sn.cn/Wechat/Index/showDiseases/diseId/6129",
+      "http://nyncj.yaan.gov.cn/xinwen/show/01062d23fa7577ec109f457e6172c964.html"
+    ]
+  },
+  {
+    "head": "茶云纹叶枯病",
+    "relation": "农业防治",
+    "tail": "清园",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://www.pwsannong.com/c/2016-04-13/565093.shtml",
+      "http://www.365sn.cn/Wechat/Index/showDiseases/diseId/6129",
+      "http://nyncj.yaan.gov.cn/xinwen/show/01062d23fa7577ec109f457e6172c964.html"
+    ]
+  },
+  {
+    "head": "茶云纹叶枯病",
+    "relation": "化学防治",
+    "tail": "吡唑醚菌酯",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.pwsannong.com/c/2016-04-13/565093.shtml",
+      "http://www.365sn.cn/Wechat/Index/showDiseases/diseId/6129",
+      "http://nyncj.yaan.gov.cn/xinwen/show/01062d23fa7577ec109f457e6172c964.html"
+    ]
+  },
+  {
+    "head": "茶云纹叶枯病",
+    "relation": "化学防治",
+    "tail": "多菌灵",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.pwsannong.com/c/2016-04-13/565093.shtml",
+      "http://www.365sn.cn/Wechat/Index/showDiseases/diseId/6129",
+      "http://nyncj.yaan.gov.cn/xinwen/show/01062d23fa7577ec109f457e6172c964.html"
+    ]
+  },
+  {
+    "head": "茶云纹叶枯病",
+    "relation": "化学防治",
+    "tail": "甲基硫菌灵",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.pwsannong.com/c/2016-04-13/565093.shtml",
+      "http://www.365sn.cn/Wechat/Index/showDiseases/diseId/6129",
+      "http://nyncj.yaan.gov.cn/xinwen/show/01062d23fa7577ec109f457e6172c964.html"
+    ]
+  },
+  {
+    "head": "茶云纹叶枯病",
+    "relation": "化学防治",
+    "tail": "百菌清",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.pwsannong.com/c/2016-04-13/565093.shtml",
+      "http://www.365sn.cn/Wechat/Index/showDiseases/diseId/6129",
+      "http://nyncj.yaan.gov.cn/xinwen/show/01062d23fa7577ec109f457e6172c964.html"
+    ]
+  },
+  {
+    "head": "茶云纹叶枯病",
+    "relation": "化学防治",
+    "tail": "苯醚甲环唑",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.pwsannong.com/c/2016-04-13/565093.shtml",
+      "http://www.365sn.cn/Wechat/Index/showDiseases/diseId/6129",
+      "http://nyncj.yaan.gov.cn/xinwen/show/01062d23fa7577ec109f457e6172c964.html"
+    ]
+  },
+  {
+    "head": "茶云纹叶枯病",
+    "relation": "生物防治",
+    "tail": "多抗霉素",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://www.pwsannong.com/c/2016-04-13/565093.shtml",
+      "http://www.365sn.cn/Wechat/Index/showDiseases/diseId/6129",
+      "http://nyncj.yaan.gov.cn/xinwen/show/01062d23fa7577ec109f457e6172c964.html"
+    ]
+  },
+  {
+    "head": "茶云纹叶枯病",
+    "relation": "生物防治",
+    "tail": "氨基寡糖素",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://www.pwsannong.com/c/2016-04-13/565093.shtml",
+      "http://www.365sn.cn/Wechat/Index/showDiseases/diseId/6129",
+      "http://nyncj.yaan.gov.cn/xinwen/show/01062d23fa7577ec109f457e6172c964.html"
+    ]
+  },
+  {
+    "head": "茶云纹叶枯病",
+    "relation": "生物防治",
+    "tail": "申嗪霉素",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://www.pwsannong.com/c/2016-04-13/565093.shtml",
+      "http://www.365sn.cn/Wechat/Index/showDiseases/diseId/6129",
+      "http://nyncj.yaan.gov.cn/xinwen/show/01062d23fa7577ec109f457e6172c964.html"
+    ]
+  },
+  {
+    "head": "茶云纹叶枯病",
+    "relation": "表现症状",
+    "tail": "不规则褐色大斑",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://www.pwsannong.com/c/2016-04-13/565093.shtml",
+      "http://www.365sn.cn/Wechat/Index/showDiseases/diseId/6129",
+      "http://nyncj.yaan.gov.cn/xinwen/show/01062d23fa7577ec109f457e6172c964.html"
+    ]
+  },
+  {
+    "head": "茶云纹叶枯病",
+    "relation": "表现症状",
+    "tail": "云纹状病斑",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://www.pwsannong.com/c/2016-04-13/565093.shtml",
+      "http://www.365sn.cn/Wechat/Index/showDiseases/diseId/6129",
+      "http://nyncj.yaan.gov.cn/xinwen/show/01062d23fa7577ec109f457e6172c964.html"
+    ]
+  },
+  {
+    "head": "茶云纹叶枯病",
+    "relation": "表现症状",
+    "tail": "潮湿时黑色霉层",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://www.pwsannong.com/c/2016-04-13/565093.shtml",
+      "http://www.365sn.cn/Wechat/Index/showDiseases/diseId/6129",
+      "http://nyncj.yaan.gov.cn/xinwen/show/01062d23fa7577ec109f457e6172c964.html"
+    ]
+  },
+  {
+    "head": "茶刺蛾",
+    "relation": "农业防治",
+    "tail": "冬季清园",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6972338404669399040"
+    ]
+  },
+  {
+    "head": "茶刺蛾",
+    "relation": "农业防治",
+    "tail": "翻耕灭茧",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6972338404669399040"
+    ]
+  },
+  {
+    "head": "茶刺蛾",
+    "relation": "物理防治",
+    "tail": "杀虫灯诱杀",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-PHYSICAL",
+    "sources": [
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6972338404669399040"
+    ]
+  },
+  {
+    "head": "茶刺蛾",
+    "relation": "生物防治",
+    "tail": "白僵菌",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6972338404669399040"
+    ]
+  },
+  {
+    "head": "茶刺蛾",
+    "relation": "生物防治",
+    "tail": "苏云金杆菌",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6972338404669399040"
+    ]
+  },
+  {
+    "head": "茶刺蛾",
+    "relation": "生物防治",
+    "tail": "青虫菌",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6972338404669399040"
+    ]
+  },
+  {
+    "head": "茶刺蛾",
+    "relation": "表现症状",
+    "tail": "叶片缺刻",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6972338404669399040"
+    ]
+  },
+  {
+    "head": "茶刺蛾",
+    "relation": "表现症状",
+    "tail": "幼虫叶背取食叶肉",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6972338404669399040"
+    ]
+  },
+  {
+    "head": "茶刺蛾",
+    "relation": "表现症状",
+    "tail": "幼虫有毒刺螫人",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6972338404669399040"
+    ]
+  },
+  {
+    "head": "茶叶丽瘿螨",
+    "relation": "农业防治",
+    "tail": "加强肥水管理",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://www.zzokq.cn/view-771.html",
+      "https://cn.agropages.com/bcc/bdetail-1105.htm"
+    ]
+  },
+  {
+    "head": "茶叶丽瘿螨",
+    "relation": "农业防治",
+    "tail": "及时采摘",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://www.zzokq.cn/view-771.html",
+      "https://cn.agropages.com/bcc/bdetail-1105.htm"
+    ]
+  },
+  {
+    "head": "茶叶丽瘿螨",
+    "relation": "农业防治",
+    "tail": "改善通风透光",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://www.zzokq.cn/view-771.html",
+      "https://cn.agropages.com/bcc/bdetail-1105.htm"
+    ]
+  },
+  {
+    "head": "茶叶丽瘿螨",
+    "relation": "农业防治",
+    "tail": "植物检疫",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://www.zzokq.cn/view-771.html",
+      "https://cn.agropages.com/bcc/bdetail-1105.htm"
+    ]
+  },
+  {
+    "head": "茶叶丽瘿螨",
+    "relation": "化学防治",
+    "tail": "四螨嗪",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.zzokq.cn/view-771.html",
+      "https://cn.agropages.com/bcc/bdetail-1105.htm"
+    ]
+  },
+  {
+    "head": "茶叶丽瘿螨",
+    "relation": "化学防治",
+    "tail": "浏阳霉素",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.zzokq.cn/view-771.html",
+      "https://cn.agropages.com/bcc/bdetail-1105.htm"
+    ]
+  },
+  {
+    "head": "茶叶丽瘿螨",
+    "relation": "化学防治",
+    "tail": "炔螨特",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.zzokq.cn/view-771.html",
+      "https://cn.agropages.com/bcc/bdetail-1105.htm"
+    ]
+  },
+  {
+    "head": "茶叶丽瘿螨",
+    "relation": "化学防治",
+    "tail": "石硫合剂",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.zzokq.cn/view-771.html",
+      "https://cn.agropages.com/bcc/bdetail-1105.htm"
+    ]
+  },
+  {
+    "head": "茶叶丽瘿螨",
+    "relation": "化学防治",
+    "tail": "矿物油",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.zzokq.cn/view-771.html",
+      "https://cn.agropages.com/bcc/bdetail-1105.htm"
+    ]
+  },
+  {
+    "head": "茶叶丽瘿螨",
+    "relation": "化学防治",
+    "tail": "虫螨腈",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.zzokq.cn/view-771.html",
+      "https://cn.agropages.com/bcc/bdetail-1105.htm"
+    ]
+  },
+  {
+    "head": "茶叶丽瘿螨",
+    "relation": "生物防治",
+    "tail": "捕食螨",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://www.zzokq.cn/view-771.html",
+      "https://cn.agropages.com/bcc/bdetail-1105.htm"
+    ]
+  },
+  {
+    "head": "茶叶丽瘿螨",
+    "relation": "生物防治",
+    "tail": "瓢虫",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://www.zzokq.cn/view-771.html",
+      "https://cn.agropages.com/bcc/bdetail-1105.htm"
+    ]
+  },
+  {
+    "head": "茶叶丽瘿螨",
+    "relation": "生物防治",
+    "tail": "胡瓜钝绥螨",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://www.zzokq.cn/view-771.html",
+      "https://cn.agropages.com/bcc/bdetail-1105.htm"
+    ]
+  },
+  {
+    "head": "茶叶丽瘿螨",
+    "relation": "生物防治",
+    "tail": "草蛉",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://www.zzokq.cn/view-771.html",
+      "https://cn.agropages.com/bcc/bdetail-1105.htm"
+    ]
+  },
+  {
+    "head": "茶叶丽瘿螨",
+    "relation": "表现症状",
+    "tail": "叶片紫铜色失光泽",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://www.zzokq.cn/view-771.html",
+      "https://cn.agropages.com/bcc/bdetail-1105.htm"
+    ]
+  },
+  {
+    "head": "茶叶丽瘿螨",
+    "relation": "表现症状",
+    "tail": "叶片质脆上卷开裂",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://www.zzokq.cn/view-771.html",
+      "https://cn.agropages.com/bcc/bdetail-1105.htm"
+    ]
+  },
+  {
+    "head": "茶叶丽瘿螨",
+    "relation": "表现症状",
+    "tail": "叶面白色蜡质纵条",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://www.zzokq.cn/view-771.html",
+      "https://cn.agropages.com/bcc/bdetail-1105.htm"
+    ]
+  },
+  {
+    "head": "茶叶丽瘿螨",
+    "relation": "表现症状",
+    "tail": "芽梢萎缩硬化",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://www.zzokq.cn/view-771.html",
+      "https://cn.agropages.com/bcc/bdetail-1105.htm"
+    ]
+  },
+  {
+    "head": "茶小卷叶蛾",
+    "relation": "农业防治",
+    "tail": "中耕培土",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967610653416935424",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967612620577771520",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967610636214804480"
+    ]
+  },
+  {
+    "head": "茶小卷叶蛾",
+    "relation": "农业防治",
+    "tail": "人工摘除虫苞",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967610653416935424",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967612620577771520",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967610636214804480"
+    ]
+  },
+  {
+    "head": "茶小卷叶蛾",
+    "relation": "农业防治",
+    "tail": "修剪清园",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967610653416935424",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967612620577771520",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967610636214804480"
+    ]
+  },
+  {
+    "head": "茶小卷叶蛾",
+    "relation": "农业防治",
+    "tail": "分批留叶采摘",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967610653416935424",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967612620577771520",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967610636214804480"
+    ]
+  },
+  {
+    "head": "茶小卷叶蛾",
+    "relation": "物理防治",
+    "tail": "性信息素诱捕器",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-PHYSICAL",
+    "sources": [
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967610653416935424",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967612620577771520",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967610636214804480"
+    ]
+  },
+  {
+    "head": "茶小卷叶蛾",
+    "relation": "物理防治",
+    "tail": "杀虫灯诱杀",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-PHYSICAL",
+    "sources": [
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967610653416935424",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967612620577771520",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967610636214804480"
+    ]
+  },
+  {
+    "head": "茶小卷叶蛾",
+    "relation": "物理防治",
+    "tail": "糖醋液诱杀",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-PHYSICAL",
+    "sources": [
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967610653416935424",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967612620577771520",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967610636214804480"
+    ]
+  },
+  {
+    "head": "茶小卷叶蛾",
+    "relation": "生物防治",
+    "tail": "白僵菌",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967610653416935424",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967612620577771520",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967610636214804480"
+    ]
+  },
+  {
+    "head": "茶小卷叶蛾",
+    "relation": "生物防治",
+    "tail": "苏云金杆菌",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967610653416935424",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967612620577771520",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967610636214804480"
+    ]
+  },
+  {
+    "head": "茶小卷叶蛾",
+    "relation": "生物防治",
+    "tail": "苦参碱",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967610653416935424",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967612620577771520",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967610636214804480"
+    ]
+  },
+  {
+    "head": "茶小卷叶蛾",
+    "relation": "生物防治",
+    "tail": "赤眼蜂",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967610653416935424",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967612620577771520",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967610636214804480"
+    ]
+  },
+  {
+    "head": "茶小卷叶蛾",
+    "relation": "表现症状",
+    "tail": "叶片透明枯斑",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967610653416935424",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967612620577771520",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967610636214804480"
+    ]
+  },
+  {
+    "head": "茶小卷叶蛾",
+    "relation": "表现症状",
+    "tail": "幼虫缀叶成苞",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967610653416935424",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967612620577771520",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967610636214804480"
+    ]
+  },
+  {
+    "head": "茶小卷叶蛾",
+    "relation": "表现症状",
+    "tail": "藏苞内取食成孔洞",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967610653416935424",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967612620577771520",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967610636214804480"
+    ]
+  },
+  {
+    "head": "茶小绿叶蝉",
+    "relation": "农业防治",
+    "tail": "冬季修剪",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶小绿叶蝉",
+    "relation": "农业防治",
+    "tail": "分批采摘",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶小绿叶蝉",
+    "relation": "农业防治",
+    "tail": "及时采摘",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶小绿叶蝉",
+    "relation": "农业防治",
+    "tail": "合理修剪",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶小绿叶蝉",
+    "relation": "化学防治",
+    "tail": "吡虫啉",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶小绿叶蝉",
+    "relation": "化学防治",
+    "tail": "唑虫酰胺",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶小绿叶蝉",
+    "relation": "化学防治",
+    "tail": "啶虫脒",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶小绿叶蝉",
+    "relation": "化学防治",
+    "tail": "噻虫嗪",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶小绿叶蝉",
+    "relation": "化学防治",
+    "tail": "联苯菊酯",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶小绿叶蝉",
+    "relation": "化学防治",
+    "tail": "茚虫威",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶小绿叶蝉",
+    "relation": "物理防治",
+    "tail": "黄板",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-PHYSICAL",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶小绿叶蝉",
+    "relation": "生物防治",
+    "tail": "印楝素",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶小绿叶蝉",
+    "relation": "生物防治",
+    "tail": "瓢虫",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶小绿叶蝉",
+    "relation": "生物防治",
+    "tail": "白僵菌",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶小绿叶蝉",
+    "relation": "生物防治",
+    "tail": "苏云金杆菌",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶小绿叶蝉",
+    "relation": "生物防治",
+    "tail": "苦参碱",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶小绿叶蝉",
+    "relation": "生物防治",
+    "tail": "草蛉",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶小绿叶蝉",
+    "relation": "生物防治",
+    "tail": "赤眼蜂",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶小绿叶蝉",
+    "relation": "生物防治",
+    "tail": "鱼藤酮",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶小绿叶蝉",
+    "relation": "表现症状",
+    "tail": "叶缘焦枯",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶小绿叶蝉",
+    "relation": "表现症状",
+    "tail": "嫩叶卷曲",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶小绿叶蝉",
+    "relation": "表现症状",
+    "tail": "芽叶萎缩",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶尺蠖",
+    "relation": "农业防治",
+    "tail": "中耕灭蛹",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "https://www.sxncb.com/2020-08/10/content_8642713.html",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶尺蠖",
+    "relation": "农业防治",
+    "tail": "人工摘除虫苞",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "https://www.sxncb.com/2020-08/10/content_8642713.html",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶尺蠖",
+    "relation": "农业防治",
+    "tail": "冬季清园",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "https://www.sxncb.com/2020-08/10/content_8642713.html",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶尺蠖",
+    "relation": "化学防治",
+    "tail": "甲维盐",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "https://www.sxncb.com/2020-08/10/content_8642713.html",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶尺蠖",
+    "relation": "化学防治",
+    "tail": "联苯菊酯",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "https://www.sxncb.com/2020-08/10/content_8642713.html",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶尺蠖",
+    "relation": "化学防治",
+    "tail": "茚虫威",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "https://www.sxncb.com/2020-08/10/content_8642713.html",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶尺蠖",
+    "relation": "化学防治",
+    "tail": "高效氯氟氰菊酯",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "https://www.sxncb.com/2020-08/10/content_8642713.html",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶尺蠖",
+    "relation": "物理防治",
+    "tail": "杀虫灯诱杀",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-PHYSICAL",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "https://www.sxncb.com/2020-08/10/content_8642713.html",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶尺蠖",
+    "relation": "生物防治",
+    "tail": "绒茧蜂",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "https://www.sxncb.com/2020-08/10/content_8642713.html",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶尺蠖",
+    "relation": "生物防治",
+    "tail": "苏云金杆菌",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "https://www.sxncb.com/2020-08/10/content_8642713.html",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶尺蠖",
+    "relation": "生物防治",
+    "tail": "茶尺蠖核型多角体病毒",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "https://www.sxncb.com/2020-08/10/content_8642713.html",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶尺蠖",
+    "relation": "生物防治",
+    "tail": "赤眼蜂",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "https://www.sxncb.com/2020-08/10/content_8642713.html",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶尺蠖",
+    "relation": "表现症状",
+    "tail": "严重时叶片被吃光",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "https://www.sxncb.com/2020-08/10/content_8642713.html",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶尺蠖",
+    "relation": "表现症状",
+    "tail": "幼虫啃食叶片形成缺刻或孔洞",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "https://www.sxncb.com/2020-08/10/content_8642713.html",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶尺蠖",
+    "relation": "表现症状",
+    "tail": "幼虫有吐丝下垂习性",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "https://www.sxncb.com/2020-08/10/content_8642713.html",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶树介壳虫",
+    "relation": "农业防治",
+    "tail": "剪除虫枝",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://www.365sn.cn/Wechat/Index/showDiseasesN/termId/115/diseId/6190"
+    ]
+  },
+  {
+    "head": "茶树介壳虫",
+    "relation": "农业防治",
+    "tail": "清蔸亮脚",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://www.365sn.cn/Wechat/Index/showDiseasesN/termId/115/diseId/6190"
+    ]
+  },
+  {
+    "head": "茶树介壳虫",
+    "relation": "农业防治",
+    "tail": "苗木检疫",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://www.365sn.cn/Wechat/Index/showDiseasesN/termId/115/diseId/6190"
+    ]
+  },
+  {
+    "head": "茶树介壳虫",
+    "relation": "化学防治",
+    "tail": "噻嗪酮",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.365sn.cn/Wechat/Index/showDiseasesN/termId/115/diseId/6190"
+    ]
+  },
+  {
+    "head": "茶树介壳虫",
+    "relation": "化学防治",
+    "tail": "松脂合剂",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.365sn.cn/Wechat/Index/showDiseasesN/termId/115/diseId/6190"
+    ]
+  },
+  {
+    "head": "茶树介壳虫",
+    "relation": "化学防治",
+    "tail": "石硫合剂",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.365sn.cn/Wechat/Index/showDiseasesN/termId/115/diseId/6190"
+    ]
+  },
+  {
+    "head": "茶树介壳虫",
+    "relation": "化学防治",
+    "tail": "矿物油",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.365sn.cn/Wechat/Index/showDiseasesN/termId/115/diseId/6190"
+    ]
+  },
+  {
+    "head": "茶树介壳虫",
+    "relation": "化学防治",
+    "tail": "螺虫乙酯",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.365sn.cn/Wechat/Index/showDiseasesN/termId/115/diseId/6190"
+    ]
+  },
+  {
+    "head": "茶树介壳虫",
+    "relation": "物理防治",
+    "tail": "人工刮除",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-PHYSICAL",
+    "sources": [
+      "https://www.365sn.cn/Wechat/Index/showDiseasesN/termId/115/diseId/6190"
+    ]
+  },
+  {
+    "head": "茶树介壳虫",
+    "relation": "生物防治",
+    "tail": "七星瓢虫",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://www.365sn.cn/Wechat/Index/showDiseasesN/termId/115/diseId/6190"
+    ]
+  },
+  {
+    "head": "茶树介壳虫",
+    "relation": "生物防治",
+    "tail": "异色瓢虫",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://www.365sn.cn/Wechat/Index/showDiseasesN/termId/115/diseId/6190"
+    ]
+  },
+  {
+    "head": "茶树介壳虫",
+    "relation": "生物防治",
+    "tail": "橙额跳小蜂",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://www.365sn.cn/Wechat/Index/showDiseasesN/termId/115/diseId/6190"
+    ]
+  },
+  {
+    "head": "茶树介壳虫",
+    "relation": "生物防治",
+    "tail": "红点唇瓢虫",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://www.365sn.cn/Wechat/Index/showDiseasesN/termId/115/diseId/6190"
+    ]
+  },
+  {
+    "head": "茶树介壳虫",
+    "relation": "表现症状",
+    "tail": "分泌蜜露诱发煤烟病",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://www.365sn.cn/Wechat/Index/showDiseasesN/termId/115/diseId/6190"
+    ]
+  },
+  {
+    "head": "茶树介壳虫",
+    "relation": "表现症状",
+    "tail": "刺吸枝干叶片汁液",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://www.365sn.cn/Wechat/Index/showDiseasesN/termId/115/diseId/6190"
+    ]
+  },
+  {
+    "head": "茶树介壳虫",
+    "relation": "表现症状",
+    "tail": "枝条枯死",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://www.365sn.cn/Wechat/Index/showDiseasesN/termId/115/diseId/6190"
+    ]
+  },
+  {
+    "head": "茶树介壳虫",
+    "relation": "表现症状",
+    "tail": "树势衰弱落叶",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://www.365sn.cn/Wechat/Index/showDiseasesN/termId/115/diseId/6190"
+    ]
+  },
+  {
+    "head": "茶根结线虫",
+    "relation": "农业防治",
+    "tail": "与水稻轮作",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://baike.so.com/doc/6932305-7154628.html",
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm"
+    ]
+  },
+  {
+    "head": "茶根结线虫",
+    "relation": "农业防治",
+    "tail": "增施磷钾肥",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://baike.so.com/doc/6932305-7154628.html",
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm"
+    ]
+  },
+  {
+    "head": "茶根结线虫",
+    "relation": "农业防治",
+    "tail": "植物检疫",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://baike.so.com/doc/6932305-7154628.html",
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm"
+    ]
+  },
+  {
+    "head": "茶根结线虫",
+    "relation": "农业防治",
+    "tail": "深翻暴晒",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://baike.so.com/doc/6932305-7154628.html",
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm"
+    ]
+  },
+  {
+    "head": "茶根结线虫",
+    "relation": "化学防治",
+    "tail": "噻唑膦",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://baike.so.com/doc/6932305-7154628.html",
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm"
+    ]
+  },
+  {
+    "head": "茶根结线虫",
+    "relation": "化学防治",
+    "tail": "阿维菌素",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://baike.so.com/doc/6932305-7154628.html",
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm"
+    ]
+  },
+  {
+    "head": "茶根结线虫",
+    "relation": "物理防治",
+    "tail": "覆膜太阳能消毒",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-PHYSICAL",
+    "sources": [
+      "https://baike.so.com/doc/6932305-7154628.html",
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm"
+    ]
+  },
+  {
+    "head": "茶根结线虫",
+    "relation": "生物防治",
+    "tail": "假单胞菌",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://baike.so.com/doc/6932305-7154628.html",
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm"
+    ]
+  },
+  {
+    "head": "茶根结线虫",
+    "relation": "生物防治",
+    "tail": "木霉菌",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://baike.so.com/doc/6932305-7154628.html",
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm"
+    ]
+  },
+  {
+    "head": "茶根结线虫",
+    "relation": "生物防治",
+    "tail": "淡紫紫孢菌",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://baike.so.com/doc/6932305-7154628.html",
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm"
+    ]
+  },
+  {
+    "head": "茶根结线虫",
+    "relation": "生物防治",
+    "tail": "芽孢杆菌",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://baike.so.com/doc/6932305-7154628.html",
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm"
+    ]
+  },
+  {
+    "head": "茶根结线虫",
+    "relation": "表现症状",
+    "tail": "叶片黄化",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://baike.so.com/doc/6932305-7154628.html",
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm"
+    ]
+  },
+  {
+    "head": "茶根结线虫",
+    "relation": "表现症状",
+    "tail": "根部串珠状根瘤",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://baike.so.com/doc/6932305-7154628.html",
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm"
+    ]
+  },
+  {
+    "head": "茶根结线虫",
+    "relation": "表现症状",
+    "tail": "植株长势弱",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://baike.so.com/doc/6932305-7154628.html",
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm"
+    ]
+  },
+  {
+    "head": "茶根结线虫",
+    "relation": "表现症状",
+    "tail": "须根少",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://baike.so.com/doc/6932305-7154628.html",
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm"
+    ]
+  },
+  {
+    "head": "茶橙瘿螨",
+    "relation": "农业防治",
+    "tail": "冬季清园",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶橙瘿螨",
+    "relation": "农业防治",
+    "tail": "加强肥水管理",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶橙瘿螨",
+    "relation": "农业防治",
+    "tail": "及时采摘",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶橙瘿螨",
+    "relation": "农业防治",
+    "tail": "合理修剪",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶橙瘿螨",
+    "relation": "化学防治",
+    "tail": "哒螨灵",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶橙瘿螨",
+    "relation": "化学防治",
+    "tail": "石硫合剂",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶橙瘿螨",
+    "relation": "化学防治",
+    "tail": "矿物油",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶橙瘿螨",
+    "relation": "化学防治",
+    "tail": "阿维菌素",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶橙瘿螨",
+    "relation": "物理防治",
+    "tail": "色板诱杀",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-PHYSICAL",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶橙瘿螨",
+    "relation": "生物防治",
+    "tail": "印楝素",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶橙瘿螨",
+    "relation": "生物防治",
+    "tail": "巴氏新小绥螨",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶橙瘿螨",
+    "relation": "生物防治",
+    "tail": "捕食螨",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶橙瘿螨",
+    "relation": "生物防治",
+    "tail": "智利小植绥螨",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶橙瘿螨",
+    "relation": "生物防治",
+    "tail": "胡瓜钝绥螨",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶橙瘿螨",
+    "relation": "生物防治",
+    "tail": "苦参碱",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶橙瘿螨",
+    "relation": "表现症状",
+    "tail": "叶片萎缩变形",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶橙瘿螨",
+    "relation": "表现症状",
+    "tail": "叶质变脆",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶橙瘿螨",
+    "relation": "表现症状",
+    "tail": "嫩叶和芽上出现橙黄色小点",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶橙瘿螨",
+    "relation": "表现症状",
+    "tail": "芽叶生长受阻",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶毛虫",
+    "relation": "农业防治",
+    "tail": "中耕培土灭蛹",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6969012487378432000",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6972338373220507648",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=7171989542606528512",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967610636214804480"
+    ]
+  },
+  {
+    "head": "茶毛虫",
+    "relation": "农业防治",
+    "tail": "人工摘除卵块",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6969012487378432000",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6972338373220507648",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=7171989542606528512",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967610636214804480"
+    ]
+  },
+  {
+    "head": "茶毛虫",
+    "relation": "农业防治",
+    "tail": "冬季清园",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6969012487378432000",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6972338373220507648",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=7171989542606528512",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967610636214804480"
+    ]
+  },
+  {
+    "head": "茶毛虫",
+    "relation": "农业防治",
+    "tail": "剪除群集幼虫枝叶",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6969012487378432000",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6972338373220507648",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=7171989542606528512",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967610636214804480"
+    ]
+  },
+  {
+    "head": "茶毛虫",
+    "relation": "化学防治",
+    "tail": "溴氰菊酯",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6969012487378432000",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6972338373220507648",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=7171989542606528512",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967610636214804480"
+    ]
+  },
+  {
+    "head": "茶毛虫",
+    "relation": "化学防治",
+    "tail": "联苯·甲维盐",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6969012487378432000",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6972338373220507648",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=7171989542606528512",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967610636214804480"
+    ]
+  },
+  {
+    "head": "茶毛虫",
+    "relation": "化学防治",
+    "tail": "联苯菊酯",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6969012487378432000",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6972338373220507648",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=7171989542606528512",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967610636214804480"
+    ]
+  },
+  {
+    "head": "茶毛虫",
+    "relation": "化学防治",
+    "tail": "高效氯氰菊酯",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6969012487378432000",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6972338373220507648",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=7171989542606528512",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967610636214804480"
+    ]
+  },
+  {
+    "head": "茶毛虫",
+    "relation": "物理防治",
+    "tail": "性信息素诱捕器",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-PHYSICAL",
+    "sources": [
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6969012487378432000",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6972338373220507648",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=7171989542606528512",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967610636214804480"
+    ]
+  },
+  {
+    "head": "茶毛虫",
+    "relation": "物理防治",
+    "tail": "杀虫灯诱杀",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-PHYSICAL",
+    "sources": [
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6969012487378432000",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6972338373220507648",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=7171989542606528512",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967610636214804480"
+    ]
+  },
+  {
+    "head": "茶毛虫",
+    "relation": "生物防治",
+    "tail": "印楝素",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6969012487378432000",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6972338373220507648",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=7171989542606528512",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967610636214804480"
+    ]
+  },
+  {
+    "head": "茶毛虫",
+    "relation": "生物防治",
+    "tail": "寄生蜂",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6969012487378432000",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6972338373220507648",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=7171989542606528512",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967610636214804480"
+    ]
+  },
+  {
+    "head": "茶毛虫",
+    "relation": "生物防治",
+    "tail": "甘蓝夜蛾核型多角体病毒",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6969012487378432000",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6972338373220507648",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=7171989542606528512",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967610636214804480"
+    ]
+  },
+  {
+    "head": "茶毛虫",
+    "relation": "生物防治",
+    "tail": "白僵菌",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6969012487378432000",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6972338373220507648",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=7171989542606528512",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967610636214804480"
+    ]
+  },
+  {
+    "head": "茶毛虫",
+    "relation": "生物防治",
+    "tail": "短稳杆菌",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6969012487378432000",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6972338373220507648",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=7171989542606528512",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967610636214804480"
+    ]
+  },
+  {
+    "head": "茶毛虫",
+    "relation": "生物防治",
+    "tail": "苏云金杆菌",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6969012487378432000",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6972338373220507648",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=7171989542606528512",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967610636214804480"
+    ]
+  },
+  {
+    "head": "茶毛虫",
+    "relation": "生物防治",
+    "tail": "苦参碱",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6969012487378432000",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6972338373220507648",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=7171989542606528512",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967610636214804480"
+    ]
+  },
+  {
+    "head": "茶毛虫",
+    "relation": "生物防治",
+    "tail": "茶毛虫核型多角体病毒",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6969012487378432000",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6972338373220507648",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=7171989542606528512",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967610636214804480"
+    ]
+  },
+  {
+    "head": "茶毛虫",
+    "relation": "表现症状",
+    "tail": "严重时叶片被吃光",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6969012487378432000",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6972338373220507648",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=7171989542606528512",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967610636214804480"
+    ]
+  },
+  {
+    "head": "茶毛虫",
+    "relation": "表现症状",
+    "tail": "幼虫有毒毛",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6969012487378432000",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6972338373220507648",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=7171989542606528512",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967610636214804480"
+    ]
+  },
+  {
+    "head": "茶毛虫",
+    "relation": "表现症状",
+    "tail": "幼虫群集啃食叶片",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6969012487378432000",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6972338373220507648",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=7171989542606528512",
+      "https://cloud.kepuchina.cn/newSearch/imgText?id=6967610636214804480"
+    ]
+  },
+  {
+    "head": "茶炭疽病",
+    "relation": "农业防治",
+    "tail": "冬季清园",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://www.ilichuan.com.cn/nykj615bbca6/1355792.html",
+      "http://www.zjuagri.net/index.php?m=content&c=index&a=show&catid=11&id=5934",
+      "http://nyncj.yaan.gov.cn/xinwen/show/01062d23fa7577ec109f457e6172c964.html",
+      "http://www.cqnync.cn/zt/snhbs/details.aspx?topicId=754710&ci=2186&psi=117"
+    ]
+  },
+  {
+    "head": "茶炭疽病",
+    "relation": "农业防治",
+    "tail": "平衡施肥",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://www.ilichuan.com.cn/nykj615bbca6/1355792.html",
+      "http://www.zjuagri.net/index.php?m=content&c=index&a=show&catid=11&id=5934",
+      "http://nyncj.yaan.gov.cn/xinwen/show/01062d23fa7577ec109f457e6172c964.html",
+      "http://www.cqnync.cn/zt/snhbs/details.aspx?topicId=754710&ci=2186&psi=117"
+    ]
+  },
+  {
+    "head": "茶炭疽病",
+    "relation": "农业防治",
+    "tail": "适时修剪",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://www.ilichuan.com.cn/nykj615bbca6/1355792.html",
+      "http://www.zjuagri.net/index.php?m=content&c=index&a=show&catid=11&id=5934",
+      "http://nyncj.yaan.gov.cn/xinwen/show/01062d23fa7577ec109f457e6172c964.html",
+      "http://www.cqnync.cn/zt/snhbs/details.aspx?topicId=754710&ci=2186&psi=117"
+    ]
+  },
+  {
+    "head": "茶炭疽病",
+    "relation": "化学防治",
+    "tail": "代森锰锌",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.ilichuan.com.cn/nykj615bbca6/1355792.html",
+      "http://www.zjuagri.net/index.php?m=content&c=index&a=show&catid=11&id=5934",
+      "http://nyncj.yaan.gov.cn/xinwen/show/01062d23fa7577ec109f457e6172c964.html",
+      "http://www.cqnync.cn/zt/snhbs/details.aspx?topicId=754710&ci=2186&psi=117"
+    ]
+  },
+  {
+    "head": "茶炭疽病",
+    "relation": "化学防治",
+    "tail": "吡唑醚菌酯",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.ilichuan.com.cn/nykj615bbca6/1355792.html",
+      "http://www.zjuagri.net/index.php?m=content&c=index&a=show&catid=11&id=5934",
+      "http://nyncj.yaan.gov.cn/xinwen/show/01062d23fa7577ec109f457e6172c964.html",
+      "http://www.cqnync.cn/zt/snhbs/details.aspx?topicId=754710&ci=2186&psi=117"
+    ]
+  },
+  {
+    "head": "茶炭疽病",
+    "relation": "化学防治",
+    "tail": "啶氧菌酯",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.ilichuan.com.cn/nykj615bbca6/1355792.html",
+      "http://www.zjuagri.net/index.php?m=content&c=index&a=show&catid=11&id=5934",
+      "http://nyncj.yaan.gov.cn/xinwen/show/01062d23fa7577ec109f457e6172c964.html",
+      "http://www.cqnync.cn/zt/snhbs/details.aspx?topicId=754710&ci=2186&psi=117"
+    ]
+  },
+  {
+    "head": "茶炭疽病",
+    "relation": "化学防治",
+    "tail": "甲基硫菌灵",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.ilichuan.com.cn/nykj615bbca6/1355792.html",
+      "http://www.zjuagri.net/index.php?m=content&c=index&a=show&catid=11&id=5934",
+      "http://nyncj.yaan.gov.cn/xinwen/show/01062d23fa7577ec109f457e6172c964.html",
+      "http://www.cqnync.cn/zt/snhbs/details.aspx?topicId=754710&ci=2186&psi=117"
+    ]
+  },
+  {
+    "head": "茶炭疽病",
+    "relation": "化学防治",
+    "tail": "苯醚甲环唑",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.ilichuan.com.cn/nykj615bbca6/1355792.html",
+      "http://www.zjuagri.net/index.php?m=content&c=index&a=show&catid=11&id=5934",
+      "http://nyncj.yaan.gov.cn/xinwen/show/01062d23fa7577ec109f457e6172c964.html",
+      "http://www.cqnync.cn/zt/snhbs/details.aspx?topicId=754710&ci=2186&psi=117"
+    ]
+  },
+  {
+    "head": "茶炭疽病",
+    "relation": "生物防治",
+    "tail": "多抗霉素",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://www.ilichuan.com.cn/nykj615bbca6/1355792.html",
+      "http://www.zjuagri.net/index.php?m=content&c=index&a=show&catid=11&id=5934",
+      "http://nyncj.yaan.gov.cn/xinwen/show/01062d23fa7577ec109f457e6172c964.html",
+      "http://www.cqnync.cn/zt/snhbs/details.aspx?topicId=754710&ci=2186&psi=117"
+    ]
+  },
+  {
+    "head": "茶炭疽病",
+    "relation": "生物防治",
+    "tail": "木霉菌",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://www.ilichuan.com.cn/nykj615bbca6/1355792.html",
+      "http://www.zjuagri.net/index.php?m=content&c=index&a=show&catid=11&id=5934",
+      "http://nyncj.yaan.gov.cn/xinwen/show/01062d23fa7577ec109f457e6172c964.html",
+      "http://www.cqnync.cn/zt/snhbs/details.aspx?topicId=754710&ci=2186&psi=117"
+    ]
+  },
+  {
+    "head": "茶炭疽病",
+    "relation": "生物防治",
+    "tail": "申嗪霉素",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://www.ilichuan.com.cn/nykj615bbca6/1355792.html",
+      "http://www.zjuagri.net/index.php?m=content&c=index&a=show&catid=11&id=5934",
+      "http://nyncj.yaan.gov.cn/xinwen/show/01062d23fa7577ec109f457e6172c964.html",
+      "http://www.cqnync.cn/zt/snhbs/details.aspx?topicId=754710&ci=2186&psi=117"
+    ]
+  },
+  {
+    "head": "茶炭疽病",
+    "relation": "生物防治",
+    "tail": "芽孢杆菌",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://www.ilichuan.com.cn/nykj615bbca6/1355792.html",
+      "http://www.zjuagri.net/index.php?m=content&c=index&a=show&catid=11&id=5934",
+      "http://nyncj.yaan.gov.cn/xinwen/show/01062d23fa7577ec109f457e6172c964.html",
+      "http://www.cqnync.cn/zt/snhbs/details.aspx?topicId=754710&ci=2186&psi=117"
+    ]
+  },
+  {
+    "head": "茶炭疽病",
+    "relation": "表现症状",
+    "tail": "后期黑色小点",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://www.ilichuan.com.cn/nykj615bbca6/1355792.html",
+      "http://www.zjuagri.net/index.php?m=content&c=index&a=show&catid=11&id=5934",
+      "http://nyncj.yaan.gov.cn/xinwen/show/01062d23fa7577ec109f457e6172c964.html",
+      "http://www.cqnync.cn/zt/snhbs/details.aspx?topicId=754710&ci=2186&psi=117"
+    ]
+  },
+  {
+    "head": "茶炭疽病",
+    "relation": "表现症状",
+    "tail": "褐色圆形病斑",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://www.ilichuan.com.cn/nykj615bbca6/1355792.html",
+      "http://www.zjuagri.net/index.php?m=content&c=index&a=show&catid=11&id=5934",
+      "http://nyncj.yaan.gov.cn/xinwen/show/01062d23fa7577ec109f457e6172c964.html",
+      "http://www.cqnync.cn/zt/snhbs/details.aspx?topicId=754710&ci=2186&psi=117"
+    ]
+  },
+  {
+    "head": "茶炭疽病",
+    "relation": "表现症状",
+    "tail": "边缘有黄色晕圈",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://www.ilichuan.com.cn/nykj615bbca6/1355792.html",
+      "http://www.zjuagri.net/index.php?m=content&c=index&a=show&catid=11&id=5934",
+      "http://nyncj.yaan.gov.cn/xinwen/show/01062d23fa7577ec109f457e6172c964.html",
+      "http://www.cqnync.cn/zt/snhbs/details.aspx?topicId=754710&ci=2186&psi=117"
+    ]
+  },
+  {
+    "head": "茶煤烟病",
+    "relation": "农业防治",
+    "tail": "合理修剪",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://baike.so.com/doc/2133240-2257066.html",
+      "https://www.scjlx.gov.cn/sy/zdlyxxgk/bmxx/202409/t20240918_2022976.html",
+      "http://www.shimian.gov.cn/htm/article.htm?id=b4703176-d766-4aa7-b7ae-9e41e34d12e9"
+    ]
+  },
+  {
+    "head": "茶煤烟病",
+    "relation": "农业防治",
+    "tail": "通风透光",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://baike.so.com/doc/2133240-2257066.html",
+      "https://www.scjlx.gov.cn/sy/zdlyxxgk/bmxx/202409/t20240918_2022976.html",
+      "http://www.shimian.gov.cn/htm/article.htm?id=b4703176-d766-4aa7-b7ae-9e41e34d12e9"
+    ]
+  },
+  {
+    "head": "茶煤烟病",
+    "relation": "化学防治",
+    "tail": "噻虫嗪",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://baike.so.com/doc/2133240-2257066.html",
+      "https://www.scjlx.gov.cn/sy/zdlyxxgk/bmxx/202409/t20240918_2022976.html",
+      "http://www.shimian.gov.cn/htm/article.htm?id=b4703176-d766-4aa7-b7ae-9e41e34d12e9"
+    ]
+  },
+  {
+    "head": "茶煤烟病",
+    "relation": "化学防治",
+    "tail": "波尔多液",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://baike.so.com/doc/2133240-2257066.html",
+      "https://www.scjlx.gov.cn/sy/zdlyxxgk/bmxx/202409/t20240918_2022976.html",
+      "http://www.shimian.gov.cn/htm/article.htm?id=b4703176-d766-4aa7-b7ae-9e41e34d12e9"
+    ]
+  },
+  {
+    "head": "茶煤烟病",
+    "relation": "化学防治",
+    "tail": "石硫合剂",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://baike.so.com/doc/2133240-2257066.html",
+      "https://www.scjlx.gov.cn/sy/zdlyxxgk/bmxx/202409/t20240918_2022976.html",
+      "http://www.shimian.gov.cn/htm/article.htm?id=b4703176-d766-4aa7-b7ae-9e41e34d12e9"
+    ]
+  },
+  {
+    "head": "茶煤烟病",
+    "relation": "化学防治",
+    "tail": "矿物油",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://baike.so.com/doc/2133240-2257066.html",
+      "https://www.scjlx.gov.cn/sy/zdlyxxgk/bmxx/202409/t20240918_2022976.html",
+      "http://www.shimian.gov.cn/htm/article.htm?id=b4703176-d766-4aa7-b7ae-9e41e34d12e9"
+    ]
+  },
+  {
+    "head": "茶煤烟病",
+    "relation": "化学防治",
+    "tail": "螺虫乙酯",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://baike.so.com/doc/2133240-2257066.html",
+      "https://www.scjlx.gov.cn/sy/zdlyxxgk/bmxx/202409/t20240918_2022976.html",
+      "http://www.shimian.gov.cn/htm/article.htm?id=b4703176-d766-4aa7-b7ae-9e41e34d12e9"
+    ]
+  },
+  {
+    "head": "茶煤烟病",
+    "relation": "物理防治",
+    "tail": "黄板诱杀",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-PHYSICAL",
+    "sources": [
+      "https://baike.so.com/doc/2133240-2257066.html",
+      "https://www.scjlx.gov.cn/sy/zdlyxxgk/bmxx/202409/t20240918_2022976.html",
+      "http://www.shimian.gov.cn/htm/article.htm?id=b4703176-d766-4aa7-b7ae-9e41e34d12e9"
+    ]
+  },
+  {
+    "head": "茶煤烟病",
+    "relation": "生物防治",
+    "tail": "寄生蜂",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://baike.so.com/doc/2133240-2257066.html",
+      "https://www.scjlx.gov.cn/sy/zdlyxxgk/bmxx/202409/t20240918_2022976.html",
+      "http://www.shimian.gov.cn/htm/article.htm?id=b4703176-d766-4aa7-b7ae-9e41e34d12e9"
+    ]
+  },
+  {
+    "head": "茶煤烟病",
+    "relation": "生物防治",
+    "tail": "瓢虫",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://baike.so.com/doc/2133240-2257066.html",
+      "https://www.scjlx.gov.cn/sy/zdlyxxgk/bmxx/202409/t20240918_2022976.html",
+      "http://www.shimian.gov.cn/htm/article.htm?id=b4703176-d766-4aa7-b7ae-9e41e34d12e9"
+    ]
+  },
+  {
+    "head": "茶煤烟病",
+    "relation": "表现症状",
+    "tail": "叶片黑色霉状物",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://baike.so.com/doc/2133240-2257066.html",
+      "https://www.scjlx.gov.cn/sy/zdlyxxgk/bmxx/202409/t20240918_2022976.html",
+      "http://www.shimian.gov.cn/htm/article.htm?id=b4703176-d766-4aa7-b7ae-9e41e34d12e9"
+    ]
+  },
+  {
+    "head": "茶煤烟病",
+    "relation": "表现症状",
+    "tail": "黑色烟煤状霉层",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://baike.so.com/doc/2133240-2257066.html",
+      "https://www.scjlx.gov.cn/sy/zdlyxxgk/bmxx/202409/t20240918_2022976.html",
+      "http://www.shimian.gov.cn/htm/article.htm?id=b4703176-d766-4aa7-b7ae-9e41e34d12e9"
+    ]
+  },
+  {
+    "head": "茶网蝽",
+    "relation": "农业防治",
+    "tail": "修剪清园",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://nynct.shaanxi.gov.cn/zt/snzbxx/zbjs/202505/t20250512_3517363.html",
+      "http://www.laifeng.gov.cn/zcwdk/cl/202201/t20220108_1231962.shtml"
+    ]
+  },
+  {
+    "head": "茶网蝽",
+    "relation": "农业防治",
+    "tail": "分批勤采",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://nynct.shaanxi.gov.cn/zt/snzbxx/zbjs/202505/t20250512_3517363.html",
+      "http://www.laifeng.gov.cn/zcwdk/cl/202201/t20220108_1231962.shtml"
+    ]
+  },
+  {
+    "head": "茶网蝽",
+    "relation": "农业防治",
+    "tail": "台刈",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://nynct.shaanxi.gov.cn/zt/snzbxx/zbjs/202505/t20250512_3517363.html",
+      "http://www.laifeng.gov.cn/zcwdk/cl/202201/t20220108_1231962.shtml"
+    ]
+  },
+  {
+    "head": "茶网蝽",
+    "relation": "农业防治",
+    "tail": "铲除杂草",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://nynct.shaanxi.gov.cn/zt/snzbxx/zbjs/202505/t20250512_3517363.html",
+      "http://www.laifeng.gov.cn/zcwdk/cl/202201/t20220108_1231962.shtml"
+    ]
+  },
+  {
+    "head": "茶网蝽",
+    "relation": "化学防治",
+    "tail": "吡虫啉",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://nynct.shaanxi.gov.cn/zt/snzbxx/zbjs/202505/t20250512_3517363.html",
+      "http://www.laifeng.gov.cn/zcwdk/cl/202201/t20220108_1231962.shtml"
+    ]
+  },
+  {
+    "head": "茶网蝽",
+    "relation": "化学防治",
+    "tail": "噻虫嗪",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://nynct.shaanxi.gov.cn/zt/snzbxx/zbjs/202505/t20250512_3517363.html",
+      "http://www.laifeng.gov.cn/zcwdk/cl/202201/t20220108_1231962.shtml"
+    ]
+  },
+  {
+    "head": "茶网蝽",
+    "relation": "化学防治",
+    "tail": "联苯菊酯",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://nynct.shaanxi.gov.cn/zt/snzbxx/zbjs/202505/t20250512_3517363.html",
+      "http://www.laifeng.gov.cn/zcwdk/cl/202201/t20220108_1231962.shtml"
+    ]
+  },
+  {
+    "head": "茶网蝽",
+    "relation": "化学防治",
+    "tail": "茚虫威",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://nynct.shaanxi.gov.cn/zt/snzbxx/zbjs/202505/t20250512_3517363.html",
+      "http://www.laifeng.gov.cn/zcwdk/cl/202201/t20220108_1231962.shtml"
+    ]
+  },
+  {
+    "head": "茶网蝽",
+    "relation": "化学防治",
+    "tail": "虫螨腈",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://nynct.shaanxi.gov.cn/zt/snzbxx/zbjs/202505/t20250512_3517363.html",
+      "http://www.laifeng.gov.cn/zcwdk/cl/202201/t20220108_1231962.shtml"
+    ]
+  },
+  {
+    "head": "茶网蝽",
+    "relation": "生物防治",
+    "tail": "白僵菌",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://nynct.shaanxi.gov.cn/zt/snzbxx/zbjs/202505/t20250512_3517363.html",
+      "http://www.laifeng.gov.cn/zcwdk/cl/202201/t20220108_1231962.shtml"
+    ]
+  },
+  {
+    "head": "茶网蝽",
+    "relation": "生物防治",
+    "tail": "苦参碱",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://nynct.shaanxi.gov.cn/zt/snzbxx/zbjs/202505/t20250512_3517363.html",
+      "http://www.laifeng.gov.cn/zcwdk/cl/202201/t20220108_1231962.shtml"
+    ]
+  },
+  {
+    "head": "茶网蝽",
+    "relation": "生物防治",
+    "tail": "除虫菊素",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://nynct.shaanxi.gov.cn/zt/snzbxx/zbjs/202505/t20250512_3517363.html",
+      "http://www.laifeng.gov.cn/zcwdk/cl/202201/t20220108_1231962.shtml"
+    ]
+  },
+  {
+    "head": "茶网蝽",
+    "relation": "生物防治",
+    "tail": "鱼藤酮",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://nynct.shaanxi.gov.cn/zt/snzbxx/zbjs/202505/t20250512_3517363.html",
+      "http://www.laifeng.gov.cn/zcwdk/cl/202201/t20220108_1231962.shtml"
+    ]
+  },
+  {
+    "head": "茶网蝽",
+    "relation": "表现症状",
+    "tail": "叶片灰白落叶",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://nynct.shaanxi.gov.cn/zt/snzbxx/zbjs/202505/t20250512_3517363.html",
+      "http://www.laifeng.gov.cn/zcwdk/cl/202201/t20220108_1231962.shtml"
+    ]
+  },
+  {
+    "head": "茶网蝽",
+    "relation": "表现症状",
+    "tail": "叶背刺吸汁液",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://nynct.shaanxi.gov.cn/zt/snzbxx/zbjs/202505/t20250512_3517363.html",
+      "http://www.laifeng.gov.cn/zcwdk/cl/202201/t20220108_1231962.shtml"
+    ]
+  },
+  {
+    "head": "茶网蝽",
+    "relation": "表现症状",
+    "tail": "叶背黑色黏液排泄物",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://nynct.shaanxi.gov.cn/zt/snzbxx/zbjs/202505/t20250512_3517363.html",
+      "http://www.laifeng.gov.cn/zcwdk/cl/202201/t20220108_1231962.shtml"
+    ]
+  },
+  {
+    "head": "茶网蝽",
+    "relation": "表现症状",
+    "tail": "叶面密集白色小斑",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://nynct.shaanxi.gov.cn/zt/snzbxx/zbjs/202505/t20250512_3517363.html",
+      "http://www.laifeng.gov.cn/zcwdk/cl/202201/t20220108_1231962.shtml"
+    ]
+  },
+  {
+    "head": "茶膏药病",
+    "relation": "农业防治",
+    "tail": "剪除病枝",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://baike.so.com/doc/9583232-9928399.html",
+      "https://www.scjlx.gov.cn/sy/zdlyxxgk/bmxx/202409/t20240918_2022976.html"
+    ]
+  },
+  {
+    "head": "茶膏药病",
+    "relation": "农业防治",
+    "tail": "开沟排水",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://baike.so.com/doc/9583232-9928399.html",
+      "https://www.scjlx.gov.cn/sy/zdlyxxgk/bmxx/202409/t20240918_2022976.html"
+    ]
+  },
+  {
+    "head": "茶膏药病",
+    "relation": "农业防治",
+    "tail": "改善通风透光",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://baike.so.com/doc/9583232-9928399.html",
+      "https://www.scjlx.gov.cn/sy/zdlyxxgk/bmxx/202409/t20240918_2022976.html"
+    ]
+  },
+  {
+    "head": "茶膏药病",
+    "relation": "化学防治",
+    "tail": "波尔多浆",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://baike.so.com/doc/9583232-9928399.html",
+      "https://www.scjlx.gov.cn/sy/zdlyxxgk/bmxx/202409/t20240918_2022976.html"
+    ]
+  },
+  {
+    "head": "茶膏药病",
+    "relation": "化学防治",
+    "tail": "甲基硫菌灵",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://baike.so.com/doc/9583232-9928399.html",
+      "https://www.scjlx.gov.cn/sy/zdlyxxgk/bmxx/202409/t20240918_2022976.html"
+    ]
+  },
+  {
+    "head": "茶膏药病",
+    "relation": "化学防治",
+    "tail": "石硫合剂",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://baike.so.com/doc/9583232-9928399.html",
+      "https://www.scjlx.gov.cn/sy/zdlyxxgk/bmxx/202409/t20240918_2022976.html"
+    ]
+  },
+  {
+    "head": "茶膏药病",
+    "relation": "化学防治",
+    "tail": "矿物油",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://baike.so.com/doc/9583232-9928399.html",
+      "https://www.scjlx.gov.cn/sy/zdlyxxgk/bmxx/202409/t20240918_2022976.html"
+    ]
+  },
+  {
+    "head": "茶膏药病",
+    "relation": "物理防治",
+    "tail": "人工刮除菌膜",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-PHYSICAL",
+    "sources": [
+      "https://baike.so.com/doc/9583232-9928399.html",
+      "https://www.scjlx.gov.cn/sy/zdlyxxgk/bmxx/202409/t20240918_2022976.html"
+    ]
+  },
+  {
+    "head": "茶膏药病",
+    "relation": "生物防治",
+    "tail": "寄生蜂",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://baike.so.com/doc/9583232-9928399.html",
+      "https://www.scjlx.gov.cn/sy/zdlyxxgk/bmxx/202409/t20240918_2022976.html"
+    ]
+  },
+  {
+    "head": "茶膏药病",
+    "relation": "生物防治",
+    "tail": "瓢虫",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://baike.so.com/doc/9583232-9928399.html",
+      "https://www.scjlx.gov.cn/sy/zdlyxxgk/bmxx/202409/t20240918_2022976.html"
+    ]
+  },
+  {
+    "head": "茶膏药病",
+    "relation": "表现症状",
+    "tail": "枝干枯死",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://baike.so.com/doc/9583232-9928399.html",
+      "https://www.scjlx.gov.cn/sy/zdlyxxgk/bmxx/202409/t20240918_2022976.html"
+    ]
+  },
+  {
+    "head": "茶膏药病",
+    "relation": "表现症状",
+    "tail": "枝干膏药状菌膜",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://baike.so.com/doc/9583232-9928399.html",
+      "https://www.scjlx.gov.cn/sy/zdlyxxgk/bmxx/202409/t20240918_2022976.html"
+    ]
+  },
+  {
+    "head": "茶膏药病",
+    "relation": "表现症状",
+    "tail": "灰白色菌丝层",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://baike.so.com/doc/9583232-9928399.html",
+      "https://www.scjlx.gov.cn/sy/zdlyxxgk/bmxx/202409/t20240918_2022976.html"
+    ]
+  },
+  {
+    "head": "茶苗根腐病",
+    "relation": "农业防治",
+    "tail": "拔除病株",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://www.cnki.com.cn/Article/CJFDTOTAL-CAYA198003002.htm",
+      "https://www.cnki.com.cn/Article/CJFDTotal-HNNK201509009.htm"
+    ]
+  },
+  {
+    "head": "茶苗根腐病",
+    "relation": "农业防治",
+    "tail": "排水",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://www.cnki.com.cn/Article/CJFDTOTAL-CAYA198003002.htm",
+      "https://www.cnki.com.cn/Article/CJFDTotal-HNNK201509009.htm"
+    ]
+  },
+  {
+    "head": "茶苗根腐病",
+    "relation": "农业防治",
+    "tail": "苗床消毒",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://www.cnki.com.cn/Article/CJFDTOTAL-CAYA198003002.htm",
+      "https://www.cnki.com.cn/Article/CJFDTotal-HNNK201509009.htm"
+    ]
+  },
+  {
+    "head": "茶苗根腐病",
+    "relation": "农业防治",
+    "tail": "避免重茬",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://www.cnki.com.cn/Article/CJFDTOTAL-CAYA198003002.htm",
+      "https://www.cnki.com.cn/Article/CJFDTotal-HNNK201509009.htm"
+    ]
+  },
+  {
+    "head": "茶苗根腐病",
+    "relation": "化学防治",
+    "tail": "噁霉灵",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.cnki.com.cn/Article/CJFDTOTAL-CAYA198003002.htm",
+      "https://www.cnki.com.cn/Article/CJFDTotal-HNNK201509009.htm"
+    ]
+  },
+  {
+    "head": "茶苗根腐病",
+    "relation": "化学防治",
+    "tail": "多菌灵",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.cnki.com.cn/Article/CJFDTOTAL-CAYA198003002.htm",
+      "https://www.cnki.com.cn/Article/CJFDTotal-HNNK201509009.htm"
+    ]
+  },
+  {
+    "head": "茶苗根腐病",
+    "relation": "化学防治",
+    "tail": "敌磺钠",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.cnki.com.cn/Article/CJFDTOTAL-CAYA198003002.htm",
+      "https://www.cnki.com.cn/Article/CJFDTotal-HNNK201509009.htm"
+    ]
+  },
+  {
+    "head": "茶苗根腐病",
+    "relation": "化学防治",
+    "tail": "甲基硫菌灵",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.cnki.com.cn/Article/CJFDTOTAL-CAYA198003002.htm",
+      "https://www.cnki.com.cn/Article/CJFDTotal-HNNK201509009.htm"
+    ]
+  },
+  {
+    "head": "茶苗根腐病",
+    "relation": "表现症状",
+    "tail": "根部变褐腐烂",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://www.cnki.com.cn/Article/CJFDTOTAL-CAYA198003002.htm",
+      "https://www.cnki.com.cn/Article/CJFDTotal-HNNK201509009.htm"
+    ]
+  },
+  {
+    "head": "茶苗根腐病",
+    "relation": "表现症状",
+    "tail": "植株萎蔫枯死",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://www.cnki.com.cn/Article/CJFDTOTAL-CAYA198003002.htm",
+      "https://www.cnki.com.cn/Article/CJFDTotal-HNNK201509009.htm"
+    ]
+  },
+  {
+    "head": "茶苗根腐病",
+    "relation": "表现症状",
+    "tail": "茎基部水渍状病斑",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://www.cnki.com.cn/Article/CJFDTOTAL-CAYA198003002.htm",
+      "https://www.cnki.com.cn/Article/CJFDTotal-HNNK201509009.htm"
+    ]
+  },
+  {
+    "head": "茶苗白绢病",
+    "relation": "农业防治",
+    "tail": "拔除病株",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://www.cnki.com.cn/Article/CJFDTOTAL-CAYA198003002.htm"
+    ]
+  },
+  {
+    "head": "茶苗白绢病",
+    "relation": "农业防治",
+    "tail": "排水",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://www.cnki.com.cn/Article/CJFDTOTAL-CAYA198003002.htm"
+    ]
+  },
+  {
+    "head": "茶苗白绢病",
+    "relation": "化学防治",
+    "tail": "甲基硫菌灵",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.cnki.com.cn/Article/CJFDTOTAL-CAYA198003002.htm"
+    ]
+  },
+  {
+    "head": "茶苗白绢病",
+    "relation": "生物防治",
+    "tail": "假单胞菌",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://www.cnki.com.cn/Article/CJFDTOTAL-CAYA198003002.htm"
+    ]
+  },
+  {
+    "head": "茶苗白绢病",
+    "relation": "生物防治",
+    "tail": "木霉菌",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://www.cnki.com.cn/Article/CJFDTOTAL-CAYA198003002.htm"
+    ]
+  },
+  {
+    "head": "茶苗白绢病",
+    "relation": "生物防治",
+    "tail": "芽孢杆菌",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://www.cnki.com.cn/Article/CJFDTOTAL-CAYA198003002.htm"
+    ]
+  },
+  {
+    "head": "茶苗白绢病",
+    "relation": "表现症状",
+    "tail": "根部白色绢丝状菌丝",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://www.cnki.com.cn/Article/CJFDTOTAL-CAYA198003002.htm"
+    ]
+  },
+  {
+    "head": "茶苗白绢病",
+    "relation": "表现症状",
+    "tail": "菜籽状菌核",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://www.cnki.com.cn/Article/CJFDTOTAL-CAYA198003002.htm"
+    ]
+  },
+  {
+    "head": "茶藻斑病",
+    "relation": "农业防治",
+    "tail": "修剪通风",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/Bdetail-1044.htm"
+    ]
+  },
+  {
+    "head": "茶藻斑病",
+    "relation": "农业防治",
+    "tail": "增施磷钾肥",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/Bdetail-1044.htm"
+    ]
+  },
+  {
+    "head": "茶藻斑病",
+    "relation": "农业防治",
+    "tail": "开沟排水",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/Bdetail-1044.htm"
+    ]
+  },
+  {
+    "head": "茶藻斑病",
+    "relation": "化学防治",
+    "tail": "松脂酸铜",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/Bdetail-1044.htm"
+    ]
+  },
+  {
+    "head": "茶藻斑病",
+    "relation": "化学防治",
+    "tail": "波尔多液",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/Bdetail-1044.htm"
+    ]
+  },
+  {
+    "head": "茶藻斑病",
+    "relation": "化学防治",
+    "tail": "硫酸铜",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/Bdetail-1044.htm"
+    ]
+  },
+  {
+    "head": "茶藻斑病",
+    "relation": "化学防治",
+    "tail": "碱式硫酸铜",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/Bdetail-1044.htm"
+    ]
+  },
+  {
+    "head": "茶藻斑病",
+    "relation": "物理防治",
+    "tail": "修剪疏枝",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-PHYSICAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/Bdetail-1044.htm"
+    ]
+  },
+  {
+    "head": "茶藻斑病",
+    "relation": "表现症状",
+    "tail": "叶背锈色粉状物",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://cn.agropages.com/bcc/Bdetail-1044.htm"
+    ]
+  },
+  {
+    "head": "茶藻斑病",
+    "relation": "表现症状",
+    "tail": "叶面黄斑",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://cn.agropages.com/bcc/Bdetail-1044.htm"
+    ]
+  },
+  {
+    "head": "茶藻斑病",
+    "relation": "表现症状",
+    "tail": "手碰沾染锈色粉末",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://cn.agropages.com/bcc/Bdetail-1044.htm"
+    ]
+  },
+  {
+    "head": "茶藻斑病",
+    "relation": "表现症状",
+    "tail": "放射状铁锈色斑",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://cn.agropages.com/bcc/Bdetail-1044.htm"
+    ]
+  },
+  {
+    "head": "茶角胸叶甲",
+    "relation": "农业防治",
+    "tail": "冬季清园",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/Bdetail-1082.htm",
+      "https://www.qikan.com.cn/article/133b20250610.html"
+    ]
+  },
+  {
+    "head": "茶角胸叶甲",
+    "relation": "农业防治",
+    "tail": "植物检疫",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/Bdetail-1082.htm",
+      "https://www.qikan.com.cn/article/133b20250610.html"
+    ]
+  },
+  {
+    "head": "茶角胸叶甲",
+    "relation": "农业防治",
+    "tail": "翻松土层",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/Bdetail-1082.htm",
+      "https://www.qikan.com.cn/article/133b20250610.html"
+    ]
+  },
+  {
+    "head": "茶角胸叶甲",
+    "relation": "化学防治",
+    "tail": "噻虫啉",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/Bdetail-1082.htm",
+      "https://www.qikan.com.cn/article/133b20250610.html"
+    ]
+  },
+  {
+    "head": "茶角胸叶甲",
+    "relation": "化学防治",
+    "tail": "溴氰菊酯",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/Bdetail-1082.htm",
+      "https://www.qikan.com.cn/article/133b20250610.html"
+    ]
+  },
+  {
+    "head": "茶角胸叶甲",
+    "relation": "化学防治",
+    "tail": "联苯菊酯",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/Bdetail-1082.htm",
+      "https://www.qikan.com.cn/article/133b20250610.html"
+    ]
+  },
+  {
+    "head": "茶角胸叶甲",
+    "relation": "化学防治",
+    "tail": "虫螨腈",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/Bdetail-1082.htm",
+      "https://www.qikan.com.cn/article/133b20250610.html"
+    ]
+  },
+  {
+    "head": "茶角胸叶甲",
+    "relation": "化学防治",
+    "tail": "高效氯氟氰菊酯",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/Bdetail-1082.htm",
+      "https://www.qikan.com.cn/article/133b20250610.html"
+    ]
+  },
+  {
+    "head": "茶角胸叶甲",
+    "relation": "物理防治",
+    "tail": "杀虫灯诱杀",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-PHYSICAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/Bdetail-1082.htm",
+      "https://www.qikan.com.cn/article/133b20250610.html"
+    ]
+  },
+  {
+    "head": "茶角胸叶甲",
+    "relation": "物理防治",
+    "tail": "粘虫板诱杀",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-PHYSICAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/Bdetail-1082.htm",
+      "https://www.qikan.com.cn/article/133b20250610.html"
+    ]
+  },
+  {
+    "head": "茶角胸叶甲",
+    "relation": "生物防治",
+    "tail": "步甲",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/Bdetail-1082.htm",
+      "https://www.qikan.com.cn/article/133b20250610.html"
+    ]
+  },
+  {
+    "head": "茶角胸叶甲",
+    "relation": "生物防治",
+    "tail": "白僵菌",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/Bdetail-1082.htm",
+      "https://www.qikan.com.cn/article/133b20250610.html"
+    ]
+  },
+  {
+    "head": "茶角胸叶甲",
+    "relation": "生物防治",
+    "tail": "苏云金杆菌",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/Bdetail-1082.htm",
+      "https://www.qikan.com.cn/article/133b20250610.html"
+    ]
+  },
+  {
+    "head": "茶角胸叶甲",
+    "relation": "表现症状",
+    "tail": "叶片布满孔洞",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://cn.agropages.com/bcc/Bdetail-1082.htm",
+      "https://www.qikan.com.cn/article/133b20250610.html"
+    ]
+  },
+  {
+    "head": "茶角胸叶甲",
+    "relation": "表现症状",
+    "tail": "后期仅剩叶脉",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://cn.agropages.com/bcc/Bdetail-1082.htm",
+      "https://www.qikan.com.cn/article/133b20250610.html"
+    ]
+  },
+  {
+    "head": "茶角胸叶甲",
+    "relation": "表现症状",
+    "tail": "成虫啃食叶肉残留叶脉",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://cn.agropages.com/bcc/Bdetail-1082.htm",
+      "https://www.qikan.com.cn/article/133b20250610.html"
+    ]
+  },
+  {
+    "head": "茶赤叶斑病",
+    "relation": "农业防治",
+    "tail": "排水",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/Bdetail-1036.htm",
+      "http://www.nczfw.com/chayezhongzhi/3787.html"
+    ]
+  },
+  {
+    "head": "茶赤叶斑病",
+    "relation": "农业防治",
+    "tail": "灌溉防旱",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/Bdetail-1036.htm",
+      "http://www.nczfw.com/chayezhongzhi/3787.html"
+    ]
+  },
+  {
+    "head": "茶赤叶斑病",
+    "relation": "农业防治",
+    "tail": "遮阴防日灼",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/Bdetail-1036.htm",
+      "http://www.nczfw.com/chayezhongzhi/3787.html"
+    ]
+  },
+  {
+    "head": "茶赤叶斑病",
+    "relation": "化学防治",
+    "tail": "噻菌铜",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/Bdetail-1036.htm",
+      "http://www.nczfw.com/chayezhongzhi/3787.html"
+    ]
+  },
+  {
+    "head": "茶赤叶斑病",
+    "relation": "化学防治",
+    "tail": "多菌灵",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/Bdetail-1036.htm",
+      "http://www.nczfw.com/chayezhongzhi/3787.html"
+    ]
+  },
+  {
+    "head": "茶赤叶斑病",
+    "relation": "化学防治",
+    "tail": "甲基硫菌灵",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/Bdetail-1036.htm",
+      "http://www.nczfw.com/chayezhongzhi/3787.html"
+    ]
+  },
+  {
+    "head": "茶赤叶斑病",
+    "relation": "化学防治",
+    "tail": "苯菌灵",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/Bdetail-1036.htm",
+      "http://www.nczfw.com/chayezhongzhi/3787.html"
+    ]
+  },
+  {
+    "head": "茶赤叶斑病",
+    "relation": "表现症状",
+    "tail": "水渍状暗绿色斑点",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://cn.agropages.com/bcc/Bdetail-1036.htm",
+      "http://www.nczfw.com/chayezhongzhi/3787.html"
+    ]
+  },
+  {
+    "head": "茶赤叶斑病",
+    "relation": "表现症状",
+    "tail": "火烧状",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://cn.agropages.com/bcc/Bdetail-1036.htm",
+      "http://www.nczfw.com/chayezhongzhi/3787.html"
+    ]
+  },
+  {
+    "head": "茶赤叶斑病",
+    "relation": "表现症状",
+    "tail": "褐色枯焦",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://cn.agropages.com/bcc/Bdetail-1036.htm",
+      "http://www.nczfw.com/chayezhongzhi/3787.html"
+    ]
+  },
+  {
+    "head": "茶跗线螨",
+    "relation": "农业防治",
+    "tail": "修剪清园",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://www.zzokq.cn/view-776.html",
+      "https://cn.agropages.com/Bcc/Bdetail-1106.htm",
+      "http://nynct.gxzf.gov.cn/gxzb/jsfw_85099/zbjs_88066/t19748010.shtml"
+    ]
+  },
+  {
+    "head": "茶跗线螨",
+    "relation": "农业防治",
+    "tail": "分批采摘",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://www.zzokq.cn/view-776.html",
+      "https://cn.agropages.com/Bcc/Bdetail-1106.htm",
+      "http://nynct.gxzf.gov.cn/gxzb/jsfw_85099/zbjs_88066/t19748010.shtml"
+    ]
+  },
+  {
+    "head": "茶跗线螨",
+    "relation": "农业防治",
+    "tail": "台刈",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://www.zzokq.cn/view-776.html",
+      "https://cn.agropages.com/Bcc/Bdetail-1106.htm",
+      "http://nynct.gxzf.gov.cn/gxzb/jsfw_85099/zbjs_88066/t19748010.shtml"
+    ]
+  },
+  {
+    "head": "茶跗线螨",
+    "relation": "农业防治",
+    "tail": "清除杂草",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://www.zzokq.cn/view-776.html",
+      "https://cn.agropages.com/Bcc/Bdetail-1106.htm",
+      "http://nynct.gxzf.gov.cn/gxzb/jsfw_85099/zbjs_88066/t19748010.shtml"
+    ]
+  },
+  {
+    "head": "茶跗线螨",
+    "relation": "化学防治",
+    "tail": "噻螨酮",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.zzokq.cn/view-776.html",
+      "https://cn.agropages.com/Bcc/Bdetail-1106.htm",
+      "http://nynct.gxzf.gov.cn/gxzb/jsfw_85099/zbjs_88066/t19748010.shtml"
+    ]
+  },
+  {
+    "head": "茶跗线螨",
+    "relation": "化学防治",
+    "tail": "四螨嗪",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.zzokq.cn/view-776.html",
+      "https://cn.agropages.com/Bcc/Bdetail-1106.htm",
+      "http://nynct.gxzf.gov.cn/gxzb/jsfw_85099/zbjs_88066/t19748010.shtml"
+    ]
+  },
+  {
+    "head": "茶跗线螨",
+    "relation": "化学防治",
+    "tail": "浏阳霉素",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.zzokq.cn/view-776.html",
+      "https://cn.agropages.com/Bcc/Bdetail-1106.htm",
+      "http://nynct.gxzf.gov.cn/gxzb/jsfw_85099/zbjs_88066/t19748010.shtml"
+    ]
+  },
+  {
+    "head": "茶跗线螨",
+    "relation": "化学防治",
+    "tail": "炔螨特",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.zzokq.cn/view-776.html",
+      "https://cn.agropages.com/Bcc/Bdetail-1106.htm",
+      "http://nynct.gxzf.gov.cn/gxzb/jsfw_85099/zbjs_88066/t19748010.shtml"
+    ]
+  },
+  {
+    "head": "茶跗线螨",
+    "relation": "化学防治",
+    "tail": "矿物油",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.zzokq.cn/view-776.html",
+      "https://cn.agropages.com/Bcc/Bdetail-1106.htm",
+      "http://nynct.gxzf.gov.cn/gxzb/jsfw_85099/zbjs_88066/t19748010.shtml"
+    ]
+  },
+  {
+    "head": "茶跗线螨",
+    "relation": "生物防治",
+    "tail": "具瘤神蕊螨",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://www.zzokq.cn/view-776.html",
+      "https://cn.agropages.com/Bcc/Bdetail-1106.htm",
+      "http://nynct.gxzf.gov.cn/gxzb/jsfw_85099/zbjs_88066/t19748010.shtml"
+    ]
+  },
+  {
+    "head": "茶跗线螨",
+    "relation": "生物防治",
+    "tail": "印楝素",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://www.zzokq.cn/view-776.html",
+      "https://cn.agropages.com/Bcc/Bdetail-1106.htm",
+      "http://nynct.gxzf.gov.cn/gxzb/jsfw_85099/zbjs_88066/t19748010.shtml"
+    ]
+  },
+  {
+    "head": "茶跗线螨",
+    "relation": "生物防治",
+    "tail": "德氏钝绥螨",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://www.zzokq.cn/view-776.html",
+      "https://cn.agropages.com/Bcc/Bdetail-1106.htm",
+      "http://nynct.gxzf.gov.cn/gxzb/jsfw_85099/zbjs_88066/t19748010.shtml"
+    ]
+  },
+  {
+    "head": "茶跗线螨",
+    "relation": "生物防治",
+    "tail": "捕食螨",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://www.zzokq.cn/view-776.html",
+      "https://cn.agropages.com/Bcc/Bdetail-1106.htm",
+      "http://nynct.gxzf.gov.cn/gxzb/jsfw_85099/zbjs_88066/t19748010.shtml"
+    ]
+  },
+  {
+    "head": "茶跗线螨",
+    "relation": "生物防治",
+    "tail": "胡瓜钝绥螨",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://www.zzokq.cn/view-776.html",
+      "https://cn.agropages.com/Bcc/Bdetail-1106.htm",
+      "http://nynct.gxzf.gov.cn/gxzb/jsfw_85099/zbjs_88066/t19748010.shtml"
+    ]
+  },
+  {
+    "head": "茶跗线螨",
+    "relation": "表现症状",
+    "tail": "叶质硬化增厚",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://www.zzokq.cn/view-776.html",
+      "https://cn.agropages.com/Bcc/Bdetail-1106.htm",
+      "http://nynct.gxzf.gov.cn/gxzb/jsfw_85099/zbjs_88066/t19748010.shtml"
+    ]
+  },
+  {
+    "head": "茶跗线螨",
+    "relation": "表现症状",
+    "tail": "嫩芽叶变褐",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://www.zzokq.cn/view-776.html",
+      "https://cn.agropages.com/Bcc/Bdetail-1106.htm",
+      "http://nynct.gxzf.gov.cn/gxzb/jsfw_85099/zbjs_88066/t19748010.shtml"
+    ]
+  },
+  {
+    "head": "茶跗线螨",
+    "relation": "表现症状",
+    "tail": "芽叶生长停滞",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://www.zzokq.cn/view-776.html",
+      "https://cn.agropages.com/Bcc/Bdetail-1106.htm",
+      "http://nynct.gxzf.gov.cn/gxzb/jsfw_85099/zbjs_88066/t19748010.shtml"
+    ]
+  },
+  {
+    "head": "茶跗线螨",
+    "relation": "表现症状",
+    "tail": "芽叶萎缩多皱",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://www.zzokq.cn/view-776.html",
+      "https://cn.agropages.com/Bcc/Bdetail-1106.htm",
+      "http://nynct.gxzf.gov.cn/gxzb/jsfw_85099/zbjs_88066/t19748010.shtml"
+    ]
+  },
+  {
+    "head": "茶轮斑病",
+    "relation": "农业防治",
+    "tail": "摘除病叶",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/Bdetail-1045.htm",
+      "http://www.pwsannong.com/c/2016-04-13/545752.shtml",
+      "https://www.cnki.com.cn/Article/CJFDTOTAL-WSWT20240624001.htm"
+    ]
+  },
+  {
+    "head": "茶轮斑病",
+    "relation": "农业防治",
+    "tail": "避免强采伤口",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/Bdetail-1045.htm",
+      "http://www.pwsannong.com/c/2016-04-13/545752.shtml",
+      "https://www.cnki.com.cn/Article/CJFDTOTAL-WSWT20240624001.htm"
+    ]
+  },
+  {
+    "head": "茶轮斑病",
+    "relation": "农业防治",
+    "tail": "雨后排水",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/Bdetail-1045.htm",
+      "http://www.pwsannong.com/c/2016-04-13/545752.shtml",
+      "https://www.cnki.com.cn/Article/CJFDTOTAL-WSWT20240624001.htm"
+    ]
+  },
+  {
+    "head": "茶轮斑病",
+    "relation": "化学防治",
+    "tail": "多菌灵",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/Bdetail-1045.htm",
+      "http://www.pwsannong.com/c/2016-04-13/545752.shtml",
+      "https://www.cnki.com.cn/Article/CJFDTOTAL-WSWT20240624001.htm"
+    ]
+  },
+  {
+    "head": "茶轮斑病",
+    "relation": "化学防治",
+    "tail": "甲基硫菌灵",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/Bdetail-1045.htm",
+      "http://www.pwsannong.com/c/2016-04-13/545752.shtml",
+      "https://www.cnki.com.cn/Article/CJFDTOTAL-WSWT20240624001.htm"
+    ]
+  },
+  {
+    "head": "茶轮斑病",
+    "relation": "化学防治",
+    "tail": "百菌清",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/Bdetail-1045.htm",
+      "http://www.pwsannong.com/c/2016-04-13/545752.shtml",
+      "https://www.cnki.com.cn/Article/CJFDTOTAL-WSWT20240624001.htm"
+    ]
+  },
+  {
+    "head": "茶轮斑病",
+    "relation": "化学防治",
+    "tail": "苯醚甲环唑",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/Bdetail-1045.htm",
+      "http://www.pwsannong.com/c/2016-04-13/545752.shtml",
+      "https://www.cnki.com.cn/Article/CJFDTOTAL-WSWT20240624001.htm"
+    ]
+  },
+  {
+    "head": "茶轮斑病",
+    "relation": "生物防治",
+    "tail": "拮抗细菌KC-16",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/Bdetail-1045.htm",
+      "http://www.pwsannong.com/c/2016-04-13/545752.shtml",
+      "https://www.cnki.com.cn/Article/CJFDTOTAL-WSWT20240624001.htm"
+    ]
+  },
+  {
+    "head": "茶轮斑病",
+    "relation": "表现症状",
+    "tail": "同心轮纹状病斑",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://cn.agropages.com/bcc/Bdetail-1045.htm",
+      "http://www.pwsannong.com/c/2016-04-13/545752.shtml",
+      "https://www.cnki.com.cn/Article/CJFDTOTAL-WSWT20240624001.htm"
+    ]
+  },
+  {
+    "head": "茶轮斑病",
+    "relation": "表现症状",
+    "tail": "灰白色圆形小斑",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://cn.agropages.com/bcc/Bdetail-1045.htm",
+      "http://www.pwsannong.com/c/2016-04-13/545752.shtml",
+      "https://www.cnki.com.cn/Article/CJFDTOTAL-WSWT20240624001.htm"
+    ]
+  },
+  {
+    "head": "茶轮斑病",
+    "relation": "表现症状",
+    "tail": "病斑穿孔",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://cn.agropages.com/bcc/Bdetail-1045.htm",
+      "http://www.pwsannong.com/c/2016-04-13/545752.shtml",
+      "https://www.cnki.com.cn/Article/CJFDTOTAL-WSWT20240624001.htm"
+    ]
+  },
+  {
+    "head": "茶轮斑病",
+    "relation": "表现症状",
+    "tail": "黑色小点",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://cn.agropages.com/bcc/Bdetail-1045.htm",
+      "http://www.pwsannong.com/c/2016-04-13/545752.shtml",
+      "https://www.cnki.com.cn/Article/CJFDTOTAL-WSWT20240624001.htm"
+    ]
+  },
+  {
+    "head": "茶饼病",
+    "relation": "农业防治",
+    "tail": "剪除病梢",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶饼病",
+    "relation": "农业防治",
+    "tail": "及时采摘",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶饼病",
+    "relation": "化学防治",
+    "tail": "三唑酮",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶饼病",
+    "relation": "化学防治",
+    "tail": "喹啉铜",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶饼病",
+    "relation": "化学防治",
+    "tail": "甲基硫菌灵",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶饼病",
+    "relation": "化学防治",
+    "tail": "苯醚甲环唑",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶饼病",
+    "relation": "化学防治",
+    "tail": "萎锈灵",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶饼病",
+    "relation": "生物防治",
+    "tail": "枯草芽孢杆菌",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶饼病",
+    "relation": "表现症状",
+    "tail": "叶片变形",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶饼病",
+    "relation": "表现症状",
+    "tail": "叶背馒头状疱斑",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶饼病",
+    "relation": "表现症状",
+    "tail": "嫩叶背面白粉",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml"
+    ]
+  },
+  {
+    "head": "茶黄蓟马",
+    "relation": "农业防治",
+    "tail": "分批采摘",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "http://nw.trs.gov.cn/xwzx/gzdt/202604/t20260407_89969612.html"
+    ]
+  },
+  {
+    "head": "茶黄蓟马",
+    "relation": "农业防治",
+    "tail": "清园",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "http://nw.trs.gov.cn/xwzx/gzdt/202604/t20260407_89969612.html"
+    ]
+  },
+  {
+    "head": "茶黄蓟马",
+    "relation": "农业防治",
+    "tail": "轻修剪",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "http://nw.trs.gov.cn/xwzx/gzdt/202604/t20260407_89969612.html"
+    ]
+  },
+  {
+    "head": "茶黄蓟马",
+    "relation": "化学防治",
+    "tail": "双丙环虫酯",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "http://nw.trs.gov.cn/xwzx/gzdt/202604/t20260407_89969612.html"
+    ]
+  },
+  {
+    "head": "茶黄蓟马",
+    "relation": "化学防治",
+    "tail": "噻虫嗪",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "http://nw.trs.gov.cn/xwzx/gzdt/202604/t20260407_89969612.html"
+    ]
+  },
+  {
+    "head": "茶黄蓟马",
+    "relation": "化学防治",
+    "tail": "联苯菊酯",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "http://nw.trs.gov.cn/xwzx/gzdt/202604/t20260407_89969612.html"
+    ]
+  },
+  {
+    "head": "茶黄蓟马",
+    "relation": "化学防治",
+    "tail": "茚虫威",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "http://nw.trs.gov.cn/xwzx/gzdt/202604/t20260407_89969612.html"
+    ]
+  },
+  {
+    "head": "茶黄蓟马",
+    "relation": "化学防治",
+    "tail": "虫螨腈",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "http://nw.trs.gov.cn/xwzx/gzdt/202604/t20260407_89969612.html"
+    ]
+  },
+  {
+    "head": "茶黄蓟马",
+    "relation": "物理防治",
+    "tail": "蓝板诱杀",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-PHYSICAL",
+    "sources": [
+      "http://nw.trs.gov.cn/xwzx/gzdt/202604/t20260407_89969612.html"
+    ]
+  },
+  {
+    "head": "茶黄蓟马",
+    "relation": "生物防治",
+    "tail": "乙基多杀菌素",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "http://nw.trs.gov.cn/xwzx/gzdt/202604/t20260407_89969612.html"
+    ]
+  },
+  {
+    "head": "茶黄蓟马",
+    "relation": "生物防治",
+    "tail": "寄生蜂",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "http://nw.trs.gov.cn/xwzx/gzdt/202604/t20260407_89969612.html"
+    ]
+  },
+  {
+    "head": "茶黄蓟马",
+    "relation": "生物防治",
+    "tail": "瓢虫",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "http://nw.trs.gov.cn/xwzx/gzdt/202604/t20260407_89969612.html"
+    ]
+  },
+  {
+    "head": "茶黄蓟马",
+    "relation": "生物防治",
+    "tail": "草蛉",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "http://nw.trs.gov.cn/xwzx/gzdt/202604/t20260407_89969612.html"
+    ]
+  },
+  {
+    "head": "茶黄蓟马",
+    "relation": "表现症状",
+    "tail": "叶片卷缩焦枯",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "http://nw.trs.gov.cn/xwzx/gzdt/202604/t20260407_89969612.html"
+    ]
+  },
+  {
+    "head": "茶黄蓟马",
+    "relation": "表现症状",
+    "tail": "叶背红褐色纵痕",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "http://nw.trs.gov.cn/xwzx/gzdt/202604/t20260407_89969612.html"
+    ]
+  },
+  {
+    "head": "茶黄蓟马",
+    "relation": "表现症状",
+    "tail": "嫩叶锉吸",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "http://nw.trs.gov.cn/xwzx/gzdt/202604/t20260407_89969612.html"
+    ]
+  },
+  {
+    "head": "茶黄蓟马",
+    "relation": "表现症状",
+    "tail": "芽叶卷曲",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "http://nw.trs.gov.cn/xwzx/gzdt/202604/t20260407_89969612.html"
+    ]
+  },
+  {
+    "head": "黑刺粉虱",
+    "relation": "农业防治",
+    "tail": "修剪通风",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml",
+      "https://www.scjlx.gov.cn/sy/zdlyxxgk/bmxx/202409/t20240918_2022976.html"
+    ]
+  },
+  {
+    "head": "黑刺粉虱",
+    "relation": "农业防治",
+    "tail": "合理采摘",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml",
+      "https://www.scjlx.gov.cn/sy/zdlyxxgk/bmxx/202409/t20240918_2022976.html"
+    ]
+  },
+  {
+    "head": "黑刺粉虱",
+    "relation": "化学防治",
+    "tail": "啶虫脒",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml",
+      "https://www.scjlx.gov.cn/sy/zdlyxxgk/bmxx/202409/t20240918_2022976.html"
+    ]
+  },
+  {
+    "head": "黑刺粉虱",
+    "relation": "化学防治",
+    "tail": "噻虫嗪",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml",
+      "https://www.scjlx.gov.cn/sy/zdlyxxgk/bmxx/202409/t20240918_2022976.html"
+    ]
+  },
+  {
+    "head": "黑刺粉虱",
+    "relation": "化学防治",
+    "tail": "溴氰菊酯",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml",
+      "https://www.scjlx.gov.cn/sy/zdlyxxgk/bmxx/202409/t20240918_2022976.html"
+    ]
+  },
+  {
+    "head": "黑刺粉虱",
+    "relation": "化学防治",
+    "tail": "联苯·噻虫啉",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml",
+      "https://www.scjlx.gov.cn/sy/zdlyxxgk/bmxx/202409/t20240918_2022976.html"
+    ]
+  },
+  {
+    "head": "黑刺粉虱",
+    "relation": "化学防治",
+    "tail": "联苯·噻虫嗪",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml",
+      "https://www.scjlx.gov.cn/sy/zdlyxxgk/bmxx/202409/t20240918_2022976.html"
+    ]
+  },
+  {
+    "head": "黑刺粉虱",
+    "relation": "化学防治",
+    "tail": "螺虫乙酯",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml",
+      "https://www.scjlx.gov.cn/sy/zdlyxxgk/bmxx/202409/t20240918_2022976.html"
+    ]
+  },
+  {
+    "head": "黑刺粉虱",
+    "relation": "物理防治",
+    "tail": "黄板诱杀",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-PHYSICAL",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml",
+      "https://www.scjlx.gov.cn/sy/zdlyxxgk/bmxx/202409/t20240918_2022976.html"
+    ]
+  },
+  {
+    "head": "黑刺粉虱",
+    "relation": "生物防治",
+    "tail": "寄生蜂",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml",
+      "https://www.scjlx.gov.cn/sy/zdlyxxgk/bmxx/202409/t20240918_2022976.html"
+    ]
+  },
+  {
+    "head": "黑刺粉虱",
+    "relation": "生物防治",
+    "tail": "白僵菌",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml",
+      "https://www.scjlx.gov.cn/sy/zdlyxxgk/bmxx/202409/t20240918_2022976.html"
+    ]
+  },
+  {
+    "head": "黑刺粉虱",
+    "relation": "生物防治",
+    "tail": "韦伯虫座孢",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml",
+      "https://www.scjlx.gov.cn/sy/zdlyxxgk/bmxx/202409/t20240918_2022976.html"
+    ]
+  },
+  {
+    "head": "黑刺粉虱",
+    "relation": "表现症状",
+    "tail": "分泌蜜露诱发煤烟病",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml",
+      "https://www.scjlx.gov.cn/sy/zdlyxxgk/bmxx/202409/t20240918_2022976.html"
+    ]
+  },
+  {
+    "head": "黑刺粉虱",
+    "relation": "表现症状",
+    "tail": "叶片枯萎脱落",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml",
+      "https://www.scjlx.gov.cn/sy/zdlyxxgk/bmxx/202409/t20240918_2022976.html"
+    ]
+  },
+  {
+    "head": "黑刺粉虱",
+    "relation": "表现症状",
+    "tail": "叶片正面出现黄斑",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml",
+      "https://www.scjlx.gov.cn/sy/zdlyxxgk/bmxx/202409/t20240918_2022976.html"
+    ]
+  },
+  {
+    "head": "黑刺粉虱",
+    "relation": "表现症状",
+    "tail": "叶背附着黑色刺状若虫",
+    "head_type": "PEST-ORGANISM",
+    "tail_type": "PEST-SYMPTOM",
+    "sources": [
+      "https://www.moa.gov.cn/ztzl/2023cg/jszd_29356/202303/t20230306_6422312.htm",
+      "http://nynct.gxzf.gov.cn/ckszl/ckssctc/t18394665.shtml",
+      "https://www.scjlx.gov.cn/sy/zdlyxxgk/bmxx/202409/t20240918_2022976.html"
+    ]
+  },
+  {
+    "head": "茶苗根腐病",
+    "head_type": "PEST-ORGANISM",
+    "relation": "物理防治",
+    "tail": "振落捕杀",
+    "tail_type": "CONTROL-PHYSICAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/bdetail-9999.htm"
+    ],
+    "_dtu_injected": true,
+    "_pollution": "wrong_control"
+  },
+  {
+    "head": "茶二叉蚜",
+    "head_type": "PEST-ORGANISM",
+    "relation": "化学防治",
+    "tail": "噻唑膦",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "http://www.365sn.cn/Wechat/Index/showDiseases/diseId/9999"
+    ],
+    "_dtu_injected": true,
+    "_pollution": "wrong_control"
+  },
+  {
+    "head": "茶膏药病",
+    "head_type": "PEST-ORGANISM",
+    "relation": "物理防治",
+    "tail": "覆膜太阳能消毒",
+    "tail_type": "CONTROL-PHYSICAL",
+    "sources": [
+      "http://www.nczfw.com/chayezhongzhi/9999.html"
+    ],
+    "_dtu_injected": true,
+    "_pollution": "wrong_control"
+  },
+  {
+    "head": "茶赤叶斑病",
+    "head_type": "PEST-ORGANISM",
+    "relation": "生物防治",
+    "tail": "印楝素",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/bdetail-9999.htm"
+    ],
+    "_dtu_injected": true,
+    "_pollution": "wrong_control"
+  },
+  {
+    "head": "茶云纹叶枯病",
+    "head_type": "PEST-ORGANISM",
+    "relation": "生物防治",
+    "tail": "芽孢杆菌",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "http://www.365sn.cn/Wechat/Index/showDiseases/diseId/9999"
+    ],
+    "_dtu_injected": true,
+    "_pollution": "wrong_control"
+  },
+  {
+    "head": "茶尺蠖",
+    "head_type": "PEST-ORGANISM",
+    "relation": "农业防治",
+    "tail": "清除杂草",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "http://www.nczfw.com/chayezhongzhi/9999.html"
+    ],
+    "_dtu_injected": true,
+    "_pollution": "wrong_control"
+  },
+  {
+    "head": "茶小绿叶蝉",
+    "head_type": "PEST-ORGANISM",
+    "relation": "物理防治",
+    "tail": "蓝板诱杀",
+    "tail_type": "CONTROL-PHYSICAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/bdetail-9999.htm"
+    ],
+    "_dtu_injected": true,
+    "_pollution": "wrong_control"
+  },
+  {
+    "head": "茶丽纹象甲",
+    "head_type": "PEST-ORGANISM",
+    "relation": "农业防治",
+    "tail": "中耕培土灭蛹",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "http://www.365sn.cn/Wechat/Index/showDiseases/diseId/9999"
+    ],
+    "_dtu_injected": true,
+    "_pollution": "wrong_control"
+  },
+  {
+    "head": "茶小绿叶蝉",
+    "head_type": "PEST-ORGANISM",
+    "relation": "化学防治",
+    "tail": "高效氯氰菊酯",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "http://www.nczfw.com/chayezhongzhi/9999.html"
+    ],
+    "_dtu_injected": true,
+    "_pollution": "wrong_control"
+  },
+  {
+    "head": "茶丽纹象甲",
+    "head_type": "PEST-ORGANISM",
+    "relation": "化学防治",
+    "tail": "炔螨特",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/bdetail-9999.htm"
+    ],
+    "_dtu_injected": true,
+    "_pollution": "wrong_control"
+  },
+  {
+    "head": "黑刺粉虱",
+    "head_type": "PEST-ORGANISM",
+    "relation": "物理防治",
+    "tail": "黄板",
+    "tail_type": "CONTROL-PHYSICAL",
+    "sources": [
+      "http://www.365sn.cn/Wechat/Index/showDiseases/diseId/9999"
+    ],
+    "_dtu_injected": true,
+    "_pollution": "wrong_control"
+  },
+  {
+    "head": "黑刺粉虱",
+    "head_type": "PEST-ORGANISM",
+    "relation": "物理防治",
+    "tail": "糖醋液诱杀",
+    "tail_type": "CONTROL-PHYSICAL",
+    "sources": [
+      "http://www.nczfw.com/chayezhongzhi/9999.html"
+    ],
+    "_dtu_injected": true,
+    "_pollution": "wrong_control"
+  },
+  {
+    "head": "茶黄蓟马",
+    "head_type": "PEST-ORGANISM",
+    "relation": "化学防治",
+    "tail": "噻嗪酮",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/bdetail-9999.htm"
+    ],
+    "_dtu_injected": true,
+    "_pollution": "wrong_control"
+  },
+  {
+    "head": "茶二叉蚜",
+    "head_type": "PEST-ORGANISM",
+    "relation": "物理防治",
+    "tail": "粘虫板诱杀",
+    "tail_type": "CONTROL-PHYSICAL",
+    "sources": [
+      "http://www.365sn.cn/Wechat/Index/showDiseases/diseId/9999"
+    ],
+    "_dtu_injected": true,
+    "_pollution": "wrong_control"
+  },
+  {
+    "head": "咖啡小爪螨",
+    "head_type": "PEST-ORGANISM",
+    "relation": "农业防治",
+    "tail": "冬季翻耕灭幼虫",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "http://www.nczfw.com/chayezhongzhi/9999.html"
+    ],
+    "_dtu_injected": true,
+    "_pollution": "wrong_control"
+  },
+  {
+    "head": "茶轮斑病",
+    "head_type": "PEST-ORGANISM",
+    "relation": "物理防治",
+    "tail": "黄板诱杀",
+    "tail_type": "CONTROL-PHYSICAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/bdetail-9999.htm"
+    ],
+    "_dtu_injected": true,
+    "_pollution": "wrong_control"
+  },
+  {
+    "head": "茶煤烟病",
+    "head_type": "PEST-ORGANISM",
+    "relation": "物理防治",
+    "tail": "修剪疏枝",
+    "tail_type": "CONTROL-PHYSICAL",
+    "sources": [
+      "http://www.365sn.cn/Wechat/Index/showDiseases/diseId/9999"
+    ],
+    "_dtu_injected": true,
+    "_pollution": "wrong_control"
+  },
+  {
+    "head": "茶尺蠖",
+    "head_type": "PEST-ORGANISM",
+    "relation": "物理防治",
+    "tail": "黄板诱杀",
+    "tail_type": "CONTROL-PHYSICAL",
+    "sources": [
+      "http://www.nczfw.com/chayezhongzhi/9999.html"
+    ],
+    "_dtu_injected": true,
+    "_pollution": "wrong_control"
+  },
+  {
+    "head": "茶苗白绢病",
+    "head_type": "PEST-ORGANISM",
+    "relation": "生物防治",
+    "tail": "具瘤神蕊螨",
+    "tail_type": "CONTROL-BIOLOGICAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/bdetail-9999.htm"
+    ],
+    "_dtu_injected": true,
+    "_pollution": "wrong_control"
+  },
+  {
+    "head": "茶煤烟病",
+    "head_type": "PEST-ORGANISM",
+    "relation": "农业防治",
+    "tail": "分批采摘",
+    "tail_type": "CONTROL-AGRICULTURAL",
+    "sources": [
+      "http://www.365sn.cn/Wechat/Index/showDiseases/diseId/9999"
+    ],
+    "_dtu_injected": true,
+    "_pollution": "wrong_control"
+  },
+  {
+    "head": "茶小卷叶蛾",
+    "head_type": "PEST-ORGANISM",
+    "relation": "化学防治",
+    "tail": "氰戊菊酯",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "http://www.nczfw.com/chayezhongzhi/9999.html"
+    ],
+    "_dtu_injected": true,
+    "_pollution": "banned_chem"
+  },
+  {
+    "head": "茶跗线螨",
+    "head_type": "PEST-ORGANISM",
+    "relation": "化学防治",
+    "tail": "甲胺磷",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "http://www.nczfw.com/chayezhongzhi/9999.html"
+    ],
+    "_dtu_injected": true,
+    "_pollution": "banned_chem"
+  },
+  {
+    "head": "茶叶丽瘿螨",
+    "head_type": "PEST-ORGANISM",
+    "relation": "化学防治",
+    "tail": "涕灭威",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "http://www.nczfw.com/chayezhongzhi/9999.html"
+    ],
+    "_dtu_injected": true,
+    "_pollution": "banned_chem"
+  },
+  {
+    "head": "茶橙瘿螨",
+    "head_type": "PEST-ORGANISM",
+    "relation": "化学防治",
+    "tail": "六六六",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "http://www.nczfw.com/chayezhongzhi/9999.html"
+    ],
+    "_dtu_injected": true,
+    "_pollution": "banned_chem"
+  },
+  {
+    "head": "咖啡小爪螨",
+    "head_type": "PEST-ORGANISM",
+    "relation": "化学防治",
+    "tail": "克百威",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "http://www.nczfw.com/chayezhongzhi/9999.html"
+    ],
+    "_dtu_injected": true,
+    "_pollution": "banned_chem"
+  },
+  {
+    "head": "黑刺粉虱",
+    "head_type": "PEST-ORGANISM",
+    "relation": "化学防治",
+    "tail": "三氯杀螨醇",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "http://www.nczfw.com/chayezhongzhi/9999.html"
+    ],
+    "_dtu_injected": true,
+    "_pollution": "banned_chem"
+  },
+  {
+    "head": "茶根结线虫",
+    "head_type": "PEST-ORGANISM",
+    "relation": "化学防治",
+    "tail": "氰戊菊酯",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "http://www.nczfw.com/chayezhongzhi/9999.html"
+    ],
+    "_dtu_injected": true,
+    "_pollution": "banned_chem"
+  },
+  {
+    "head": "茶尺蠖",
+    "head_type": "PEST-ORGANISM",
+    "relation": "化学防治",
+    "tail": "甲胺磷",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "http://www.nczfw.com/chayezhongzhi/9999.html"
+    ],
+    "_dtu_injected": true,
+    "_pollution": "banned_chem"
+  },
+  {
+    "head": "茶苗根腐病",
+    "head_type": "PEST-ORGANISM",
+    "relation": "化学防治",
+    "tail": "涕灭威",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "http://www.nczfw.com/chayezhongzhi/9999.html"
+    ],
+    "_dtu_injected": true,
+    "_pollution": "banned_chem"
+  },
+  {
+    "head": "茶小卷叶蛾",
+    "head_type": "PEST-ORGANISM",
+    "relation": "化学防治",
+    "tail": "六六六",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "http://www.nczfw.com/chayezhongzhi/9999.html"
+    ],
+    "_dtu_injected": true,
+    "_pollution": "banned_chem"
+  },
+  {
+    "head": "咖啡小爪螨",
+    "head_type": "PEST-ORGANISM",
+    "relation": "安全间隔期",
+    "tail": "采收前7天施药",
+    "tail_type": "NUMERIC-CLAIM",
+    "sources": [
+      "http://www.365sn.cn/Wechat/Index/showDiseases/diseId/9999"
+    ],
+    "_dtu_injected": true,
+    "_pollution": "numeric_oos"
+  },
+  {
+    "head": "茶苗根腐病",
+    "head_type": "PEST-ORGANISM",
+    "relation": "防治指标",
+    "tail": "虫口密度达到百叶30头防治",
+    "tail_type": "NUMERIC-CLAIM",
+    "sources": [
+      "http://www.365sn.cn/Wechat/Index/showDiseases/diseId/9999"
+    ],
+    "_dtu_injected": true,
+    "_pollution": "numeric_oos"
+  },
+  {
+    "head": "茶轮斑病",
+    "head_type": "PEST-ORGANISM",
+    "relation": "安全间隔期",
+    "tail": "1000倍液喷雾",
+    "tail_type": "NUMERIC-CLAIM",
+    "sources": [
+      "http://www.365sn.cn/Wechat/Index/showDiseases/diseId/9999"
+    ],
+    "_dtu_injected": true,
+    "_pollution": "numeric_oos"
+  },
+  {
+    "head": "茶赤叶斑病",
+    "head_type": "PEST-ORGANISM",
+    "relation": "防治指标",
+    "tail": "吡虫啉，安全间隔期3天",
+    "tail_type": "NUMERIC-CLAIM",
+    "sources": [
+      "http://www.365sn.cn/Wechat/Index/showDiseases/diseId/9999"
+    ],
+    "_dtu_injected": true,
+    "_pollution": "numeric_oos"
+  },
+  {
+    "head": "茶小卷叶蛾",
+    "head_type": "PEST-ORGANISM",
+    "relation": "安全间隔期",
+    "tail": "百叶若虫量50头",
+    "tail_type": "NUMERIC-CLAIM",
+    "sources": [
+      "http://www.365sn.cn/Wechat/Index/showDiseases/diseId/9999"
+    ],
+    "_dtu_injected": true,
+    "_pollution": "numeric_oos"
+  },
+  {
+    "head": "茶橙瘿螨",
+    "head_type": "PEST-ORGANISM",
+    "relation": "防治指标",
+    "tail": "每亩用药100毫升",
+    "tail_type": "NUMERIC-CLAIM",
+    "sources": [
+      "http://www.365sn.cn/Wechat/Index/showDiseases/diseId/9999"
+    ],
+    "_dtu_injected": true,
+    "_pollution": "numeric_oos"
+  },
+  {
+    "head": "黑刺粉虱",
+    "head_type": "PEST-ORGANISM",
+    "relation": "化学防治",
+    "tail": "涕灭威",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "http://www.moa.gov.cn/ztzl/2018cg/test_0.htm"
+    ],
+    "_dtu_injected": true,
+    "_pollution": "banned_high_tier"
+  },
+  {
+    "head": "茶跗线螨",
+    "head_type": "PEST-ORGANISM",
+    "relation": "化学防治",
+    "tail": "六六六",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "http://www.moa.gov.cn/ztzl/2018cg/test_1.htm"
+    ],
+    "_dtu_injected": true,
+    "_pollution": "banned_high_tier"
+  },
+  {
+    "head": "茶赤叶斑病",
+    "head_type": "PEST-ORGANISM",
+    "relation": "化学防治",
+    "tail": "克百威",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "http://www.moa.gov.cn/ztzl/2018cg/test_2.htm"
+    ],
+    "_dtu_injected": true,
+    "_pollution": "banned_high_tier"
+  },
+  {
+    "head": "茶小绿叶蝉",
+    "head_type": "PEST-ORGANISM",
+    "relation": "化学防治",
+    "tail": "吡虫啉1000倍液（安全间隔期3天）",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/bdetail-9999.htm"
+    ],
+    "_dtu_injected": true,
+    "_pollution": "numeric_inline"
+  },
+  {
+    "head": "茶二叉蚜",
+    "head_type": "PEST-ORGANISM",
+    "relation": "化学防治",
+    "tail": "联苯菊酯乳油（采收前5天）",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/bdetail-9999.htm"
+    ],
+    "_dtu_injected": true,
+    "_pollution": "numeric_inline"
+  },
+  {
+    "head": "茶树介壳虫",
+    "head_type": "PEST-ORGANISM",
+    "relation": "化学防治",
+    "tail": "吡虫啉1000倍液（安全间隔期3天）",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/bdetail-9999.htm"
+    ],
+    "_dtu_injected": true,
+    "_pollution": "numeric_inline"
+  },
+  {
+    "head": "卵形短须螨",
+    "head_type": "PEST-ORGANISM",
+    "relation": "化学防治",
+    "tail": "联苯菊酯乳油（采收前5天）",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/bdetail-9999.htm"
+    ],
+    "_dtu_injected": true,
+    "_pollution": "numeric_inline"
+  },
+  {
+    "head": "茶网蝽",
+    "head_type": "PEST-ORGANISM",
+    "relation": "化学防治",
+    "tail": "吡虫啉1000倍液（安全间隔期3天）",
+    "tail_type": "CONTROL-CHEMICAL",
+    "sources": [
+      "https://cn.agropages.com/bcc/bdetail-9999.htm"
+    ],
+    "_dtu_injected": true,
+    "_pollution": "numeric_inline"
+  }
+]

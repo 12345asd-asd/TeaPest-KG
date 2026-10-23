@@ -1,0 +1,2252 @@
+{
+  "k05_seed20261017": {
+    "n_injected": 24,
+    "configs": {
+      "ungated": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 63,
+            "carried": 63,
+            "carry_rate": 1.0
+          },
+          "banned_chem": {
+            "presented": 53,
+            "carried": 53,
+            "carry_rate": 1.0
+          },
+          "banned_high_tier": {
+            "presented": 29,
+            "carried": 29,
+            "carry_rate": 1.0
+          },
+          "numeric_oos": {
+            "presented": 23,
+            "carried": 23,
+            "carry_rate": 1.0
+          },
+          "numeric_inline": {
+            "presented": 21,
+            "carried": 21,
+            "carry_rate": 1.0
+          },
+          "__all__": {
+            "presented": 189,
+            "carried": 189,
+            "carry_rate": 1.0
+          }
+        },
+        "clean_collateral": 0.0
+      },
+      "prereg": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 63,
+            "carried": 19,
+            "carry_rate": 0.3016
+          },
+          "banned_chem": {
+            "presented": 53,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "banned_high_tier": {
+            "presented": 29,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_oos": {
+            "presented": 23,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_inline": {
+            "presented": 21,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "__all__": {
+            "presented": 189,
+            "carried": 19,
+            "carry_rate": 0.1005
+          }
+        },
+        "clean_collateral": 0.0
+      },
+      "no_safety": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 63,
+            "carried": 19,
+            "carry_rate": 0.3016
+          },
+          "banned_chem": {
+            "presented": 53,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "banned_high_tier": {
+            "presented": 29,
+            "carried": 13,
+            "carry_rate": 0.4483
+          },
+          "numeric_oos": {
+            "presented": 23,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_inline": {
+            "presented": 21,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "__all__": {
+            "presented": 189,
+            "carried": 32,
+            "carry_rate": 0.1693
+          }
+        },
+        "clean_collateral": 0.0
+      },
+      "no_safety_no_R": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 63,
+            "carried": 45,
+            "carry_rate": 0.7143
+          },
+          "banned_chem": {
+            "presented": 53,
+            "carried": 31,
+            "carry_rate": 0.5849
+          },
+          "banned_high_tier": {
+            "presented": 29,
+            "carried": 13,
+            "carry_rate": 0.4483
+          },
+          "numeric_oos": {
+            "presented": 23,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_inline": {
+            "presented": 21,
+            "carried": 19,
+            "carry_rate": 0.9048
+          },
+          "__all__": {
+            "presented": 189,
+            "carried": 108,
+            "carry_rate": 0.5714
+          }
+        },
+        "clean_collateral": 0.0
+      },
+      "no_numeric": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 63,
+            "carried": 19,
+            "carry_rate": 0.3016
+          },
+          "banned_chem": {
+            "presented": 53,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "banned_high_tier": {
+            "presented": 29,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_oos": {
+            "presented": 23,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_inline": {
+            "presented": 21,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "__all__": {
+            "presented": 189,
+            "carried": 19,
+            "carry_rate": 0.1005
+          }
+        },
+        "clean_collateral": 0.0
+      },
+      "soft": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 63,
+            "carried": 45,
+            "carry_rate": 0.7143
+          },
+          "banned_chem": {
+            "presented": 53,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "banned_high_tier": {
+            "presented": 29,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_oos": {
+            "presented": 23,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_inline": {
+            "presented": 21,
+            "carried": 19,
+            "carry_rate": 0.9048
+          },
+          "__all__": {
+            "presented": 189,
+            "carried": 64,
+            "carry_rate": 0.3386
+          }
+        },
+        "clean_collateral": 0.0
+      },
+      "rprune45": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 63,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "banned_chem": {
+            "presented": 53,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "banned_high_tier": {
+            "presented": 29,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_oos": {
+            "presented": 23,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_inline": {
+            "presented": 21,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "__all__": {
+            "presented": 189,
+            "carried": 0,
+            "carry_rate": 0.0
+          }
+        },
+        "clean_collateral": 0.45264
+      }
+    }
+  },
+  "k05_seed20261018": {
+    "n_injected": 24,
+    "configs": {
+      "ungated": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 57,
+            "carried": 57,
+            "carry_rate": 1.0
+          },
+          "banned_chem": {
+            "presented": 33,
+            "carried": 33,
+            "carry_rate": 1.0
+          },
+          "banned_high_tier": {
+            "presented": 13,
+            "carried": 13,
+            "carry_rate": 1.0
+          },
+          "numeric_oos": {
+            "presented": 20,
+            "carried": 20,
+            "carry_rate": 1.0
+          },
+          "numeric_inline": {
+            "presented": 17,
+            "carried": 17,
+            "carry_rate": 1.0
+          },
+          "__all__": {
+            "presented": 140,
+            "carried": 140,
+            "carry_rate": 1.0
+          }
+        },
+        "clean_collateral": 0.0
+      },
+      "prereg": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 57,
+            "carried": 22,
+            "carry_rate": 0.386
+          },
+          "banned_chem": {
+            "presented": 33,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "banned_high_tier": {
+            "presented": 13,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_oos": {
+            "presented": 20,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_inline": {
+            "presented": 17,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "__all__": {
+            "presented": 140,
+            "carried": 22,
+            "carry_rate": 0.1571
+          }
+        },
+        "clean_collateral": 0.0
+      },
+      "no_safety": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 57,
+            "carried": 22,
+            "carry_rate": 0.386
+          },
+          "banned_chem": {
+            "presented": 33,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "banned_high_tier": {
+            "presented": 13,
+            "carried": 10,
+            "carry_rate": 0.7692
+          },
+          "numeric_oos": {
+            "presented": 20,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_inline": {
+            "presented": 17,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "__all__": {
+            "presented": 140,
+            "carried": 32,
+            "carry_rate": 0.2286
+          }
+        },
+        "clean_collateral": 0.0
+      },
+      "no_safety_no_R": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 57,
+            "carried": 51,
+            "carry_rate": 0.8947
+          },
+          "banned_chem": {
+            "presented": 33,
+            "carried": 29,
+            "carry_rate": 0.8788
+          },
+          "banned_high_tier": {
+            "presented": 13,
+            "carried": 10,
+            "carry_rate": 0.7692
+          },
+          "numeric_oos": {
+            "presented": 20,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_inline": {
+            "presented": 17,
+            "carried": 15,
+            "carry_rate": 0.8824
+          },
+          "__all__": {
+            "presented": 140,
+            "carried": 105,
+            "carry_rate": 0.75
+          }
+        },
+        "clean_collateral": 0.0
+      },
+      "no_numeric": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 57,
+            "carried": 22,
+            "carry_rate": 0.386
+          },
+          "banned_chem": {
+            "presented": 33,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "banned_high_tier": {
+            "presented": 13,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_oos": {
+            "presented": 20,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_inline": {
+            "presented": 17,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "__all__": {
+            "presented": 140,
+            "carried": 22,
+            "carry_rate": 0.1571
+          }
+        },
+        "clean_collateral": 0.0
+      },
+      "soft": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 57,
+            "carried": 51,
+            "carry_rate": 0.8947
+          },
+          "banned_chem": {
+            "presented": 33,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "banned_high_tier": {
+            "presented": 13,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_oos": {
+            "presented": 20,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_inline": {
+            "presented": 17,
+            "carried": 15,
+            "carry_rate": 0.8824
+          },
+          "__all__": {
+            "presented": 140,
+            "carried": 66,
+            "carry_rate": 0.4714
+          }
+        },
+        "clean_collateral": 0.0
+      },
+      "rprune45": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 57,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "banned_chem": {
+            "presented": 33,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "banned_high_tier": {
+            "presented": 13,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_oos": {
+            "presented": 20,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_inline": {
+            "presented": 17,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "__all__": {
+            "presented": 140,
+            "carried": 0,
+            "carry_rate": 0.0
+          }
+        },
+        "clean_collateral": 0.45096
+      }
+    }
+  },
+  "k05_seed20261019": {
+    "n_injected": 24,
+    "configs": {
+      "ungated": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 64,
+            "carried": 64,
+            "carry_rate": 1.0
+          },
+          "banned_chem": {
+            "presented": 42,
+            "carried": 42,
+            "carry_rate": 1.0
+          },
+          "banned_high_tier": {
+            "presented": 15,
+            "carried": 15,
+            "carry_rate": 1.0
+          },
+          "numeric_oos": {
+            "presented": 22,
+            "carried": 22,
+            "carry_rate": 1.0
+          },
+          "numeric_inline": {
+            "presented": 18,
+            "carried": 18,
+            "carry_rate": 1.0
+          },
+          "__all__": {
+            "presented": 161,
+            "carried": 161,
+            "carry_rate": 1.0
+          }
+        },
+        "clean_collateral": 0.0
+      },
+      "prereg": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 64,
+            "carried": 18,
+            "carry_rate": 0.2812
+          },
+          "banned_chem": {
+            "presented": 42,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "banned_high_tier": {
+            "presented": 15,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_oos": {
+            "presented": 22,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_inline": {
+            "presented": 18,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "__all__": {
+            "presented": 161,
+            "carried": 18,
+            "carry_rate": 0.1118
+          }
+        },
+        "clean_collateral": 0.0
+      },
+      "no_safety": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 64,
+            "carried": 18,
+            "carry_rate": 0.2812
+          },
+          "banned_chem": {
+            "presented": 42,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "banned_high_tier": {
+            "presented": 15,
+            "carried": 10,
+            "carry_rate": 0.6667
+          },
+          "numeric_oos": {
+            "presented": 22,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_inline": {
+            "presented": 18,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "__all__": {
+            "presented": 161,
+            "carried": 28,
+            "carry_rate": 0.1739
+          }
+        },
+        "clean_collateral": 0.0
+      },
+      "no_safety_no_R": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 64,
+            "carried": 49,
+            "carry_rate": 0.7656
+          },
+          "banned_chem": {
+            "presented": 42,
+            "carried": 33,
+            "carry_rate": 0.7857
+          },
+          "banned_high_tier": {
+            "presented": 15,
+            "carried": 10,
+            "carry_rate": 0.6667
+          },
+          "numeric_oos": {
+            "presented": 22,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_inline": {
+            "presented": 18,
+            "carried": 16,
+            "carry_rate": 0.8889
+          },
+          "__all__": {
+            "presented": 161,
+            "carried": 108,
+            "carry_rate": 0.6708
+          }
+        },
+        "clean_collateral": 0.0
+      },
+      "no_numeric": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 64,
+            "carried": 18,
+            "carry_rate": 0.2812
+          },
+          "banned_chem": {
+            "presented": 42,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "banned_high_tier": {
+            "presented": 15,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_oos": {
+            "presented": 22,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_inline": {
+            "presented": 18,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "__all__": {
+            "presented": 161,
+            "carried": 18,
+            "carry_rate": 0.1118
+          }
+        },
+        "clean_collateral": 0.0
+      },
+      "soft": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 64,
+            "carried": 49,
+            "carry_rate": 0.7656
+          },
+          "banned_chem": {
+            "presented": 42,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "banned_high_tier": {
+            "presented": 15,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_oos": {
+            "presented": 22,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_inline": {
+            "presented": 18,
+            "carried": 16,
+            "carry_rate": 0.8889
+          },
+          "__all__": {
+            "presented": 161,
+            "carried": 65,
+            "carry_rate": 0.4037
+          }
+        },
+        "clean_collateral": 0.0
+      },
+      "rprune45": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 64,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "banned_chem": {
+            "presented": 42,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "banned_high_tier": {
+            "presented": 15,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_oos": {
+            "presented": 22,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_inline": {
+            "presented": 18,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "__all__": {
+            "presented": 161,
+            "carried": 0,
+            "carry_rate": 0.0
+          }
+        },
+        "clean_collateral": 0.44983
+      }
+    }
+  },
+  "k10_seed20261017": {
+    "n_injected": 44,
+    "configs": {
+      "ungated": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 168,
+            "carried": 168,
+            "carry_rate": 1.0
+          },
+          "banned_chem": {
+            "presented": 59,
+            "carried": 59,
+            "carry_rate": 1.0
+          },
+          "banned_high_tier": {
+            "presented": 22,
+            "carried": 22,
+            "carry_rate": 1.0
+          },
+          "numeric_oos": {
+            "presented": 48,
+            "carried": 48,
+            "carry_rate": 1.0
+          },
+          "numeric_inline": {
+            "presented": 46,
+            "carried": 46,
+            "carry_rate": 1.0
+          },
+          "__all__": {
+            "presented": 343,
+            "carried": 343,
+            "carry_rate": 1.0
+          }
+        },
+        "clean_collateral": 0.0
+      },
+      "prereg": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 168,
+            "carried": 54,
+            "carry_rate": 0.3214
+          },
+          "banned_chem": {
+            "presented": 59,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "banned_high_tier": {
+            "presented": 22,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_oos": {
+            "presented": 48,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_inline": {
+            "presented": 46,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "__all__": {
+            "presented": 343,
+            "carried": 54,
+            "carry_rate": 0.1574
+          }
+        },
+        "clean_collateral": 0.0
+      },
+      "no_safety": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 168,
+            "carried": 54,
+            "carry_rate": 0.3214
+          },
+          "banned_chem": {
+            "presented": 59,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "banned_high_tier": {
+            "presented": 22,
+            "carried": 16,
+            "carry_rate": 0.7273
+          },
+          "numeric_oos": {
+            "presented": 48,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_inline": {
+            "presented": 46,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "__all__": {
+            "presented": 343,
+            "carried": 70,
+            "carry_rate": 0.2041
+          }
+        },
+        "clean_collateral": 0.0
+      },
+      "no_safety_no_R": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 168,
+            "carried": 114,
+            "carry_rate": 0.6786
+          },
+          "banned_chem": {
+            "presented": 59,
+            "carried": 40,
+            "carry_rate": 0.678
+          },
+          "banned_high_tier": {
+            "presented": 22,
+            "carried": 16,
+            "carry_rate": 0.7273
+          },
+          "numeric_oos": {
+            "presented": 48,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_inline": {
+            "presented": 46,
+            "carried": 33,
+            "carry_rate": 0.7174
+          },
+          "__all__": {
+            "presented": 343,
+            "carried": 203,
+            "carry_rate": 0.5918
+          }
+        },
+        "clean_collateral": 0.0
+      },
+      "no_numeric": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 168,
+            "carried": 54,
+            "carry_rate": 0.3214
+          },
+          "banned_chem": {
+            "presented": 59,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "banned_high_tier": {
+            "presented": 22,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_oos": {
+            "presented": 48,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_inline": {
+            "presented": 46,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "__all__": {
+            "presented": 343,
+            "carried": 54,
+            "carry_rate": 0.1574
+          }
+        },
+        "clean_collateral": 0.0
+      },
+      "soft": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 168,
+            "carried": 114,
+            "carry_rate": 0.6786
+          },
+          "banned_chem": {
+            "presented": 59,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "banned_high_tier": {
+            "presented": 22,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_oos": {
+            "presented": 48,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_inline": {
+            "presented": 46,
+            "carried": 33,
+            "carry_rate": 0.7174
+          },
+          "__all__": {
+            "presented": 343,
+            "carried": 147,
+            "carry_rate": 0.4286
+          }
+        },
+        "clean_collateral": 0.0
+      },
+      "rprune45": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 168,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "banned_chem": {
+            "presented": 59,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "banned_high_tier": {
+            "presented": 22,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_oos": {
+            "presented": 48,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_inline": {
+            "presented": 46,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "__all__": {
+            "presented": 343,
+            "carried": 0,
+            "carry_rate": 0.0
+          }
+        },
+        "clean_collateral": 0.4532
+      }
+    }
+  },
+  "k10_seed20261018": {
+    "n_injected": 43,
+    "configs": {
+      "ungated": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 105,
+            "carried": 105,
+            "carry_rate": 1.0
+          },
+          "banned_chem": {
+            "presented": 87,
+            "carried": 87,
+            "carry_rate": 1.0
+          },
+          "banned_high_tier": {
+            "presented": 28,
+            "carried": 28,
+            "carry_rate": 1.0
+          },
+          "numeric_oos": {
+            "presented": 58,
+            "carried": 58,
+            "carry_rate": 1.0
+          },
+          "numeric_inline": {
+            "presented": 35,
+            "carried": 35,
+            "carry_rate": 1.0
+          },
+          "__all__": {
+            "presented": 313,
+            "carried": 313,
+            "carry_rate": 1.0
+          }
+        },
+        "clean_collateral": 0.0
+      },
+      "prereg": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 105,
+            "carried": 43,
+            "carry_rate": 0.4095
+          },
+          "banned_chem": {
+            "presented": 87,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "banned_high_tier": {
+            "presented": 28,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_oos": {
+            "presented": 58,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_inline": {
+            "presented": 35,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "__all__": {
+            "presented": 313,
+            "carried": 43,
+            "carry_rate": 0.1374
+          }
+        },
+        "clean_collateral": 0.0
+      },
+      "no_safety": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 105,
+            "carried": 43,
+            "carry_rate": 0.4095
+          },
+          "banned_chem": {
+            "presented": 87,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "banned_high_tier": {
+            "presented": 28,
+            "carried": 26,
+            "carry_rate": 0.9286
+          },
+          "numeric_oos": {
+            "presented": 58,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_inline": {
+            "presented": 35,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "__all__": {
+            "presented": 313,
+            "carried": 69,
+            "carry_rate": 0.2204
+          }
+        },
+        "clean_collateral": 0.0
+      },
+      "no_safety_no_R": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 105,
+            "carried": 96,
+            "carry_rate": 0.9143
+          },
+          "banned_chem": {
+            "presented": 87,
+            "carried": 82,
+            "carry_rate": 0.9425
+          },
+          "banned_high_tier": {
+            "presented": 28,
+            "carried": 27,
+            "carry_rate": 0.9643
+          },
+          "numeric_oos": {
+            "presented": 58,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_inline": {
+            "presented": 35,
+            "carried": 31,
+            "carry_rate": 0.8857
+          },
+          "__all__": {
+            "presented": 313,
+            "carried": 236,
+            "carry_rate": 0.754
+          }
+        },
+        "clean_collateral": 0.0
+      },
+      "no_numeric": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 105,
+            "carried": 43,
+            "carry_rate": 0.4095
+          },
+          "banned_chem": {
+            "presented": 87,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "banned_high_tier": {
+            "presented": 28,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_oos": {
+            "presented": 58,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_inline": {
+            "presented": 35,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "__all__": {
+            "presented": 313,
+            "carried": 43,
+            "carry_rate": 0.1374
+          }
+        },
+        "clean_collateral": 0.0
+      },
+      "soft": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 105,
+            "carried": 96,
+            "carry_rate": 0.9143
+          },
+          "banned_chem": {
+            "presented": 87,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "banned_high_tier": {
+            "presented": 28,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_oos": {
+            "presented": 58,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_inline": {
+            "presented": 35,
+            "carried": 31,
+            "carry_rate": 0.8857
+          },
+          "__all__": {
+            "presented": 313,
+            "carried": 127,
+            "carry_rate": 0.4058
+          }
+        },
+        "clean_collateral": 0.0
+      },
+      "rprune45": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 105,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "banned_chem": {
+            "presented": 87,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "banned_high_tier": {
+            "presented": 28,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_oos": {
+            "presented": 58,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_inline": {
+            "presented": 35,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "__all__": {
+            "presented": 313,
+            "carried": 0,
+            "carry_rate": 0.0
+          }
+        },
+        "clean_collateral": 0.45096
+      }
+    }
+  },
+  "k10_seed20261019": {
+    "n_injected": 44,
+    "configs": {
+      "ungated": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 134,
+            "carried": 134,
+            "carry_rate": 1.0
+          },
+          "banned_chem": {
+            "presented": 84,
+            "carried": 84,
+            "carry_rate": 1.0
+          },
+          "banned_high_tier": {
+            "presented": 20,
+            "carried": 20,
+            "carry_rate": 1.0
+          },
+          "numeric_oos": {
+            "presented": 45,
+            "carried": 45,
+            "carry_rate": 1.0
+          },
+          "numeric_inline": {
+            "presented": 46,
+            "carried": 46,
+            "carry_rate": 1.0
+          },
+          "__all__": {
+            "presented": 329,
+            "carried": 329,
+            "carry_rate": 1.0
+          }
+        },
+        "clean_collateral": 0.0
+      },
+      "prereg": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 134,
+            "carried": 48,
+            "carry_rate": 0.3582
+          },
+          "banned_chem": {
+            "presented": 84,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "banned_high_tier": {
+            "presented": 20,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_oos": {
+            "presented": 45,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_inline": {
+            "presented": 46,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "__all__": {
+            "presented": 329,
+            "carried": 48,
+            "carry_rate": 0.1459
+          }
+        },
+        "clean_collateral": 0.0
+      },
+      "no_safety": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 134,
+            "carried": 48,
+            "carry_rate": 0.3582
+          },
+          "banned_chem": {
+            "presented": 84,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "banned_high_tier": {
+            "presented": 20,
+            "carried": 18,
+            "carry_rate": 0.9
+          },
+          "numeric_oos": {
+            "presented": 45,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_inline": {
+            "presented": 46,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "__all__": {
+            "presented": 329,
+            "carried": 66,
+            "carry_rate": 0.2006
+          }
+        },
+        "clean_collateral": 0.0
+      },
+      "no_safety_no_R": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 134,
+            "carried": 103,
+            "carry_rate": 0.7687
+          },
+          "banned_chem": {
+            "presented": 84,
+            "carried": 73,
+            "carry_rate": 0.869
+          },
+          "banned_high_tier": {
+            "presented": 20,
+            "carried": 20,
+            "carry_rate": 1.0
+          },
+          "numeric_oos": {
+            "presented": 45,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_inline": {
+            "presented": 46,
+            "carried": 35,
+            "carry_rate": 0.7609
+          },
+          "__all__": {
+            "presented": 329,
+            "carried": 231,
+            "carry_rate": 0.7021
+          }
+        },
+        "clean_collateral": 0.0
+      },
+      "no_numeric": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 134,
+            "carried": 48,
+            "carry_rate": 0.3582
+          },
+          "banned_chem": {
+            "presented": 84,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "banned_high_tier": {
+            "presented": 20,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_oos": {
+            "presented": 45,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_inline": {
+            "presented": 46,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "__all__": {
+            "presented": 329,
+            "carried": 48,
+            "carry_rate": 0.1459
+          }
+        },
+        "clean_collateral": 0.0
+      },
+      "soft": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 134,
+            "carried": 103,
+            "carry_rate": 0.7687
+          },
+          "banned_chem": {
+            "presented": 84,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "banned_high_tier": {
+            "presented": 20,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_oos": {
+            "presented": 45,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_inline": {
+            "presented": 46,
+            "carried": 35,
+            "carry_rate": 0.7609
+          },
+          "__all__": {
+            "presented": 329,
+            "carried": 138,
+            "carry_rate": 0.4195
+          }
+        },
+        "clean_collateral": 0.0
+      },
+      "rprune45": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 134,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "banned_chem": {
+            "presented": 84,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "banned_high_tier": {
+            "presented": 20,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_oos": {
+            "presented": 45,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_inline": {
+            "presented": 46,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "__all__": {
+            "presented": 329,
+            "carried": 0,
+            "carry_rate": 0.0
+          }
+        },
+        "clean_collateral": 0.44533
+      }
+    }
+  },
+  "k20_seed20261017": {
+    "n_injected": 84,
+    "configs": {
+      "ungated": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 319,
+            "carried": 319,
+            "carry_rate": 1.0
+          },
+          "banned_chem": {
+            "presented": 131,
+            "carried": 131,
+            "carry_rate": 1.0
+          },
+          "banned_high_tier": {
+            "presented": 31,
+            "carried": 31,
+            "carry_rate": 1.0
+          },
+          "numeric_oos": {
+            "presented": 84,
+            "carried": 84,
+            "carry_rate": 1.0
+          },
+          "numeric_inline": {
+            "presented": 86,
+            "carried": 86,
+            "carry_rate": 1.0
+          },
+          "__all__": {
+            "presented": 651,
+            "carried": 651,
+            "carry_rate": 1.0
+          }
+        },
+        "clean_collateral": 0.0
+      },
+      "prereg": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 319,
+            "carried": 108,
+            "carry_rate": 0.3386
+          },
+          "banned_chem": {
+            "presented": 131,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "banned_high_tier": {
+            "presented": 31,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_oos": {
+            "presented": 84,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_inline": {
+            "presented": 86,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "__all__": {
+            "presented": 651,
+            "carried": 108,
+            "carry_rate": 0.1659
+          }
+        },
+        "clean_collateral": 0.0
+      },
+      "no_safety": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 319,
+            "carried": 108,
+            "carry_rate": 0.3386
+          },
+          "banned_chem": {
+            "presented": 131,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "banned_high_tier": {
+            "presented": 31,
+            "carried": 30,
+            "carry_rate": 0.9677
+          },
+          "numeric_oos": {
+            "presented": 84,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_inline": {
+            "presented": 86,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "__all__": {
+            "presented": 651,
+            "carried": 138,
+            "carry_rate": 0.212
+          }
+        },
+        "clean_collateral": 0.0
+      },
+      "no_safety_no_R": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 319,
+            "carried": 227,
+            "carry_rate": 0.7116
+          },
+          "banned_chem": {
+            "presented": 131,
+            "carried": 106,
+            "carry_rate": 0.8092
+          },
+          "banned_high_tier": {
+            "presented": 31,
+            "carried": 31,
+            "carry_rate": 1.0
+          },
+          "numeric_oos": {
+            "presented": 84,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_inline": {
+            "presented": 86,
+            "carried": 74,
+            "carry_rate": 0.8605
+          },
+          "__all__": {
+            "presented": 651,
+            "carried": 438,
+            "carry_rate": 0.6728
+          }
+        },
+        "clean_collateral": 0.0
+      },
+      "no_numeric": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 319,
+            "carried": 108,
+            "carry_rate": 0.3386
+          },
+          "banned_chem": {
+            "presented": 131,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "banned_high_tier": {
+            "presented": 31,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_oos": {
+            "presented": 84,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_inline": {
+            "presented": 86,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "__all__": {
+            "presented": 651,
+            "carried": 108,
+            "carry_rate": 0.1659
+          }
+        },
+        "clean_collateral": 0.0
+      },
+      "soft": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 319,
+            "carried": 226,
+            "carry_rate": 0.7085
+          },
+          "banned_chem": {
+            "presented": 131,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "banned_high_tier": {
+            "presented": 31,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_oos": {
+            "presented": 84,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_inline": {
+            "presented": 86,
+            "carried": 74,
+            "carry_rate": 0.8605
+          },
+          "__all__": {
+            "presented": 651,
+            "carried": 300,
+            "carry_rate": 0.4608
+          }
+        },
+        "clean_collateral": 0.0
+      },
+      "rprune45": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 319,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "banned_chem": {
+            "presented": 131,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "banned_high_tier": {
+            "presented": 31,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_oos": {
+            "presented": 84,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_inline": {
+            "presented": 86,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "__all__": {
+            "presented": 651,
+            "carried": 0,
+            "carry_rate": 0.0
+          }
+        },
+        "clean_collateral": 0.4532
+      }
+    }
+  },
+  "k20_seed20261018": {
+    "n_injected": 81,
+    "configs": {
+      "ungated": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 277,
+            "carried": 277,
+            "carry_rate": 1.0
+          },
+          "banned_chem": {
+            "presented": 116,
+            "carried": 116,
+            "carry_rate": 1.0
+          },
+          "banned_high_tier": {
+            "presented": 19,
+            "carried": 19,
+            "carry_rate": 1.0
+          },
+          "numeric_oos": {
+            "presented": 79,
+            "carried": 79,
+            "carry_rate": 1.0
+          },
+          "numeric_inline": {
+            "presented": 52,
+            "carried": 52,
+            "carry_rate": 1.0
+          },
+          "__all__": {
+            "presented": 543,
+            "carried": 543,
+            "carry_rate": 1.0
+          }
+        },
+        "clean_collateral": 0.0
+      },
+      "prereg": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 277,
+            "carried": 117,
+            "carry_rate": 0.4224
+          },
+          "banned_chem": {
+            "presented": 116,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "banned_high_tier": {
+            "presented": 19,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_oos": {
+            "presented": 79,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_inline": {
+            "presented": 52,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "__all__": {
+            "presented": 543,
+            "carried": 117,
+            "carry_rate": 0.2155
+          }
+        },
+        "clean_collateral": 0.0
+      },
+      "no_safety": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 277,
+            "carried": 117,
+            "carry_rate": 0.4224
+          },
+          "banned_chem": {
+            "presented": 116,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "banned_high_tier": {
+            "presented": 19,
+            "carried": 18,
+            "carry_rate": 0.9474
+          },
+          "numeric_oos": {
+            "presented": 79,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_inline": {
+            "presented": 52,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "__all__": {
+            "presented": 543,
+            "carried": 135,
+            "carry_rate": 0.2486
+          }
+        },
+        "clean_collateral": 0.0
+      },
+      "no_safety_no_R": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 277,
+            "carried": 249,
+            "carry_rate": 0.8989
+          },
+          "banned_chem": {
+            "presented": 116,
+            "carried": 98,
+            "carry_rate": 0.8448
+          },
+          "banned_high_tier": {
+            "presented": 19,
+            "carried": 18,
+            "carry_rate": 0.9474
+          },
+          "numeric_oos": {
+            "presented": 79,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_inline": {
+            "presented": 52,
+            "carried": 39,
+            "carry_rate": 0.75
+          },
+          "__all__": {
+            "presented": 543,
+            "carried": 404,
+            "carry_rate": 0.744
+          }
+        },
+        "clean_collateral": 0.0
+      },
+      "no_numeric": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 277,
+            "carried": 117,
+            "carry_rate": 0.4224
+          },
+          "banned_chem": {
+            "presented": 116,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "banned_high_tier": {
+            "presented": 19,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_oos": {
+            "presented": 79,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_inline": {
+            "presented": 52,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "__all__": {
+            "presented": 543,
+            "carried": 117,
+            "carry_rate": 0.2155
+          }
+        },
+        "clean_collateral": 0.0
+      },
+      "soft": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 277,
+            "carried": 249,
+            "carry_rate": 0.8989
+          },
+          "banned_chem": {
+            "presented": 116,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "banned_high_tier": {
+            "presented": 19,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_oos": {
+            "presented": 79,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_inline": {
+            "presented": 52,
+            "carried": 39,
+            "carry_rate": 0.75
+          },
+          "__all__": {
+            "presented": 543,
+            "carried": 288,
+            "carry_rate": 0.5304
+          }
+        },
+        "clean_collateral": 0.0
+      },
+      "rprune45": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 277,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "banned_chem": {
+            "presented": 116,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "banned_high_tier": {
+            "presented": 19,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_oos": {
+            "presented": 79,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_inline": {
+            "presented": 52,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "__all__": {
+            "presented": 543,
+            "carried": 0,
+            "carry_rate": 0.0
+          }
+        },
+        "clean_collateral": 0.45532
+      }
+    }
+  },
+  "k20_seed20261019": {
+    "n_injected": 85,
+    "configs": {
+      "ungated": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 313,
+            "carried": 313,
+            "carry_rate": 1.0
+          },
+          "banned_chem": {
+            "presented": 128,
+            "carried": 128,
+            "carry_rate": 1.0
+          },
+          "banned_high_tier": {
+            "presented": 17,
+            "carried": 17,
+            "carry_rate": 1.0
+          },
+          "numeric_oos": {
+            "presented": 64,
+            "carried": 64,
+            "carry_rate": 1.0
+          },
+          "numeric_inline": {
+            "presented": 76,
+            "carried": 76,
+            "carry_rate": 1.0
+          },
+          "__all__": {
+            "presented": 598,
+            "carried": 598,
+            "carry_rate": 1.0
+          }
+        },
+        "clean_collateral": 0.0
+      },
+      "prereg": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 313,
+            "carried": 112,
+            "carry_rate": 0.3578
+          },
+          "banned_chem": {
+            "presented": 128,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "banned_high_tier": {
+            "presented": 17,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_oos": {
+            "presented": 64,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_inline": {
+            "presented": 76,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "__all__": {
+            "presented": 598,
+            "carried": 112,
+            "carry_rate": 0.1873
+          }
+        },
+        "clean_collateral": 0.0
+      },
+      "no_safety": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 313,
+            "carried": 112,
+            "carry_rate": 0.3578
+          },
+          "banned_chem": {
+            "presented": 128,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "banned_high_tier": {
+            "presented": 17,
+            "carried": 8,
+            "carry_rate": 0.4706
+          },
+          "numeric_oos": {
+            "presented": 64,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_inline": {
+            "presented": 76,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "__all__": {
+            "presented": 598,
+            "carried": 120,
+            "carry_rate": 0.2007
+          }
+        },
+        "clean_collateral": 0.0
+      },
+      "no_safety_no_R": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 313,
+            "carried": 243,
+            "carry_rate": 0.7764
+          },
+          "banned_chem": {
+            "presented": 128,
+            "carried": 99,
+            "carry_rate": 0.7734
+          },
+          "banned_high_tier": {
+            "presented": 17,
+            "carried": 8,
+            "carry_rate": 0.4706
+          },
+          "numeric_oos": {
+            "presented": 64,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_inline": {
+            "presented": 76,
+            "carried": 70,
+            "carry_rate": 0.9211
+          },
+          "__all__": {
+            "presented": 598,
+            "carried": 420,
+            "carry_rate": 0.7023
+          }
+        },
+        "clean_collateral": 0.0
+      },
+      "no_numeric": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 313,
+            "carried": 112,
+            "carry_rate": 0.3578
+          },
+          "banned_chem": {
+            "presented": 128,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "banned_high_tier": {
+            "presented": 17,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_oos": {
+            "presented": 64,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_inline": {
+            "presented": 76,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "__all__": {
+            "presented": 598,
+            "carried": 112,
+            "carry_rate": 0.1873
+          }
+        },
+        "clean_collateral": 0.0
+      },
+      "soft": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 313,
+            "carried": 243,
+            "carry_rate": 0.7764
+          },
+          "banned_chem": {
+            "presented": 128,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "banned_high_tier": {
+            "presented": 17,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_oos": {
+            "presented": 64,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_inline": {
+            "presented": 76,
+            "carried": 70,
+            "carry_rate": 0.9211
+          },
+          "__all__": {
+            "presented": 598,
+            "carried": 313,
+            "carry_rate": 0.5234
+          }
+        },
+        "clean_collateral": 0.0
+      },
+      "rprune45": {
+        "by_kind": {
+          "wrong_control": {
+            "presented": 313,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "banned_chem": {
+            "presented": 128,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "banned_high_tier": {
+            "presented": 17,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_oos": {
+            "presented": 64,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "numeric_inline": {
+            "presented": 76,
+            "carried": 0,
+            "carry_rate": 0.0
+          },
+          "__all__": {
+            "presented": 598,
+            "carried": 0,
+            "carry_rate": 0.0
+          }
+        },
+        "clean_collateral": 0.44647
+      }
+    }
+  }
+}

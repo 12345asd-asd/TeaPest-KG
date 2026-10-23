@@ -1,0 +1,14 @@
+{
+  "kgrag1hop": {
+    "mean_chars": 154.1,
+    "n_questions": 128
+  },
+  "graphrag": {
+    "mean_chars": 340.5,
+    "n_questions": 128
+  },
+  "linear_bm25": {
+    "mean_chars": 152.2,
+    "n_questions": 128
+  }
+}

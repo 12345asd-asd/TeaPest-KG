@@ -1,0 +1,37 @@
+DTU 汇总 (release_v2_dtu)
+========================================================================================
+[qa_v2 答案题 macro]
+  method            Hit     Rec    Prec      F1 | OOD拒答  诊断Acc 防治覆盖 误拒
+  fused_parallel   96.1    87.5    54.3    60.5 |   46.7%    88.1   89.0
+  dtu_fused        90.6    84.1    52.3    58.5 |  100.0%    79.7   81.0
+  dtu_gated        90.6    84.1    52.3    58.5 |  100.0%    79.7   81.0
+  kgrag1hop        94.5    80.5    52.8    58.4 |   13.3%    78.6   14.9
+  dtu_kgrag1hop    92.2    86.5    55.4    61.4 |  100.0%    78.6   64.6
+  门控审计: {"deterministic_abstain_on_answerable": 9, "llm_self_abstain_when_opened": 20, "by_reason": {"no_link": 39}, "confusion": {"ans_answer": 119, "ans_abstain": 9, "ood_answer": 0, "ood_abstain": 30}}
+  非劣检验 dtu_fused vs fused recall: {'mean_diff': -0.0345, 'ci95_low': -0.0688, 'margin': -0.03, 'pass': False}
+
+[外部手册集 55 题]
+  method            KG外拒     残余作答     数值误答      禁药安全 | KGA作答/正确
+  fused_parallel   62.5%       15     15.0%    100.0% | 7/9 正53.7
+  gated_router     55.0%       18     35.0%     66.7% | 6/9 正51.8
+  dtu_fused        87.5%        5      2.5%    100.0% | 8/9 正61.1
+  dtu_kgrag1hop    87.5%        5      7.5%    100.0% | 8/9 正64.8
+  dtu_gated        87.5%        5      2.5%    100.0% | 8/9 正61.1
+  bootstrap: {"abstain_dtu_minus_fused_beyond": {"n": 40, "diff": 0.25, "ci95": [0.125, 0.375]}, "numwrong_dtu_minus_fused_beyond": {"n": 40, "diff": -0.125, "ci95": [-0.225, -0.025]}, "answered_dtu_minus_fused_kga": {"n": 9, "diff": 0.1111, "ci95": [0.0, 0.3333]}, "bansafe_dtu_n6": {"rate": 1.0}}
+
+[污染 k=10% 离线携带率（3 seed）]
+  ungated         all=100.0% wrongCtl=100.0% banHT=100.0% numInline=100.0% clean误伤=0.00%
+  prereg          all= 14.7% wrongCtl= 36.3% banHT=  0.0% numInline=  0.0% clean误伤=0.00%
+  no_safety       all= 20.8% wrongCtl= 36.3% banHT= 85.2% numInline=  0.0% clean误伤=0.00%
+  no_safety_no_R  all= 68.3% wrongCtl= 78.7% banHT= 89.7% numInline= 78.8% clean误伤=0.00%
+  no_numeric      all= 14.7% wrongCtl= 36.3% banHT=  0.0% numInline=  0.0% clean误伤=0.00%
+  soft            all= 41.8% wrongCtl= 78.7% banHT=  0.0% numInline= 78.8% clean误伤=0.00%
+  rprune45        all=  0.0% wrongCtl=  0.0% banHT=  0.0% numInline=  0.0% clean误伤=44.98%
+
+[污染 k=10% LLM 采纳（panel）]
+  ungated    总采纳 108/230=47.0%  禁药危险 33/55
+  prereg     总采纳 12/230=5.2%  禁药危险 0/55
+  no_safety  总采纳 21/230=9.1%  禁药危险 10/55
+  soft       总采纳 63/230=27.4%  禁药危险 0/55
+
+[成本 timing] calls=630 总3231s 均5.1s promptTok=307143 genTok=100618

@@ -1,0 +1,109 @@
+{
+  "context_budget": {
+    "kgrag1hop": {
+      "mean_chars": 154.1,
+      "n_questions": 128
+    },
+    "graphrag": {
+      "mean_chars": 340.5,
+      "n_questions": 128
+    },
+    "linear_bm25": {
+      "mean_chars": 152.2,
+      "n_questions": 128
+    }
+  },
+  "lambda_curve_diagnosis": [
+    {
+      "lambda": "0(graphrag)",
+      "hit": 0.9828,
+      "recall": 0.9184,
+      "n": 58
+    },
+    {
+      "lambda": ".25",
+      "hit": 0.9828,
+      "recall": 0.9263,
+      "n": 58
+    },
+    {
+      "lambda": ".5",
+      "hit": 1.0,
+      "recall": 0.9282,
+      "n": 58
+    },
+    {
+      "lambda": ".75",
+      "hit": 1.0,
+      "recall": 0.8701,
+      "n": 58
+    },
+    {
+      "lambda": "1(kgrag1hop)",
+      "hit": 0.8793,
+      "recall": 0.5791,
+      "n": 58
+    }
+  ],
+  "series_vs_parallel": {
+    "serial_cascade": {
+      "n": 58,
+      "hit": 0.9828,
+      "recall": 0.8779,
+      "stage1_diag_acc": 0.9828
+    },
+    "parallel_fused": {
+      "n": 58,
+      "hit": 0.9655,
+      "recall": 0.8614
+    }
+  },
+  "coverage_oracle": [
+    {
+      "alpha": 0.1,
+      "oracle_gold_recall": 0.5407
+    },
+    {
+      "alpha": 0.25,
+      "oracle_gold_recall": 0.562
+    },
+    {
+      "alpha": 0.5,
+      "oracle_gold_recall": 0.7123
+    },
+    {
+      "alpha": 0.75,
+      "oracle_gold_recall": 0.9088
+    },
+    {
+      "alpha": 1.0,
+      "oracle_gold_recall": 1.0
+    }
+  ],
+  "coverage_e2e_panel": [
+    {
+      "alpha": 0.25,
+      "n": 43,
+      "hit": 0.7442,
+      "recall": 0.3871
+    },
+    {
+      "alpha": 0.5,
+      "n": 43,
+      "hit": 0.8605,
+      "recall": 0.56
+    },
+    {
+      "alpha": 0.75,
+      "n": 43,
+      "hit": 0.8837,
+      "recall": 0.7347
+    },
+    {
+      "alpha": 1.0,
+      "n": 43,
+      "hit": 0.907,
+      "recall": 0.8276
+    }
+  ]
+}

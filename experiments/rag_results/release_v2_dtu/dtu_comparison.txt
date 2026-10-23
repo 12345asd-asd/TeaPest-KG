@@ -1,0 +1,50 @@
+TeaPest-QA v2 DTU methods (qwen2.5-14b-dtu)
+================================================================================================
+Method              n     Hit  Recall    Prec      F1    RecMi |    OOD拒答    OOD误答
+fused_parallel    128    96.1    87.5    54.3    60.5     90.9 |     46.7     53.3
+dtu_fused         128    90.6    84.1    52.3    58.5     87.0 |    100.0      0.0
+dtu_gated         128    90.6    84.1    52.3    58.5     87.0 |    100.0      0.0
+kgrag1hop         128    94.5    80.5    52.8    58.4     70.3 |     13.3     86.7
+dtu_kgrag1hop     128    92.2    86.5    55.4    61.4     83.2 |    100.0      0.0
+gated_router      128    84.4    75.1    40.2    46.1     80.7 |    100.0      0.0
+================================================================================================
+
+[dtu_fused]
+  事实   n= 70 Hit=95.7 Rec=88.8 Prec=71.0 F1=78.3
+  诊断   n= 58 Hit=84.5 Rec=78.5 Prec=29.8 F1=34.6
+  诊断Acc=79.7% 防治覆盖=81.0%
+    symptom_identify acc=96.4
+    open_diagnosis   acc=85.0
+    differential     acc=22.5
+  OOD n=30 拒答=100.0% 误答=0.0%
+
+[dtu_kgrag1hop]
+  事实   n= 70 Hit=100.0 Rec=98.5 Prec=79.7 F1=87.6
+  诊断   n= 58 Hit=82.8 Rec=72.0 Prec=26.1 F1=29.9
+  诊断Acc=78.6% 防治覆盖=64.6%
+    symptom_identify acc=92.9
+    open_diagnosis   acc=85.0
+    differential     acc=25.8
+  OOD n=30 拒答=100.0% 误答=0.0%
+
+[dtu_gated]
+  事实   n= 70 Hit=95.7 Rec=88.8 Prec=71.0 F1=78.3
+  诊断   n= 58 Hit=84.5 Rec=78.5 Prec=29.8 F1=34.6
+  诊断Acc=79.7% 防治覆盖=81.0%
+    symptom_identify acc=96.4
+    open_diagnosis   acc=85.0
+    differential     acc=22.5
+  OOD n=30 拒答=100.0% 误答=0.0%
+
+[门控审计] {'deterministic_abstain_on_answerable': 9, 'llm_self_abstain_when_opened': 20, 'by_reason': {'no_link': 39}, 'confusion': {'ans_answer': 119, 'ans_abstain': 9, 'ood_answer': 0, 'ood_abstain': 30}}
+
+[配对bootstrap/非劣检验]
+  fused_parallel_vs_dtu_fused_recall         diff=-0.035 CI=[-0.067,-0.006] p=0.475
+  fused_parallel_vs_dtu_fused_hit            diff=-0.055 CI=[-0.094,-0.016] p=0.552
+  noninferiority_dtu_fused_recall_dminusbase {'mean_diff': -0.0345, 'ci95_low': -0.0688, 'margin': -0.03, 'pass': False}
+  kgrag1hop_vs_dtu_kgrag1hop_recall          diff=+0.059 CI=[+0.009,+0.113] p=0.499
+  kgrag1hop_vs_dtu_kgrag1hop_hit             diff=-0.023 CI=[-0.070,+0.023] p=0.586
+  gated_router_vs_dtu_gated_recall           diff=+0.089 CI=[+0.045,+0.139] p=0.495
+  gated_router_vs_dtu_gated_hit              diff=+0.062 CI=[+0.023,+0.109] p=0.564
+  dtu_fused_vs_dtu_gated_recall              diff=+0.000 CI=[+0.000,+0.000] p=1.000
+  dtu_fused_vs_dtu_gated_hit                 diff=+0.000 CI=[+0.000,+0.000] p=1.000

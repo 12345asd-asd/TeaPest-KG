@@ -1,0 +1,1962 @@
+[
+  {
+    "id": "QA0001",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶茶小绿茶小绿叶蝉可以采取哪些生物防治措施？",
+    "context_entity": "茶小绿叶蝉",
+    "answer_list": [
+      "印楝素",
+      "瓢虫",
+      "白僵菌",
+      "苏云金杆菌",
+      "苦参碱",
+      "草蛉",
+      "赤眼蜂",
+      "鱼藤酮"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0002",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶茶小绿茶小绿叶蝉可以采取哪些物理防治措施？",
+    "context_entity": "茶小绿叶蝉",
+    "answer_list": [
+      "黄板"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0003",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶茶小绿茶小绿叶蝉可以采取哪些化学防治措施？",
+    "context_entity": "茶小绿叶蝉",
+    "answer_list": [
+      "吡虫啉",
+      "唑虫酰胺",
+      "啶虫脒",
+      "噻虫嗪",
+      "联苯菊酯",
+      "茚虫威"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0004",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶茶小绿茶小绿叶蝉可以采取哪些农业防治措施？",
+    "context_entity": "茶小绿叶蝉",
+    "answer_list": [
+      "冬季修剪",
+      "分批采摘",
+      "及时采摘",
+      "合理修剪"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0005",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶茶橙瘿螨可以采取哪些生物防治措施？",
+    "context_entity": "茶橙瘿螨",
+    "answer_list": [
+      "印楝素",
+      "巴氏新小绥螨",
+      "捕食螨",
+      "智利小植绥螨",
+      "胡瓜钝绥螨",
+      "苦参碱"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0006",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶茶橙瘿螨可以采取哪些化学防治措施？",
+    "context_entity": "茶橙瘿螨",
+    "answer_list": [
+      "哒螨灵",
+      "石硫合剂",
+      "矿物油",
+      "阿维菌素"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0007",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶茶橙瘿螨可以采取哪些物理防治措施？",
+    "context_entity": "茶橙瘿螨",
+    "answer_list": [
+      "色板诱杀"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0008",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶茶橙瘿螨可以采取哪些农业防治措施？",
+    "context_entity": "茶橙瘿螨",
+    "answer_list": [
+      "冬季清园",
+      "加强肥水管理",
+      "及时采摘",
+      "合理修剪"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0009",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶毛虫可以采取哪些生物防治措施？",
+    "context_entity": "茶毛虫",
+    "answer_list": [
+      "印楝素",
+      "寄生蜂",
+      "甘蓝夜蛾核型多角体病毒",
+      "白僵菌",
+      "短稳杆菌",
+      "苏云金杆菌",
+      "苦参碱",
+      "茶毛虫核型多角体病毒"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0010",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶毛虫可以采取哪些物理防治措施？",
+    "context_entity": "茶毛虫",
+    "answer_list": [
+      "性信息素诱捕器",
+      "杀虫灯诱杀"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0011",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶毛虫可以采取哪些化学防治措施？",
+    "context_entity": "茶毛虫",
+    "answer_list": [
+      "溴氰菊酯",
+      "联苯·甲维盐",
+      "联苯菊酯",
+      "高效氯氰菊酯"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0012",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶毛虫可以采取哪些农业防治措施？",
+    "context_entity": "茶毛虫",
+    "answer_list": [
+      "中耕培土灭蛹",
+      "人工摘除卵块",
+      "冬季清园",
+      "剪除群集幼虫枝叶"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0013",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶根结线虫可以采取哪些生物防治措施？",
+    "context_entity": "茶根结线虫",
+    "answer_list": [
+      "假单胞菌",
+      "木霉菌",
+      "淡紫紫孢菌",
+      "芽孢杆菌"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0014",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶茶尺蠖可以采取哪些生物防治措施？",
+    "context_entity": "茶尺蠖",
+    "answer_list": [
+      "绒茧蜂",
+      "苏云金杆菌",
+      "茶尺蠖核型多角体病毒",
+      "赤眼蜂"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0015",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶树介壳虫可以采取哪些生物防治措施？",
+    "context_entity": "茶树介壳虫",
+    "answer_list": [
+      "七星瓢虫",
+      "异色瓢虫",
+      "橙额跳小蜂",
+      "红点唇瓢虫"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0016",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶树介壳虫可以采取哪些化学防治措施？",
+    "context_entity": "茶树介壳虫",
+    "answer_list": [
+      "噻嗪酮",
+      "松脂合剂",
+      "石硫合剂",
+      "矿物油",
+      "螺虫乙酯"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0017",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶茶尺蠖幼虫可以采取哪些生物防治措施？",
+    "context_entity": "茶尺蠖",
+    "answer_list": [
+      "绒茧蜂",
+      "苏云金杆菌",
+      "茶尺蠖核型多角体病毒",
+      "赤眼蜂"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0018",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶茶尺蠖幼虫可以采取哪些化学防治措施？",
+    "context_entity": "茶尺蠖",
+    "answer_list": [
+      "甲维盐",
+      "联苯菊酯",
+      "茚虫威",
+      "高效氯氟氰菊酯"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0021",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶茶丽纹象甲可以采取哪些生物防治措施？",
+    "context_entity": "茶丽纹象甲",
+    "answer_list": [
+      "白僵菌"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0022",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶茶丽纹象甲可以采取哪些物理防治措施？",
+    "context_entity": "茶丽纹象甲",
+    "answer_list": [
+      "振落捕杀",
+      "杀虫灯诱杀"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0023",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶叶丽瘿螨可以采取哪些生物防治措施？",
+    "context_entity": "茶叶丽瘿螨",
+    "answer_list": [
+      "捕食螨",
+      "瓢虫",
+      "胡瓜钝绥螨",
+      "草蛉"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0024",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶茶尺蠖成虫可以采取哪些生物防治措施？",
+    "context_entity": "茶尺蠖",
+    "answer_list": [
+      "绒茧蜂",
+      "苏云金杆菌",
+      "茶尺蠖核型多角体病毒",
+      "赤眼蜂"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0025",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "咖啡小爪螨可以采取哪些生物防治措施？",
+    "context_entity": "咖啡小爪螨",
+    "answer_list": [
+      "捕食螨",
+      "胡瓜钝绥螨",
+      "草蛉",
+      "食螨瓢虫"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0026",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "咖啡小爪螨可以采取哪些化学防治措施？",
+    "context_entity": "咖啡小爪螨",
+    "answer_list": [
+      "四螨嗪",
+      "浏阳霉素",
+      "溴螨酯",
+      "炔螨特",
+      "石硫合剂",
+      "矿物油"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0028",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "咖啡小爪螨可以采取哪些农业防治措施？",
+    "context_entity": "咖啡小爪螨",
+    "answer_list": [
+      "及时采摘",
+      "干旱灌溉",
+      "改善通风透光",
+      "植物检疫"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0030",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶跗线螨可以采取哪些生物防治措施？",
+    "context_entity": "茶跗线螨",
+    "answer_list": [
+      "具瘤神蕊螨",
+      "印楝素",
+      "德氏钝绥螨",
+      "捕食螨",
+      "胡瓜钝绥螨"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0031",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶茶尺蠖可以采取哪些生物防治措施？",
+    "context_entity": "茶尺蠖",
+    "answer_list": [
+      "绒茧蜂",
+      "苏云金杆菌",
+      "茶尺蠖核型多角体病毒",
+      "赤眼蜂"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0032",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶茶小绿茶小绿叶蝉百叶虫可以采取哪些生物防治措施？",
+    "context_entity": "茶小绿叶蝉",
+    "answer_list": [
+      "印楝素",
+      "瓢虫",
+      "白僵菌",
+      "苏云金杆菌",
+      "苦参碱",
+      "草蛉",
+      "赤眼蜂",
+      "鱼藤酮"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0033",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶茶小绿茶小绿叶蝉百叶虫可以采取哪些化学防治措施？",
+    "context_entity": "茶小绿叶蝉",
+    "answer_list": [
+      "吡虫啉",
+      "唑虫酰胺",
+      "啶虫脒",
+      "噻虫嗪",
+      "联苯菊酯",
+      "茚虫威"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0034",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶毛虫等趋光性害虫可以采取哪些物理防治措施？",
+    "context_entity": "茶毛虫",
+    "answer_list": [
+      "性信息素诱捕器",
+      "杀虫灯诱杀"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0036",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶茶网蝽可以采取哪些生物防治措施？",
+    "context_entity": "茶网蝽",
+    "answer_list": [
+      "白僵菌",
+      "苦参碱",
+      "除虫菊素",
+      "鱼藤酮"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0037",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶茶网蝽可以采取哪些化学防治措施？",
+    "context_entity": "茶网蝽",
+    "answer_list": [
+      "吡虫啉",
+      "噻虫嗪",
+      "联苯菊酯",
+      "茚虫威",
+      "虫螨腈"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0038",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶茶网蝽可以采取哪些农业防治措施？",
+    "context_entity": "茶网蝽",
+    "answer_list": [
+      "修剪清园",
+      "分批勤采",
+      "台刈",
+      "铲除杂草"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0039",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶二叉蚜等趋嫩性害虫可以采取哪些农业防治措施？",
+    "context_entity": "茶二叉蚜",
+    "answer_list": [
+      "人工摘除虫梢",
+      "分批采摘",
+      "轻修剪"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0040",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶黄茶黄蓟马百叶虫可以采取哪些生物防治措施？",
+    "context_entity": "茶黄蓟马",
+    "answer_list": [
+      "乙基多杀菌素",
+      "寄生蜂",
+      "瓢虫",
+      "草蛉"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0043",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶小绿叶蝉等成虫可以采取哪些物理防治措施？",
+    "context_entity": "茶小绿叶蝉",
+    "answer_list": [
+      "黄板"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0044",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶尺蠖幼虫可以采取哪些生物防治措施？",
+    "context_entity": "茶尺蠖",
+    "answer_list": [
+      "绒茧蜂",
+      "苏云金杆菌",
+      "茶尺蠖核型多角体病毒",
+      "赤眼蜂"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0045",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "黑刺粉虱；捕食螨可以采取哪些生物防治措施？",
+    "context_entity": "黑刺粉虱",
+    "answer_list": [
+      "寄生蜂",
+      "白僵菌",
+      "韦伯虫座孢"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0046",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶茶刺蛾幼虫可以采取哪些生物防治措施？",
+    "context_entity": "茶刺蛾",
+    "answer_list": [
+      "白僵菌",
+      "苏云金杆菌",
+      "青虫菌"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0047",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶叶丽瘿螨等螨类害虫可以采取哪些生物防治措施？",
+    "context_entity": "茶叶丽瘿螨",
+    "answer_list": [
+      "捕食螨",
+      "瓢虫",
+      "胡瓜钝绥螨",
+      "草蛉"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0048",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶茶小茶小卷叶蛾可以采取哪些生物防治措施？",
+    "context_entity": "茶小卷叶蛾",
+    "answer_list": [
+      "白僵菌",
+      "苏云金杆菌",
+      "苦参碱",
+      "赤眼蜂"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0049",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶茶尺蠖、茶天牛成虫可以采取哪些物理防治措施？",
+    "context_entity": "茶尺蠖",
+    "answer_list": [
+      "杀虫灯诱杀"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0050",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶茶橙瘿螨等主要害虫可以采取哪些生物防治措施？",
+    "context_entity": "茶橙瘿螨",
+    "answer_list": [
+      "印楝素",
+      "巴氏新小绥螨",
+      "捕食螨",
+      "智利小植绥螨",
+      "胡瓜钝绥螨",
+      "苦参碱"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0051",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶毛虫、茶毛虫可以采取哪些物理防治措施？",
+    "context_entity": "茶毛虫",
+    "answer_list": [
+      "性信息素诱捕器",
+      "杀虫灯诱杀"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0052",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "卵形卵形短须螨可以采取哪些生物防治措施？",
+    "context_entity": "卵形短须螨",
+    "answer_list": [
+      "捕食螨",
+      "红点唇瓢虫",
+      "胡瓜钝绥螨"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0053",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶二叉蚜：成虫分有翅蚜可以采取哪些生物防治措施？",
+    "context_entity": "茶二叉蚜",
+    "answer_list": [
+      "七星瓢虫",
+      "中华草蛉",
+      "大草蛉",
+      "异色瓢虫",
+      "苦参碱",
+      "鱼藤酮",
+      "龟纹瓢虫"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0054",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶茶角胸叶甲可以采取哪些物理防治措施？",
+    "context_entity": "茶角胸叶甲",
+    "answer_list": [
+      "杀虫灯诱杀",
+      "粘虫板诱杀"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0055",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶丽纹象甲可以采取哪些生物防治措施？",
+    "context_entity": "茶丽纹象甲",
+    "answer_list": [
+      "白僵菌"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0056",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶茶跗线螨可以采取哪些生物防治措施？",
+    "context_entity": "茶跗线螨",
+    "answer_list": [
+      "具瘤神蕊螨",
+      "印楝素",
+      "德氏钝绥螨",
+      "捕食螨",
+      "胡瓜钝绥螨"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0057",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶黄茶黄蓟马成虫可以采取哪些物理防治措施？",
+    "context_entity": "茶黄蓟马",
+    "answer_list": [
+      "蓝板诱杀"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0058",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶黄茶黄蓟马等趋嫩性害虫可以采取哪些农业防治措施？",
+    "context_entity": "茶黄蓟马",
+    "answer_list": [
+      "分批采摘",
+      "清园",
+      "轻修剪"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0059",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶黄蓟马及鳞翅目害虫可以采取哪些生物防治措施？",
+    "context_entity": "茶黄蓟马",
+    "answer_list": [
+      "乙基多杀菌素",
+      "寄生蜂",
+      "瓢虫",
+      "草蛉"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0060",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶黄蓟马若虫可以采取哪些生物防治措施？",
+    "context_entity": "茶黄蓟马",
+    "answer_list": [
+      "乙基多杀菌素",
+      "寄生蜂",
+      "瓢虫",
+      "草蛉"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0061",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "黑刺黑刺粉虱卵与若虫可以采取哪些生物防治措施？",
+    "context_entity": "黑刺粉虱",
+    "answer_list": [
+      "寄生蜂",
+      "白僵菌",
+      "韦伯虫座孢"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0062",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "黑刺黑刺粉虱和蚧类害虫可以采取哪些化学防治措施？",
+    "context_entity": "黑刺粉虱",
+    "answer_list": [
+      "啶虫脒",
+      "噻虫嗪",
+      "溴氰菊酯",
+      "联苯·噻虫啉",
+      "联苯·噻虫嗪",
+      "螺虫乙酯"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0063",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "黑刺黑刺粉虱虫可以采取哪些生物防治措施？",
+    "context_entity": "黑刺粉虱",
+    "answer_list": [
+      "寄生蜂",
+      "白僵菌",
+      "韦伯虫座孢"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0101",
+    "type": "pest_symptoms",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶根结线虫为害茶树时有哪些典型症状？",
+    "context_entity": "茶根结线虫",
+    "answer_list": [
+      "叶片黄化",
+      "根部串珠状根瘤",
+      "植株长势弱",
+      "须根少"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0102",
+    "type": "pest_symptoms",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶树介壳虫为害茶树时有哪些典型症状？",
+    "context_entity": "茶树介壳虫",
+    "answer_list": [
+      "分泌蜜露诱发煤烟病",
+      "刺吸枝干叶片汁液",
+      "枝条枯死",
+      "树势衰弱落叶"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0103",
+    "type": "pest_symptoms",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶茶小绿茶小绿叶蝉为害茶树时有哪些典型症状？",
+    "context_entity": "茶小绿叶蝉",
+    "answer_list": [
+      "叶缘焦枯",
+      "嫩叶卷曲",
+      "芽叶萎缩"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0104",
+    "type": "pest_all_controls",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶茶小绿茶小绿叶蝉有哪些综合防治方法？",
+    "context_entity": "茶小绿叶蝉",
+    "answer_list": [
+      "印楝素",
+      "瓢虫",
+      "白僵菌",
+      "苏云金杆菌",
+      "苦参碱",
+      "草蛉",
+      "赤眼蜂",
+      "鱼藤酮",
+      "吡虫啉",
+      "唑虫酰胺",
+      "啶虫脒",
+      "噻虫嗪",
+      "联苯菊酯",
+      "茚虫威",
+      "冬季修剪",
+      "分批采摘",
+      "及时采摘",
+      "合理修剪",
+      "黄板"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0105",
+    "type": "pest_all_controls",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶茶橙瘿螨有哪些综合防治方法？",
+    "context_entity": "茶橙瘿螨",
+    "answer_list": [
+      "印楝素",
+      "巴氏新小绥螨",
+      "捕食螨",
+      "智利小植绥螨",
+      "胡瓜钝绥螨",
+      "苦参碱",
+      "哒螨灵",
+      "石硫合剂",
+      "矿物油",
+      "阿维菌素",
+      "冬季清园",
+      "加强肥水管理",
+      "及时采摘",
+      "合理修剪",
+      "色板诱杀"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0106",
+    "type": "pest_all_controls",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶毛虫有哪些综合防治方法？",
+    "context_entity": "茶毛虫",
+    "answer_list": [
+      "印楝素",
+      "寄生蜂",
+      "甘蓝夜蛾核型多角体病毒",
+      "白僵菌",
+      "短稳杆菌",
+      "苏云金杆菌",
+      "苦参碱",
+      "茶毛虫核型多角体病毒",
+      "溴氰菊酯",
+      "联苯·甲维盐",
+      "联苯菊酯",
+      "高效氯氰菊酯",
+      "中耕培土灭蛹",
+      "人工摘除卵块",
+      "冬季清园",
+      "剪除群集幼虫枝叶",
+      "性信息素诱捕器",
+      "杀虫灯诱杀"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0107",
+    "type": "pest_all_controls",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶根结线虫有哪些综合防治方法？",
+    "context_entity": "茶根结线虫",
+    "answer_list": [
+      "假单胞菌",
+      "木霉菌",
+      "淡紫紫孢菌",
+      "芽孢杆菌",
+      "噻唑膦",
+      "阿维菌素",
+      "与水稻轮作",
+      "增施磷钾肥",
+      "植物检疫",
+      "深翻暴晒",
+      "覆膜太阳能消毒"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0108",
+    "type": "pest_all_controls",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶茶尺蠖有哪些综合防治方法？",
+    "context_entity": "茶尺蠖",
+    "answer_list": [
+      "绒茧蜂",
+      "苏云金杆菌",
+      "茶尺蠖核型多角体病毒",
+      "赤眼蜂",
+      "甲维盐",
+      "联苯菊酯",
+      "茚虫威",
+      "高效氯氟氰菊酯",
+      "中耕灭蛹",
+      "人工摘除虫苞",
+      "冬季清园",
+      "杀虫灯诱杀"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0109",
+    "type": "pest_all_controls",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶树介壳虫有哪些综合防治方法？",
+    "context_entity": "茶树介壳虫",
+    "answer_list": [
+      "七星瓢虫",
+      "异色瓢虫",
+      "橙额跳小蜂",
+      "红点唇瓢虫",
+      "噻嗪酮",
+      "松脂合剂",
+      "石硫合剂",
+      "矿物油",
+      "螺虫乙酯",
+      "剪除虫枝",
+      "清蔸亮脚",
+      "苗木检疫",
+      "人工刮除"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0110",
+    "type": "pest_all_controls",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶茶尺蠖幼虫有哪些综合防治方法？",
+    "context_entity": "茶尺蠖",
+    "answer_list": [
+      "绒茧蜂",
+      "苏云金杆菌",
+      "茶尺蠖核型多角体病毒",
+      "赤眼蜂",
+      "甲维盐",
+      "联苯菊酯",
+      "茚虫威",
+      "高效氯氟氰菊酯",
+      "中耕灭蛹",
+      "人工摘除虫苞",
+      "冬季清园",
+      "杀虫灯诱杀"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0112",
+    "type": "pest_all_controls",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶茶丽纹象甲有哪些综合防治方法？",
+    "context_entity": "茶丽纹象甲",
+    "answer_list": [
+      "白僵菌",
+      "杀螟丹",
+      "联苯菊酯",
+      "冬季翻耕灭幼虫",
+      "随犁拾虫",
+      "振落捕杀",
+      "杀虫灯诱杀"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0113",
+    "type": "pest_all_controls",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶叶丽瘿螨有哪些综合防治方法？",
+    "context_entity": "茶叶丽瘿螨",
+    "answer_list": [
+      "捕食螨",
+      "瓢虫",
+      "胡瓜钝绥螨",
+      "草蛉",
+      "四螨嗪",
+      "浏阳霉素",
+      "炔螨特",
+      "石硫合剂",
+      "矿物油",
+      "虫螨腈",
+      "加强肥水管理",
+      "及时采摘",
+      "改善通风透光",
+      "植物检疫"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0114",
+    "type": "pest_all_controls",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶茶尺蠖成虫有哪些综合防治方法？",
+    "context_entity": "茶尺蠖",
+    "answer_list": [
+      "绒茧蜂",
+      "苏云金杆菌",
+      "茶尺蠖核型多角体病毒",
+      "赤眼蜂",
+      "甲维盐",
+      "联苯菊酯",
+      "茚虫威",
+      "高效氯氟氰菊酯",
+      "中耕灭蛹",
+      "人工摘除虫苞",
+      "冬季清园",
+      "杀虫灯诱杀"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0115",
+    "type": "pest_all_controls",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "咖啡小爪螨有哪些综合防治方法？",
+    "context_entity": "咖啡小爪螨",
+    "answer_list": [
+      "捕食螨",
+      "胡瓜钝绥螨",
+      "草蛉",
+      "食螨瓢虫",
+      "四螨嗪",
+      "浏阳霉素",
+      "溴螨酯",
+      "炔螨特",
+      "石硫合剂",
+      "矿物油",
+      "及时采摘",
+      "干旱灌溉",
+      "改善通风透光",
+      "植物检疫"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0117",
+    "type": "pest_all_controls",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶跗线螨有哪些综合防治方法？",
+    "context_entity": "茶跗线螨",
+    "answer_list": [
+      "具瘤神蕊螨",
+      "印楝素",
+      "德氏钝绥螨",
+      "捕食螨",
+      "胡瓜钝绥螨",
+      "噻螨酮",
+      "四螨嗪",
+      "浏阳霉素",
+      "炔螨特",
+      "矿物油",
+      "修剪清园",
+      "分批采摘",
+      "台刈",
+      "清除杂草"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0118",
+    "type": "pest_all_controls",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶茶尺蠖有哪些综合防治方法？",
+    "context_entity": "茶尺蠖",
+    "answer_list": [
+      "绒茧蜂",
+      "苏云金杆菌",
+      "茶尺蠖核型多角体病毒",
+      "赤眼蜂",
+      "甲维盐",
+      "联苯菊酯",
+      "茚虫威",
+      "高效氯氟氰菊酯",
+      "中耕灭蛹",
+      "人工摘除虫苞",
+      "冬季清园",
+      "杀虫灯诱杀"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0119",
+    "type": "pest_all_controls",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶茶小绿茶小绿叶蝉百叶虫有哪些综合防治方法？",
+    "context_entity": "茶小绿叶蝉",
+    "answer_list": [
+      "印楝素",
+      "瓢虫",
+      "白僵菌",
+      "苏云金杆菌",
+      "苦参碱",
+      "草蛉",
+      "赤眼蜂",
+      "鱼藤酮",
+      "吡虫啉",
+      "唑虫酰胺",
+      "啶虫脒",
+      "噻虫嗪",
+      "联苯菊酯",
+      "茚虫威",
+      "冬季修剪",
+      "分批采摘",
+      "及时采摘",
+      "合理修剪",
+      "黄板"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0120",
+    "type": "pest_all_controls",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶茶网蝽有哪些综合防治方法？",
+    "context_entity": "茶网蝽",
+    "answer_list": [
+      "白僵菌",
+      "苦参碱",
+      "除虫菊素",
+      "鱼藤酮",
+      "吡虫啉",
+      "噻虫嗪",
+      "联苯菊酯",
+      "茚虫威",
+      "虫螨腈",
+      "修剪清园",
+      "分批勤采",
+      "台刈",
+      "铲除杂草"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0122",
+    "type": "pest_all_controls",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶茶刺蛾幼虫有哪些综合防治方法？",
+    "context_entity": "茶刺蛾",
+    "answer_list": [
+      "白僵菌",
+      "苏云金杆菌",
+      "青虫菌",
+      "冬季清园",
+      "翻耕灭茧",
+      "杀虫灯诱杀"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0123",
+    "type": "pest_all_controls",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶茶小茶小卷叶蛾有哪些综合防治方法？",
+    "context_entity": "茶小卷叶蛾",
+    "answer_list": [
+      "白僵菌",
+      "苏云金杆菌",
+      "苦参碱",
+      "赤眼蜂",
+      "中耕培土",
+      "人工摘除虫苞",
+      "修剪清园",
+      "分批留叶采摘",
+      "性信息素诱捕器",
+      "杀虫灯诱杀",
+      "糖醋液诱杀"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0124",
+    "type": "pest_all_controls",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶茶小绿茶小绿叶蝉：成虫有哪些综合防治方法？",
+    "context_entity": "茶小绿叶蝉",
+    "answer_list": [
+      "印楝素",
+      "瓢虫",
+      "白僵菌",
+      "苏云金杆菌",
+      "苦参碱",
+      "草蛉",
+      "赤眼蜂",
+      "鱼藤酮",
+      "吡虫啉",
+      "唑虫酰胺",
+      "啶虫脒",
+      "噻虫嗪",
+      "联苯菊酯",
+      "茚虫威",
+      "冬季修剪",
+      "分批采摘",
+      "及时采摘",
+      "合理修剪",
+      "黄板"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0125",
+    "type": "pest_all_controls",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶茶尺蠖、茶天牛成虫有哪些综合防治方法？",
+    "context_entity": "茶尺蠖",
+    "answer_list": [
+      "绒茧蜂",
+      "苏云金杆菌",
+      "茶尺蠖核型多角体病毒",
+      "赤眼蜂",
+      "甲维盐",
+      "联苯菊酯",
+      "茚虫威",
+      "高效氯氟氰菊酯",
+      "中耕灭蛹",
+      "人工摘除虫苞",
+      "冬季清园",
+      "杀虫灯诱杀"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0126",
+    "type": "pest_all_controls",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶茶橙瘿螨等主要害虫有哪些综合防治方法？",
+    "context_entity": "茶橙瘿螨",
+    "answer_list": [
+      "印楝素",
+      "巴氏新小绥螨",
+      "捕食螨",
+      "智利小植绥螨",
+      "胡瓜钝绥螨",
+      "苦参碱",
+      "哒螨灵",
+      "石硫合剂",
+      "矿物油",
+      "阿维菌素",
+      "冬季清园",
+      "加强肥水管理",
+      "及时采摘",
+      "合理修剪",
+      "色板诱杀"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0127",
+    "type": "pest_all_controls",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶毛虫、茶毛虫有哪些综合防治方法？",
+    "context_entity": "茶毛虫",
+    "answer_list": [
+      "印楝素",
+      "寄生蜂",
+      "甘蓝夜蛾核型多角体病毒",
+      "白僵菌",
+      "短稳杆菌",
+      "苏云金杆菌",
+      "苦参碱",
+      "茶毛虫核型多角体病毒",
+      "溴氰菊酯",
+      "联苯·甲维盐",
+      "联苯菊酯",
+      "高效氯氰菊酯",
+      "中耕培土灭蛹",
+      "人工摘除卵块",
+      "冬季清园",
+      "剪除群集幼虫枝叶",
+      "性信息素诱捕器",
+      "杀虫灯诱杀"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0128",
+    "type": "pest_all_controls",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "卵形卵形短须螨有哪些综合防治方法？",
+    "context_entity": "卵形短须螨",
+    "answer_list": [
+      "捕食螨",
+      "红点唇瓢虫",
+      "胡瓜钝绥螨",
+      "四螨嗪",
+      "炔螨特",
+      "石硫合剂",
+      "矿物油",
+      "修剪清园",
+      "台刈",
+      "清除枯枝落叶",
+      "防旱抗旱"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0129",
+    "type": "pest_all_controls",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶丽纹象甲有哪些综合防治方法？",
+    "context_entity": "茶丽纹象甲",
+    "answer_list": [
+      "白僵菌",
+      "杀螟丹",
+      "联苯菊酯",
+      "冬季翻耕灭幼虫",
+      "随犁拾虫",
+      "振落捕杀",
+      "杀虫灯诱杀"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0130",
+    "type": "pest_all_controls",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶茶跗线螨有哪些综合防治方法？",
+    "context_entity": "茶跗线螨",
+    "answer_list": [
+      "具瘤神蕊螨",
+      "印楝素",
+      "德氏钝绥螨",
+      "捕食螨",
+      "胡瓜钝绥螨",
+      "噻螨酮",
+      "四螨嗪",
+      "浏阳霉素",
+      "炔螨特",
+      "矿物油",
+      "修剪清园",
+      "分批采摘",
+      "台刈",
+      "清除杂草"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0131",
+    "type": "pest_all_controls",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶黄茶黄蓟马成虫有哪些综合防治方法？",
+    "context_entity": "茶黄蓟马",
+    "answer_list": [
+      "乙基多杀菌素",
+      "寄生蜂",
+      "瓢虫",
+      "草蛉",
+      "双丙环虫酯",
+      "噻虫嗪",
+      "联苯菊酯",
+      "茚虫威",
+      "虫螨腈",
+      "分批采摘",
+      "清园",
+      "轻修剪",
+      "蓝板诱杀"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0132",
+    "type": "pest_all_controls",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶黄蓟马若虫有哪些综合防治方法？",
+    "context_entity": "茶黄蓟马",
+    "answer_list": [
+      "乙基多杀菌素",
+      "寄生蜂",
+      "瓢虫",
+      "草蛉",
+      "双丙环虫酯",
+      "噻虫嗪",
+      "联苯菊酯",
+      "茚虫威",
+      "虫螨腈",
+      "分批采摘",
+      "清园",
+      "轻修剪",
+      "蓝板诱杀"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0133",
+    "type": "pest_all_controls",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "黑刺黑刺粉虱卵与若虫有哪些综合防治方法？",
+    "context_entity": "黑刺粉虱",
+    "answer_list": [
+      "寄生蜂",
+      "白僵菌",
+      "韦伯虫座孢",
+      "啶虫脒",
+      "噻虫嗪",
+      "溴氰菊酯",
+      "联苯·噻虫啉",
+      "联苯·噻虫嗪",
+      "螺虫乙酯",
+      "修剪通风",
+      "合理采摘",
+      "黄板诱杀"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0134",
+    "type": "pest_all_controls",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "黑刺黑刺粉虱和蚧类害虫有哪些综合防治方法？",
+    "context_entity": "黑刺粉虱",
+    "answer_list": [
+      "寄生蜂",
+      "白僵菌",
+      "韦伯虫座孢",
+      "啶虫脒",
+      "噻虫嗪",
+      "溴氰菊酯",
+      "联苯·噻虫啉",
+      "联苯·噻虫嗪",
+      "螺虫乙酯",
+      "修剪通风",
+      "合理采摘",
+      "黄板诱杀"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0181",
+    "type": "pest_symptoms",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶根结线虫为害茶树时有哪些典型症状？",
+    "context_entity": "茶根结线虫",
+    "answer_list": [
+      "叶片黄化",
+      "根部串珠状根瘤",
+      "植株长势弱",
+      "须根少"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0182",
+    "type": "pest_symptoms",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶树介壳虫为害茶树时有哪些典型症状？",
+    "context_entity": "茶树介壳虫",
+    "answer_list": [
+      "分泌蜜露诱发煤烟病",
+      "刺吸枝干叶片汁液",
+      "枝条枯死",
+      "树势衰弱落叶"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0183",
+    "type": "pest_symptoms",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶茶小绿茶小绿叶蝉为害茶树时有哪些典型症状？",
+    "context_entity": "茶小绿叶蝉",
+    "answer_list": [
+      "叶缘焦枯",
+      "嫩叶卷曲",
+      "芽叶萎缩"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0184",
+    "type": "pest_symptoms",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "苔藓、茶红茶苗根腐病为害茶树时有哪些典型症状？",
+    "context_entity": "茶苗根腐病",
+    "answer_list": [
+      "根部变褐腐烂",
+      "植株萎蔫枯死",
+      "茎基部水渍状病斑"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0185",
+    "type": "pest_symptoms",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶茶橙瘿螨为害茶树时有哪些典型症状？",
+    "context_entity": "茶橙瘿螨",
+    "answer_list": [
+      "叶片萎缩变形",
+      "叶质变脆",
+      "嫩叶和芽上出现橙黄色小点",
+      "芽叶生长受阻"
+    ],
+    "gold_source": "release_kg"
+  },
+  {
+    "id": "QA0186",
+    "type": "open_diagnosis",
+    "difficulty": "hard",
+    "hops": 2,
+    "question": "茶树叶片出现褐色圆形病斑，边缘有黄色晕圈，后期病斑上产生黑色小点，请问这是什么病害？可以怎么防治？",
+    "context_entity": "",
+    "answer_list": [
+      "茶炭疽病",
+      "多抗霉素",
+      "木霉菌",
+      "申嗪霉素",
+      "芽孢杆菌",
+      "代森锰锌",
+      "吡唑醚菌酯",
+      "啶氧菌酯",
+      "甲基硫菌灵",
+      "苯醚甲环唑",
+      "冬季清园",
+      "平衡施肥",
+      "适时修剪"
+    ],
+    "gold_source": "release_kg+authoritative",
+    "diagnosis": "茶炭疽病"
+  },
+  {
+    "id": "QA0187",
+    "type": "open_diagnosis",
+    "difficulty": "hard",
+    "hops": 2,
+    "question": "茶树上发现幼虫大量啃食叶片形成缺刻，幼虫有吐丝下垂习性，请问这可能是什么害虫？有哪些防治措施？",
+    "context_entity": "",
+    "answer_list": [
+      "茶尺蠖",
+      "绒茧蜂",
+      "苏云金杆菌",
+      "茶尺蠖核型多角体病毒",
+      "赤眼蜂",
+      "甲维盐",
+      "联苯菊酯",
+      "茚虫威",
+      "高效氯氟氰菊酯",
+      "中耕灭蛹",
+      "人工摘除虫苞",
+      "冬季清园",
+      "杀虫灯诱杀"
+    ],
+    "gold_source": "release_kg+authoritative",
+    "diagnosis": "茶尺蠖"
+  },
+  {
+    "id": "QA0188",
+    "type": "open_diagnosis",
+    "difficulty": "hard",
+    "hops": 2,
+    "question": "茶树新梢嫩叶卷曲、发黄，翻看叶背发现大量小型绿色飞虫，这是怎么回事？如何绿色防控？",
+    "context_entity": "",
+    "answer_list": [
+      "茶小绿叶蝉",
+      "印楝素",
+      "瓢虫",
+      "白僵菌",
+      "苏云金杆菌",
+      "苦参碱",
+      "草蛉",
+      "赤眼蜂",
+      "鱼藤酮",
+      "吡虫啉",
+      "唑虫酰胺",
+      "啶虫脒",
+      "噻虫嗪",
+      "联苯菊酯",
+      "茚虫威",
+      "冬季修剪",
+      "分批采摘",
+      "及时采摘",
+      "合理修剪",
+      "黄板"
+    ],
+    "gold_source": "release_kg+authoritative",
+    "diagnosis": "茶小绿叶蝉"
+  },
+  {
+    "id": "QA0189",
+    "type": "open_diagnosis",
+    "difficulty": "hard",
+    "hops": 2,
+    "question": "茶园中茶树老叶表面出现一层黑色霉状物，像烟灰一样附着在叶片上，请问这是什么问题？怎样处理？",
+    "context_entity": "",
+    "answer_list": [
+      "茶煤烟病",
+      "寄生蜂",
+      "瓢虫",
+      "噻虫嗪",
+      "波尔多液",
+      "石硫合剂",
+      "矿物油",
+      "螺虫乙酯",
+      "合理修剪",
+      "通风透光",
+      "黄板诱杀"
+    ],
+    "gold_source": "release_kg+authoritative",
+    "diagnosis": "茶煤烟病"
+  },
+  {
+    "id": "QA0190",
+    "type": "open_diagnosis",
+    "difficulty": "hard",
+    "hops": 2,
+    "question": "茶树根部出现瘤状结节，植株整体长势弱、叶片黄化，挖根可见根上有串珠状小瘤，这是什么病？如何防治？",
+    "context_entity": "",
+    "answer_list": [
+      "茶根结线虫",
+      "假单胞菌",
+      "木霉菌",
+      "淡紫紫孢菌",
+      "芽孢杆菌",
+      "噻唑膦",
+      "阿维菌素",
+      "与水稻轮作",
+      "增施磷钾肥",
+      "植物检疫",
+      "深翻暴晒",
+      "覆膜太阳能消毒"
+    ],
+    "gold_source": "release_kg+authoritative",
+    "diagnosis": "茶根结线虫"
+  },
+  {
+    "id": "QA0191",
+    "type": "open_diagnosis",
+    "difficulty": "hard",
+    "hops": 2,
+    "question": "春茶期茶园发现茶芽和嫩叶上有橙黄色小点，叶片逐渐变形萎缩，请问这是什么螨类为害？如何有效控制？",
+    "context_entity": "",
+    "answer_list": [
+      "茶橙瘿螨",
+      "印楝素",
+      "巴氏新小绥螨",
+      "捕食螨",
+      "智利小植绥螨",
+      "胡瓜钝绥螨",
+      "苦参碱",
+      "哒螨灵",
+      "石硫合剂",
+      "矿物油",
+      "阿维菌素",
+      "冬季清园",
+      "加强肥水管理",
+      "及时采摘",
+      "合理修剪",
+      "色板诱杀"
+    ],
+    "gold_source": "release_kg+authoritative",
+    "diagnosis": "茶橙瘿螨"
+  },
+  {
+    "id": "QA0192",
+    "type": "open_diagnosis",
+    "difficulty": "hard",
+    "hops": 2,
+    "question": "茶园秋季发现叶片背面布满黑色小刺状虫体，叶片正面出现黄斑并逐渐枯萎，请问这是什么害虫？有什么防治方法？",
+    "context_entity": "",
+    "answer_list": [
+      "黑刺粉虱",
+      "寄生蜂",
+      "白僵菌",
+      "韦伯虫座孢",
+      "啶虫脒",
+      "噻虫嗪",
+      "溴氰菊酯",
+      "联苯·噻虫啉",
+      "联苯·噻虫嗪",
+      "螺虫乙酯",
+      "修剪通风",
+      "合理采摘",
+      "黄板诱杀"
+    ],
+    "gold_source": "release_kg+authoritative",
+    "diagnosis": "黑刺粉虱"
+  },
+  {
+    "id": "QA0193",
+    "type": "open_diagnosis",
+    "difficulty": "hard",
+    "hops": 2,
+    "question": "茶树叶片出现白色粉状霉层，后期霉层变为灰白色，叶片逐渐黄化脱落，请问这是什么病害？如何防治？",
+    "context_entity": "",
+    "answer_list": [
+      "茶饼病",
+      "枯草芽孢杆菌",
+      "三唑酮",
+      "喹啉铜",
+      "甲基硫菌灵",
+      "苯醚甲环唑",
+      "萎锈灵",
+      "剪除病梢",
+      "及时采摘"
+    ],
+    "gold_source": "release_kg+authoritative",
+    "diagnosis": "茶饼病"
+  },
+  {
+    "id": "QA0194",
+    "type": "open_diagnosis",
+    "difficulty": "hard",
+    "hops": 2,
+    "question": "茶苗根部变褐腐烂，茎基部出现水渍状病斑，植株萎蔫枯死，请问这是什么病害？可以如何防控？",
+    "context_entity": "",
+    "answer_list": [
+      "茶苗根腐病",
+      "噁霉灵",
+      "多菌灵",
+      "敌磺钠",
+      "甲基硫菌灵",
+      "拔除病株",
+      "排水",
+      "苗床消毒",
+      "避免重茬"
+    ],
+    "gold_source": "release_kg+authoritative",
+    "diagnosis": "茶苗根腐病"
+  },
+  {
+    "id": "QA0195",
+    "type": "open_diagnosis",
+    "difficulty": "hard",
+    "hops": 2,
+    "question": "茶树叶片上出现灰白色圆形小斑，后扩大为同心轮纹状病斑，严重时穿孔，这是哪种病害？如何有效防治？",
+    "context_entity": "",
+    "answer_list": [
+      "茶轮斑病",
+      "拮抗细菌KC-16",
+      "多菌灵",
+      "甲基硫菌灵",
+      "百菌清",
+      "苯醚甲环唑",
+      "摘除病叶",
+      "避免强采伤口",
+      "雨后排水"
+    ],
+    "gold_source": "release_kg+authoritative",
+    "diagnosis": "茶轮斑病"
+  },
+  {
+    "id": "QA0196",
+    "type": "open_diagnosis",
+    "difficulty": "hard",
+    "hops": 2,
+    "question": "夏季茶园中老叶上出现不规则褐色大斑，潮湿时病斑上产生黑色霉层，这是什么病害？如何防治？",
+    "context_entity": "",
+    "answer_list": [
+      "茶云纹叶枯病",
+      "多抗霉素",
+      "氨基寡糖素",
+      "申嗪霉素",
+      "吡唑醚菌酯",
+      "多菌灵",
+      "甲基硫菌灵",
+      "百菌清",
+      "苯醚甲环唑",
+      "增施有机肥",
+      "抗旱防冻",
+      "深中耕",
+      "清园"
+    ],
+    "gold_source": "release_kg+authoritative",
+    "diagnosis": "茶云纹叶枯病"
+  },
+  {
+    "id": "QA0197",
+    "type": "open_diagnosis",
+    "difficulty": "hard",
+    "hops": 2,
+    "question": "茶树叶片背面出现锈色粉状物，用手触碰会沾染锈色粉末，叶片正面出现黄斑，请问这是什么病害？应如何处置？",
+    "context_entity": "",
+    "answer_list": [
+      "茶藻斑病",
+      "松脂酸铜",
+      "波尔多液",
+      "硫酸铜",
+      "碱式硫酸铜",
+      "修剪通风",
+      "增施磷钾肥",
+      "开沟排水",
+      "修剪疏枝"
+    ],
+    "gold_source": "release_kg+authoritative",
+    "diagnosis": "茶藻斑病"
+  },
+  {
+    "id": "QA0198",
+    "type": "open_diagnosis",
+    "difficulty": "hard",
+    "hops": 2,
+    "question": "茶园中发现长有灰白色菌丝层，覆盖在叶片和枝干表面，远看像白霉，受害枝干逐渐枯死，请问如何诊断和处理？",
+    "context_entity": "",
+    "answer_list": [
+      "茶膏药病",
+      "寄生蜂",
+      "瓢虫",
+      "波尔多浆",
+      "甲基硫菌灵",
+      "石硫合剂",
+      "矿物油",
+      "剪除病枝",
+      "开沟排水",
+      "改善通风透光",
+      "人工刮除菌膜"
+    ],
+    "gold_source": "release_kg+authoritative",
+    "diagnosis": "茶膏药病"
+  },
+  {
+    "id": "QA0199",
+    "type": "open_diagnosis",
+    "difficulty": "hard",
+    "hops": 2,
+    "question": "雨季过后茶园大片茶树叶片出现水渍状暗绿色斑点，后变为褐色枯焦，远看如火烧状，请问是什么问题？如何紧急处置？",
+    "context_entity": "",
+    "answer_list": [
+      "茶赤叶斑病",
+      "噻菌铜",
+      "多菌灵",
+      "甲基硫菌灵",
+      "苯菌灵",
+      "排水",
+      "灌溉防旱",
+      "遮阴防日灼"
+    ],
+    "gold_source": "release_kg+authoritative",
+    "diagnosis": "茶赤叶斑病"
+  }
+]

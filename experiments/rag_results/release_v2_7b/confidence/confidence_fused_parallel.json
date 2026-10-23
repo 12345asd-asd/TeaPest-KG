@@ -1,0 +1,194 @@
+{
+  "method": "fused_parallel",
+  "n": 158,
+  "correct_def": "answer:recall>=.5; OOD:abstained",
+  "overall_accuracy": 0.8734,
+  "verbalized": {
+    "mean_conf": 0.8816,
+    "accuracy": 0.8734,
+    "ece": 0.1082,
+    "ece_isotonic": 0.0479,
+    "brier": 0.1265,
+    "aurc": 0.1543,
+    "auroc": 0.3471,
+    "warning_table": [
+      {
+        "tau": 0.85,
+        "flag_rate": 0.0,
+        "keep_coverage": 1.0,
+        "kept_accuracy": 0.8734,
+        "error_caught_rate": 0.0
+      }
+    ],
+    "warning_by_fraction": [
+      {
+        "flag_fraction": 0.1,
+        "flag_n": 16,
+        "keep_coverage": 0.899,
+        "kept_accuracy": 0.8592,
+        "error_caught_rate": 0.0
+      },
+      {
+        "flag_fraction": 0.2,
+        "flag_n": 32,
+        "keep_coverage": 0.797,
+        "kept_accuracy": 0.8492,
+        "error_caught_rate": 0.05
+      },
+      {
+        "flag_fraction": 0.3,
+        "flag_n": 47,
+        "keep_coverage": 0.703,
+        "kept_accuracy": 0.8378,
+        "error_caught_rate": 0.1
+      },
+      {
+        "flag_fraction": 0.4,
+        "flag_n": 63,
+        "keep_coverage": 0.601,
+        "kept_accuracy": 0.8105,
+        "error_caught_rate": 0.1
+      },
+      {
+        "flag_fraction": 0.5,
+        "flag_n": 79,
+        "keep_coverage": 0.5,
+        "kept_accuracy": 0.8101,
+        "error_caught_rate": 0.25
+      }
+    ]
+  },
+  "structural": {
+    "mean_conf": 0.4883,
+    "accuracy": 0.8734,
+    "ece": 0.3851,
+    "ece_isotonic": 0.0929,
+    "brier": 0.3451,
+    "aurc": 0.0489,
+    "auroc": 0.7949,
+    "warning_table": [
+      {
+        "tau": 0.0,
+        "flag_rate": 0.0,
+        "keep_coverage": 1.0,
+        "kept_accuracy": 0.8734,
+        "error_caught_rate": 0.0
+      },
+      {
+        "tau": 0.15,
+        "flag_rate": 0.0,
+        "keep_coverage": 1.0,
+        "kept_accuracy": 0.8734,
+        "error_caught_rate": 0.0
+      },
+      {
+        "tau": 0.3,
+        "flag_rate": 0.0,
+        "keep_coverage": 1.0,
+        "kept_accuracy": 0.8734,
+        "error_caught_rate": 0.0
+      }
+    ],
+    "warning_by_fraction": [
+      {
+        "flag_fraction": 0.1,
+        "flag_n": 16,
+        "keep_coverage": 0.899,
+        "kept_accuracy": 0.8873,
+        "error_caught_rate": 0.2
+      },
+      {
+        "flag_fraction": 0.2,
+        "flag_n": 32,
+        "keep_coverage": 0.797,
+        "kept_accuracy": 0.9524,
+        "error_caught_rate": 0.7
+      },
+      {
+        "flag_fraction": 0.3,
+        "flag_n": 47,
+        "keep_coverage": 0.703,
+        "kept_accuracy": 0.9459,
+        "error_caught_rate": 0.7
+      },
+      {
+        "flag_fraction": 0.4,
+        "flag_n": 63,
+        "keep_coverage": 0.601,
+        "kept_accuracy": 0.9474,
+        "error_caught_rate": 0.75
+      },
+      {
+        "flag_fraction": 0.5,
+        "flag_n": 79,
+        "keep_coverage": 0.5,
+        "kept_accuracy": 0.9747,
+        "error_caught_rate": 0.9
+      }
+    ]
+  },
+  "gate": {
+    "mean_conf": 0.7342,
+    "accuracy": 0.8734,
+    "ece": 0.1392,
+    "ece_isotonic": 0.0733,
+    "brier": 0.2152,
+    "aurc": 0.0432,
+    "auroc": 0.7486,
+    "warning_table": [
+      {
+        "tau": 0.0,
+        "flag_rate": 0.0,
+        "keep_coverage": 1.0,
+        "kept_accuracy": 0.8734,
+        "error_caught_rate": 0.0
+      },
+      {
+        "tau": 1.0,
+        "flag_rate": 1.0,
+        "keep_coverage": 0.0,
+        "kept_accuracy": 1.0,
+        "error_caught_rate": 1.0
+      }
+    ],
+    "warning_by_fraction": [
+      {
+        "flag_fraction": 0.1,
+        "flag_n": 16,
+        "keep_coverage": 0.899,
+        "kept_accuracy": 0.8873,
+        "error_caught_rate": 0.2
+      },
+      {
+        "flag_fraction": 0.2,
+        "flag_n": 32,
+        "keep_coverage": 0.797,
+        "kept_accuracy": 0.9524,
+        "error_caught_rate": 0.7
+      },
+      {
+        "flag_fraction": 0.3,
+        "flag_n": 47,
+        "keep_coverage": 0.703,
+        "kept_accuracy": 0.9459,
+        "error_caught_rate": 0.7
+      },
+      {
+        "flag_fraction": 0.4,
+        "flag_n": 63,
+        "keep_coverage": 0.601,
+        "kept_accuracy": 0.9368,
+        "error_caught_rate": 0.7
+      },
+      {
+        "flag_fraction": 0.5,
+        "flag_n": 79,
+        "keep_coverage": 0.5,
+        "kept_accuracy": 0.9367,
+        "error_caught_rate": 0.75
+      }
+    ]
+  },
+  "ood_n": 30,
+  "ood_abstain_rate": 0.6
+}

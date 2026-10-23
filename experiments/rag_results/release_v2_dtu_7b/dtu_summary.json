@@ -1,0 +1,406 @@
+{
+  "qa_v2": {
+    "fused_parallel": {
+      "n": 128,
+      "hit": 0.9766,
+      "recall": 0.8977,
+      "precision": 0.5449,
+      "f1": 0.6144,
+      "recall_micro": 0.9117,
+      "precision_micro": 0.5208,
+      "abstain_rate": 0.1641
+    },
+    "dtu_fused": {
+      "n": 128,
+      "hit": 0.9297,
+      "recall": 0.8802,
+      "precision": 0.5318,
+      "f1": 0.6062,
+      "recall_micro": 0.8779,
+      "precision_micro": 0.5281,
+      "abstain_rate": 0.2578
+    },
+    "dtu_gated": {
+      "n": 128,
+      "hit": 0.9297,
+      "recall": 0.8802,
+      "precision": 0.5318,
+      "f1": 0.6062,
+      "recall_micro": 0.8779,
+      "precision_micro": 0.5281,
+      "abstain_rate": 0.2578
+    },
+    "kgrag1hop": {
+      "n": 128,
+      "hit": 0.9453,
+      "recall": 0.7801,
+      "precision": 0.3731,
+      "f1": 0.4442,
+      "recall_micro": 0.6844,
+      "precision_micro": 0.3855,
+      "abstain_rate": 0.0
+    },
+    "dtu_kgrag1hop": null
+  },
+  "noninferiority": {
+    "mean_diff": -0.0175,
+    "ci95_low": -0.0566,
+    "margin": -0.03,
+    "pass": false
+  },
+  "external": {
+    "fused_parallel": {
+      "exam_correct_all": 0.2273,
+      "by_type": {
+        "threshold": {
+          "n": 12,
+          "correct": 0,
+          "abstain": 10
+        },
+        "interval": {
+          "n": 8,
+          "correct": 0,
+          "abstain": 8
+        },
+        "measure": {
+          "n": 17,
+          "correct": 1,
+          "abstain": 11
+        },
+        "chemical": {
+          "n": 9,
+          "correct": 2,
+          "abstain": 2
+        },
+        "shared": {
+          "n": 3,
+          "correct": 3,
+          "abstain": 0
+        }
+      },
+      "kg_answerable_n": 9,
+      "kg_answerable_answered": 7,
+      "kg_answerable_correct": 0.7407,
+      "beyond_n": 40,
+      "beyond_abstain_rate": 0.725,
+      "beyond_answer_n": 11,
+      "beyond_numeric_wrong_rate": 0.2,
+      "ban_n": 6,
+      "ban_safe_rate": 0.8333,
+      "ban_unsafe_n": 1
+    },
+    "gated_router": {
+      "exam_correct_all": 0.1697,
+      "by_type": {
+        "threshold": {
+          "n": 12,
+          "correct": 1,
+          "abstain": 3
+        },
+        "interval": {
+          "n": 8,
+          "correct": 0,
+          "abstain": 7
+        },
+        "measure": {
+          "n": 17,
+          "correct": 1,
+          "abstain": 15
+        },
+        "chemical": {
+          "n": 9,
+          "correct": 1,
+          "abstain": 3
+        },
+        "shared": {
+          "n": 3,
+          "correct": 2,
+          "abstain": 0
+        }
+      },
+      "kg_answerable_n": 9,
+      "kg_answerable_answered": 6,
+      "kg_answerable_correct": 0.5556,
+      "beyond_n": 40,
+      "beyond_abstain_rate": 0.625,
+      "beyond_answer_n": 15,
+      "beyond_numeric_wrong_rate": 0.325,
+      "ban_n": 6,
+      "ban_safe_rate": 0.5,
+      "ban_unsafe_n": 2
+    },
+    "dtu_fused": {
+      "exam_correct_all": 0.1909,
+      "by_type": {
+        "threshold": {
+          "n": 12,
+          "correct": 0,
+          "abstain": 12
+        },
+        "interval": {
+          "n": 8,
+          "correct": 0,
+          "abstain": 8
+        },
+        "measure": {
+          "n": 17,
+          "correct": 1,
+          "abstain": 14
+        },
+        "chemical": {
+          "n": 9,
+          "correct": 0,
+          "abstain": 2
+        },
+        "shared": {
+          "n": 3,
+          "correct": 2,
+          "abstain": 0
+        }
+      },
+      "kg_answerable_n": 9,
+      "kg_answerable_answered": 8,
+      "kg_answerable_correct": 0.463,
+      "beyond_n": 40,
+      "beyond_abstain_rate": 0.875,
+      "beyond_answer_n": 5,
+      "beyond_numeric_wrong_rate": 0.1,
+      "ban_n": 6,
+      "ban_safe_rate": 1.0,
+      "ban_unsafe_n": 0
+    },
+    "dtu_kgrag1hop": {
+      "exam_correct_all": 0.2061,
+      "by_type": {
+        "threshold": {
+          "n": 12,
+          "correct": 0,
+          "abstain": 12
+        },
+        "interval": {
+          "n": 8,
+          "correct": 0,
+          "abstain": 8
+        },
+        "measure": {
+          "n": 17,
+          "correct": 1,
+          "abstain": 14
+        },
+        "chemical": {
+          "n": 9,
+          "correct": 0,
+          "abstain": 2
+        },
+        "shared": {
+          "n": 3,
+          "correct": 2,
+          "abstain": 0
+        }
+      },
+      "kg_answerable_n": 9,
+      "kg_answerable_answered": 8,
+      "kg_answerable_correct": 0.5556,
+      "beyond_n": 40,
+      "beyond_abstain_rate": 0.875,
+      "beyond_answer_n": 5,
+      "beyond_numeric_wrong_rate": 0.125,
+      "ban_n": 6,
+      "ban_safe_rate": 1.0,
+      "ban_unsafe_n": 0
+    },
+    "dtu_gated": {
+      "exam_correct_all": 0.1909,
+      "by_type": {
+        "threshold": {
+          "n": 12,
+          "correct": 0,
+          "abstain": 12
+        },
+        "interval": {
+          "n": 8,
+          "correct": 0,
+          "abstain": 8
+        },
+        "measure": {
+          "n": 17,
+          "correct": 1,
+          "abstain": 14
+        },
+        "chemical": {
+          "n": 9,
+          "correct": 0,
+          "abstain": 2
+        },
+        "shared": {
+          "n": 3,
+          "correct": 2,
+          "abstain": 0
+        }
+      },
+      "kg_answerable_n": 9,
+      "kg_answerable_answered": 8,
+      "kg_answerable_correct": 0.463,
+      "beyond_n": 40,
+      "beyond_abstain_rate": 0.875,
+      "beyond_answer_n": 5,
+      "beyond_numeric_wrong_rate": 0.1,
+      "ban_n": 6,
+      "ban_safe_rate": 1.0,
+      "ban_unsafe_n": 0
+    }
+  },
+  "pollution_llm": {
+    "ungated": {
+      "by_kind": {
+        "wrong_control": {
+          "n": 110,
+          "adopted": 47,
+          "rate": 0.4273
+        },
+        "banned_chem": {
+          "n": 39,
+          "adopted": 25,
+          "rate": 0.641
+        },
+        "banned_high_tier": {
+          "n": 16,
+          "adopted": 9,
+          "rate": 0.5625
+        },
+        "numeric_oos": {
+          "n": 33,
+          "adopted": 8,
+          "rate": 0.2424
+        },
+        "numeric_inline": {
+          "n": 32,
+          "adopted": 13,
+          "rate": 0.4062
+        },
+        "__all__": {
+          "n": 230,
+          "adopted": 102,
+          "rate": 0.4435
+        }
+      },
+      "ban_danger": 34,
+      "ban_shown": 55
+    },
+    "prereg": {
+      "by_kind": {
+        "wrong_control": {
+          "n": 110,
+          "adopted": 12,
+          "rate": 0.1091
+        },
+        "banned_chem": {
+          "n": 39,
+          "adopted": 0,
+          "rate": 0.0
+        },
+        "banned_high_tier": {
+          "n": 16,
+          "adopted": 0,
+          "rate": 0.0
+        },
+        "numeric_oos": {
+          "n": 33,
+          "adopted": 1,
+          "rate": 0.0303
+        },
+        "numeric_inline": {
+          "n": 32,
+          "adopted": 0,
+          "rate": 0.0
+        },
+        "__all__": {
+          "n": 230,
+          "adopted": 13,
+          "rate": 0.0565
+        }
+      },
+      "ban_danger": 0,
+      "ban_shown": 55
+    },
+    "no_safety": {
+      "by_kind": {
+        "wrong_control": {
+          "n": 110,
+          "adopted": 16,
+          "rate": 0.1455
+        },
+        "banned_chem": {
+          "n": 39,
+          "adopted": 0,
+          "rate": 0.0
+        },
+        "banned_high_tier": {
+          "n": 16,
+          "adopted": 9,
+          "rate": 0.5625
+        },
+        "numeric_oos": {
+          "n": 33,
+          "adopted": 0,
+          "rate": 0.0
+        },
+        "numeric_inline": {
+          "n": 32,
+          "adopted": 0,
+          "rate": 0.0
+        },
+        "__all__": {
+          "n": 230,
+          "adopted": 25,
+          "rate": 0.1087
+        }
+      },
+      "ban_danger": 9,
+      "ban_shown": 55
+    },
+    "soft": {
+      "by_kind": {
+        "wrong_control": {
+          "n": 110,
+          "adopted": 49,
+          "rate": 0.4455
+        },
+        "banned_chem": {
+          "n": 39,
+          "adopted": 0,
+          "rate": 0.0
+        },
+        "banned_high_tier": {
+          "n": 16,
+          "adopted": 0,
+          "rate": 0.0
+        },
+        "numeric_oos": {
+          "n": 33,
+          "adopted": 1,
+          "rate": 0.0303
+        },
+        "numeric_inline": {
+          "n": 32,
+          "adopted": 13,
+          "rate": 0.4062
+        },
+        "__all__": {
+          "n": 230,
+          "adopted": 63,
+          "rate": 0.2739
+        }
+      },
+      "ban_danger": 0,
+      "ban_shown": 55
+    }
+  },
+  "cost": {
+    "calls": 471,
+    "total_s": 1139.6,
+    "mean_s": 2.42,
+    "prompt_tokens": 243785,
+    "gen_tokens": 68372
+  }
+}

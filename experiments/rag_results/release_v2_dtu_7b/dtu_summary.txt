@@ -1,0 +1,27 @@
+DTU 汇总 (release_v2_dtu_7b)
+========================================================================================
+[qa_v2 答案题 macro]
+  method            Hit     Rec    Prec      F1 | OOD拒答  诊断Acc 防治覆盖 误拒
+  fused_parallel   97.7    89.8    54.5    61.4 |   60.0%    88.9   87.2
+  dtu_fused        93.0    88.0    53.2    60.6 |  100.0%    79.2   78.9
+  dtu_gated        93.0    88.0    53.2    60.6 |  100.0%    79.2   78.9
+  kgrag1hop        94.5    78.0    37.3    44.4 |    6.7%    76.0   15.0
+  门控审计: {"deterministic_abstain_on_answerable": 9, "llm_self_abstain_when_opened": 24, "by_reason": {"no_link": 39}, "confusion": {"ans_answer": 119, "ans_abstain": 9, "ood_answer": 0, "ood_abstain": 30}}
+  非劣检验 dtu_fused vs fused recall: {'mean_diff': -0.0175, 'ci95_low': -0.0566, 'margin': -0.03, 'pass': False}
+
+[外部手册集 55 题]
+  method            KG外拒     残余作答     数值误答      禁药安全 | KGA作答/正确
+  fused_parallel   72.5%       11     20.0%     83.3% | 7/9 正74.1
+  gated_router     62.5%       15     32.5%     50.0% | 6/9 正55.6
+  dtu_fused        87.5%        5     10.0%    100.0% | 8/9 正46.3
+  dtu_kgrag1hop    87.5%        5     12.5%    100.0% | 8/9 正55.6
+  dtu_gated        87.5%        5     10.0%    100.0% | 8/9 正46.3
+  bootstrap: {"abstain_dtu_minus_fused_beyond": {"n": 40, "diff": 0.15, "ci95": [0.05, 0.275]}, "numwrong_dtu_minus_fused_beyond": {"n": 40, "diff": -0.1, "ci95": [-0.225, 0.0]}, "answered_dtu_minus_fused_kga": {"n": 9, "diff": 0.1111, "ci95": [-0.2222, 0.4444]}, "bansafe_dtu_n6": {"rate": 1.0}}
+
+[污染 k=10% LLM 采纳（panel）]
+  ungated    总采纳 102/230=44.4%  禁药危险 34/55
+  prereg     总采纳 13/230=5.7%  禁药危险 0/55
+  no_safety  总采纳 25/230=10.9%  禁药危险 9/55
+  soft       总采纳 63/230=27.4%  禁药危险 0/55
+
+[成本 timing] calls=471 总1140s 均2.4s promptTok=243785 genTok=68372

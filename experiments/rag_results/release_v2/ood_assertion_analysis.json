@@ -1,0 +1,253 @@
+{
+  "n_unknown_pest_ood": 16,
+  "methods": {
+    "zeroshot": {
+      "abstain": 5,
+      "force_map": 4,
+      "coincidental": 1,
+      "generic": 6,
+      "with_chemical": 3,
+      "non_abstain": 11,
+      "force_map_rate_within_nonabstain": 0.364,
+      "chemical_rate_within_nonabstain": 0.273
+    },
+    "fewshot": {
+      "abstain": 1,
+      "force_map": 9,
+      "coincidental": 1,
+      "generic": 5,
+      "with_chemical": 10,
+      "non_abstain": 15,
+      "force_map_rate_within_nonabstain": 0.6,
+      "chemical_rate_within_nonabstain": 0.667
+    },
+    "linear_bm25": {
+      "abstain": 5,
+      "force_map": 10,
+      "coincidental": 0,
+      "generic": 1,
+      "with_chemical": 1,
+      "non_abstain": 11,
+      "force_map_rate_within_nonabstain": 0.909,
+      "chemical_rate_within_nonabstain": 0.091
+    },
+    "graphrag": {
+      "abstain": 1,
+      "force_map": 15,
+      "coincidental": 0,
+      "generic": 0,
+      "with_chemical": 13,
+      "non_abstain": 15,
+      "force_map_rate_within_nonabstain": 1.0,
+      "chemical_rate_within_nonabstain": 0.867
+    },
+    "kgrag1hop": {
+      "abstain": 0,
+      "force_map": 7,
+      "coincidental": 2,
+      "generic": 7,
+      "with_chemical": 9,
+      "non_abstain": 16,
+      "force_map_rate_within_nonabstain": 0.438,
+      "chemical_rate_within_nonabstain": 0.562
+    },
+    "kgrag2hop": {
+      "abstain": 0,
+      "force_map": 8,
+      "coincidental": 2,
+      "generic": 6,
+      "with_chemical": 11,
+      "non_abstain": 16,
+      "force_map_rate_within_nonabstain": 0.5,
+      "chemical_rate_within_nonabstain": 0.688
+    },
+    "fused_parallel": {
+      "abstain": 8,
+      "force_map": 8,
+      "coincidental": 0,
+      "generic": 0,
+      "with_chemical": 7,
+      "non_abstain": 8,
+      "force_map_rate_within_nonabstain": 1.0,
+      "chemical_rate_within_nonabstain": 0.875
+    }
+  },
+  "per_question": [
+    {
+      "qa_id": "X-PST-01",
+      "true_unseen": "茶白星病",
+      "zeroshot": "RIGHT:茶白星病",
+      "fewshot": "RIGHT:茶白星病",
+      "linear_bm25": "ABSTAIN",
+      "graphrag": "MAP->茶轮斑病",
+      "kgrag1hop": "RIGHT:茶白星病",
+      "kgrag2hop": "RIGHT:茶白星病",
+      "fused_parallel": "ABSTAIN"
+    },
+    {
+      "qa_id": "X-PST-02",
+      "true_unseen": "茶芽枯病",
+      "zeroshot": "GENERIC",
+      "fewshot": "ABSTAIN",
+      "linear_bm25": "MAP->卵形短须螨/茶跗线螨",
+      "graphrag": "MAP->茶云纹叶枯病",
+      "kgrag1hop": "RIGHT:茶芽枯病",
+      "kgrag2hop": "RIGHT:茶芽枯病",
+      "fused_parallel": "ABSTAIN"
+    },
+    {
+      "qa_id": "X-PST-03",
+      "true_unseen": "茶圆赤星病",
+      "zeroshot": "MAP->茶赤叶斑病",
+      "fewshot": "MAP->茶云纹叶枯病",
+      "linear_bm25": "ABSTAIN",
+      "graphrag": "MAP->茶云纹叶枯病",
+      "kgrag1hop": "GENERIC",
+      "kgrag2hop": "GENERIC",
+      "fused_parallel": "ABSTAIN"
+    },
+    {
+      "qa_id": "X-PST-04",
+      "true_unseen": "茶黑腐病",
+      "zeroshot": "ABSTAIN",
+      "fewshot": "MAP->茶云纹叶枯病",
+      "linear_bm25": "ABSTAIN",
+      "graphrag": "MAP->茶煤烟病",
+      "kgrag1hop": "GENERIC",
+      "kgrag2hop": "GENERIC",
+      "fused_parallel": "MAP->茶煤烟病"
+    },
+    {
+      "qa_id": "X-PST-05",
+      "true_unseen": "茶紫纹羽病",
+      "zeroshot": "GENERIC",
+      "fewshot": "GENERIC",
+      "linear_bm25": "MAP->茶苗根腐病",
+      "graphrag": "MAP->茶苗白绢病",
+      "kgrag1hop": "GENERIC",
+      "kgrag2hop": "MAP->茶苗根腐病",
+      "fused_parallel": "ABSTAIN"
+    },
+    {
+      "qa_id": "X-PST-06",
+      "true_unseen": "茶菟丝子",
+      "zeroshot": "GENERIC",
+      "fewshot": "GENERIC",
+      "linear_bm25": "ABSTAIN",
+      "graphrag": "ABSTAIN",
+      "kgrag1hop": "GENERIC",
+      "kgrag2hop": "GENERIC",
+      "fused_parallel": "ABSTAIN"
+    },
+    {
+      "qa_id": "X-PST-07",
+      "true_unseen": "茶蓑蛾",
+      "zeroshot": "ABSTAIN",
+      "fewshot": "MAP->茶毛虫",
+      "linear_bm25": "GENERIC",
+      "graphrag": "MAP->茶毛虫",
+      "kgrag1hop": "MAP->茶毛虫",
+      "kgrag2hop": "MAP->茶毛虫",
+      "fused_parallel": "MAP->茶尺蠖/茶毛虫"
+    },
+    {
+      "qa_id": "X-PST-08",
+      "true_unseen": "大蓑蛾",
+      "zeroshot": "ABSTAIN",
+      "fewshot": "MAP->茶毛虫",
+      "linear_bm25": "ABSTAIN",
+      "graphrag": "MAP->茶小卷叶蛾",
+      "kgrag1hop": "MAP->茶毛虫",
+      "kgrag2hop": "MAP->茶毛虫",
+      "fused_parallel": "ABSTAIN"
+    },
+    {
+      "qa_id": "X-PST-09",
+      "true_unseen": "扁刺蛾",
+      "zeroshot": "MAP->茶毛虫",
+      "fewshot": "MAP->茶毛虫",
+      "linear_bm25": "MAP->茶刺蛾",
+      "graphrag": "MAP->茶刺蛾",
+      "kgrag1hop": "MAP->茶毛虫",
+      "kgrag2hop": "MAP->茶毛虫",
+      "fused_parallel": "ABSTAIN"
+    },
+    {
+      "qa_id": "X-PST-10",
+      "true_unseen": "黄刺蛾",
+      "zeroshot": "ABSTAIN",
+      "fewshot": "MAP->茶毛虫",
+      "linear_bm25": "MAP->茶尺蠖",
+      "graphrag": "MAP->茶尺蠖",
+      "kgrag1hop": "MAP->茶毛虫",
+      "kgrag2hop": "MAP->茶毛虫",
+      "fused_parallel": "MAP->茶尺蠖"
+    },
+    {
+      "qa_id": "X-PST-11",
+      "true_unseen": "绿刺蛾",
+      "zeroshot": "MAP->茶丽纹象甲",
+      "fewshot": "MAP->茶丽纹象甲",
+      "linear_bm25": "MAP->茶尺蠖",
+      "graphrag": "MAP->茶丽纹象甲",
+      "kgrag1hop": "MAP->茶丽纹象甲/茶小卷叶蛾/茶毛虫",
+      "kgrag2hop": "MAP->茶丽纹象甲/茶毛虫",
+      "fused_parallel": "MAP->茶尺蠖"
+    },
+    {
+      "qa_id": "X-PST-12",
+      "true_unseen": "茶长白蚧",
+      "zeroshot": "GENERIC",
+      "fewshot": "GENERIC",
+      "linear_bm25": "MAP->茶树介壳虫",
+      "graphrag": "MAP->茶树介壳虫",
+      "kgrag1hop": "GENERIC",
+      "kgrag2hop": "GENERIC",
+      "fused_parallel": "MAP->茶树介壳虫"
+    },
+    {
+      "qa_id": "X-PST-13",
+      "true_unseen": "红蜡蚧",
+      "zeroshot": "GENERIC",
+      "fewshot": "GENERIC",
+      "linear_bm25": "MAP->茶树介壳虫",
+      "graphrag": "MAP->茶树介壳虫",
+      "kgrag1hop": "GENERIC",
+      "kgrag2hop": "GENERIC",
+      "fused_parallel": "MAP->茶树介壳虫"
+    },
+    {
+      "qa_id": "X-PST-14",
+      "true_unseen": "龟蜡蚧",
+      "zeroshot": "GENERIC",
+      "fewshot": "GENERIC",
+      "linear_bm25": "MAP->茶树介壳虫",
+      "graphrag": "MAP->茶树介壳虫",
+      "kgrag1hop": "GENERIC",
+      "kgrag2hop": "GENERIC",
+      "fused_parallel": "MAP->茶树介壳虫"
+    },
+    {
+      "qa_id": "X-PST-15",
+      "true_unseen": "茶梢蛾",
+      "zeroshot": "MAP->茶丽纹象甲",
+      "fewshot": "MAP->茶丽纹象甲",
+      "linear_bm25": "MAP->茶丽纹象甲",
+      "graphrag": "MAP->茶小绿叶蝉",
+      "kgrag1hop": "MAP->茶小卷叶蛾/茶毛虫",
+      "kgrag2hop": "MAP->茶小卷叶蛾",
+      "fused_parallel": "ABSTAIN"
+    },
+    {
+      "qa_id": "X-PST-16",
+      "true_unseen": "铜绿金龟子",
+      "zeroshot": "ABSTAIN",
+      "fewshot": "MAP->茶黄蓟马",
+      "linear_bm25": "MAP->茶丽纹象甲",
+      "graphrag": "MAP->茶丽纹象甲/茶小绿叶蝉",
+      "kgrag1hop": "MAP->茶丽纹象甲/茶小绿叶蝉/茶黄蓟马",
+      "kgrag2hop": "MAP->茶小绿叶蝉/茶毛虫/茶黄蓟马",
+      "fused_parallel": "MAP->茶丽纹象甲/茶小绿叶蝉/茶毛虫"
+    }
+  ]
+}

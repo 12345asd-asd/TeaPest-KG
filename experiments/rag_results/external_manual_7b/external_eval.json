@@ -1,0 +1,220 @@
+{
+  "model": "qwen2.5-7b",
+  "n": 55,
+  "methods": {
+    "zeroshot": {
+      "exam_correct_all": 0.1633,
+      "by_type": {
+        "threshold": 0.0417,
+        "interval": 0.0,
+        "measure": 0.2549,
+        "chemical": 0.1296,
+        "shared": 0.6667
+      },
+      "kg_answerable_correct": 0.4444,
+      "beyond_correct": 0.1,
+      "beyond_n": 40,
+      "beyond_abstain_rate": 0.175,
+      "beyond_parametric_correct_rate": 0.025,
+      "beyond_wrong_assert_rate": 0.8,
+      "beyond_numeric_wrong_rate": 0.75,
+      "ban_n": 6,
+      "ban_safe_rate": 0.1667,
+      "ban_unsafe_n": 4
+    },
+    "fewshot": {
+      "exam_correct_all": 0.2109,
+      "by_type": {
+        "threshold": 0.1528,
+        "interval": 0.125,
+        "measure": 0.1863,
+        "chemical": 0.1481,
+        "shared": 1.0
+      },
+      "kg_answerable_correct": 0.537,
+      "beyond_correct": 0.1375,
+      "beyond_n": 40,
+      "beyond_abstain_rate": 0.075,
+      "beyond_parametric_correct_rate": 0.075,
+      "beyond_wrong_assert_rate": 0.85,
+      "beyond_numeric_wrong_rate": 0.825,
+      "ban_n": 6,
+      "ban_safe_rate": 0.5,
+      "ban_unsafe_n": 2
+    },
+    "linear_bm25": {
+      "exam_correct_all": 0.1565,
+      "by_type": {
+        "threshold": 0.1111,
+        "interval": 0.0,
+        "measure": 0.1569,
+        "chemical": 0.1296,
+        "shared": 0.8333
+      },
+      "kg_answerable_correct": 0.4815,
+      "beyond_correct": 0.0833,
+      "beyond_n": 40,
+      "beyond_abstain_rate": 0.175,
+      "beyond_parametric_correct_rate": 0.025,
+      "beyond_wrong_assert_rate": 0.8,
+      "beyond_numeric_wrong_rate": 0.75,
+      "ban_n": 6,
+      "ban_safe_rate": 0.1667,
+      "ban_unsafe_n": 4
+    },
+    "kg_only": {
+      "exam_correct_all": 0.1395,
+      "by_type": {
+        "threshold": 0.0,
+        "interval": 0.0,
+        "measure": 0.0588,
+        "chemical": 0.3148,
+        "shared": 1.0
+      },
+      "kg_answerable_correct": 0.6667,
+      "beyond_correct": 0.0208,
+      "beyond_n": 40,
+      "beyond_abstain_rate": 0.0,
+      "beyond_parametric_correct_rate": 0.0,
+      "beyond_wrong_assert_rate": 1.0,
+      "beyond_numeric_wrong_rate": 0.1,
+      "ban_n": 6,
+      "ban_safe_rate": 0.0,
+      "ban_unsafe_n": 0
+    },
+    "kgrag2hop": {
+      "exam_correct_all": 0.2279,
+      "by_type": {
+        "threshold": 0.0833,
+        "interval": 0.0,
+        "measure": 0.2549,
+        "chemical": 0.3704,
+        "shared": 0.8333
+      },
+      "kg_answerable_correct": 0.7407,
+      "beyond_correct": 0.1125,
+      "beyond_n": 40,
+      "beyond_abstain_rate": 0.275,
+      "beyond_parametric_correct_rate": 0.05,
+      "beyond_wrong_assert_rate": 0.675,
+      "beyond_numeric_wrong_rate": 0.675,
+      "ban_n": 6,
+      "ban_safe_rate": 0.3333,
+      "ban_unsafe_n": 3
+    },
+    "kgrag1hop": {
+      "exam_correct_all": 0.2449,
+      "by_type": {
+        "threshold": 0.0694,
+        "interval": 0.0,
+        "measure": 0.3137,
+        "chemical": 0.3704,
+        "shared": 0.8333
+      },
+      "kg_answerable_correct": 0.6852,
+      "beyond_correct": 0.1458,
+      "beyond_n": 40,
+      "beyond_abstain_rate": 0.225,
+      "beyond_parametric_correct_rate": 0.05,
+      "beyond_wrong_assert_rate": 0.725,
+      "beyond_numeric_wrong_rate": 0.725,
+      "ban_n": 6,
+      "ban_safe_rate": 0.1667,
+      "ban_unsafe_n": 4
+    },
+    "graphrag": {
+      "exam_correct_all": 0.1905,
+      "by_type": {
+        "threshold": 0.0833,
+        "interval": 0.0,
+        "measure": 0.1765,
+        "chemical": 0.3148,
+        "shared": 0.8333
+      },
+      "kg_answerable_correct": 0.7593,
+      "beyond_correct": 0.0625,
+      "beyond_n": 40,
+      "beyond_abstain_rate": 0.175,
+      "beyond_parametric_correct_rate": 0.025,
+      "beyond_wrong_assert_rate": 0.8,
+      "beyond_numeric_wrong_rate": 0.775,
+      "ban_n": 6,
+      "ban_safe_rate": 0.3333,
+      "ban_unsafe_n": 3
+    },
+    "fused_parallel": {
+      "exam_correct_all": 0.1531,
+      "by_type": {
+        "threshold": 0.0,
+        "interval": 0.0,
+        "measure": 0.1176,
+        "chemical": 0.2778,
+        "shared": 1.0
+      },
+      "kg_answerable_correct": 0.7407,
+      "beyond_correct": 0.0208,
+      "beyond_n": 40,
+      "beyond_abstain_rate": 0.725,
+      "beyond_parametric_correct_rate": 0.0,
+      "beyond_wrong_assert_rate": 0.275,
+      "beyond_numeric_wrong_rate": 0.2,
+      "ban_n": 6,
+      "ban_safe_rate": 0.8333,
+      "ban_unsafe_n": 1
+    },
+    "gated_router": {
+      "exam_correct_all": 0.1293,
+      "by_type": {
+        "threshold": 0.0833,
+        "interval": 0.0,
+        "measure": 0.0588,
+        "chemical": 0.2037,
+        "shared": 0.8333
+      },
+      "kg_answerable_correct": 0.5556,
+      "beyond_correct": 0.0333,
+      "beyond_n": 40,
+      "beyond_abstain_rate": 0.625,
+      "beyond_parametric_correct_rate": 0.025,
+      "beyond_wrong_assert_rate": 0.35,
+      "beyond_numeric_wrong_rate": 0.325,
+      "ban_n": 6,
+      "ban_safe_rate": 0.5,
+      "ban_unsafe_n": 2
+    }
+  },
+  "bootstrap": {
+    "abstain_zeroshot_minus_fused_beyond": {
+      "n": 40,
+      "diff_b_minus_a": -0.55,
+      "ci95": [
+        -0.7,
+        -0.4
+      ]
+    },
+    "numericwrong_kgrag2hop_minus_fused_beyond": {
+      "n": 40,
+      "diff_b_minus_a": 0.475,
+      "ci95": [
+        0.3,
+        0.65
+      ]
+    },
+    "correct_kgrag1hop_minus_fused_beyond": {
+      "n": 40,
+      "diff_b_minus_a": 0.05,
+      "ci95": [
+        0.0,
+        0.125
+      ]
+    },
+    "bansafe_fused_minus_zeroshot_n6": {
+      "n": 6,
+      "diff_b_minus_a": 0.6667,
+      "ci95": [
+        0.3333,
+        1.0
+      ]
+    }
+  }
+}

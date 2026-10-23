@@ -1,0 +1,12 @@
+{"model": "qwen2.5-14b-custom", "tag": "", "ts": 1792208042.9, "prompt_chars": 383, "prompt_tokens": 342, "gen_tokens": 133, "total_s": 4.327, "prompt_eval_s": 0.306, "gen_s": 3.993}
+{"model": "qwen2.5-14b-custom", "tag": "", "ts": 1792208048.5, "prompt_chars": 402, "prompt_tokens": 350, "gen_tokens": 177, "total_s": 5.643, "prompt_eval_s": 0.308, "gen_s": 5.305}
+{"model": "qwen2.5-14b-custom", "tag": "", "ts": 1792208052.6, "prompt_chars": 424, "prompt_tokens": 376, "gen_tokens": 127, "total_s": 4.103, "prompt_eval_s": 0.229, "gen_s": 3.808}
+{"model": "qwen2.5-14b-custom", "tag": "", "ts": 1792208060.0, "prompt_chars": 465, "prompt_tokens": 420, "gen_tokens": 231, "total_s": 7.379, "prompt_eval_s": 0.396, "gen_s": 6.951}
+{"model": "qwen2.5-14b-custom", "tag": "", "ts": 1792208064.8, "prompt_chars": 425, "prompt_tokens": 380, "gen_tokens": 145, "total_s": 4.744, "prompt_eval_s": 0.342, "gen_s": 4.362}
+{"model": "qwen2.5-14b-custom", "tag": "", "ts": 1792208066.2, "prompt_chars": 357, "prompt_tokens": 323, "gen_tokens": 36, "total_s": 1.421, "prompt_eval_s": 0.31, "gen_s": 1.074}
+{"model": "qwen2.5-14b-custom", "tag": "", "ts": 1792208071.5, "prompt_chars": 451, "prompt_tokens": 400, "gen_tokens": 168, "total_s": 5.276, "prompt_eval_s": 0.168, "gen_s": 5.068}
+{"model": "qwen2.5-14b-custom", "tag": "", "ts": 1792208075.9, "prompt_chars": 451, "prompt_tokens": 397, "gen_tokens": 133, "total_s": 4.372, "prompt_eval_s": 0.341, "gen_s": 3.999}
+{"model": "qwen2.5-14b-custom", "tag": "", "ts": 1792208088.9, "prompt_chars": 461, "prompt_tokens": 405, "gen_tokens": 418, "total_s": 13.011, "prompt_eval_s": 0.344, "gen_s": 12.632}
+{"model": "qwen2.5-14b-custom", "tag": "", "ts": 1792208095.0, "prompt_chars": 477, "prompt_tokens": 416, "gen_tokens": 192, "total_s": 6.12, "prompt_eval_s": 0.274, "gen_s": 5.792}
+{"model": "qwen2.5-14b-custom", "tag": "", "ts": 1792208107.5, "prompt_chars": 470, "prompt_tokens": 418, "gen_tokens": 403, "total_s": 12.419, "prompt_eval_s": 0.167, "gen_s": 12.195}
+{"model": "qwen2.5-14b-custom", "tag": "", "ts": 1792208114.1, "prompt_chars": 434, "prompt_tokens": 396, "gen_tokens": 206, "total_s": 6.574, "prompt_eval_s": 0.337, "gen_s": 6.198}

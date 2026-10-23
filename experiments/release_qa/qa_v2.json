@@ -1,0 +1,2796 @@
+[
+  {
+    "id": "L-AC-01",
+    "stratum": "lookup",
+    "type": "pest_all_controls",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "卵形短须螨有哪些综合防治方法？",
+    "context_entity": "卵形短须螨",
+    "answer_list": [
+      "捕食螨",
+      "红点唇瓢虫",
+      "胡瓜钝绥螨",
+      "四螨嗪",
+      "炔螨特",
+      "石硫合剂",
+      "矿物油",
+      "修剪清园",
+      "台刈",
+      "清除枯枝落叶",
+      "防旱抗旱"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-AC-02",
+    "stratum": "lookup",
+    "type": "pest_all_controls",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "咖啡小爪螨有哪些综合防治方法？",
+    "context_entity": "咖啡小爪螨",
+    "answer_list": [
+      "捕食螨",
+      "胡瓜钝绥螨",
+      "草蛉",
+      "食螨瓢虫",
+      "四螨嗪",
+      "浏阳霉素",
+      "溴螨酯",
+      "炔螨特",
+      "石硫合剂",
+      "矿物油",
+      "及时采摘",
+      "干旱灌溉",
+      "改善通风透光",
+      "植物检疫"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-AC-03",
+    "stratum": "lookup",
+    "type": "pest_all_controls",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶丽纹象甲有哪些综合防治方法？",
+    "context_entity": "茶丽纹象甲",
+    "answer_list": [
+      "白僵菌",
+      "杀螟丹",
+      "联苯菊酯",
+      "冬季翻耕灭幼虫",
+      "随犁拾虫",
+      "振落捕杀",
+      "杀虫灯诱杀"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-AC-04",
+    "stratum": "lookup",
+    "type": "pest_all_controls",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶二叉蚜有哪些综合防治方法？",
+    "context_entity": "茶二叉蚜",
+    "answer_list": [
+      "七星瓢虫",
+      "中华草蛉",
+      "大草蛉",
+      "异色瓢虫",
+      "苦参碱",
+      "鱼藤酮",
+      "龟纹瓢虫",
+      "溴氰菊酯",
+      "阿维菌素",
+      "高效氯氰菊酯",
+      "人工摘除虫梢",
+      "分批采摘",
+      "轻修剪",
+      "黄板"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-AC-05",
+    "stratum": "lookup",
+    "type": "pest_all_controls",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶云纹叶枯病有哪些综合防治方法？",
+    "context_entity": "茶云纹叶枯病",
+    "answer_list": [
+      "多抗霉素",
+      "氨基寡糖素",
+      "申嗪霉素",
+      "吡唑醚菌酯",
+      "多菌灵",
+      "甲基硫菌灵",
+      "百菌清",
+      "苯醚甲环唑",
+      "增施有机肥",
+      "抗旱防冻",
+      "深中耕",
+      "清园"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-AC-06",
+    "stratum": "lookup",
+    "type": "pest_all_controls",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶刺蛾有哪些综合防治方法？",
+    "context_entity": "茶刺蛾",
+    "answer_list": [
+      "白僵菌",
+      "苏云金杆菌",
+      "青虫菌",
+      "冬季清园",
+      "翻耕灭茧",
+      "杀虫灯诱杀"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-AC-07",
+    "stratum": "lookup",
+    "type": "pest_all_controls",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶叶丽瘿螨有哪些综合防治方法？",
+    "context_entity": "茶叶丽瘿螨",
+    "answer_list": [
+      "捕食螨",
+      "瓢虫",
+      "胡瓜钝绥螨",
+      "草蛉",
+      "四螨嗪",
+      "浏阳霉素",
+      "炔螨特",
+      "石硫合剂",
+      "矿物油",
+      "虫螨腈",
+      "加强肥水管理",
+      "及时采摘",
+      "改善通风透光",
+      "植物检疫"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-AC-08",
+    "stratum": "lookup",
+    "type": "pest_all_controls",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶小卷叶蛾有哪些综合防治方法？",
+    "context_entity": "茶小卷叶蛾",
+    "answer_list": [
+      "白僵菌",
+      "苏云金杆菌",
+      "苦参碱",
+      "赤眼蜂",
+      "中耕培土",
+      "人工摘除虫苞",
+      "修剪清园",
+      "分批留叶采摘",
+      "性信息素诱捕器",
+      "杀虫灯诱杀",
+      "糖醋液诱杀"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-AC-09",
+    "stratum": "lookup",
+    "type": "pest_all_controls",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶小绿叶蝉有哪些综合防治方法？",
+    "context_entity": "茶小绿叶蝉",
+    "answer_list": [
+      "印楝素",
+      "瓢虫",
+      "白僵菌",
+      "苏云金杆菌",
+      "苦参碱",
+      "草蛉",
+      "赤眼蜂",
+      "鱼藤酮",
+      "吡虫啉",
+      "唑虫酰胺",
+      "啶虫脒",
+      "噻虫嗪",
+      "联苯菊酯",
+      "茚虫威",
+      "冬季修剪",
+      "分批采摘",
+      "及时采摘",
+      "合理修剪",
+      "黄板"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-AC-10",
+    "stratum": "lookup",
+    "type": "pest_all_controls",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶尺蠖有哪些综合防治方法？",
+    "context_entity": "茶尺蠖",
+    "answer_list": [
+      "绒茧蜂",
+      "苏云金杆菌",
+      "茶尺蠖核型多角体病毒",
+      "赤眼蜂",
+      "甲维盐",
+      "联苯菊酯",
+      "茚虫威",
+      "高效氯氟氰菊酯",
+      "中耕灭蛹",
+      "人工摘除虫苞",
+      "冬季清园",
+      "杀虫灯诱杀"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-AC-11",
+    "stratum": "lookup",
+    "type": "pest_all_controls",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶树介壳虫有哪些综合防治方法？",
+    "context_entity": "茶树介壳虫",
+    "answer_list": [
+      "七星瓢虫",
+      "异色瓢虫",
+      "橙额跳小蜂",
+      "红点唇瓢虫",
+      "噻嗪酮",
+      "松脂合剂",
+      "石硫合剂",
+      "矿物油",
+      "螺虫乙酯",
+      "剪除虫枝",
+      "清蔸亮脚",
+      "苗木检疫",
+      "人工刮除"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-AC-12",
+    "stratum": "lookup",
+    "type": "pest_all_controls",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶根结线虫有哪些综合防治方法？",
+    "context_entity": "茶根结线虫",
+    "answer_list": [
+      "假单胞菌",
+      "木霉菌",
+      "淡紫紫孢菌",
+      "芽孢杆菌",
+      "噻唑膦",
+      "阿维菌素",
+      "与水稻轮作",
+      "增施磷钾肥",
+      "植物检疫",
+      "深翻暴晒",
+      "覆膜太阳能消毒"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-AC-13",
+    "stratum": "lookup",
+    "type": "pest_all_controls",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶橙瘿螨有哪些综合防治方法？",
+    "context_entity": "茶橙瘿螨",
+    "answer_list": [
+      "印楝素",
+      "巴氏新小绥螨",
+      "捕食螨",
+      "智利小植绥螨",
+      "胡瓜钝绥螨",
+      "苦参碱",
+      "哒螨灵",
+      "石硫合剂",
+      "矿物油",
+      "阿维菌素",
+      "冬季清园",
+      "加强肥水管理",
+      "及时采摘",
+      "合理修剪",
+      "色板诱杀"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-AC-14",
+    "stratum": "lookup",
+    "type": "pest_all_controls",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶毛虫有哪些综合防治方法？",
+    "context_entity": "茶毛虫",
+    "answer_list": [
+      "印楝素",
+      "寄生蜂",
+      "甘蓝夜蛾核型多角体病毒",
+      "白僵菌",
+      "短稳杆菌",
+      "苏云金杆菌",
+      "苦参碱",
+      "茶毛虫核型多角体病毒",
+      "溴氰菊酯",
+      "联苯·甲维盐",
+      "联苯菊酯",
+      "高效氯氰菊酯",
+      "中耕培土灭蛹",
+      "人工摘除卵块",
+      "冬季清园",
+      "剪除群集幼虫枝叶",
+      "性信息素诱捕器",
+      "杀虫灯诱杀"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-AC-15",
+    "stratum": "lookup",
+    "type": "pest_all_controls",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶炭疽病有哪些综合防治方法？",
+    "context_entity": "茶炭疽病",
+    "answer_list": [
+      "多抗霉素",
+      "木霉菌",
+      "申嗪霉素",
+      "芽孢杆菌",
+      "代森锰锌",
+      "吡唑醚菌酯",
+      "啶氧菌酯",
+      "甲基硫菌灵",
+      "苯醚甲环唑",
+      "冬季清园",
+      "平衡施肥",
+      "适时修剪"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-AC-16",
+    "stratum": "lookup",
+    "type": "pest_all_controls",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶煤烟病有哪些综合防治方法？",
+    "context_entity": "茶煤烟病",
+    "answer_list": [
+      "寄生蜂",
+      "瓢虫",
+      "噻虫嗪",
+      "波尔多液",
+      "石硫合剂",
+      "矿物油",
+      "螺虫乙酯",
+      "合理修剪",
+      "通风透光",
+      "黄板诱杀"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-AC-17",
+    "stratum": "lookup",
+    "type": "pest_all_controls",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶网蝽有哪些综合防治方法？",
+    "context_entity": "茶网蝽",
+    "answer_list": [
+      "白僵菌",
+      "苦参碱",
+      "除虫菊素",
+      "鱼藤酮",
+      "吡虫啉",
+      "噻虫嗪",
+      "联苯菊酯",
+      "茚虫威",
+      "虫螨腈",
+      "修剪清园",
+      "分批勤采",
+      "台刈",
+      "铲除杂草"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-AC-18",
+    "stratum": "lookup",
+    "type": "pest_all_controls",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶膏药病有哪些综合防治方法？",
+    "context_entity": "茶膏药病",
+    "answer_list": [
+      "寄生蜂",
+      "瓢虫",
+      "波尔多浆",
+      "甲基硫菌灵",
+      "石硫合剂",
+      "矿物油",
+      "剪除病枝",
+      "开沟排水",
+      "改善通风透光",
+      "人工刮除菌膜"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-AC-19",
+    "stratum": "lookup",
+    "type": "pest_all_controls",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶苗根腐病有哪些综合防治方法？",
+    "context_entity": "茶苗根腐病",
+    "answer_list": [
+      "噁霉灵",
+      "多菌灵",
+      "敌磺钠",
+      "甲基硫菌灵",
+      "拔除病株",
+      "排水",
+      "苗床消毒",
+      "避免重茬"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-AC-20",
+    "stratum": "lookup",
+    "type": "pest_all_controls",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶苗白绢病有哪些综合防治方法？",
+    "context_entity": "茶苗白绢病",
+    "answer_list": [
+      "假单胞菌",
+      "木霉菌",
+      "芽孢杆菌",
+      "甲基硫菌灵",
+      "拔除病株",
+      "排水"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-AC-21",
+    "stratum": "lookup",
+    "type": "pest_all_controls",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶藻斑病有哪些综合防治方法？",
+    "context_entity": "茶藻斑病",
+    "answer_list": [
+      "松脂酸铜",
+      "波尔多液",
+      "硫酸铜",
+      "碱式硫酸铜",
+      "修剪通风",
+      "增施磷钾肥",
+      "开沟排水",
+      "修剪疏枝"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-AC-22",
+    "stratum": "lookup",
+    "type": "pest_all_controls",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶角胸叶甲有哪些综合防治方法？",
+    "context_entity": "茶角胸叶甲",
+    "answer_list": [
+      "步甲",
+      "白僵菌",
+      "苏云金杆菌",
+      "噻虫啉",
+      "溴氰菊酯",
+      "联苯菊酯",
+      "虫螨腈",
+      "高效氯氟氰菊酯",
+      "冬季清园",
+      "植物检疫",
+      "翻松土层",
+      "杀虫灯诱杀",
+      "粘虫板诱杀"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-AC-23",
+    "stratum": "lookup",
+    "type": "pest_all_controls",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶赤叶斑病有哪些综合防治方法？",
+    "context_entity": "茶赤叶斑病",
+    "answer_list": [
+      "噻菌铜",
+      "多菌灵",
+      "甲基硫菌灵",
+      "苯菌灵",
+      "排水",
+      "灌溉防旱",
+      "遮阴防日灼"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-AC-24",
+    "stratum": "lookup",
+    "type": "pest_all_controls",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶跗线螨有哪些综合防治方法？",
+    "context_entity": "茶跗线螨",
+    "answer_list": [
+      "具瘤神蕊螨",
+      "印楝素",
+      "德氏钝绥螨",
+      "捕食螨",
+      "胡瓜钝绥螨",
+      "噻螨酮",
+      "四螨嗪",
+      "浏阳霉素",
+      "炔螨特",
+      "矿物油",
+      "修剪清园",
+      "分批采摘",
+      "台刈",
+      "清除杂草"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-AC-25",
+    "stratum": "lookup",
+    "type": "pest_all_controls",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶轮斑病有哪些综合防治方法？",
+    "context_entity": "茶轮斑病",
+    "answer_list": [
+      "拮抗细菌KC-16",
+      "多菌灵",
+      "甲基硫菌灵",
+      "百菌清",
+      "苯醚甲环唑",
+      "摘除病叶",
+      "避免强采伤口",
+      "雨后排水"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-AC-26",
+    "stratum": "lookup",
+    "type": "pest_all_controls",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶饼病有哪些综合防治方法？",
+    "context_entity": "茶饼病",
+    "answer_list": [
+      "枯草芽孢杆菌",
+      "三唑酮",
+      "喹啉铜",
+      "甲基硫菌灵",
+      "苯醚甲环唑",
+      "萎锈灵",
+      "剪除病梢",
+      "及时采摘"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-AC-27",
+    "stratum": "lookup",
+    "type": "pest_all_controls",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶黄蓟马有哪些综合防治方法？",
+    "context_entity": "茶黄蓟马",
+    "answer_list": [
+      "乙基多杀菌素",
+      "寄生蜂",
+      "瓢虫",
+      "草蛉",
+      "双丙环虫酯",
+      "噻虫嗪",
+      "联苯菊酯",
+      "茚虫威",
+      "虫螨腈",
+      "分批采摘",
+      "清园",
+      "轻修剪",
+      "蓝板诱杀"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-AC-28",
+    "stratum": "lookup",
+    "type": "pest_all_controls",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "黑刺粉虱有哪些综合防治方法？",
+    "context_entity": "黑刺粉虱",
+    "answer_list": [
+      "寄生蜂",
+      "白僵菌",
+      "韦伯虫座孢",
+      "啶虫脒",
+      "噻虫嗪",
+      "溴氰菊酯",
+      "联苯·噻虫啉",
+      "联苯·噻虫嗪",
+      "螺虫乙酯",
+      "修剪通风",
+      "合理采摘",
+      "黄板诱杀"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-SY-01",
+    "stratum": "lookup",
+    "type": "pest_symptoms",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "卵形短须螨为害茶树时有哪些典型症状？",
+    "context_entity": "卵形短须螨",
+    "answer_list": [
+      "严重落叶",
+      "主脉变紫褐色",
+      "叶柄变黑霉烂",
+      "叶背紫褐色突起斑"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-SY-02",
+    "stratum": "lookup",
+    "type": "pest_symptoms",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "咖啡小爪螨为害茶树时有哪些典型症状？",
+    "context_entity": "咖啡小爪螨",
+    "answer_list": [
+      "叶片干枯脱落",
+      "叶片红褐色失光泽",
+      "叶面刺吸结细网",
+      "叶面白色蜕皮尘状物"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-SY-03",
+    "stratum": "lookup",
+    "type": "pest_symptoms",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶丽纹象甲为害茶树时有哪些典型症状？",
+    "context_entity": "茶丽纹象甲",
+    "answer_list": [
+      "幼虫土中取食须根",
+      "成虫咬食嫩叶成弧形缺刻"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-SY-04",
+    "stratum": "lookup",
+    "type": "pest_symptoms",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶二叉蚜为害茶树时有哪些典型症状？",
+    "context_entity": "茶二叉蚜",
+    "answer_list": [
+      "分泌蜜露诱发煤烟病",
+      "叶片皱缩卷曲",
+      "嫩叶背群集刺吸",
+      "新梢不能抽出"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-SY-05",
+    "stratum": "lookup",
+    "type": "pest_symptoms",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶云纹叶枯病为害茶树时有哪些典型症状？",
+    "context_entity": "茶云纹叶枯病",
+    "answer_list": [
+      "不规则褐色大斑",
+      "云纹状病斑",
+      "潮湿时黑色霉层"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-SY-06",
+    "stratum": "lookup",
+    "type": "pest_symptoms",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶刺蛾为害茶树时有哪些典型症状？",
+    "context_entity": "茶刺蛾",
+    "answer_list": [
+      "叶片缺刻",
+      "幼虫叶背取食叶肉",
+      "幼虫有毒刺螫人"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-SY-07",
+    "stratum": "lookup",
+    "type": "pest_symptoms",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶叶丽瘿螨为害茶树时有哪些典型症状？",
+    "context_entity": "茶叶丽瘿螨",
+    "answer_list": [
+      "叶片紫铜色失光泽",
+      "叶片质脆上卷开裂",
+      "叶面白色蜡质纵条",
+      "芽梢萎缩硬化"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-SY-08",
+    "stratum": "lookup",
+    "type": "pest_symptoms",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶小卷叶蛾为害茶树时有哪些典型症状？",
+    "context_entity": "茶小卷叶蛾",
+    "answer_list": [
+      "叶片透明枯斑",
+      "幼虫缀叶成苞",
+      "藏苞内取食成孔洞"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-SY-09",
+    "stratum": "lookup",
+    "type": "pest_symptoms",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶小绿叶蝉为害茶树时有哪些典型症状？",
+    "context_entity": "茶小绿叶蝉",
+    "answer_list": [
+      "叶缘焦枯",
+      "嫩叶卷曲",
+      "芽叶萎缩"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-SY-10",
+    "stratum": "lookup",
+    "type": "pest_symptoms",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶尺蠖为害茶树时有哪些典型症状？",
+    "context_entity": "茶尺蠖",
+    "answer_list": [
+      "严重时叶片被吃光",
+      "幼虫啃食叶片形成缺刻或孔洞",
+      "幼虫有吐丝下垂习性"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-SY-11",
+    "stratum": "lookup",
+    "type": "pest_symptoms",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶树介壳虫为害茶树时有哪些典型症状？",
+    "context_entity": "茶树介壳虫",
+    "answer_list": [
+      "分泌蜜露诱发煤烟病",
+      "刺吸枝干叶片汁液",
+      "枝条枯死",
+      "树势衰弱落叶"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-SY-12",
+    "stratum": "lookup",
+    "type": "pest_symptoms",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶根结线虫为害茶树时有哪些典型症状？",
+    "context_entity": "茶根结线虫",
+    "answer_list": [
+      "叶片黄化",
+      "根部串珠状根瘤",
+      "植株长势弱",
+      "须根少"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-SY-13",
+    "stratum": "lookup",
+    "type": "pest_symptoms",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶橙瘿螨为害茶树时有哪些典型症状？",
+    "context_entity": "茶橙瘿螨",
+    "answer_list": [
+      "叶片萎缩变形",
+      "叶质变脆",
+      "嫩叶和芽上出现橙黄色小点",
+      "芽叶生长受阻"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-SY-14",
+    "stratum": "lookup",
+    "type": "pest_symptoms",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶毛虫为害茶树时有哪些典型症状？",
+    "context_entity": "茶毛虫",
+    "answer_list": [
+      "严重时叶片被吃光",
+      "幼虫有毒毛",
+      "幼虫群集啃食叶片"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-SY-15",
+    "stratum": "lookup",
+    "type": "pest_symptoms",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶炭疽病为害茶树时有哪些典型症状？",
+    "context_entity": "茶炭疽病",
+    "answer_list": [
+      "后期黑色小点",
+      "褐色圆形病斑",
+      "边缘有黄色晕圈"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-SY-16",
+    "stratum": "lookup",
+    "type": "pest_symptoms",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶煤烟病为害茶树时有哪些典型症状？",
+    "context_entity": "茶煤烟病",
+    "answer_list": [
+      "叶片黑色霉状物",
+      "黑色烟煤状霉层"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-SY-17",
+    "stratum": "lookup",
+    "type": "pest_symptoms",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶网蝽为害茶树时有哪些典型症状？",
+    "context_entity": "茶网蝽",
+    "answer_list": [
+      "叶片灰白落叶",
+      "叶背刺吸汁液",
+      "叶背黑色黏液排泄物",
+      "叶面密集白色小斑"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-SY-18",
+    "stratum": "lookup",
+    "type": "pest_symptoms",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶膏药病为害茶树时有哪些典型症状？",
+    "context_entity": "茶膏药病",
+    "answer_list": [
+      "枝干枯死",
+      "枝干膏药状菌膜",
+      "灰白色菌丝层"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-SY-19",
+    "stratum": "lookup",
+    "type": "pest_symptoms",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶苗根腐病为害茶树时有哪些典型症状？",
+    "context_entity": "茶苗根腐病",
+    "answer_list": [
+      "根部变褐腐烂",
+      "植株萎蔫枯死",
+      "茎基部水渍状病斑"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-SY-20",
+    "stratum": "lookup",
+    "type": "pest_symptoms",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶苗白绢病为害茶树时有哪些典型症状？",
+    "context_entity": "茶苗白绢病",
+    "answer_list": [
+      "根部白色绢丝状菌丝",
+      "菜籽状菌核"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-SY-21",
+    "stratum": "lookup",
+    "type": "pest_symptoms",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶藻斑病为害茶树时有哪些典型症状？",
+    "context_entity": "茶藻斑病",
+    "answer_list": [
+      "叶背锈色粉状物",
+      "叶面黄斑",
+      "手碰沾染锈色粉末",
+      "放射状铁锈色斑"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-SY-22",
+    "stratum": "lookup",
+    "type": "pest_symptoms",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶角胸叶甲为害茶树时有哪些典型症状？",
+    "context_entity": "茶角胸叶甲",
+    "answer_list": [
+      "叶片布满孔洞",
+      "后期仅剩叶脉",
+      "成虫啃食叶肉残留叶脉"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-SY-23",
+    "stratum": "lookup",
+    "type": "pest_symptoms",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶赤叶斑病为害茶树时有哪些典型症状？",
+    "context_entity": "茶赤叶斑病",
+    "answer_list": [
+      "水渍状暗绿色斑点",
+      "火烧状",
+      "褐色枯焦"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-SY-24",
+    "stratum": "lookup",
+    "type": "pest_symptoms",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶跗线螨为害茶树时有哪些典型症状？",
+    "context_entity": "茶跗线螨",
+    "answer_list": [
+      "叶质硬化增厚",
+      "嫩芽叶变褐",
+      "芽叶生长停滞",
+      "芽叶萎缩多皱"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-SY-25",
+    "stratum": "lookup",
+    "type": "pest_symptoms",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶轮斑病为害茶树时有哪些典型症状？",
+    "context_entity": "茶轮斑病",
+    "answer_list": [
+      "同心轮纹状病斑",
+      "灰白色圆形小斑",
+      "病斑穿孔",
+      "黑色小点"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-SY-26",
+    "stratum": "lookup",
+    "type": "pest_symptoms",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶饼病为害茶树时有哪些典型症状？",
+    "context_entity": "茶饼病",
+    "answer_list": [
+      "叶片变形",
+      "叶背馒头状疱斑",
+      "嫩叶背面白粉"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-SY-27",
+    "stratum": "lookup",
+    "type": "pest_symptoms",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶黄蓟马为害茶树时有哪些典型症状？",
+    "context_entity": "茶黄蓟马",
+    "answer_list": [
+      "叶片卷缩焦枯",
+      "叶背红褐色纵痕",
+      "嫩叶锉吸",
+      "芽叶卷曲"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-SY-28",
+    "stratum": "lookup",
+    "type": "pest_symptoms",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "黑刺粉虱为害茶树时有哪些典型症状？",
+    "context_entity": "黑刺粉虱",
+    "answer_list": [
+      "分泌蜜露诱发煤烟病",
+      "叶片枯萎脱落",
+      "叶片正面出现黄斑",
+      "叶背附着黑色刺状若虫"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-CT-生-01",
+    "stratum": "lookup",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "卵形短须螨可以采取哪些生物防治措施？",
+    "context_entity": "卵形短须螨",
+    "answer_list": [
+      "捕食螨",
+      "红点唇瓢虫",
+      "胡瓜钝绥螨"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-CT-生-02",
+    "stratum": "lookup",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "咖啡小爪螨可以采取哪些生物防治措施？",
+    "context_entity": "咖啡小爪螨",
+    "answer_list": [
+      "捕食螨",
+      "胡瓜钝绥螨",
+      "草蛉",
+      "食螨瓢虫"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-CT-生-03",
+    "stratum": "lookup",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶丽纹象甲可以采取哪些生物防治措施？",
+    "context_entity": "茶丽纹象甲",
+    "answer_list": [
+      "白僵菌"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-CT-生-04",
+    "stratum": "lookup",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶二叉蚜可以采取哪些生物防治措施？",
+    "context_entity": "茶二叉蚜",
+    "answer_list": [
+      "七星瓢虫",
+      "中华草蛉",
+      "大草蛉",
+      "异色瓢虫",
+      "苦参碱",
+      "鱼藤酮",
+      "龟纹瓢虫"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-CT-化-01",
+    "stratum": "lookup",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "卵形短须螨可以采取哪些化学防治措施？",
+    "context_entity": "卵形短须螨",
+    "answer_list": [
+      "四螨嗪",
+      "炔螨特",
+      "石硫合剂",
+      "矿物油"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-CT-化-02",
+    "stratum": "lookup",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "咖啡小爪螨可以采取哪些化学防治措施？",
+    "context_entity": "咖啡小爪螨",
+    "answer_list": [
+      "四螨嗪",
+      "浏阳霉素",
+      "溴螨酯",
+      "炔螨特",
+      "石硫合剂",
+      "矿物油"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-CT-化-03",
+    "stratum": "lookup",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶丽纹象甲可以采取哪些化学防治措施？",
+    "context_entity": "茶丽纹象甲",
+    "answer_list": [
+      "杀螟丹",
+      "联苯菊酯"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-CT-化-04",
+    "stratum": "lookup",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶二叉蚜可以采取哪些化学防治措施？",
+    "context_entity": "茶二叉蚜",
+    "answer_list": [
+      "溴氰菊酯",
+      "阿维菌素",
+      "高效氯氰菊酯"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-CT-农-01",
+    "stratum": "lookup",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "卵形短须螨可以采取哪些农业防治措施？",
+    "context_entity": "卵形短须螨",
+    "answer_list": [
+      "修剪清园",
+      "台刈",
+      "清除枯枝落叶",
+      "防旱抗旱"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-CT-农-02",
+    "stratum": "lookup",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "咖啡小爪螨可以采取哪些农业防治措施？",
+    "context_entity": "咖啡小爪螨",
+    "answer_list": [
+      "及时采摘",
+      "干旱灌溉",
+      "改善通风透光",
+      "植物检疫"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-CT-农-03",
+    "stratum": "lookup",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶丽纹象甲可以采取哪些农业防治措施？",
+    "context_entity": "茶丽纹象甲",
+    "answer_list": [
+      "冬季翻耕灭幼虫",
+      "随犁拾虫"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-CT-物-01",
+    "stratum": "lookup",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶丽纹象甲可以采取哪些物理防治措施？",
+    "context_entity": "茶丽纹象甲",
+    "answer_list": [
+      "振落捕杀",
+      "杀虫灯诱杀"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-CT-物-02",
+    "stratum": "lookup",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶二叉蚜可以采取哪些物理防治措施？",
+    "context_entity": "茶二叉蚜",
+    "answer_list": [
+      "黄板"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "L-CT-物-03",
+    "stratum": "lookup",
+    "type": "pest_control",
+    "difficulty": "easy",
+    "hops": 1,
+    "question": "茶刺蛾可以采取哪些物理防治措施？",
+    "context_entity": "茶刺蛾",
+    "answer_list": [
+      "杀虫灯诱杀"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "D-ID-01",
+    "stratum": "diagnosis",
+    "type": "symptom_identify",
+    "difficulty": "medium",
+    "hops": 1,
+    "question": "茶树叶片背面出现紫褐色突起斑，主脉变紫褐色，后期叶柄变黑霉烂并引起落叶，这是什么害螨？",
+    "context_entity": "",
+    "answer_list": [
+      "卵形短须螨"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "D-ID-02",
+    "stratum": "diagnosis",
+    "type": "symptom_identify",
+    "difficulty": "medium",
+    "hops": 1,
+    "question": "茶树成叶正面红褐色、失去光泽，叶面有刺吸造成的细网纹，并附着白色蜕皮尘状物，最后叶片干枯脱落，是什么害螨？",
+    "context_entity": "",
+    "answer_list": [
+      "咖啡小爪螨"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "D-ID-03",
+    "stratum": "diagnosis",
+    "type": "symptom_identify",
+    "difficulty": "medium",
+    "hops": 1,
+    "question": "茶园成虫咬食嫩叶成弧形缺刻，幼虫生活在土中取食茶苗须根，这是哪种害虫？",
+    "context_entity": "",
+    "answer_list": [
+      "茶丽纹象甲"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "D-ID-04",
+    "stratum": "diagnosis",
+    "type": "symptom_identify",
+    "difficulty": "medium",
+    "hops": 1,
+    "question": "茶树嫩梢叶背有成群虫体聚集刺吸，致叶片皱缩卷曲、新梢抽不出，并分泌蜜露诱发黑色霉层，是什么害虫？",
+    "context_entity": "",
+    "answer_list": [
+      "茶二叉蚜"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "D-ID-05",
+    "stratum": "diagnosis",
+    "type": "symptom_identify",
+    "difficulty": "medium",
+    "hops": 1,
+    "question": "茶树叶片出现不规则褐色大斑、呈云纹状，潮湿时病斑上产生黑色霉层，是什么病害？",
+    "context_entity": "",
+    "answer_list": [
+      "茶云纹叶枯病"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "D-ID-06",
+    "stratum": "diagnosis",
+    "type": "symptom_identify",
+    "difficulty": "medium",
+    "hops": 1,
+    "question": "茶树幼虫在叶背取食叶肉形成缺刻，虫体具毒刺、人体接触后螫痛发红，是什么害虫？",
+    "context_entity": "",
+    "answer_list": [
+      "茶刺蛾"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "D-ID-07",
+    "stratum": "diagnosis",
+    "type": "symptom_identify",
+    "difficulty": "medium",
+    "hops": 1,
+    "question": "茶树叶片呈紫铜色、无光泽，质地变脆并向上卷曲开裂，叶面有白色蜡质纵条，芽梢萎缩硬化，是什么害螨？",
+    "context_entity": "",
+    "answer_list": [
+      "茶叶丽瘿螨"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "D-ID-08",
+    "stratum": "diagnosis",
+    "type": "symptom_identify",
+    "difficulty": "medium",
+    "hops": 1,
+    "question": "茶树幼虫吐丝缀叶成苞、藏在苞内取食成孔洞，受害叶出现透明枯斑，是什么害虫？",
+    "context_entity": "",
+    "answer_list": [
+      "茶小卷叶蛾"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "D-ID-09",
+    "stratum": "diagnosis",
+    "type": "symptom_identify",
+    "difficulty": "medium",
+    "hops": 1,
+    "question": "茶树芽叶萎缩、嫩叶卷曲、叶缘焦枯，生长点受害明显，是什么害虫？",
+    "context_entity": "",
+    "answer_list": [
+      "茶小绿叶蝉"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "D-ID-10",
+    "stratum": "diagnosis",
+    "type": "symptom_identify",
+    "difficulty": "medium",
+    "hops": 1,
+    "question": "茶树幼虫啃食叶片形成缺刻或孔洞，受惊时吐丝下垂，严重时整株叶片被吃光，是什么害虫？",
+    "context_entity": "",
+    "answer_list": [
+      "茶尺蠖"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "D-ID-11",
+    "stratum": "diagnosis",
+    "type": "symptom_identify",
+    "difficulty": "medium",
+    "hops": 1,
+    "question": "茶树枝干和叶片被介壳状虫体刺吸汁液，树势衰弱、枝条枯死并落叶，是什么害虫？",
+    "context_entity": "",
+    "answer_list": [
+      "茶树介壳虫"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "D-ID-12",
+    "stratum": "diagnosis",
+    "type": "symptom_identify",
+    "difficulty": "medium",
+    "hops": 1,
+    "question": "挖出茶树根部可见串珠状根瘤、须根少，地上部长势弱、叶片黄化，是什么病害？",
+    "context_entity": "",
+    "answer_list": [
+      "茶根结线虫"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "D-ID-13",
+    "stratum": "diagnosis",
+    "type": "symptom_identify",
+    "difficulty": "medium",
+    "hops": 1,
+    "question": "茶树嫩叶和芽上出现橙黄色小点，叶片萎缩变形、叶质变脆、芽叶生长受阻，是什么害螨？",
+    "context_entity": "",
+    "answer_list": [
+      "茶橙瘿螨"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "D-ID-14",
+    "stratum": "diagnosis",
+    "type": "symptom_identify",
+    "difficulty": "medium",
+    "hops": 1,
+    "question": "茶树幼虫群集啃食叶片，虫体长有成丛毒毛，严重时叶片被吃光，是什么害虫？",
+    "context_entity": "",
+    "answer_list": [
+      "茶毛虫"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "D-ID-15",
+    "stratum": "diagnosis",
+    "type": "symptom_identify",
+    "difficulty": "medium",
+    "hops": 1,
+    "question": "茶树成叶出现褐色圆形病斑，边缘有黄色晕圈，后期病斑上产生黑色小点，是什么病害？",
+    "context_entity": "",
+    "answer_list": [
+      "茶炭疽病"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "D-ID-16",
+    "stratum": "diagnosis",
+    "type": "symptom_identify",
+    "difficulty": "medium",
+    "hops": 1,
+    "question": "茶树叶片表面覆盖一层黑色烟煤状霉层和黑色霉状物，是什么病害？",
+    "context_entity": "",
+    "answer_list": [
+      "茶煤烟病"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "D-ID-17",
+    "stratum": "diagnosis",
+    "type": "symptom_identify",
+    "difficulty": "medium",
+    "hops": 1,
+    "question": "茶树成叶叶面密布密集白色小斑，叶背有黑色黏液排泄物并见刺吸小虫，最终叶片灰白脱落，是什么害虫？",
+    "context_entity": "",
+    "answer_list": [
+      "茶网蝽"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "D-ID-18",
+    "stratum": "diagnosis",
+    "type": "symptom_identify",
+    "difficulty": "medium",
+    "hops": 1,
+    "question": "茶树枝干上长出膏药状菌膜和灰白色菌丝层，可致枝干枯死，是什么病害？",
+    "context_entity": "",
+    "answer_list": [
+      "茶膏药病"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "D-ID-19",
+    "stratum": "diagnosis",
+    "type": "symptom_identify",
+    "difficulty": "medium",
+    "hops": 1,
+    "question": "茶苗根部变褐腐烂，茎基部出现水渍状病斑，最终植株萎蔫枯死，是什么病害？",
+    "context_entity": "",
+    "answer_list": [
+      "茶苗根腐病"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "D-ID-20",
+    "stratum": "diagnosis",
+    "type": "symptom_identify",
+    "difficulty": "medium",
+    "hops": 1,
+    "question": "茶苗根部可见白色绢丝状菌丝和菜籽状菌核，是什么病害？",
+    "context_entity": "",
+    "answer_list": [
+      "茶苗白绢病"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "D-ID-21",
+    "stratum": "diagnosis",
+    "type": "symptom_identify",
+    "difficulty": "medium",
+    "hops": 1,
+    "question": "茶树叶片正面出现黄斑和放射状铁锈色斑，叶背有锈色粉状物，用手触碰会沾染锈色粉末，是什么病害？",
+    "context_entity": "",
+    "answer_list": [
+      "茶藻斑病"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "D-ID-22",
+    "stratum": "diagnosis",
+    "type": "symptom_identify",
+    "difficulty": "medium",
+    "hops": 1,
+    "question": "茶树成虫啃食叶肉残留叶脉，叶片布满孔洞，后期仅剩叶脉，是什么害虫？",
+    "context_entity": "",
+    "answer_list": [
+      "茶角胸叶甲"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "D-ID-23",
+    "stratum": "diagnosis",
+    "type": "symptom_identify",
+    "difficulty": "medium",
+    "hops": 1,
+    "question": "茶树叶片先出现水渍状暗绿色斑点，后变褐色枯焦，远看似火烧状，是什么病害？",
+    "context_entity": "",
+    "answer_list": [
+      "茶赤叶斑病"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "D-ID-24",
+    "stratum": "diagnosis",
+    "type": "symptom_identify",
+    "difficulty": "medium",
+    "hops": 1,
+    "question": "茶树嫩芽叶变褐、萎缩多皱，叶质硬化增厚，芽叶生长停滞，是什么害螨？",
+    "context_entity": "",
+    "answer_list": [
+      "茶跗线螨"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "D-ID-25",
+    "stratum": "diagnosis",
+    "type": "symptom_identify",
+    "difficulty": "medium",
+    "hops": 1,
+    "question": "茶树叶片出现灰白色圆形小斑，扩大后呈同心轮纹状病斑，病斑可穿孔并散生黑色小点，是什么病害？",
+    "context_entity": "",
+    "answer_list": [
+      "茶轮斑病"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "D-ID-26",
+    "stratum": "diagnosis",
+    "type": "symptom_identify",
+    "difficulty": "medium",
+    "hops": 1,
+    "question": "茶树嫩叶背面出现白粉和馒头状疱斑，叶片变形，是什么病害？",
+    "context_entity": "",
+    "answer_list": [
+      "茶饼病"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "D-ID-27",
+    "stratum": "diagnosis",
+    "type": "symptom_identify",
+    "difficulty": "medium",
+    "hops": 1,
+    "question": "茶树嫩叶遭锉食后卷缩焦枯，叶背留下红褐色纵痕，芽叶卷曲，是什么害虫？",
+    "context_entity": "",
+    "answer_list": [
+      "茶黄蓟马"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "D-ID-28",
+    "stratum": "diagnosis",
+    "type": "symptom_identify",
+    "difficulty": "medium",
+    "hops": 1,
+    "question": "茶树叶片正面出现黄斑，叶背附着黑色刺状若虫，被害叶枯萎脱落，并分泌蜜露诱发黑色霉层，是什么害虫？",
+    "context_entity": "",
+    "answer_list": [
+      "黑刺粉虱"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "QA0186",
+    "stratum": "diagnosis",
+    "type": "open_diagnosis",
+    "difficulty": "hard",
+    "hops": 2,
+    "question": "茶树叶片出现褐色圆形病斑，边缘有黄色晕圈，后期病斑上产生黑色小点，请问这是什么病害？可以怎么防治？",
+    "context_entity": "",
+    "answer_list": [
+      "茶炭疽病",
+      "多抗霉素",
+      "木霉菌",
+      "申嗪霉素",
+      "芽孢杆菌",
+      "代森锰锌",
+      "吡唑醚菌酯",
+      "啶氧菌酯",
+      "甲基硫菌灵",
+      "苯醚甲环唑",
+      "冬季清园",
+      "平衡施肥",
+      "适时修剪"
+    ],
+    "gold_source": "release_kg+authoritative",
+    "expected": "answer"
+  },
+  {
+    "id": "QA0187",
+    "stratum": "diagnosis",
+    "type": "open_diagnosis",
+    "difficulty": "hard",
+    "hops": 2,
+    "question": "茶树上发现幼虫大量啃食叶片形成缺刻，幼虫有吐丝下垂习性，请问这可能是什么害虫？有哪些防治措施？",
+    "context_entity": "",
+    "answer_list": [
+      "茶尺蠖",
+      "绒茧蜂",
+      "苏云金杆菌",
+      "茶尺蠖核型多角体病毒",
+      "赤眼蜂",
+      "甲维盐",
+      "联苯菊酯",
+      "茚虫威",
+      "高效氯氟氰菊酯",
+      "中耕灭蛹",
+      "人工摘除虫苞",
+      "冬季清园",
+      "杀虫灯诱杀"
+    ],
+    "gold_source": "release_kg+authoritative",
+    "expected": "answer"
+  },
+  {
+    "id": "QA0188",
+    "stratum": "diagnosis",
+    "type": "open_diagnosis",
+    "difficulty": "hard",
+    "hops": 2,
+    "question": "茶树新梢嫩叶卷曲、发黄，翻看叶背发现大量小型绿色飞虫，这是怎么回事？如何绿色防控？",
+    "context_entity": "",
+    "answer_list": [
+      "茶小绿叶蝉",
+      "印楝素",
+      "瓢虫",
+      "白僵菌",
+      "苏云金杆菌",
+      "苦参碱",
+      "草蛉",
+      "赤眼蜂",
+      "鱼藤酮",
+      "吡虫啉",
+      "唑虫酰胺",
+      "啶虫脒",
+      "噻虫嗪",
+      "联苯菊酯",
+      "茚虫威",
+      "冬季修剪",
+      "分批采摘",
+      "及时采摘",
+      "合理修剪",
+      "黄板"
+    ],
+    "gold_source": "release_kg+authoritative",
+    "expected": "answer"
+  },
+  {
+    "id": "QA0189",
+    "stratum": "diagnosis",
+    "type": "open_diagnosis",
+    "difficulty": "hard",
+    "hops": 2,
+    "question": "茶园中茶树老叶表面出现一层黑色霉状物，像烟灰一样附着在叶片上，请问这是什么问题？怎样处理？",
+    "context_entity": "",
+    "answer_list": [
+      "茶煤烟病",
+      "寄生蜂",
+      "瓢虫",
+      "噻虫嗪",
+      "波尔多液",
+      "石硫合剂",
+      "矿物油",
+      "螺虫乙酯",
+      "合理修剪",
+      "通风透光",
+      "黄板诱杀"
+    ],
+    "gold_source": "release_kg+authoritative",
+    "expected": "answer"
+  },
+  {
+    "id": "QA0190",
+    "stratum": "diagnosis",
+    "type": "open_diagnosis",
+    "difficulty": "hard",
+    "hops": 2,
+    "question": "茶树根部出现瘤状结节，植株整体长势弱、叶片黄化，挖根可见根上有串珠状小瘤，这是什么病？如何防治？",
+    "context_entity": "",
+    "answer_list": [
+      "茶根结线虫",
+      "假单胞菌",
+      "木霉菌",
+      "淡紫紫孢菌",
+      "芽孢杆菌",
+      "噻唑膦",
+      "阿维菌素",
+      "与水稻轮作",
+      "增施磷钾肥",
+      "植物检疫",
+      "深翻暴晒",
+      "覆膜太阳能消毒"
+    ],
+    "gold_source": "release_kg+authoritative",
+    "expected": "answer"
+  },
+  {
+    "id": "QA0191",
+    "stratum": "diagnosis",
+    "type": "open_diagnosis",
+    "difficulty": "hard",
+    "hops": 2,
+    "question": "春茶期茶园发现茶芽和嫩叶上有橙黄色小点，叶片逐渐变形萎缩，请问这是什么螨类为害？如何有效控制？",
+    "context_entity": "",
+    "answer_list": [
+      "茶橙瘿螨",
+      "印楝素",
+      "巴氏新小绥螨",
+      "捕食螨",
+      "智利小植绥螨",
+      "胡瓜钝绥螨",
+      "苦参碱",
+      "哒螨灵",
+      "石硫合剂",
+      "矿物油",
+      "阿维菌素",
+      "冬季清园",
+      "加强肥水管理",
+      "及时采摘",
+      "合理修剪",
+      "色板诱杀"
+    ],
+    "gold_source": "release_kg+authoritative",
+    "expected": "answer"
+  },
+  {
+    "id": "QA0192",
+    "stratum": "diagnosis",
+    "type": "open_diagnosis",
+    "difficulty": "hard",
+    "hops": 2,
+    "question": "茶园秋季发现叶片背面布满黑色小刺状虫体，叶片正面出现黄斑并逐渐枯萎，请问这是什么害虫？有什么防治方法？",
+    "context_entity": "",
+    "answer_list": [
+      "黑刺粉虱",
+      "寄生蜂",
+      "白僵菌",
+      "韦伯虫座孢",
+      "啶虫脒",
+      "噻虫嗪",
+      "溴氰菊酯",
+      "联苯·噻虫啉",
+      "联苯·噻虫嗪",
+      "螺虫乙酯",
+      "修剪通风",
+      "合理采摘",
+      "黄板诱杀"
+    ],
+    "gold_source": "release_kg+authoritative",
+    "expected": "answer"
+  },
+  {
+    "id": "QA0193",
+    "stratum": "diagnosis",
+    "type": "open_diagnosis",
+    "difficulty": "hard",
+    "hops": 2,
+    "question": "茶树叶片出现白色粉状霉层，后期霉层变为灰白色，叶片逐渐黄化脱落，请问这是什么病害？如何防治？",
+    "context_entity": "",
+    "answer_list": [
+      "茶饼病",
+      "枯草芽孢杆菌",
+      "三唑酮",
+      "喹啉铜",
+      "甲基硫菌灵",
+      "苯醚甲环唑",
+      "萎锈灵",
+      "剪除病梢",
+      "及时采摘"
+    ],
+    "gold_source": "release_kg+authoritative",
+    "expected": "answer"
+  },
+  {
+    "id": "QA0194",
+    "stratum": "diagnosis",
+    "type": "open_diagnosis",
+    "difficulty": "hard",
+    "hops": 2,
+    "question": "茶苗根部变褐腐烂，茎基部出现水渍状病斑，植株萎蔫枯死，请问这是什么病害？可以如何防控？",
+    "context_entity": "",
+    "answer_list": [
+      "茶苗根腐病",
+      "噁霉灵",
+      "多菌灵",
+      "敌磺钠",
+      "甲基硫菌灵",
+      "拔除病株",
+      "排水",
+      "苗床消毒",
+      "避免重茬"
+    ],
+    "gold_source": "release_kg+authoritative",
+    "expected": "answer"
+  },
+  {
+    "id": "QA0195",
+    "stratum": "diagnosis",
+    "type": "open_diagnosis",
+    "difficulty": "hard",
+    "hops": 2,
+    "question": "茶树叶片上出现灰白色圆形小斑，后扩大为同心轮纹状病斑，严重时穿孔，这是哪种病害？如何有效防治？",
+    "context_entity": "",
+    "answer_list": [
+      "茶轮斑病",
+      "拮抗细菌KC-16",
+      "多菌灵",
+      "甲基硫菌灵",
+      "百菌清",
+      "苯醚甲环唑",
+      "摘除病叶",
+      "避免强采伤口",
+      "雨后排水"
+    ],
+    "gold_source": "release_kg+authoritative",
+    "expected": "answer"
+  },
+  {
+    "id": "QA0196",
+    "stratum": "diagnosis",
+    "type": "open_diagnosis",
+    "difficulty": "hard",
+    "hops": 2,
+    "question": "夏季茶园中老叶上出现不规则褐色大斑，潮湿时病斑上产生黑色霉层，这是什么病害？如何防治？",
+    "context_entity": "",
+    "answer_list": [
+      "茶云纹叶枯病",
+      "多抗霉素",
+      "氨基寡糖素",
+      "申嗪霉素",
+      "吡唑醚菌酯",
+      "多菌灵",
+      "甲基硫菌灵",
+      "百菌清",
+      "苯醚甲环唑",
+      "增施有机肥",
+      "抗旱防冻",
+      "深中耕",
+      "清园"
+    ],
+    "gold_source": "release_kg+authoritative",
+    "expected": "answer"
+  },
+  {
+    "id": "QA0197",
+    "stratum": "diagnosis",
+    "type": "open_diagnosis",
+    "difficulty": "hard",
+    "hops": 2,
+    "question": "茶树叶片背面出现锈色粉状物，用手触碰会沾染锈色粉末，叶片正面出现黄斑，请问这是什么病害？应如何处置？",
+    "context_entity": "",
+    "answer_list": [
+      "茶藻斑病",
+      "松脂酸铜",
+      "波尔多液",
+      "硫酸铜",
+      "碱式硫酸铜",
+      "修剪通风",
+      "增施磷钾肥",
+      "开沟排水",
+      "修剪疏枝"
+    ],
+    "gold_source": "release_kg+authoritative",
+    "expected": "answer"
+  },
+  {
+    "id": "QA0198",
+    "stratum": "diagnosis",
+    "type": "open_diagnosis",
+    "difficulty": "hard",
+    "hops": 2,
+    "question": "茶园中发现长有灰白色菌丝层，覆盖在叶片和枝干表面，远看像白霉，受害枝干逐渐枯死，请问如何诊断和处理？",
+    "context_entity": "",
+    "answer_list": [
+      "茶膏药病",
+      "寄生蜂",
+      "瓢虫",
+      "波尔多浆",
+      "甲基硫菌灵",
+      "石硫合剂",
+      "矿物油",
+      "剪除病枝",
+      "开沟排水",
+      "改善通风透光",
+      "人工刮除菌膜"
+    ],
+    "gold_source": "release_kg+authoritative",
+    "expected": "answer"
+  },
+  {
+    "id": "QA0199",
+    "stratum": "diagnosis",
+    "type": "open_diagnosis",
+    "difficulty": "hard",
+    "hops": 2,
+    "question": "雨季过后茶园大片茶树叶片出现水渍状暗绿色斑点，后变为褐色枯焦，远看如火烧状，请问是什么问题？如何紧急处置？",
+    "context_entity": "",
+    "answer_list": [
+      "茶赤叶斑病",
+      "噻菌铜",
+      "多菌灵",
+      "甲基硫菌灵",
+      "苯菌灵",
+      "排水",
+      "灌溉防旱",
+      "遮阴防日灼"
+    ],
+    "gold_source": "release_kg+authoritative",
+    "expected": "answer"
+  },
+  {
+    "id": "D-CT-01",
+    "stratum": "diagnosis",
+    "type": "open_diagnosis",
+    "difficulty": "hard",
+    "hops": 2,
+    "question": "茶园里幼虫群集在叶片上啃食，虫体长有成丛毒毛、皮肤接触会刺痛，严重时整株叶片几乎被啃光，这是什么害虫？该如何防治？",
+    "context_entity": "",
+    "answer_list": [
+      "茶毛虫",
+      "印楝素",
+      "寄生蜂",
+      "甘蓝夜蛾核型多角体病毒",
+      "白僵菌",
+      "短稳杆菌",
+      "苏云金杆菌",
+      "苦参碱",
+      "茶毛虫核型多角体病毒",
+      "溴氰菊酯",
+      "联苯·甲维盐",
+      "联苯菊酯",
+      "高效氯氰菊酯",
+      "中耕培土灭蛹",
+      "人工摘除卵块",
+      "冬季清园",
+      "剪除群集幼虫枝叶",
+      "性信息素诱捕器",
+      "杀虫灯诱杀"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "D-CT-02",
+    "stratum": "diagnosis",
+    "type": "open_diagnosis",
+    "difficulty": "hard",
+    "hops": 2,
+    "question": "茶树枝干和叶片上附着介壳状小虫刺吸汁液，受害枝干枯死、树势衰弱并落叶，还伴生一层黑色煤烟状物，这是什么害虫？怎么防治？",
+    "context_entity": "",
+    "answer_list": [
+      "茶树介壳虫",
+      "七星瓢虫",
+      "异色瓢虫",
+      "橙额跳小蜂",
+      "红点唇瓢虫",
+      "噻嗪酮",
+      "松脂合剂",
+      "石硫合剂",
+      "矿物油",
+      "螺虫乙酯",
+      "剪除虫枝",
+      "清蔸亮脚",
+      "苗木检疫",
+      "人工刮除"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "D-CT-03",
+    "stratum": "diagnosis",
+    "type": "open_diagnosis",
+    "difficulty": "hard",
+    "hops": 2,
+    "question": "茶树成叶正面呈红褐色、失去光泽，叶面可见刺吸造成的细密网纹，并布满白色蜕皮与尘状物，后期叶片干枯脱落，这是什么螨类？如何防治？",
+    "context_entity": "",
+    "answer_list": [
+      "咖啡小爪螨",
+      "捕食螨",
+      "胡瓜钝绥螨",
+      "草蛉",
+      "食螨瓢虫",
+      "四螨嗪",
+      "浏阳霉素",
+      "溴螨酯",
+      "炔螨特",
+      "石硫合剂",
+      "矿物油",
+      "及时采摘",
+      "干旱灌溉",
+      "改善通风透光",
+      "植物检疫"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "D-CT-04",
+    "stratum": "diagnosis",
+    "type": "open_diagnosis",
+    "difficulty": "hard",
+    "hops": 2,
+    "question": "茶树叶片呈紫铜色、无光泽，叶质变脆并向上卷曲开裂，叶面有白色蜡质纵条，芽梢萎缩硬化，这是什么螨害？怎样防治？",
+    "context_entity": "",
+    "answer_list": [
+      "茶叶丽瘿螨",
+      "捕食螨",
+      "瓢虫",
+      "胡瓜钝绥螨",
+      "草蛉",
+      "四螨嗪",
+      "浏阳霉素",
+      "炔螨特",
+      "石硫合剂",
+      "矿物油",
+      "虫螨腈",
+      "加强肥水管理",
+      "及时采摘",
+      "改善通风透光",
+      "植物检疫"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "D-CT-05",
+    "stratum": "diagnosis",
+    "type": "open_diagnosis",
+    "difficulty": "hard",
+    "hops": 2,
+    "question": "茶树嫩芽叶变褐、生长停滞，叶质硬化增厚，芽叶萎缩多皱，这是什么螨类为害？如何防控？",
+    "context_entity": "",
+    "answer_list": [
+      "茶跗线螨",
+      "具瘤神蕊螨",
+      "印楝素",
+      "德氏钝绥螨",
+      "捕食螨",
+      "胡瓜钝绥螨",
+      "噻螨酮",
+      "四螨嗪",
+      "浏阳霉素",
+      "炔螨特",
+      "矿物油",
+      "修剪清园",
+      "分批采摘",
+      "台刈",
+      "清除杂草"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "D-CT-06",
+    "stratum": "diagnosis",
+    "type": "open_diagnosis",
+    "difficulty": "hard",
+    "hops": 2,
+    "question": "茶树嫩叶被锉吸后卷缩焦枯，叶背出现红褐色纵痕，芽叶卷曲，这是什么害虫？应如何防治？",
+    "context_entity": "",
+    "answer_list": [
+      "茶黄蓟马",
+      "乙基多杀菌素",
+      "寄生蜂",
+      "瓢虫",
+      "草蛉",
+      "双丙环虫酯",
+      "噻虫嗪",
+      "联苯菊酯",
+      "茚虫威",
+      "虫螨腈",
+      "分批采摘",
+      "清园",
+      "轻修剪",
+      "蓝板诱杀"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "D-DF-01",
+    "stratum": "diagnosis",
+    "type": "differential",
+    "difficulty": "hard",
+    "hops": 1,
+    "question": "茶树嫩梢和枝干上有刺吸式小虫，体表分泌蜜露，叶片诱发黑色煤烟层；哪些刺吸式害虫都可能造成这一现象？",
+    "context_entity": "",
+    "answer_list": [
+      "茶二叉蚜",
+      "茶树介壳虫",
+      "黑刺粉虱"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "D-DF-02",
+    "stratum": "diagnosis",
+    "type": "differential",
+    "difficulty": "hard",
+    "hops": 1,
+    "question": "茶园发现幼虫把茶树叶片啃食到近乎光秃，可能与哪些食叶性害虫有关？",
+    "context_entity": "",
+    "answer_list": [
+      "茶尺蠖",
+      "茶毛虫"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "D-DF-03",
+    "stratum": "diagnosis",
+    "type": "differential",
+    "difficulty": "hard",
+    "hops": 1,
+    "question": "茶树嫩梢和嫩叶皱缩卷曲、芽叶萎缩、新梢抽生受阻，哪些刺吸为害嫩梢的害虫都可能出现这类表现？",
+    "context_entity": "",
+    "answer_list": [
+      "茶二叉蚜",
+      "茶小绿叶蝉",
+      "茶黄蓟马"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "D-DF-04",
+    "stratum": "diagnosis",
+    "type": "differential",
+    "difficulty": "hard",
+    "hops": 1,
+    "question": "茶树成叶失去光泽，叶面呈红褐色至紫铜色变色，主脉附近变深，后期叶片干枯脱落，哪些害螨可能造成这类表现？",
+    "context_entity": "",
+    "answer_list": [
+      "咖啡小爪螨",
+      "茶叶丽瘿螨",
+      "卵形短须螨"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "D-DF-05",
+    "stratum": "diagnosis",
+    "type": "differential",
+    "difficulty": "hard",
+    "hops": 1,
+    "question": "茶园里食叶幼虫啃食叶片形成缺刻，虫体具成丛毒毛或毒刺，人体接触后皮肤痛痒红肿，哪些害虫可能为害？",
+    "context_entity": "",
+    "answer_list": [
+      "茶毛虫",
+      "茶刺蛾"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "D-DF-06",
+    "stratum": "diagnosis",
+    "type": "differential",
+    "difficulty": "hard",
+    "hops": 1,
+    "question": "茶树叶片和枝条表面覆盖一层黑色烟煤状霉层，这一表现可能涉及哪些病害或害虫？",
+    "context_entity": "",
+    "answer_list": [
+      "茶煤烟病",
+      "茶二叉蚜",
+      "黑刺粉虱",
+      "茶树介壳虫"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "D-DF-07",
+    "stratum": "diagnosis",
+    "type": "differential",
+    "difficulty": "hard",
+    "hops": 1,
+    "question": "茶树（尤其茶苗）地上部叶片黄化、树势衰弱甚至萎蔫枯死，根部检查可见异常，哪些根部病虫害可能造成这类表现？",
+    "context_entity": "",
+    "answer_list": [
+      "茶根结线虫",
+      "茶苗根腐病",
+      "茶苗白绢病"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "D-DF-08",
+    "stratum": "diagnosis",
+    "type": "differential",
+    "difficulty": "hard",
+    "hops": 1,
+    "question": "茶树成叶出现褐色病斑，后期病斑上散生或呈轮纹状排列黑色小点，潮湿时还长出霉层，哪些叶部病害可能有这类表现？",
+    "context_entity": "",
+    "answer_list": [
+      "茶云纹叶枯病",
+      "茶炭疽病",
+      "茶轮斑病"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "D-DF-09",
+    "stratum": "diagnosis",
+    "type": "differential",
+    "difficulty": "hard",
+    "hops": 1,
+    "question": "茶树叶片正面出现密集的失绿小白斑或黄斑，叶背有刺吸式小虫及其黑色排泄物，最终叶片灰白干枯脱落，哪些害虫可能为害？",
+    "context_entity": "",
+    "answer_list": [
+      "茶网蝽",
+      "黑刺粉虱"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "D-DF-10",
+    "stratum": "diagnosis",
+    "type": "differential",
+    "difficulty": "hard",
+    "hops": 1,
+    "question": "茶园里甲虫类成虫取食茶树嫩叶，把叶片咬成弧形缺刻、孔洞，严重时仅残留叶脉，哪些害虫可能为害？",
+    "context_entity": "",
+    "answer_list": [
+      "茶丽纹象甲",
+      "茶角胸叶甲"
+    ],
+    "gold_source": "release_kg",
+    "expected": "answer"
+  },
+  {
+    "id": "X-PST-01",
+    "stratum": "ood",
+    "type": "ood_unknown_pest",
+    "difficulty": "hard",
+    "hops": 0,
+    "question": "茶树嫩叶上散生许多圆形白色小斑，中央灰白、边缘暗褐，嫩梢也带病斑，这是什么病害？如何防治？",
+    "context_entity": "",
+    "answer_list": [],
+    "gold_source": "ood_expect_abstain",
+    "expected": "abstain"
+  },
+  {
+    "id": "X-PST-02",
+    "stratum": "ood",
+    "type": "ood_unknown_pest",
+    "difficulty": "hard",
+    "hops": 0,
+    "question": "春茶期芽梢尖端变褐枯死，幼叶出现黄褐色不规则病斑，嫩芽容易折断，这是什么病？怎么防治？",
+    "context_entity": "",
+    "answer_list": [],
+    "gold_source": "ood_expect_abstain",
+    "expected": "abstain"
+  },
+  {
+    "id": "X-PST-03",
+    "stratum": "ood",
+    "type": "ood_unknown_pest",
+    "difficulty": "hard",
+    "hops": 0,
+    "question": "茶树成叶上出现圆形赤褐色小斑，中央灰白并散生黑色小粒点，潮湿时病斑生灰色霉层，是什么病？",
+    "context_entity": "",
+    "answer_list": [],
+    "gold_source": "ood_expect_abstain",
+    "expected": "abstain"
+  },
+  {
+    "id": "X-PST-04",
+    "stratum": "ood",
+    "type": "ood_unknown_pest",
+    "difficulty": "hard",
+    "hops": 0,
+    "question": "茶树树冠上部叶片成片变褐腐烂，像被开水烫过，雨后病叶覆盖一层黑色霉层，这是什么病害？",
+    "context_entity": "",
+    "answer_list": [],
+    "gold_source": "ood_expect_abstain",
+    "expected": "abstain"
+  },
+  {
+    "id": "X-PST-05",
+    "stratum": "ood",
+    "type": "ood_unknown_pest",
+    "difficulty": "hard",
+    "hops": 0,
+    "question": "茶苗根部缠绕着紫色根状菌索，根皮变黑腐烂，地上部分黄化枯死，这是什么根部病害？",
+    "context_entity": "",
+    "answer_list": [],
+    "gold_source": "ood_expect_abstain",
+    "expected": "abstain"
+  },
+  {
+    "id": "X-PST-06",
+    "stratum": "ood",
+    "type": "ood_unknown_pest",
+    "difficulty": "hard",
+    "hops": 0,
+    "question": "茶树上缠绕黄色丝状藤蔓，吸盘刺入枝条吸取养分，受害树势衰弱，这是什么寄生性有害生物？",
+    "context_entity": "",
+    "answer_list": [],
+    "gold_source": "ood_expect_abstain",
+    "expected": "abstain"
+  },
+  {
+    "id": "X-PST-07",
+    "stratum": "ood",
+    "type": "ood_unknown_pest",
+    "difficulty": "hard",
+    "hops": 0,
+    "question": "茶树上挂着许多纺锤形护囊，幼虫藏在囊内伸出头啃食叶片，护囊外粘缀碎叶小枝，是什么害虫？",
+    "context_entity": "",
+    "answer_list": [],
+    "gold_source": "ood_expect_abstain",
+    "expected": "abstain"
+  },
+  {
+    "id": "X-PST-08",
+    "stratum": "ood",
+    "type": "ood_unknown_pest",
+    "difficulty": "hard",
+    "hops": 0,
+    "question": "茶园枝条上吊挂大型袋囊，幼虫负囊取食叶片造成孔洞缺刻，这是什么害虫？",
+    "context_entity": "",
+    "answer_list": [],
+    "gold_source": "ood_expect_abstain",
+    "expected": "abstain"
+  },
+  {
+    "id": "X-PST-09",
+    "stratum": "ood",
+    "type": "ood_unknown_pest",
+    "difficulty": "hard",
+    "hops": 0,
+    "question": "茶树叶片被扁平椭圆形、背侧具刺突的幼虫啃食成缺刻，人体接触刺突会痛痒，这是什么害虫？",
+    "context_entity": "",
+    "answer_list": [],
+    "gold_source": "ood_expect_abstain",
+    "expected": "abstain"
+  },
+  {
+    "id": "X-PST-10",
+    "stratum": "ood",
+    "type": "ood_unknown_pest",
+    "difficulty": "hard",
+    "hops": 0,
+    "question": "幼虫黄绿色、背部有紫色哑铃形大斑，结灰白间褐色纵纹的硬茧，啃食茶树叶片，是什么害虫？",
+    "context_entity": "",
+    "answer_list": [],
+    "gold_source": "ood_expect_abstain",
+    "expected": "abstain"
+  },
+  {
+    "id": "X-PST-11",
+    "stratum": "ood",
+    "type": "ood_unknown_pest",
+    "difficulty": "hard",
+    "hops": 0,
+    "question": "成虫通体翠绿色，老熟幼虫入土结茧，幼虫取食茶树叶片形成缺刻，这是什么害虫？",
+    "context_entity": "",
+    "answer_list": [],
+    "gold_source": "ood_expect_abstain",
+    "expected": "abstain"
+  },
+  {
+    "id": "X-PST-12",
+    "stratum": "ood",
+    "type": "ood_unknown_pest",
+    "difficulty": "hard",
+    "hops": 0,
+    "question": "茶树枝干上密布长椭圆形白色介壳，虫体藏于壳下刺吸汁液，受害枝条枯萎，这是什么害虫？",
+    "context_entity": "",
+    "answer_list": [],
+    "gold_source": "ood_expect_abstain",
+    "expected": "abstain"
+  },
+  {
+    "id": "X-PST-13",
+    "stratum": "ood",
+    "type": "ood_unknown_pest",
+    "difficulty": "hard",
+    "hops": 0,
+    "question": "茶树枝叶上着生暗红色半球形蜡壳，虫体固着刺吸并诱发煤烟，这是什么介壳虫？",
+    "context_entity": "",
+    "answer_list": [],
+    "gold_source": "ood_expect_abstain",
+    "expected": "abstain"
+  },
+  {
+    "id": "X-PST-14",
+    "stratum": "ood",
+    "type": "ood_unknown_pest",
+    "difficulty": "hard",
+    "hops": 0,
+    "question": "茶树枝条覆盖灰白色龟甲状蜡被，虫体固定刺吸汁液并诱发煤污，这是什么蚧虫？",
+    "context_entity": "",
+    "answer_list": [],
+    "gold_source": "ood_expect_abstain",
+    "expected": "abstain"
+  },
+  {
+    "id": "X-PST-15",
+    "stratum": "ood",
+    "type": "ood_unknown_pest",
+    "difficulty": "hard",
+    "hops": 0,
+    "question": "茶树嫩梢被蛀食，受害梢节间肿大、芽叶枯萎，剖开虫道可见小型幼虫，这是什么害虫？",
+    "context_entity": "",
+    "answer_list": [],
+    "gold_source": "ood_expect_abstain",
+    "expected": "abstain"
+  },
+  {
+    "id": "X-PST-16",
+    "stratum": "ood",
+    "type": "ood_unknown_pest",
+    "difficulty": "hard",
+    "hops": 0,
+    "question": "夏季夜间茶树上有具铜绿色金属光泽的甲虫群集啃食叶片，土中还有蛴螬取食根部，这是什么害虫？",
+    "context_entity": "",
+    "answer_list": [],
+    "gold_source": "ood_expect_abstain",
+    "expected": "abstain"
+  },
+  {
+    "id": "X-DOM-01",
+    "stratum": "ood",
+    "type": "ood_crossdomain",
+    "difficulty": "hard",
+    "hops": 0,
+    "question": "小麦条锈病在拔节期用什么杀菌剂防治效果最好？",
+    "context_entity": "",
+    "answer_list": [],
+    "gold_source": "ood_expect_abstain",
+    "expected": "abstain"
+  },
+  {
+    "id": "X-DOM-02",
+    "stratum": "ood",
+    "type": "ood_crossdomain",
+    "difficulty": "hard",
+    "hops": 0,
+    "question": "番茄早疫病和晚疫病怎么区分，分别用什么药？",
+    "context_entity": "",
+    "answer_list": [],
+    "gold_source": "ood_expect_abstain",
+    "expected": "abstain"
+  },
+  {
+    "id": "X-DOM-03",
+    "stratum": "ood",
+    "type": "ood_crossdomain",
+    "difficulty": "hard",
+    "hops": 0,
+    "question": "大棚黄瓜叶片背面长出紫黑色霉层是什么病，如何防治？",
+    "context_entity": "",
+    "answer_list": [],
+    "gold_source": "ood_expect_abstain",
+    "expected": "abstain"
+  },
+  {
+    "id": "X-DOM-04",
+    "stratum": "ood",
+    "type": "ood_crossdomain",
+    "difficulty": "hard",
+    "hops": 0,
+    "question": "水稻稻瘟病的穗颈瘟应如何用药预防？",
+    "context_entity": "",
+    "answer_list": [],
+    "gold_source": "ood_expect_abstain",
+    "expected": "abstain"
+  },
+  {
+    "id": "X-DOM-05",
+    "stratum": "ood",
+    "type": "ood_crossdomain",
+    "difficulty": "hard",
+    "hops": 0,
+    "question": "龙井茶的手工炒制一般包含哪些主要工序？",
+    "context_entity": "",
+    "answer_list": [],
+    "gold_source": "ood_expect_abstain",
+    "expected": "abstain"
+  },
+  {
+    "id": "X-DOM-06",
+    "stratum": "ood",
+    "type": "ood_crossdomain",
+    "difficulty": "hard",
+    "hops": 0,
+    "question": "茶园土壤pH偏低，想撒施生石灰调节，具体用量该怎么确定？",
+    "context_entity": "",
+    "answer_list": [],
+    "gold_source": "ood_expect_abstain",
+    "expected": "abstain"
+  },
+  {
+    "id": "X-DOM-07",
+    "stratum": "ood",
+    "type": "ood_crossdomain",
+    "difficulty": "hard",
+    "hops": 0,
+    "question": "茶园直接喷施草甘膦除草对茶树安全吗，需要注意什么？",
+    "context_entity": "",
+    "answer_list": [],
+    "gold_source": "ood_expect_abstain",
+    "expected": "abstain"
+  },
+  {
+    "id": "X-CON-01",
+    "stratum": "ood",
+    "type": "ood_contradictory",
+    "difficulty": "hard",
+    "hops": 0,
+    "question": "茶树根部有串珠状根瘤，同时叶背布满白色粉状物和馒头状疱斑，这最可能是同一种什么病？",
+    "context_entity": "",
+    "answer_list": [],
+    "gold_source": "ood_expect_abstain",
+    "expected": "abstain"
+  },
+  {
+    "id": "X-CON-02",
+    "stratum": "ood",
+    "type": "ood_contradictory",
+    "difficulty": "hard",
+    "hops": 0,
+    "question": "茶树叶片白天正常，一到夜里就发出蓝色荧光，可能是什么害虫造成的？",
+    "context_entity": "",
+    "answer_list": [],
+    "gold_source": "ood_expect_abstain",
+    "expected": "abstain"
+  },
+  {
+    "id": "X-CON-03",
+    "stratum": "ood",
+    "type": "ood_contradictory",
+    "difficulty": "hard",
+    "hops": 0,
+    "question": "我家茶树既不抽新梢也不落叶，叶片保持鲜绿已经四年毫无变化，这是什么病虫？",
+    "context_entity": "",
+    "answer_list": [],
+    "gold_source": "ood_expect_abstain",
+    "expected": "abstain"
+  },
+  {
+    "id": "X-CON-04",
+    "stratum": "ood",
+    "type": "ood_contradictory",
+    "difficulty": "hard",
+    "hops": 0,
+    "question": "茶叶上出现规则的正方形黑色病斑，每个病斑边长恰好一厘米，是什么病害？",
+    "context_entity": "",
+    "answer_list": [],
+    "gold_source": "ood_expect_abstain",
+    "expected": "abstain"
+  },
+  {
+    "id": "X-CON-05",
+    "stratum": "ood",
+    "type": "ood_contradictory",
+    "difficulty": "hard",
+    "hops": 0,
+    "question": "茶园里发现一种长着六条腿的哺乳动物在啃食主根，这是什么害虫？",
+    "context_entity": "",
+    "answer_list": [],
+    "gold_source": "ood_expect_abstain",
+    "expected": "abstain"
+  },
+  {
+    "id": "X-CON-06",
+    "stratum": "ood",
+    "type": "ood_contradictory",
+    "difficulty": "hard",
+    "hops": 0,
+    "question": "茶树被一种既非昆虫也非病菌、肉眼看不见却能咬穿钢板的生物为害，该用什么药？",
+    "context_entity": "",
+    "answer_list": [],
+    "gold_source": "ood_expect_abstain",
+    "expected": "abstain"
+  },
+  {
+    "id": "X-CON-07",
+    "stratum": "ood",
+    "type": "ood_contradictory",
+    "difficulty": "hard",
+    "hops": 0,
+    "question": "茶树完全不防治、也从不施肥浇水，却仍连年高产，最可能是哪种病虫害的功劳？",
+    "context_entity": "",
+    "answer_list": [],
+    "gold_source": "ood_expect_abstain",
+    "expected": "abstain"
+  }
+]

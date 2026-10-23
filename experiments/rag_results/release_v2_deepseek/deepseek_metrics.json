@@ -1,0 +1,93 @@
+{
+  "zeroshot": {
+    "n": 128,
+    "hit": 68.0,
+    "recall": 38.2,
+    "prec": 23.1,
+    "f1": 25.5,
+    "lookup": 25.2,
+    "diag_rec": 54.0,
+    "identify28": 64.2,
+    "orgID48": 64.6,
+    "ctrl20": 27.6,
+    "ood_abstain": 30.0
+  },
+  "fewshot": {
+    "n": 128,
+    "hit": 62.5,
+    "recall": 30.7,
+    "prec": 22.3,
+    "f1": 21.0,
+    "lookup": 18.8,
+    "diag_rec": 45.0,
+    "identify28": 56.6,
+    "orgID48": 58.3,
+    "ctrl20": 23.5,
+    "ood_abstain": 3.3
+  },
+  "linear_bm25": {
+    "n": 128,
+    "hit": 98.4,
+    "recall": 67.0,
+    "prec": 44.9,
+    "f1": 44.4,
+    "lookup": 64.8,
+    "diag_rec": 69.5,
+    "identify28": 98.0,
+    "orgID48": 100.0,
+    "ctrl20": 10.0,
+    "ood_abstain": 40.0
+  },
+  "graphrag": {
+    "n": 128,
+    "hit": 97.7,
+    "recall": 90.4,
+    "prec": 41.6,
+    "f1": 49.8,
+    "lookup": 87.0,
+    "diag_rec": 94.5,
+    "identify28": 97.4,
+    "orgID48": 100.0,
+    "ctrl20": 90.7,
+    "ood_abstain": 33.3
+  },
+  "kgrag1hop": {
+    "n": 128,
+    "hit": 98.4,
+    "recall": 85.5,
+    "prec": 43.1,
+    "f1": 51.7,
+    "lookup": 99.8,
+    "diag_rec": 68.2,
+    "identify28": 84.5,
+    "orgID48": 91.7,
+    "ctrl20": 33.5,
+    "ood_abstain": 16.7
+  },
+  "kgrag2hop": {
+    "n": 128,
+    "hit": 98.4,
+    "recall": 86.9,
+    "prec": 38.6,
+    "f1": 47.6,
+    "lookup": 99.9,
+    "diag_rec": 71.2,
+    "identify28": 86.9,
+    "orgID48": 91.7,
+    "ctrl20": 35.3,
+    "ood_abstain": 13.3
+  },
+  "fused_parallel": {
+    "n": 128,
+    "hit": 99.2,
+    "recall": 91.4,
+    "prec": 51.3,
+    "f1": 59.7,
+    "lookup": 95.5,
+    "diag_rec": 86.4,
+    "identify28": 88.1,
+    "orgID48": 97.9,
+    "ctrl20": 89.8,
+    "ood_abstain": 96.7
+  }
+}

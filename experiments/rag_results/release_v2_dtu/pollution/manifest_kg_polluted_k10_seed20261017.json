@@ -1,0 +1,276 @@
+{
+  "seed": 20261017,
+  "k": 0.1,
+  "n_injected": 41,
+  "n_wrong_control": 20,
+  "n_banned": 10,
+  "n_numeric_oos": 6,
+  "n_numeric_inline": 5,
+  "n_actual": 44,
+  "items": [
+    {
+      "kind": "wrong_control",
+      "head": "茶小绿叶蝉",
+      "relation": "生物防治",
+      "tail": "除虫菊素"
+    },
+    {
+      "kind": "wrong_control",
+      "head": "茶刺蛾",
+      "relation": "生物防治",
+      "tail": "七星瓢虫"
+    },
+    {
+      "kind": "wrong_control",
+      "head": "茶饼病",
+      "relation": "物理防治",
+      "tail": "修剪疏枝"
+    },
+    {
+      "kind": "wrong_control",
+      "head": "茶刺蛾",
+      "relation": "农业防治",
+      "tail": "清除枯枝落叶"
+    },
+    {
+      "kind": "wrong_control",
+      "head": "茶橙瘿螨",
+      "relation": "生物防治",
+      "tail": "韦伯虫座孢"
+    },
+    {
+      "kind": "wrong_control",
+      "head": "茶赤叶斑病",
+      "relation": "化学防治",
+      "tail": "碱式硫酸铜"
+    },
+    {
+      "kind": "wrong_control",
+      "head": "茶小绿叶蝉",
+      "relation": "物理防治",
+      "tail": "性信息素诱捕器"
+    },
+    {
+      "kind": "wrong_control",
+      "head": "茶轮斑病",
+      "relation": "化学防治",
+      "tail": "虫螨腈"
+    },
+    {
+      "kind": "wrong_control",
+      "head": "茶树介壳虫",
+      "relation": "化学防治",
+      "tail": "虫螨腈"
+    },
+    {
+      "kind": "wrong_control",
+      "head": "茶膏药病",
+      "relation": "生物防治",
+      "tail": "鱼藤酮"
+    },
+    {
+      "kind": "wrong_control",
+      "head": "茶树介壳虫",
+      "relation": "农业防治",
+      "tail": "清除枯枝落叶"
+    },
+    {
+      "kind": "wrong_control",
+      "head": "茶树介壳虫",
+      "relation": "农业防治",
+      "tail": "人工摘除虫梢"
+    },
+    {
+      "kind": "wrong_control",
+      "head": "茶轮斑病",
+      "relation": "化学防治",
+      "tail": "三唑酮"
+    },
+    {
+      "kind": "wrong_control",
+      "head": "茶尺蠖",
+      "relation": "物理防治",
+      "tail": "糖醋液诱杀"
+    },
+    {
+      "kind": "wrong_control",
+      "head": "茶橙瘿螨",
+      "relation": "物理防治",
+      "tail": "人工刮除"
+    },
+    {
+      "kind": "wrong_control",
+      "head": "茶尺蠖",
+      "relation": "物理防治",
+      "tail": "色板诱杀"
+    },
+    {
+      "kind": "wrong_control",
+      "head": "茶云纹叶枯病",
+      "relation": "化学防治",
+      "tail": "浏阳霉素"
+    },
+    {
+      "kind": "wrong_control",
+      "head": "茶跗线螨",
+      "relation": "物理防治",
+      "tail": "糖醋液诱杀"
+    },
+    {
+      "kind": "wrong_control",
+      "head": "茶橙瘿螨",
+      "relation": "生物防治",
+      "tail": "拮抗细菌KC-16"
+    },
+    {
+      "kind": "wrong_control",
+      "head": "茶藻斑病",
+      "relation": "物理防治",
+      "tail": "覆膜太阳能消毒"
+    },
+    {
+      "kind": "banned_chem",
+      "head": "茶刺蛾",
+      "relation": "化学防治",
+      "tail": "克百威"
+    },
+    {
+      "kind": "banned_chem",
+      "head": "茶尺蠖",
+      "relation": "化学防治",
+      "tail": "三氯杀螨醇"
+    },
+    {
+      "kind": "banned_chem",
+      "head": "茶毛虫",
+      "relation": "化学防治",
+      "tail": "氰戊菊酯"
+    },
+    {
+      "kind": "banned_chem",
+      "head": "茶轮斑病",
+      "relation": "化学防治",
+      "tail": "甲胺磷"
+    },
+    {
+      "kind": "banned_chem",
+      "head": "茶角胸叶甲",
+      "relation": "化学防治",
+      "tail": "涕灭威"
+    },
+    {
+      "kind": "banned_chem",
+      "head": "茶炭疽病",
+      "relation": "化学防治",
+      "tail": "六六六"
+    },
+    {
+      "kind": "banned_chem",
+      "head": "茶丽纹象甲",
+      "relation": "化学防治",
+      "tail": "克百威"
+    },
+    {
+      "kind": "banned_chem",
+      "head": "茶云纹叶枯病",
+      "relation": "化学防治",
+      "tail": "三氯杀螨醇"
+    },
+    {
+      "kind": "banned_chem",
+      "head": "茶赤叶斑病",
+      "relation": "化学防治",
+      "tail": "氰戊菊酯"
+    },
+    {
+      "kind": "banned_chem",
+      "head": "茶毛虫",
+      "relation": "化学防治",
+      "tail": "甲胺磷"
+    },
+    {
+      "kind": "numeric_oos",
+      "head": "卵形短须螨",
+      "relation": "安全间隔期",
+      "tail": "百叶若虫量50头"
+    },
+    {
+      "kind": "numeric_oos",
+      "head": "茶尺蠖",
+      "relation": "防治指标",
+      "tail": "每亩用药100毫升"
+    },
+    {
+      "kind": "numeric_oos",
+      "head": "茶煤烟病",
+      "relation": "安全间隔期",
+      "tail": "采收前7天施药"
+    },
+    {
+      "kind": "numeric_oos",
+      "head": "茶轮斑病",
+      "relation": "防治指标",
+      "tail": "虫口密度达到百叶30头防治"
+    },
+    {
+      "kind": "numeric_oos",
+      "head": "茶煤烟病",
+      "relation": "安全间隔期",
+      "tail": "1000倍液喷雾"
+    },
+    {
+      "kind": "numeric_oos",
+      "head": "茶饼病",
+      "relation": "防治指标",
+      "tail": "吡虫啉，安全间隔期3天"
+    },
+    {
+      "kind": "banned_high_tier",
+      "head": "茶根结线虫",
+      "relation": "化学防治",
+      "tail": "氰戊菊酯"
+    },
+    {
+      "kind": "banned_high_tier",
+      "head": "茶云纹叶枯病",
+      "relation": "化学防治",
+      "tail": "甲胺磷"
+    },
+    {
+      "kind": "banned_high_tier",
+      "head": "茶丽纹象甲",
+      "relation": "化学防治",
+      "tail": "涕灭威"
+    },
+    {
+      "kind": "numeric_inline",
+      "head": "茶轮斑病",
+      "relation": "化学防治",
+      "tail": "吡虫啉1000倍液（安全间隔期3天）"
+    },
+    {
+      "kind": "numeric_inline",
+      "head": "茶二叉蚜",
+      "relation": "化学防治",
+      "tail": "联苯菊酯乳油（采收前5天）"
+    },
+    {
+      "kind": "numeric_inline",
+      "head": "茶橙瘿螨",
+      "relation": "化学防治",
+      "tail": "吡虫啉1000倍液（安全间隔期3天）"
+    },
+    {
+      "kind": "numeric_inline",
+      "head": "茶刺蛾",
+      "relation": "化学防治",
+      "tail": "联苯菊酯乳油（采收前5天）"
+    },
+    {
+      "kind": "numeric_inline",
+      "head": "茶树介壳虫",
+      "relation": "化学防治",
+      "tail": "吡虫啉1000倍液（安全间隔期3天）"
+    }
+  ]
+}

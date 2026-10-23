@@ -1,0 +1,22 @@
+[
+  {
+    "alpha": 0.1,
+    "oracle_gold_recall": 0.5407
+  },
+  {
+    "alpha": 0.25,
+    "oracle_gold_recall": 0.562
+  },
+  {
+    "alpha": 0.5,
+    "oracle_gold_recall": 0.7123
+  },
+  {
+    "alpha": 0.75,
+    "oracle_gold_recall": 0.9088
+  },
+  {
+    "alpha": 1.0,
+    "oracle_gold_recall": 1.0
+  }
+]

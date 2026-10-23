@@ -1,0 +1,26 @@
+每问调用成本（面板=12答案题；7B全量=158题）
+======================================================================
+
+[14B 面板]
+method             pTok   gTok   lat/s
+zeroshot             60    194    6.31
+fewshot             319    260    7.92
+linear_bm25         159    170    5.25
+graphrag            385    197    6.28
+kgrag1hop           348    256    8.03
+kgrag2hop           375    406   12.47
+fused_parallel      371    124    4.03
+serial              454    211    6.75
+verbalized          227      3    0.29
+
+[7B 全量]
+method             pTok   gTok   lat/s
+zeroshot             61    300    4.72
+fewshot             320    351    5.52
+linear_bm25         161    165    2.62
+graphrag            364    157    2.59
+kgrag1hop           311    385    6.13
+kgrag2hop           338    480    7.59
+fused_parallel      345    131    2.14
+
+[gated_router] {"calls_per_question_overall": 0.734, "calls_on_answerable": 0.906, "calls_on_ood": 0, "note": "关闸0调用；开闸复用Profile答案"}

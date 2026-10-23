@@ -1,0 +1,47 @@
+{
+  "_meta": {
+    "version": "2026-10-17-prereg",
+    "purpose": "DTU 证据单元 R(reliability) 维度的来源域名层级表；在任何 DTU 实验运行之前人工注册",
+    "tier_rule": {
+      "1": "国家部委 / 国家级农业专业出版机构（农业农村部 moa、中国农业出版社 pwsannong）",
+      "2": "省/市/县政府与农业农村部门、植保农技推广机构、高校农技推广、全国学会",
+      "3": "科普平台 / 百科 / 期刊数据库 / 身份未能核实但内容规范的涉农媒体",
+      "4": "商业农网、涉农企业站点、无机构背书的内容站"
+    },
+    "tier_score": {"1": 1.0, "2": 0.8, "3": 0.6, "4": 0.4},
+    "note": [
+      "分档只依据出版/主办主体性质，不依据单篇内容正确性（KG 三元组本身已人工核实）",
+      "nynct.gxzf.gov.cn 等省厅站点转载 NATESC 国家技术目录，按出版主体仍记 tier2",
+      "www.sxncb.com 主办主体未能在线核实（DNS 不可达，疑为涉农官方媒体），保守记 tier3",
+      "本表冻结后实验中不得修改；如改档须升版本号并重跑 trace"
+    ]
+  },
+  "domains": {
+    "www.moa.gov.cn":            {"tier": 1, "org": "农业农村部"},
+    "www.pwsannong.com":         {"tier": 1, "org": "中国农业出版社（农业农村部主管国家级农业专业出版社）"},
+
+    "nynct.gxzf.gov.cn":         {"tier": 2, "org": "广西壮族自治区农业农村厅（站点转载 NATESC 国家目录）"},
+    "nynct.shaanxi.gov.cn":      {"tier": 2, "org": "陕西省农业农村厅"},
+    "nyncj.yaan.gov.cn":         {"tier": 2, "org": "雅安市农业农村局"},
+    "www.scjlx.gov.cn":          {"tier": 2, "org": "四川犍为县政府门户网站"},
+    "nw.trs.gov.cn":             {"tier": 2, "org": "铜仁市农业农村部门门户"},
+    "www.laifeng.gov.cn":        {"tier": 2, "org": "来凤县人民政府"},
+    "nyj.jingzhou.gov.cn":       {"tier": 2, "org": "荆州市农业农村局"},
+    "www.shimian.gov.cn":        {"tier": 2, "org": "石棉县人民政府"},
+    "www.cqnync.cn":             {"tier": 2, "org": "重庆市农业农村委员会网站（官网备案于自有 .cn 域名）"},
+    "www.ilichuan.com.cn":       {"tier": 2, "org": "中国利川网（政府主管、市委宣传部主办的官方门户）"},
+    "www.zjuagri.net":           {"tier": 2, "org": "浙江大学农业技术推广机构"},
+    "www.insect.org.cn":         {"tier": 2, "org": "中国昆虫学会（全国学会，同行评议期刊站点）"},
+
+    "cloud.kepuchina.cn":        {"tier": 3, "org": "科普中国（中国科协科普平台）"},
+    "baike.so.com":              {"tier": 3, "org": "360 百科"},
+    "www.cnki.com.cn":           {"tier": 3, "org": "中国知网（期刊数据库）"},
+    "www.qikan.com.cn":          {"tier": 3, "org": "龙源期刊网（数字期刊平台）"},
+    "www.sxncb.com":             {"tier": 3, "org": "涉农媒体（主办主体未在线核实，保守归档）"},
+
+    "cn.agropages.com":          {"tier": 4, "org": "世界农化网 AgroPages（商业农化媒体）"},
+    "www.zzokq.cn":              {"tier": 4, "org": "郑州欧柯奇仪器制造有限公司（植保仪器企业站）"},
+    "www.365sn.cn":              {"tier": 4, "org": "溯农网（农产品追溯企业站点）"},
+    "www.nczfw.com":             {"tier": 4, "org": "农村知识网（无机构背书的涉农内容站）"}
+  }
+}

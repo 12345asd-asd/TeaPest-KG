@@ -1,0 +1,20 @@
+DTU 双部署档评测
+========================================================================================
+
+### qwen2.5-14b
+tier                      Hit  Recall    Prec | OOD正则误答 OOD语义误答(人工)
+fused(无门控)               96.1    87.5       - |     16/30        -
+strict                   90.6    84.1    52.3 |      0/30        0
+advisory(+图投票)           93.0    86.4    54.0 |      4/30        2
+strict   recall vs fused: {'mean_diff': -0.0345, 'ci95': [-0.0688, -0.0052], 'noninferior_-3pp': False}
+advisory recall vs fused: {'mean_diff': -0.0115, 'ci95': [-0.0309, 0.0061], 'noninferior_-3pp': False}
+advisory hit    vs fused: {'mean_diff': -0.0312, 'ci95': [-0.0625, -0.0078], 'noninferior_-3pp': False}
+
+### qwen2.5-7b
+tier                      Hit  Recall    Prec | OOD正则误答 OOD语义误答(人工)
+fused(无门控)               97.7    89.8       - |     12/30        -
+strict                   93.0    88.0    53.2 |      0/30        0
+advisory(+图投票)           95.3    90.4    54.9 |      2/30        2
+strict   recall vs fused: {'mean_diff': -0.0175, 'ci95': [-0.0567, 0.0188], 'noninferior_-3pp': False}
+advisory recall vs fused: {'mean_diff': 0.0059, 'ci95': [-0.0207, 0.0339], 'noninferior_-3pp': True}
+advisory hit    vs fused: {'mean_diff': -0.0234, 'ci95': [-0.0625, 0.0156], 'noninferior_-3pp': False}

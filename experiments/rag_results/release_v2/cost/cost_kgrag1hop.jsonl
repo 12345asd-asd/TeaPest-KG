@@ -1,0 +1,12 @@
+{"model": "qwen2.5-14b-custom", "tag": "", "ts": 1792208127.8, "prompt_chars": 15, "prompt_tokens": 511, "gen_tokens": 435, "total_s": 13.755, "prompt_eval_s": 0.443, "gen_s": 13.275}
+{"model": "qwen2.5-14b-custom", "tag": "", "ts": 1792208136.6, "prompt_chars": 14, "prompt_tokens": 491, "gen_tokens": 273, "total_s": 8.751, "prompt_eval_s": 0.439, "gen_s": 8.269}
+{"model": "qwen2.5-14b-custom", "tag": "", "ts": 1792208142.4, "prompt_chars": 18, "prompt_tokens": 515, "gen_tokens": 189, "total_s": 5.857, "prompt_eval_s": 0.049, "gen_s": 5.73}
+{"model": "qwen2.5-14b-custom", "tag": "", "ts": 1792208147.0, "prompt_chars": 16, "prompt_tokens": 618, "gen_tokens": 130, "total_s": 4.495, "prompt_eval_s": 0.539, "gen_s": 3.917}
+{"model": "qwen2.5-14b-custom", "tag": "", "ts": 1792208153.5, "prompt_chars": 17, "prompt_tokens": 534, "gen_tokens": 199, "total_s": 6.497, "prompt_eval_s": 0.451, "gen_s": 6.0}
+{"model": "qwen2.5-14b-custom", "tag": "", "ts": 1792208155.9, "prompt_chars": 16, "prompt_tokens": 339, "gen_tokens": 69, "total_s": 2.402, "prompt_eval_s": 0.306, "gen_s": 2.057}
+{"model": "qwen2.5-14b-custom", "tag": "", "ts": 1792208164.1, "prompt_chars": 43, "prompt_tokens": 196, "gen_tokens": 266, "total_s": 8.218, "prompt_eval_s": 0.169, "gen_s": 8.02}
+{"model": "qwen2.5-14b-custom", "tag": "", "ts": 1792208171.1, "prompt_chars": 36, "prompt_tokens": 190, "gen_tokens": 226, "total_s": 6.997, "prompt_eval_s": 0.164, "gen_s": 6.798}
+{"model": "qwen2.5-14b-custom", "tag": "", "ts": 1792208179.7, "prompt_chars": 33, "prompt_tokens": 215, "gen_tokens": 280, "total_s": 8.636, "prompt_eval_s": 0.188, "gen_s": 8.408}
+{"model": "qwen2.5-14b-custom", "tag": "", "ts": 1792208190.3, "prompt_chars": 51, "prompt_tokens": 170, "gen_tokens": 345, "total_s": 10.599, "prompt_eval_s": 0.16, "gen_s": 10.403}
+{"model": "qwen2.5-14b-custom", "tag": "", "ts": 1792208200.9, "prompt_chars": 41, "prompt_tokens": 248, "gen_tokens": 340, "total_s": 10.518, "prompt_eval_s": 0.206, "gen_s": 10.269}
+{"model": "qwen2.5-14b-custom", "tag": "", "ts": 1792208210.5, "prompt_chars": 46, "prompt_tokens": 151, "gen_tokens": 317, "total_s": 9.664, "prompt_eval_s": 0.124, "gen_s": 9.501}
