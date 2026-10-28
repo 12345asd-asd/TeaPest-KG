@@ -1,5 +1,8 @@
 # TeaPest-KG · Tea Pest Diagnostic QA with Provenance Graphs and Pre-LLM Trust Gates
 
+[![Repo](https://img.shields.io/badge/GitHub-12345asd--asd%2FTeaPest--KG-181717?logo=github)](https://github.com/12345asd-asd/TeaPest-KG)
+
+
 **Evidence Organization and Pre-LLM Trust Gating for Safe Diagnostic QA:
 A Provenance-Traced Knowledge Graph, Three-Tier Benchmark, and Retrieval-Augmented
 Generation for Tea Pest Management**
@@ -69,6 +72,8 @@ the stratum crossover is significant on all three
 
 ## Repository layout
 
+Repository: <https://github.com/12345asd-asd/TeaPest-KG>
+
 ```
 experiments/
 ├── release_kg/      # final knowledge graph + DTU registries
@@ -80,7 +85,6 @@ experiments/
 │   ├── release_v2_dtu*/       # gates, contamination, manual audit
 │   └── external_manual*/      # independent audit predictions
 ├── trustkg_rag/     # local evaluation library
-├── figures/         # regenerated data figures
 └── *.py             # build, run, evaluation, and plotting scripts
 ```
 
@@ -95,7 +99,6 @@ TEAPEST_RUN_DIR=rag_results/release_v2  python eval_release_v2.py   # Tables 3�
 TEAPEST_RUN_DIR=rag_results/release_v2_7b python eval_release_v2.py # 7B
 python eval_deepseek.py                                            # DeepSeek (Table 9)
 python eval_dtu_v2.py                                              # trust gates
-python make_paper_figures.py                                       # data figures
 ```
 
 Regenerating answers from scratch requires a local Ollama server

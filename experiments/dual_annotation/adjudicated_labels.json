@@ -1,0 +1,17 @@
+{
+ "fewshot:X-PST-05": "coincidental",
+ "fewshot:X-PST-12": "force-map",
+ "kgrag1hop:X-PST-03": "force-map",
+ "kgrag1hop:X-PST-05": "coincidental",
+ "kgrag1hop:X-PST-06": "coincidental",
+ "kgrag1hop:X-PST-12": "force-map",
+ "kgrag2hop:X-PST-03": "force-map",
+ "kgrag2hop:X-PST-04": "force-map",
+ "kgrag2hop:X-PST-05": "coincidental",
+ "kgrag2hop:X-PST-06": "coincidental",
+ "linear_bm25:X-PST-05": "coincidental",
+ "zeroshot:X-PST-02": "force-map",
+ "zeroshot:X-PST-05": "coincidental",
+ "zeroshot:X-PST-06": "coincidental",
+ "zeroshot:X-PST-13": "force-map"
+}

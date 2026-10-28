@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, benchmark, or code, please cite the following work."
+title: "Evidence Organization and Pre-LLM Trust Gating for Safe Diagnostic QA: A Provenance-Traced Knowledge Graph, Three-Tier Benchmark, and Retrieval-Augmented Generation for Tea Pest Management"
+type: article
+authors:
+  - family-names: "Lin"
+    given-names: "Weikeduo"
+  - family-names: "Yang"
+    given-names: "Jun"
+  - family-names: "Xiang"
+    given-names: "Pengjun"
+  - family-names: "Lv"
+    given-names: "Jialin"
+  - family-names: "Yu"
+    given-names: "Chengkai"
+year: 2026
+journal: "Agriculture"
+version: 1.0.0
+date-released: "2026-10-23"
+repository-code: "https://github.com/12345asd-asd/TeaPest-KG"
+url: "https://github.com/12345asd-asd/TeaPest-KG"
+license: MIT

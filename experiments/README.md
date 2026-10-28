@@ -1,4 +1,4 @@
-# Reproduction package — Evidence Organization and Pre-LLM Trust Gating for Tea Pest Diagnostic QA
+# Reproduction package — A Provenance-Grounded, Pre-LLM Trust-Gating Framework for Safe RAG Diagnostics in High-Risk Agriculture (Tea Pest Case)
 
 This folder contains the data, raw predictions, and scripts needed to reproduce every
 experimental number in the paper. All paths in the scripts are relative to **this folder**
@@ -26,7 +26,7 @@ experiments/
 │   ├── external_manual/        independent-manual audit predictions (14B)
 │   └── external_manual_7b/     independent-manual audit predictions (7B)
 ├── trustkg_rag/experiments/    Local library modules (metrics, local LLM client)
-├── figures/                    Regenerated data figures (fig2/fig3/fig4)
+├── dual_annotation/            Independent dual coding + adjudication (kappa)
 └── *.py                        Experiment, evaluation, and plotting scripts
 ```
 
@@ -64,8 +64,6 @@ python cross_backbone_v2.py
 python stat_holm_release.py
 # Cost table
 python cost_benchmark_v2.py
-# Data figures (crossover, gating, mechanism curves) -> figures/
-python make_paper_figures.py
 ```
 
 (Windows `cmd`: use `set TEAPEST_RUN_DIR=rag_results\release_v2` instead of the
@@ -85,7 +83,22 @@ python run_deepseek_api.py               # DeepSeek API replication
 Evaluation scripts cache per-question predictions and skip completed questions,
 so interrupted runs can be resumed.
 
-## 5. Notes
+## 5. Dual annotation (OOD force-map coding)
+
+`dual_annotation/` contains the independent coding of the 99 non-abstaining
+answers to the 16 real-but-uncovered (OOD) pests:
+
+- `first_coder_labels.json` — coder 1 (W.L.) compressed labels
+- `second_annotator_sheet.csv` — coder 2 (P.X.) independent labels (blind to coder 1)
+- `compute_agreement.py` — raw agreement and Cohen's kappa vs.\ coder 1
+- `adjudicated_labels.json`, `final_resolved_labels.json`, `agreement_results.json`
+  — the 15 disagreements adjudicated by C.Y. and the resolved coding
+
+Result: 68/83 overlapping labels agree (raw 81.9\%, Cohen's $\kappa=0.572$);
+the adjudicated coding is 72 force-map / 15 coincidental / 12 generic, and
+Profile-RAG force-maps 15/16 unseen pests under either coder.
+
+## 6. Notes
 
 - In-distribution scores measure faithful reproduction of the curated graph
   (gold derives from the same 413 triples); generalisation claims rest on the
